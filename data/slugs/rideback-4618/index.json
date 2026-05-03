@@ -1,0 +1,88 @@
+{
+  "ids": {
+    "anilist": 4618,
+    "mal": 4618,
+    "anidb": 6235,
+    "tmdb": 30987,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "RideBack",
+    "english": "RideBack",
+    "native": "ライドバック",
+    "synonyms": [],
+    "tmdb_title": "Ride Back"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2009,
+  "episodes": 12,
+  "duration": 24,
+  "start_date": {
+    "year": 2009,
+    "month": 1,
+    "day": 12
+  },
+  "end_date": {
+    "year": 2009,
+    "month": 3,
+    "day": 30
+  },
+  "description": "After ex-dancer Rin trades her stage career for college life, she forms an unusual connection with a robotic RideBack motorcycle—Fuego. As a tyrannical new government oppresses the population and crushes civil liberties, Rin may have no choice but to gun Fuego’s engines and speed directly into the heart of the fight for freedom.<br><br>\n(Source: Crunchyroll)",
+  "genres": [
+    "Action",
+    "Drama",
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Cyberpunk",
+    "Seinen",
+    "Female Protagonist",
+    "Dystopian",
+    "Terrorism",
+    "Robots",
+    "School Club",
+    "Fugitive",
+    "Dancing"
+  ],
+  "studios": [
+    "MADHOUSE"
+  ],
+  "producers": [
+    "Funimation"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 69,
+  "popularity": 9207,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4618-vkqtWWfcW3ey.png",
+    "poster_color": "#e45d35",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n4618-jqtoAF56ueye.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/tu2PchurKAQQH4fye6oo8EaSqqP.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/yNMpoLtCdD9lyQ88FhwqdieUrkx.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4618-vkqtWWfcW3ey.png"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/rideback"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 136,
+  "match_signals": [
+    "english_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T08:58:19.982Z",
+  "cache_version": 1
+}
