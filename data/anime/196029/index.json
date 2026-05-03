@@ -1,0 +1,101 @@
+{
+  "ids": {
+    "anilist": 196029,
+    "mal": 62050,
+    "anidb": 19472,
+    "tmdb": 296870,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Kami no Niwatsuki Kusunoki-tei ",
+    "english": "Kusunoki's Garden of Gods",
+    "native": "神の庭付き楠木邸",
+    "synonyms": [
+      "บ้านพักคุสึโนกิกับสวนเทพเจ้า",
+      "Божественный сад у поместья Кусуноки"
+    ],
+    "tmdb_title": "Kusunoki's Garden of Gods"
+  },
+  "format": "TV",
+  "status": "RELEASING",
+  "season": "SPRING",
+  "season_year": 2026,
+  "episodes": 12,
+  "duration": 24,
+  "start_date": {
+    "year": 2026,
+    "month": 4,
+    "day": 5
+  },
+  "end_date": {
+    "year": 2026,
+    "month": 6,
+    "day": 21
+  },
+  "next_airing": {
+    "episode": 6,
+    "at": "2026-05-09T16:30:00.000Z"
+  },
+  "description": "Minato Kusunoki is assigned to manage his family’s haunted, abandoned countryside estate. However, thanks to his overwhelming spiritual power, Minato accidentally purifies the entire place, turning the once-cursed property into a peaceful haven for wandering gods and deities! As Minato settles in, he finds himself surrounded by quirky divine neighbors and the lively chaos of life among the gods.\n<br><br>\n (Source: Crunchyroll)",
+  "genres": [
+    "Comedy",
+    "Fantasy",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Iyashikei",
+    "Youkai",
+    "Gods",
+    "Rural"
+  ],
+  "studios": [
+    "JUVENAGE"
+  ],
+  "producers": [
+    "KADOKAWA",
+    "TV Asahi",
+    "Nippon Columbia",
+    "Contents Seed",
+    "BS Asahi"
+  ],
+  "source": "LIGHT_NOVEL",
+  "country": "JP",
+  "score_anilist": 69,
+  "popularity": 10088,
+  "trending": 56,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196029-4ML0UHngkZhn.jpg",
+    "poster_color": "#e45043",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196029-7awWJNlMM0BQ.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/cvuNkbVcGwvZyRmeIqmePO9nxwV.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/cXPaWWolacjHHKYvLlpOQ0j8o0X.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196029-4ML0UHngkZhn.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/series/GT00374360/kusunokis-garden-of-gods"
+    },
+    {
+      "site": "Bilibili TV",
+      "url": "https://www.bilibili.tv/en/media/2344089"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JjlyxvkFA0-OyN6zwDTNjoA"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T08:45:44.800Z",
+  "cache_version": 1
+}
