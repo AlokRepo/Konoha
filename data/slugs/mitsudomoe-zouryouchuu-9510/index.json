@@ -1,0 +1,81 @@
+{
+  "ids": {
+    "anilist": 9510,
+    "mal": 9510,
+    "anidb": 7948,
+    "tmdb": 35532,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Mitsudomoe Zouryouchuu!",
+    "english": null,
+    "native": "みつどもえ増量中！",
+    "synonyms": [
+      "Mitsudomoe Dai Ni Ki",
+      "Mitsudomoe 2-ki"
+    ],
+    "tmdb_title": "Mitsudomoe"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2011,
+  "episodes": 8,
+  "duration": 24,
+  "start_date": {
+    "year": 2011,
+    "month": 1,
+    "day": 9
+  },
+  "end_date": {
+    "year": 2011,
+    "month": 2,
+    "day": 27
+  },
+  "description": "Second season of Mitsudomoe.",
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Primarily Child Cast"
+  ],
+  "studios": [
+    "Bridge"
+  ],
+  "producers": [
+    "Lantis",
+    "Cospa",
+    "Studio Mausu"
+  ],
+  "country": "JP",
+  "score_anilist": 74,
+  "popularity": 9875,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9510-RRAZDoMjI5wV.jpg",
+    "poster_color": "#f1c9f1",
+    "banner": "https://image.tmdb.org/t/p/original/noRXGxDLk70uhzBBxIgtCudxbx4.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/1FgmEVB9DKQ865tlBRyKAko3YyX.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/noRXGxDLk70uhzBBxIgtCudxbx4.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9510-RRAZDoMjI5wV.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/mitsudomoe"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 90,
+  "match_signals": [
+    "english_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T08:49:11.260Z",
+  "cache_version": 1
+}

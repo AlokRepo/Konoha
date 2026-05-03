@@ -1,0 +1,99 @@
+{
+  "ids": {
+    "anilist": 80,
+    "mal": 80,
+    "anidb": 715,
+    "tmdb": 21731,
+    "tmdb_type": "tv"
+  },
+  "titles": {
+    "romaji": "Kidou Senshi Gundam",
+    "english": "Mobile Suit Gundam",
+    "native": "機動戦士ガンダム",
+    "synonyms": [
+      "MSG",
+      "Mobile Suit Gundam: 0079"
+    ],
+    "tmdb_title": "Mobile Suit Gundam"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 1979,
+  "episodes": 43,
+  "duration": 25,
+  "start_date": {
+    "year": 1979,
+    "month": 4,
+    "day": 7
+  },
+  "end_date": {
+    "year": 1980,
+    "month": 1,
+    "day": 26
+  },
+  "description": "What would you do if you suddenly found yourself in the middle of a war? Teenager Amuro Ray sees his life shattered when war comes to his home. During the chaos, Amuro finds himself inside the mobile suit Gundam, the Earth Federation's new secret weapon, and he somehow gets it to work. Amuro and the other refugees flee their homeland on the warship White Base. This group of children and inexperienced soldiers will change the outcome of the war. <br><br>\n(Source: Sunrise)",
+  "genres": [
+    "Drama",
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "War",
+    "Military",
+    "Real Robot",
+    "Space",
+    "Space Opera",
+    "Politics",
+    "Travel",
+    "Coming of Age",
+    "Foreign",
+    "Ensemble Cast",
+    "Primarily Teen Cast",
+    "Male Protagonist",
+    "Aviation",
+    "Tanks",
+    "Anti-Hero"
+  ],
+  "studios": [
+    "Sunrise"
+  ],
+  "producers": [
+    "Bandai Entertainment"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 76,
+  "popularity": 45103,
+  "trending": 2,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx80-pdYJ12vSTmad.jpg",
+    "poster_color": "#e48650",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/80-LcQhJ600WeDn.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/BMqben5yxK5bBdHALi9jfyp517.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/484TQnWzNSm2iGj6XMY66VBDr6g.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx80-pdYJ12vSTmad.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/watch/80124040"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/mobile-suit-gundam"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T05:25:27.645Z",
+  "cache_version": 1
+}
