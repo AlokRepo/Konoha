@@ -1,0 +1,97 @@
+{
+  "ids": {
+    "anilist": 1601,
+    "mal": 1601,
+    "anidb": 4522,
+    "tmdb": 38790,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Red Garden",
+    "english": "Red Garden",
+    "native": "レッド ガーデン",
+    "synonyms": [
+      "RG"
+    ],
+    "tmdb_title": "Red Garden"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2006,
+  "episodes": 22,
+  "duration": 23,
+  "start_date": {
+    "year": 2006,
+    "month": 10,
+    "day": 4
+  },
+  "end_date": {
+    "year": 2007,
+    "month": 3,
+    "day": 14
+  },
+  "description": "Strange suicides have been taking place in New York. One day, four girls from the same high school wake up in the morning feeling tired and dizzy and not being able to remember anything about the previous night. In school, they find out that one of their classmates has committed suicide. School is canceled for the rest of the day, but instead of going home, the girls are drawn to a park by butterflies only they can see. Suddenly a man and a woman approach the girls, telling them that they all died the previous night.\n<br><br>\n(Source: Anime News Network)",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Psychological",
+    "Supernatural"
+  ],
+  "tags": [
+    "Philosophy",
+    "Cosmic Horror",
+    "Urban",
+    "Amnesia",
+    "Foreign",
+    "Female Protagonist",
+    "Detective",
+    "Ensemble Cast",
+    "Primarily Teen Cast",
+    "Suicide",
+    "Primarily Female Cast"
+  ],
+  "studios": [
+    "GONZO"
+  ],
+  "producers": [
+    "GDH",
+    "Funimation"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 66,
+  "popularity": 9615,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx1601-cvfDZsR6D98V.png",
+    "poster_color": "#e45093",
+    "banner": "https://image.tmdb.org/t/p/original/yosi9kyoF0uxrApTWnRaICPTVku.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/8hVUMzed0rnH347oY9kPJ6zeOAe.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/yosi9kyoF0uxrApTWnRaICPTVku.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx1601-cvfDZsR6D98V.png"
+  },
+  "streaming": [
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/red-garden"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/red-garden"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T08:52:41.790Z",
+  "cache_version": 1
+}
