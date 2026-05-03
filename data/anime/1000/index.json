@@ -1,0 +1,96 @@
+{
+  "ids": {
+    "anilist": 1000,
+    "mal": 1000,
+    "anidb": 725,
+    "tmdb": 31714,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Uchuu Kaizoku Captain Harlock",
+    "english": "Captain Harlock Space Pirate",
+    "native": "宇宙海賊キャプテンハーロック",
+    "synonyms": [
+      "Harlock TV",
+      "Albator 78",
+      "El Capità Harlock"
+    ],
+    "tmdb_title": "Space Pirate Captain Harlock"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 1978,
+  "episodes": 42,
+  "duration": 25,
+  "start_date": {
+    "year": 1978,
+    "month": 3,
+    "day": 14
+  },
+  "end_date": {
+    "year": 1979,
+    "month": 2,
+    "day": 13
+  },
+  "description": "The year is 2977. Mankind has become complacent and stagnant. All work is done by machines, while humans spend all their time on entertainment. But when a mysterious invader from the stars catches Earth unawares, only the legendary space pirate Captain Harlock and the crew of the Arcadia have the will to stand against them. <br><br>\n(Source: Anime News Network)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Space Opera",
+    "Pirates",
+    "Aliens",
+    "Space",
+    "Episodic",
+    "Fugitive",
+    "Seinen",
+    "Male Protagonist",
+    "Primarily Adult Cast"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [
+    "Studio Nue",
+    "Discotek"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 73,
+  "popularity": 11703,
+  "trending": 1,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1000-Xpeob9jND2tg.jpg",
+    "poster_color": "#a14328",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1000-bRbPiTJ2PAYp.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/uxME9jveTHhoKKqN0e2PaotoJmv.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/emBhP4hN3oNNx2QapodTMAAMFyv.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1000-Xpeob9jND2tg.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/captain-harlock"
+    },
+    {
+      "site": "Tubi TV",
+      "url": "https://tubitv.com/series/1831/captain-harlock?start=true"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 100,
+  "match_signals": [
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T08:24:03.828Z",
+  "cache_version": 1
+}
