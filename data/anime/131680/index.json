@@ -1,0 +1,95 @@
+{
+  "ids": {
+    "anilist": 131680,
+    "mal": 48585,
+    "anidb": 16176,
+    "tmdb": 812225,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Black Clover: Mahou Tei no Ken",
+    "english": "Black Clover: Sword of the Wizard King",
+    "native": "ブラッククローバー 魔法帝の剣",
+    "synonyms": [
+      "Black Clover Movie",
+      "Чорна конюшина: Меч короля магів",
+      "Black Clover: A Espada do Rei Mago",
+      "Black Clover: La espada del rey mago",
+      "Черный клевер: Меч короля магов"
+    ],
+    "tmdb_title": "Black Clover: Sword of the Wizard King"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2023,
+  "episodes": 1,
+  "duration": 113,
+  "start_date": {
+    "year": 2023,
+    "month": 6,
+    "day": 16
+  },
+  "end_date": {
+    "year": 2023,
+    "month": 6,
+    "day": 16
+  },
+  "description": "As a lionhearted boy who can’t wield magic strives for the title of Wizard King, four banished Wizard Kings of yore return to crush the Clover Kingdom.<br><br>\n(Source: Netflix)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+  ],
+  "tags": [
+    "Magic",
+    "Shounen",
+    "Male Protagonist",
+    "Revenge",
+    "Medieval",
+    "Super Power",
+    "Swordplay",
+    "Demons",
+    "Ensemble Cast"
+  ],
+  "studios": [
+    "Studio Pierrot"
+  ],
+  "producers": [
+    "Shueisha",
+    "Avex Pictures",
+    "Netflix"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 80,
+  "popularity": 90875,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131680-gjs8mMQPmkOQ.png",
+    "poster_color": "#50aee4",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/131680-6jyC01S1Gila.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/2pYi5qNjEMQ22gE3lgMrhzJDSk5.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/rogeBJK44LtWynOqzMFmEF30T80.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131680-gjs8mMQPmkOQ.png"
+  },
+  "streaming": [
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/81448990"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T04:17:53.334Z",
+  "cache_version": 1
+}
