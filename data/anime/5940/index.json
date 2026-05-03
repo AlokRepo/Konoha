@@ -1,0 +1,91 @@
+{
+  "ids": {
+    "anilist": 5940,
+    "mal": 5940,
+    "anidb": 6546,
+    "tmdb": 36134,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Seiken no Blacksmith",
+    "english": "The Sacred Blacksmith",
+    "native": "聖剣の刀鍛冶（ブラックスミス）",
+    "synonyms": [
+      "Seiken no Katanakaji",
+      "La Espada Sagrada"
+    ],
+    "tmdb_title": "The Sacred Blacksmith"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2009,
+  "episodes": 12,
+  "duration": 24,
+  "start_date": {
+    "year": 2009,
+    "month": 10,
+    "day": 3
+  },
+  "end_date": {
+    "year": 2009,
+    "month": 12,
+    "day": 19
+  },
+  "description": "The knight Cecily wants to defend the weak, but her lack of skill makes her an unlikely heroine—until the blacksmith Luke comes to her aid, using magic to forge blades of supernatural strength. Cecily wields this sacred steel and charges forth to face a new threat; a cloaked fiend is unleashing demons upon the land, and though he lurks in shadows, the villain is closer than Cecily knows. <br><br>\n\n(Source: Crunchyroll)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [
+    "Swordplay",
+    "Demons",
+    "Magic"
+  ],
+  "studios": [
+    "Manglobe"
+  ],
+  "producers": [
+    "Funimation",
+    "Earth Star Entertainment",
+    "Media Factory",
+    "AT-X"
+  ],
+  "source": "LIGHT_NOVEL",
+  "country": "JP",
+  "score_anilist": 63,
+  "popularity": 34486,
+  "trending": 1,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5940.jpg",
+    "poster_color": "#5da1f1",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/5940-uMXJKV3XL2Lc.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/cP3KmUi1m0Dnc8OqhPaL2NACyvF.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/dI1eAHX69mZGwDPmTNsKSUj06St.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5940.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/the-sacred-blacksmith"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/the-sacred-blacksmith"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T05:55:45.001Z",
+  "cache_version": 1
+}
