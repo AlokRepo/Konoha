@@ -1,0 +1,82 @@
+{
+  "ids": {
+    "anilist": 8481,
+    "mal": 8481,
+    "anidb": 7441,
+    "tmdb": 96737,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Bungaku Shoujo: Memoire",
+    "english": null,
+    "native": "文学少女 メモワール",
+    "synonyms": [
+      "Book Girl: Memoire",
+      "Literature Girl: Memoire",
+      "Bungaku Shoujo Memoire I Yume-Miru Shoujo no Prelude",
+      "II Sora-Mau Tenshi no Requiem",
+      "III Koi Suru Otome no Rhapsody"
+    ],
+    "tmdb_title": "Book Girl: Memoire"
+  },
+  "format": "OVA",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 2010,
+  "episodes": 3,
+  "duration": 24,
+  "start_date": {
+    "year": 2010,
+    "month": 6,
+    "day": 25
+  },
+  "end_date": {
+    "year": 2010,
+    "month": 12,
+    "day": 24
+  },
+  "description": "Three-episode prequel to the upcoming movie told by three main heroines.",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Mystery",
+    "Psychological",
+    "Romance"
+  ],
+  "tags": [
+    "Ensemble Cast",
+    "Female Protagonist",
+    "Primarily Female Cast",
+    "Classic Literature"
+  ],
+  "studios": [
+    "Production I.G"
+  ],
+  "producers": [],
+  "source": "LIGHT_NOVEL",
+  "country": "JP",
+  "score_anilist": 69,
+  "popularity": 6474,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8481.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/nUIFeucxal4Pe1OhAld9lTMIhKL.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/vGfL9wHkNQ8NSXr66DAbNXHzLtL.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/nUIFeucxal4Pe1OhAld9lTMIhKL.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8481.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T09:48:08.700Z",
+  "cache_version": 1
+}
