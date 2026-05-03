@@ -1,0 +1,82 @@
+{
+  "ids": {
+    "anilist": 14765,
+    "mal": 14765,
+    "anidb": 9269,
+    "tmdb": 45822,
+    "tmdb_type": "tv"
+  },
+  "titles": {
+    "romaji": "Ixion Saga DT",
+    "english": "Ixion Saga DT",
+    "native": "イクシオン サーガ DT",
+    "synonyms": [
+      "Ixion Saga: Dimensional Transfer",
+      "イクシオン サーガ ディーティー"
+    ],
+    "tmdb_title": "Ixion Saga: Dimension Transfer"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2012,
+  "episodes": 25,
+  "duration": 24,
+  "start_date": {
+    "year": 2012,
+    "month": 10,
+    "day": 8
+  },
+  "end_date": {
+    "year": 2013,
+    "month": 4,
+    "day": 1
+  },
+  "description": "The game and anime follow Kon Hokaze, a boy who embarks on a journey from our world to an alternate world known as Mira, which is full a mysterious energy known as Alma. After saving Princess Ecarlate from attackers, he soon finds himself in the middle of a struggle around Alma.",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Fantasy"
+  ],
+  "tags": [
+    "Isekai",
+    "Parody",
+    "Male Protagonist",
+    "Transgender"
+  ],
+  "studios": [
+    "Brain's Base"
+  ],
+  "producers": [],
+  "source": "VIDEO_GAME",
+  "country": "JP",
+  "score_anilist": 68,
+  "popularity": 21656,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14765-znJDLKWjr0j9.jpg",
+    "poster_color": "#5d86e4",
+    "banner": "https://image.tmdb.org/t/p/original/uvxkdDFZjA8sYpLESr4hSysLzqi.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/r21Tlfsj08BcwSaL22mxmngBAiz.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/uvxkdDFZjA8sYpLESr4hSysLzqi.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14765-znJDLKWjr0j9.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/ixion-saga-dt"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 115,
+  "match_signals": [
+    "synonyms_match",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T06:59:45.304Z",
+  "cache_version": 1
+}
