@@ -1,0 +1,86 @@
+{
+  "ids": {
+    "anilist": 101813,
+    "mal": 34440,
+    "tmdb": 477779,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Code Geass: Hangyaku no Lelouch III - Oudou",
+    "english": "Code Geass: Lelouch of the Rebellion III - Glorification",
+    "native": "コードギアス 反逆のルルーシュⅢ 皇道",
+    "synonyms": [],
+    "tmdb_title": "Code Geass: Lelouch of the Rebellion III - Glorification"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2018,
+  "episodes": 1,
+  "duration": 141,
+  "start_date": {
+    "year": 2018,
+    "month": 5,
+    "day": 26
+  },
+  "end_date": {
+    "year": 2018,
+    "month": 5,
+    "day": 26
+  },
+  "description": "Third and final part of the three part theatrical film remake of Code Geass: Lelouch of the Rebellion and Code Geass: Lelouch of the Rebellion R2.",
+  "genres": [
+    "Action",
+    "Drama",
+    "Mecha",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "tags": [
+    "Anti-Hero",
+    "War",
+    "Politics",
+    "Military",
+    "Real Robot",
+    "Class Struggle",
+    "Super Power",
+    "Male Protagonist",
+    "Revenge",
+    "Dystopian"
+  ],
+  "studios": [
+    "Sunrise"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 78,
+  "popularity": 28074,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101813-ckCNyMkU2Kkc.png",
+    "poster_color": "#f1e435",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101813-dZkqZAD4FOoO.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/qGoOP4VWAMQifbCRJkDPVSAkSi2.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/jjlHf9ruKb0BMpR1sobMONIYKcy.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101813-ckCNyMkU2Kkc.png"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/code-geass"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T06:24:27.810Z",
+  "cache_version": 1
+}

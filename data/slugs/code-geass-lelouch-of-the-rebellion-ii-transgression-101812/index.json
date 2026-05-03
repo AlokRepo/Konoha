@@ -1,0 +1,81 @@
+{
+  "ids": {
+    "anilist": 101812,
+    "mal": 34439,
+    "tmdb": 477777,
+    "tmdb_type": "movie"
+  },
+  "titles": {
+    "romaji": "Code Geass: Hangyaku no Lelouch II - Handou",
+    "english": "Code Geass: Lelouch of the Rebellion II - Transgression",
+    "native": "コードギアス 反逆のルルーシュⅡ 叛道",
+    "synonyms": [],
+    "tmdb_title": "Code Geass: Lelouch of the Rebellion II - Transgression"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2018,
+  "episodes": 1,
+  "duration": 133,
+  "start_date": {
+    "year": 2018,
+    "month": 2,
+    "day": 10
+  },
+  "end_date": {
+    "year": 2018,
+    "month": 2,
+    "day": 10
+  },
+  "description": "Second of the three part theatrical film remake of Code Geass: Lelouch of the Rebellion and Code Geass: Lelouch of the Rebellion R2.",
+  "genres": [
+    "Action",
+    "Drama",
+    "Mecha",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "tags": [
+    "Anti-Hero",
+    "Real Robot",
+    "Class Struggle",
+    "Super Power",
+    "Military",
+    "Ensemble Cast"
+  ],
+  "studios": [
+    "Sunrise"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 74,
+  "popularity": 25053,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101812-rCTRQhzHIryT.jpg",
+    "poster_color": "#f1e45d",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101812-Eeeg4HxYwc2i.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/wENcjUrDmCj6gyhSSdA39U8RbIQ.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/de94egii0q7C6GZu6gFTJS6MeMB.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101812-rCTRQhzHIryT.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/code-geass"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T06:40:44.115Z",
+  "cache_version": 1
+}
