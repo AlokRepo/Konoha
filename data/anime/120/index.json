@@ -1,0 +1,98 @@
+{
+  "ids": {
+    "anilist": 120,
+    "mal": 120,
+    "anidb": 34,
+    "tmdb": 36941,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Fruits Basket",
+    "english": "Fruits Basket",
+    "native": "フルーツバスケット",
+    "synonyms": [
+      "Furuba",
+      "Fruba",
+      "フルバ"
+    ],
+    "tmdb_title": "Fruits Basket"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 2001,
+  "episodes": 26,
+  "duration": 24,
+  "start_date": {
+    "year": 2001,
+    "month": 7,
+    "day": 5
+  },
+  "end_date": {
+    "year": 2001,
+    "month": 12,
+    "day": 27
+  },
+  "description": "Tohru Honda is 16 year old orphaned girl who gets invited to live in the house of her classmate, the handsome boy Sohma Yuki, and his cousins, 16 year old Kyo and 27 year old Shigure. However, these young men and parts of the rest of their family (both close and distant) hold a curse; if they are hugged by the opposite gender, they transform into animals of the Chinese Zodiac. Everyday is an adventure for sweet Tohru, as she gets to know everyone in the large family better (especially Yuki and Kyo), in both common and bizarre situations. But, the Sohma Family curse is certainly no laughing matter... it also holds horrible cruelty and heartbreak.",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance",
+    "Slice of Life",
+    "Supernatural"
+  ],
+  "tags": [
+    "Family Life",
+    "Mythology",
+    "Shoujo",
+    "Female Protagonist",
+    "Male Harem",
+    "Animals",
+    "Love Triangle",
+    "Heterosexual",
+    "School",
+    "Found Family"
+  ],
+  "studios": [
+    "Studio DEEN"
+  ],
+  "producers": [
+    "Funimation"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 75,
+  "popularity": 94648,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120-Z5i1sw1xboQP.jpg",
+    "poster_color": "#e4861a",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/120-PautbsS8uEAe.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/58W8bhu029XVe8ezBuqg9qVFetP.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/yGu6dz6tBAC4GE4gHzdsoDD6btG.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120-Z5i1sw1xboQP.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/fruits-basket"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/fruits-basket-2001"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T04:14:37.899Z",
+  "cache_version": 1
+}
