@@ -1,0 +1,85 @@
+{
+  "ids": {
+    "anilist": 20455,
+    "mal": 20555,
+    "anidb": 10134,
+    "tmdb": 77175,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "SoniAni: SUPER SONICO THE ANIMATION",
+    "english": "Soni-Ani: SUPER SONICO THE ANIMATION",
+    "native": "そにアニ -SUPER SONICO THE ANIMATION-",
+    "synonyms": [],
+    "tmdb_title": "Soni-Ani: Super Sonico The Animation"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2014,
+  "episodes": 12,
+  "duration": 24,
+  "start_date": {
+    "year": 2014,
+    "month": 1,
+    "day": 6
+  },
+  "end_date": {
+    "year": 2014,
+    "month": 3,
+    "day": 24
+  },
+  "description": "Super Sonico is the mascot girl of the \"Nitro Super Sonic\" events held by Nitroplus. In her back story, she is already a photoshoot model, game character, and a musician, even as she studies as a college student.",
+  "genres": [
+    "Comedy",
+    "Music",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Female Protagonist",
+    "Band",
+    "Episodic",
+    "Cute Girls Doing Cute Things",
+    "Modeling",
+    "Idol"
+  ],
+  "studios": [
+    "WHITE FOX"
+  ],
+  "producers": [
+    "Nitroplus",
+    "Sentai Filmworks"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 55,
+  "popularity": 19734,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20455-idVtmB4eERac.png",
+    "poster_color": "#f1c90d",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20455-TAYaQtcWPpil.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/dOPrKofNEryFCTuJ5Zl61wfMyHi.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/fGw5jEAyUxkyHHJDXFkt2eu5K3.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20455-idVtmB4eERac.png"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl0UhpykWsfZ-zPFBuI6ru5g"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T07:12:47.937Z",
+  "cache_version": 1
+}
