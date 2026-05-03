@@ -1,0 +1,91 @@
+{
+  "ids": {
+    "anilist": 140643,
+    "mal": 50204,
+    "anidb": 16928,
+    "tmdb": 137045,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Tokyo 24-ku",
+    "english": "Tokyo 24th Ward",
+    "native": "東京24区",
+    "synonyms": [
+      "Tokyo Twenty Fourth Ward",
+      "โตเกียวเขต 24"
+    ],
+    "tmdb_title": "Tokyo 24th Ward"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2022,
+  "episodes": 12,
+  "duration": 24,
+  "start_date": {
+    "year": 2022,
+    "month": 1,
+    "day": 6
+  },
+  "end_date": {
+    "year": 2022,
+    "month": 4,
+    "day": 7
+  },
+  "description": "Enter the 24th Ward, a man-made island inside Tokyo Bay. Three of its inhabitants: Shuuta, Ran, and Kouki, have been best friends since childhood, but after a deadly incident, everything changed. A year later, reunited for the first time, they receive a mysterious phone call. On the other line is a familiar voice—from a friend who’s supposed to be dead. Together, they’ll have to save their home.\n<br><br>\n(Source: Funimation)\n<br><br>\n<i>Note: The first episode was a 1-hour special.</i>",
+  "genres": [
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Urban",
+    "Super Power",
+    "Primarily Male Cast",
+    "Dystopian",
+    "Ensemble Cast"
+  ],
+  "studios": [
+    "CloverWorks"
+  ],
+  "producers": [
+    "Aniplex",
+    "ABC Animation",
+    "BS11",
+    "TOKYO MX",
+    "Nagoya TV Housou",
+    "Movic",
+    "Nitroplus"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 60,
+  "popularity": 24072,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140643-RpKlGdwDa7r7.jpg",
+    "poster_color": "#5093e4",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140643-mtfFuRKRhmDS.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/4ZDMeWlcptOkQGJTVKkU8QRBhzp.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/zehW179C3TdFBdIE0bOhQ5TZnVn.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140643-RpKlGdwDa7r7.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/tokyo-24th-ward"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T06:46:25.004Z",
+  "cache_version": 1
+}

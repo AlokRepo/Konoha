@@ -1,0 +1,84 @@
+{
+  "ids": {
+    "anilist": 21326,
+    "mal": 31297,
+    "tmdb": 1403099,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Tokyo Ghoul: [PINTO]",
+    "english": null,
+    "native": "東京喰種トーキョーグール【PINTO】",
+    "synonyms": [
+      "Toukyou Kushu: Pinto"
+    ],
+    "tmdb_title": "Tokyo Ghoul: Pinto"
+  },
+  "format": "OVA",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2015,
+  "episodes": 1,
+  "duration": 24,
+  "start_date": {
+    "year": 2015,
+    "month": 12,
+    "day": 25
+  },
+  "end_date": {
+    "year": 2015,
+    "month": 12,
+    "day": 25
+  },
+  "description": "A prequel to Tokyo Ghoul that follows how Shuu Tsukiyama and Chie Hori met.",
+  "genres": [
+    "Drama",
+    "Horror",
+    "Supernatural"
+  ],
+  "tags": [
+    "Gore",
+    "Photography",
+    "Body Horror",
+    "Survival",
+    "Female Protagonist",
+    "Male Protagonist"
+  ],
+  "studios": [
+    "Studio Pierrot",
+    "Studio Pierrot"
+  ],
+  "producers": [
+    "TC Entertainment",
+    "Marvelous"
+  ],
+  "source": "LIGHT_NOVEL",
+  "country": "JP",
+  "score_anilist": 69,
+  "popularity": 53393,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21326-Vmunxqzj1umc.jpg",
+    "poster_color": "#f1e4c9",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n21326-frrcFf02l5kt.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/wayLshKSbSrXvk1jvE3OmDICwBn.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21326-Vmunxqzj1umc.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/tokyo-ghoul"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 100,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T05:05:07.628Z",
+  "cache_version": 1
+}
