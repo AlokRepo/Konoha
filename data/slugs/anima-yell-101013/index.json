@@ -1,0 +1,83 @@
+{
+  "ids": {
+    "anilist": 101013,
+    "mal": 37206,
+    "anidb": 13756,
+    "tmdb": 82929,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Anima Yell!",
+    "english": null,
+    "native": "アニマエール！",
+    "synonyms": [],
+    "tmdb_title": "Anima Yell!"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2018,
+  "episodes": 12,
+  "duration": 24,
+  "start_date": {
+    "year": 2018,
+    "month": 10,
+    "day": 7
+  },
+  "end_date": {
+    "year": 2018,
+    "month": 12,
+    "day": 23
+  },
+  "description": "The story follows Kohane Hatoya, a 1st year high school student who is a bit clumsy and scared of heights but who has a very bubbly and outgoing personality. Kohane decides to join the cheerleading club to try to make friends and overcome her weaknesses.<br><br>\n\n(Source: Crunchyroll)",
+  "genres": [
+    "Comedy",
+    "Sports"
+  ],
+  "tags": [
+    "Cheerleading",
+    "Cute Girls Doing Cute Things",
+    "School Club",
+    "Female Protagonist",
+    "Primarily Female Cast",
+    "Dancing",
+    "Primarily Teen Cast",
+    "School"
+  ],
+  "studios": [
+    "Doga Kobo"
+  ],
+  "producers": [],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 66,
+  "popularity": 16337,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101013-hFT0b0mqC1oY.jpg",
+    "poster_color": "#e4ae50",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n101013-jecSkRN3pt5I.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/xDeLrbQ2MjwL10zo73Q0Afbjd7l.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/kiP8qpYI2n8C3bzmrMAYxbkela8.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101013-hFT0b0mqC1oY.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/anima-yell"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T07:40:17.563Z",
+  "cache_version": 1
+}
