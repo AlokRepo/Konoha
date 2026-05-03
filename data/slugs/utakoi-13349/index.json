@@ -1,0 +1,80 @@
+{
+  "ids": {
+    "anilist": 13349,
+    "mal": 13349,
+    "anidb": 9078,
+    "tmdb": 45192,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Chouyaku Hyakuninisshu: Uta Koi.",
+    "english": "Utakoi",
+    "native": "超訳百人一首 うた恋い。",
+    "synonyms": [
+      "Utakoi."
+    ],
+    "tmdb_title": "Utakoi"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 2012,
+  "episodes": 13,
+  "duration": 24,
+  "start_date": {
+    "year": 2012,
+    "month": 7,
+    "day": 3
+  },
+  "end_date": {
+    "year": 2012,
+    "month": 9,
+    "day": 25
+  },
+  "description": "Uta Koi tells the \"super-liberal interpretation\" of the Hyakuninisshu anthology compiled during Japan's Heian period of 100 romantic poems from 100 different poets such as The Tale of Genji's Murasaki Shikibu.",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "tags": [
+    "Josei",
+    "Historical",
+    "Classic Literature"
+  ],
+  "studios": [
+    "TYO Animations"
+  ],
+  "producers": [],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 69,
+  "popularity": 7111,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b13349-jGgGhzVXyTe4.jpg",
+    "poster_color": "#e46b50",
+    "banner": "https://image.tmdb.org/t/p/original/xm0P4dOHaIKU9hs0ncdHM2Zt9jo.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/uSOqwb6RBhQiARAhD1BgLtO3WIG.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/xm0P4dOHaIKU9hs0ncdHM2Zt9jo.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b13349-jGgGhzVXyTe4.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/utakoi"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T09:34:58.295Z",
+  "cache_version": 1
+}
