@@ -1,0 +1,88 @@
+{
+  "ids": {
+    "anilist": 8408,
+    "mal": 8408,
+    "tmdb": 42410,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Durarara!! Specials",
+    "english": null,
+    "native": "デュラララ!!",
+    "synonyms": [
+      "Durarara!! Episode 12.5",
+      "Durarara!! Episode 25",
+      "Dhurarara!!",
+      "Dyurarara!!"
+    ],
+    "tmdb_title": "Durarara!!"
+  },
+  "format": "SPECIAL",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 2010,
+  "episodes": 2,
+  "duration": 23,
+  "start_date": {
+    "year": 2010,
+    "month": 8,
+    "day": 25
+  },
+  "end_date": {
+    "year": 2011,
+    "month": 2,
+    "day": 23
+  },
+  "description": "Two extra DVD episodes of Durarara!!<br><br><strong>Episode 12.5</strong><br>\nHappens between episodes 12 and 13. A UFO is supposedly spotted in Ikebukuro, but what is it really?<br><br><strong>Episode 25</strong><br>\nHappens after episode 24, the final episode. Shizuo's brother hosts a TV special downtown, but his life is apparently in danger.",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Supernatural"
+  ],
+  "tags": [
+    "Urban Fantasy",
+    "Mythology",
+    "Achronological Order",
+    "Delinquents",
+    "Gangs",
+    "Ensemble Cast"
+  ],
+  "studios": [
+    "Brain's Base"
+  ],
+  "producers": [
+    "Aniplex",
+    "Aniplex of America"
+  ],
+  "source": "LIGHT_NOVEL",
+  "country": "JP",
+  "score_anilist": 75,
+  "popularity": 33160,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8408-ty3umDE46vVK.png",
+    "poster_color": "#f1d61a",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n8408-QGzgRIr6s4z2.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/eV227ZkWjjKhp9xrmY1rr9S8Kwg.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/kH9iK6krt0VBwAv5xbsYyhn8AW5.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8408-ty3umDE46vVK.png"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/durarara"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 100,
+  "match_signals": [
+    "english_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T06:02:17.366Z",
+  "cache_version": 1
+}
