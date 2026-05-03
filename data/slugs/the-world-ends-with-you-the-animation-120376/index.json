@@ -1,0 +1,99 @@
+{
+  "ids": {
+    "anilist": 120376,
+    "mal": 42307,
+    "anidb": 15609,
+    "tmdb": 105249,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Subarashiki Kono Sekai The Animation",
+    "english": "The World Ends with You The Animation",
+    "native": "すばらしきこのせかい The Animation",
+    "synonyms": [
+      "TWEWY",
+      "It's a Wonderful World",
+      "Subaseka"
+    ],
+    "tmdb_title": "The World Ends with You: The Animation"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2021,
+  "episodes": 12,
+  "duration": 24,
+  "start_date": {
+    "year": 2021,
+    "month": 4,
+    "day": 10
+  },
+  "end_date": {
+    "year": 2021,
+    "month": 6,
+    "day": 26
+  },
+  "description": "Neku awakens in the middle of Shibuya's bustling Scramble Crossing with no memory of how he got there. Little does he know, he's been transported to an alternate plane of existence known as the Underground (UG). Now an unwilling participant in the mysterious \"Reapers' Game,\" Neku must partner up with a girl named Shiki in order to survive. Together, they complete missions and defeat monsters known as \"Noise\" as they gradually uncover the true nature of this twisted Game.\n<br><br>\n\"There's only one way to stay alive in Shibuya: trust your partner.\" Will they survive the Reapers' Game?\n<br><br>\n(Source: Official Site)",
+  "genres": [
+    "Action",
+    "Supernatural"
+  ],
+  "tags": [
+    "Death Game",
+    "Urban Fantasy",
+    "Male Protagonist",
+    "Survival",
+    "Coming of Age",
+    "Urban",
+    "Amnesia",
+    "Rehabilitation",
+    "CGI"
+  ],
+  "studios": [
+    "Shin-Ei Animation",
+    "domerica"
+  ],
+  "producers": [
+    "Square Enix"
+  ],
+  "source": "VIDEO_GAME",
+  "country": "JP",
+  "score_anilist": 57,
+  "popularity": 26497,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120376-t98raKtxXLtF.png",
+    "poster_color": "#f1ae35",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/120376-z2I2lRDTULd9.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/apHvxqMVuxIGDOL9lLOyA9q2a3z.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/mjyRFPrJ8SPF77STsbkR0X0rE6C.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120376-t98raKtxXLtF.png"
+  },
+  "streaming": [
+    {
+      "site": "Hulu",
+      "url": "https://www.hulu.com/series/the-world-ends-with-you-the-animation-5c9578dd-588f-4b41-a861-631f58aeb89f"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLxSscENEp7Ji51XAhfhSskHMP3EnQxGur"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/the-world-ends-with-you-the-animation"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T06:33:23.882Z",
+  "cache_version": 1
+}
