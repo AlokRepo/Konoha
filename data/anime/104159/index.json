@@ -1,0 +1,93 @@
+{
+  "ids": {
+    "anilist": 104159,
+    "mal": 38328,
+    "anidb": 14396,
+    "tmdb": 91455,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Azur Lane",
+    "english": "AZUR LANE",
+    "native": "アズールレーン",
+    "synonyms": [],
+    "tmdb_title": "Azur Lane"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2019,
+  "episodes": 12,
+  "duration": 24,
+  "start_date": {
+    "year": 2019,
+    "month": 10,
+    "day": 3
+  },
+  "end_date": {
+    "year": 2020,
+    "month": 3,
+    "day": 20
+  },
+  "description": "Azur Lane, a combination of all the different Camps in the world, was once successful in repelling the underwater menace, the Siren. Now splintered, they must face a new threat in Red Axis, former allies who crave to wield this otherworldly Siren technology for their own nefarious desires! Who will be victorious in the never-ending war between these battleship girls!?<br>\n<br>\n(Source: Funimation)",
+  "genres": [
+    "Action",
+    "Ecchi",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Ships",
+    "Primarily Female Cast",
+    "Military",
+    "War",
+    "Anthropomorphism",
+    "Cute Girls Doing Cute Things",
+    "Ensemble Cast",
+    "Female Protagonist",
+    "Nudity"
+  ],
+  "studios": [
+    "Bibury Animation Studios"
+  ],
+  "producers": [],
+  "source": "VIDEO_GAME",
+  "country": "JP",
+  "score_anilist": 58,
+  "popularity": 53676,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104159-xJoXzhEmtohE.jpg",
+    "poster_color": "#50aef1",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/104159-fEdAUSZV39a7.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/7k9GZBSjsQCwhYXeTGqPcStpjOF.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/xMMsFxhW8aid6AVnfHL3nSvOusA.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104159-xJoXzhEmtohE.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Hulu",
+      "url": "https://www.hulu.com/azur-lane"
+    },
+    {
+      "site": "Amazon Prime Video",
+      "url": "https://www.amazon.com/dp/B07ZKKLSB2/"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/azur-lane"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T05:04:36.727Z",
+  "cache_version": 1
+}
