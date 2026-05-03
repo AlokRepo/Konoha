@@ -1,0 +1,89 @@
+{
+  "ids": {
+    "anilist": 113932,
+    "mal": 40861,
+    "anidb": 15309,
+    "tmdb": 96420,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Hakumei no Tsubasa",
+    "english": "Pokémon: Twilight Wings",
+    "native": "薄明の翼",
+    "synonyms": [],
+    "tmdb_title": "Pokémon: Twilight Wings"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2020,
+  "episodes": 7,
+  "duration": 6,
+  "start_date": {
+    "year": 2020,
+    "month": 1,
+    "day": 15
+  },
+  "end_date": {
+    "year": 2020,
+    "month": 8,
+    "day": 6
+  },
+  "description": "An ensemble drama showing the struggles and conflicts of young people living in the Galar region.",
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Fantasy",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Ensemble Cast",
+    "Animals",
+    "Urban Fantasy",
+    "Work",
+    "Kids",
+    "Episodic",
+    "Dragons",
+    "Aviation"
+  ],
+  "studios": [
+    "Studio Colorido"
+  ],
+  "producers": [],
+  "source": "VIDEO_GAME",
+  "country": "JP",
+  "score_anilist": 74,
+  "popularity": 11859,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113932-2sY3uAQq9qSz.png",
+    "poster_color": "#f1e45d",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/113932-ZKPbmjZIhkwU.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/olQwMktOpZLelpey4vOTZCxpZ4c.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/JRHUynzGfL2FSxDhJ1UpNj0FDc.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113932-2sY3uAQq9qSz.png"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLQWzKIaERirwfvHB3m8CjnTK6ZzNA8wvJ"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLBE2D9BnJJUottgTqK-Daoqx-G5IBHg7P"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T08:22:15.889Z",
+  "cache_version": 1
+}

@@ -1,0 +1,93 @@
+{
+  "ids": {
+    "anilist": 97635,
+    "mal": 34514,
+    "anidb": 12409,
+    "tmdb": 67882,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Pokémon Generations",
+    "english": null,
+    "native": "ポケモンジェネレーションズ",
+    "synonyms": [],
+    "tmdb_title": "Pokémon Generations"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2016,
+  "episodes": 18,
+  "duration": 5,
+  "start_date": {
+    "year": 2016,
+    "month": 9,
+    "day": 16
+  },
+  "end_date": {
+    "year": 2016,
+    "month": 12,
+    "day": 23
+  },
+  "description": "Pokémon Generations looks back at each generation of the Pokémon video game series, diving into the stories of the games more deeply and getting to know characters and Pokémon better. Visit each region, from Kanto to Kalos, to relive the world of Pokémon like never before!",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Fantasy"
+  ],
+  "tags": [
+    "Episodic",
+    "Proxy Battle",
+    "Creature Taming",
+    "Animals",
+    "Video Games",
+    "Ensemble Cast",
+    "Wilderness"
+  ],
+  "studios": [
+    "OLM",
+    "Signal.MD",
+    "WIT STUDIO",
+    "Production I.G",
+    "domerica"
+  ],
+  "producers": [
+    "The Pokemon Company International"
+  ],
+  "source": "VIDEO_GAME",
+  "country": "JP",
+  "score_anilist": 72,
+  "popularity": 20179,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/97635-I7aIU84ABBs8.jpg",
+    "poster_color": "#f1861a",
+    "banner": "https://image.tmdb.org/t/p/original/exz49oEAySqSMYca6MtXWaTVL4b.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/4aRQRC16sFFOzoPWQju0OKHJrd5.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/exz49oEAySqSMYca6MtXWaTVL4b.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/97635-I7aIU84ABBs8.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLBE2D9BnJJUr3eL0gJwgbWbXqPaOFZI5p"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLQWzKIaERirwv9M89dxN3bNLY0PyuChOU"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T07:08:57.029Z",
+  "cache_version": 1
+}
