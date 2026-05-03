@@ -1,0 +1,106 @@
+{
+  "ids": {
+    "anilist": 195600,
+    "mal": 62001,
+    "anidb": 19451,
+    "tmdb": 260463,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Yomi no Tsugai",
+    "english": "Daemons of the Shadow Realm",
+    "native": "黄泉のツガイ",
+    "synonyms": [
+      "ヨミツガ",
+      "YomiTsuga",
+      "Pasangan dari Alam Baka",
+      "ยมลแห่งยมโลก",
+      "Daemons do Reino das Sombras"
+    ],
+    "tmdb_title": "Daemons of the Shadow Realm"
+  },
+  "format": "TV",
+  "status": "RELEASING",
+  "season": "SPRING",
+  "season_year": 2026,
+  "episodes": 24,
+  "duration": 24,
+  "start_date": {
+    "year": 2026,
+    "month": 4,
+    "day": 4
+  },
+  "end_date": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "next_airing": {
+    "episode": 6,
+    "at": "2026-05-09T14:30:00.000Z"
+  },
+  "description": "In a remote mountain village under the watchful eyes of two stone guardians, the young Yuru contentedly lives off the land while staying close to the only family he has left—Asa, his precious twin sister. Asa, meanwhile, carries out a mysterious “duty” on behalf of the village while locked in a cage. Why is Asa a prisoner? And what other secrets does Yuru’s otherwise idyllic home hide?\n<br><br>(Source: Square Enix)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+  ],
+  "tags": [
+    "Male Protagonist",
+    "Shounen",
+    "Archery",
+    "Rural",
+    "Youkai",
+    "Urban Fantasy",
+    "Twins"
+  ],
+  "studios": [
+    "bones film",
+    "bones"
+  ],
+  "producers": [
+    "Aniplex",
+    "Square Enix"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 78,
+  "popularity": 69168,
+  "trending": 380,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195600-moI0UFArtOme.jpg",
+    "poster_color": "#e49335",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195600-UxHvDXwzJxlP.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/vIE1llfr1lcmzlsV4xn8vhgtlQN.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/qc30hdrxHQgN5wiopU4bkRZow5L.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195600-moI0UFArtOme.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://crunchyroll.com/series/GT00371630/daemons-of-the-shadow-realm"
+    },
+    {
+      "site": "iQ",
+      "url": "https://www.iq.com/album/1tmesonumnx"
+    },
+    {
+      "site": "Bilibili TV",
+      "url": "https://www.bilibili.tv/en/media/2342276"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T04:42:38.503Z",
+  "cache_version": 1
+}
