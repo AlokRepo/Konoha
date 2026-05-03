@@ -1,0 +1,87 @@
+{
+  "ids": {
+    "anilist": 106240,
+    "mal": 38816,
+    "anidb": 14532,
+    "tmdb": 604605,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "HELLO WORLD",
+    "english": null,
+    "native": "HELLO WORLD",
+    "synonyms": [
+      "ハロー・ワールド"
+    ],
+    "tmdb_title": "Hello World"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 2019,
+  "episodes": 1,
+  "duration": 98,
+  "start_date": {
+    "year": 2019,
+    "month": 9,
+    "day": 20
+  },
+  "end_date": {
+    "year": 2019,
+    "month": 9,
+    "day": 20
+  },
+  "description": "In Kyoto in the year 2027, Naomi Katagaki, a male high school student encounters a person who is claiming to be Naomi from 10 years in the future. Together, they must change the future and save a classmate, Ruri, whom the younger Naomi starts to date in three months.",
+  "genres": [
+    "Drama",
+    "Psychological",
+    "Romance",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Time Manipulation",
+    "Full CGI",
+    "Philosophy",
+    "Age Regression",
+    "Coming of Age",
+    "Heterosexual",
+    "Tragedy",
+    "Male Protagonist",
+    "Urban"
+  ],
+  "studios": [
+    "Graphinica"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 73,
+  "popularity": 90942,
+  "trending": 1,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106240-XeWQ4YhKzv7h.png",
+    "poster_color": "#f1c9a1",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/106240-aRO9crHZda8S.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/vmizP4G4EWsxNf6PLOvGNaFJ89Y.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/cXEZWZSxiD7w96p1sCd23FL2O9y.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106240-XeWQ4YhKzv7h.png"
+  },
+  "streaming": [
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/81295070"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T04:17:42.756Z",
+  "cache_version": 1
+}
