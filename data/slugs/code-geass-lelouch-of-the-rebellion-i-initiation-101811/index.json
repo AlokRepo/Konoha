@@ -1,0 +1,84 @@
+{
+  "ids": {
+    "anilist": 101811,
+    "mal": 34438,
+    "tmdb": 477776,
+    "tmdb_type": "movie"
+  },
+  "titles": {
+    "romaji": "Code Geass: Hangyaku no Lelouch I - Koudou",
+    "english": "Code Geass: Lelouch of the Rebellion I - Initiation",
+    "native": "コードギアス 反逆のルルーシュⅠ 興道",
+    "synonyms": [
+      "Code Geass: Lelouch of the Rebellion - The Awakening Path"
+    ],
+    "tmdb_title": "Code Geass: Lelouch of the Rebellion I - Initiation"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2017,
+  "episodes": 1,
+  "duration": 135,
+  "start_date": {
+    "year": 2017,
+    "month": 10,
+    "day": 21
+  },
+  "end_date": {
+    "year": 2017,
+    "month": 10,
+    "day": 21
+  },
+  "description": "First of the three part theatrical film remake of Code Geass: Lelouch of the Rebellion and Code Geass: Lelouch of the Rebellion R2.",
+  "genres": [
+    "Action",
+    "Drama",
+    "Mecha",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "tags": [
+    "Military",
+    "Revenge",
+    "Super Power",
+    "Ensemble Cast",
+    "Real Robot",
+    "Class Struggle",
+    "Male Protagonist"
+  ],
+  "studios": [
+    "Sunrise"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 76,
+  "popularity": 31278,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101811-pRfRiEvgZn4T.png",
+    "poster_color": "#e4865d",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101811-rVhAa41KlAN3.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/lRfTNdwfcXnECZXeZswMOSV3q36.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/cU9HXBinAA0Q67pWlsj0kpKfsG3.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101811-pRfRiEvgZn4T.png"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/code-geass"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T06:11:07.117Z",
+  "cache_version": 1
+}
