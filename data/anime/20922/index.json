@@ -1,0 +1,82 @@
+{
+  "ids": {
+    "anilist": 20922,
+    "mal": 28155,
+    "anidb": 10897,
+    "tmdb": 61919,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Yoru no Yatterman",
+    "english": "Yatterman Night",
+    "native": "夜ノヤッターマン",
+    "synonyms": [],
+    "tmdb_title": "Yatterman Night"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2015,
+  "episodes": 12,
+  "duration": 24,
+  "start_date": {
+    "year": 2015,
+    "month": 1,
+    "day": 11
+  },
+  "end_date": {
+    "year": 2015,
+    "month": 3,
+    "day": 29
+  },
+  "description": "Long ago, a pair of heroes called the Yatterman faced off against the Doronbow Gang, led by the sexy villainess Doronjo. Years later the Yatter Kingdom is protected by the new Yatterman. But the mysterious rulers have forced the Yatter people into labor, and unrest runs rampant in the kingdom. Now, a new Doronjo reforms the Doronbow Gang to rebel against the Yatterman.<br>\n<br>\n(Source: Funimation)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Superhero",
+    "Robots",
+    "Dystopian",
+    "Female Protagonist",
+    "Fugitive"
+  ],
+  "studios": [
+    "Tatsunoko Production"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 62,
+  "popularity": 9078,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20922-btBItFbmWgma.jpg",
+    "poster_color": "#aec9f1",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20922-OYcYIm9GuODa.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/1WlcVJeidNe2d3EL6fQHetM3BQK.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/3mDaQnAelcx1gncES2FeRQ0O6SB.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20922-btBItFbmWgma.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/yatterman-night"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T09:00:08.872Z",
+  "cache_version": 1
+}
