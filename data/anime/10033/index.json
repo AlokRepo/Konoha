@@ -1,0 +1,102 @@
+{
+  "ids": {
+    "anilist": 10033,
+    "mal": 10033,
+    "anidb": 8142,
+    "tmdb": 38251,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Toriko",
+    "english": null,
+    "native": "トリコ",
+    "synonyms": [
+      "Toriko (2011)",
+      "Toriko (TV)",
+      "Toriko x One Piece Collabo Special"
+    ],
+    "tmdb_title": "Toriko"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2011,
+  "episodes": 147,
+  "duration": 24,
+  "start_date": {
+    "year": 2011,
+    "month": 4,
+    "day": 3
+  },
+  "end_date": {
+    "year": 2014,
+    "month": 3,
+    "day": 30
+  },
+  "description": "In the world where the taste and texture of food are very important there is Toriko, a hunter of precious foods regularly hired by restaurants and the rich. A man with inhuman skills to capture the ferocious, evasive and rare animals to complete his ultimate dinner course and then the chef Komatsu, his current accomplice: a weak timid person who was inspired by Toriko's greatness and accompanies him on all his journeys on his quest for the course of his life.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+  ],
+  "tags": [
+    "Food",
+    "Travel",
+    "Animals",
+    "Kaiju",
+    "Super Power",
+    "Survival",
+    "Shounen",
+    "Male Protagonist",
+    "Environmental"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [
+    "Funimation",
+    "Yomiko Advertising",
+    "Fuji TV"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 69,
+  "popularity": 25925,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx10033-V7xnlgAVtaVR.jpg",
+    "poster_color": "#50aef1",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n10033-u9ROjiLizrd4.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/8NyEmf5xB1HSYM0MzADv8mjUnc4.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/j6u5ekbEjavBLUYBPfoXZh4G4Jg.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx10033-V7xnlgAVtaVR.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/toriko"
+    },
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/toriko"
+    },
+    {
+      "site": "Tubi TV",
+      "url": "https://tubitv.com/series/300006596/toriko"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T06:36:39.235Z",
+  "cache_version": 1
+}
