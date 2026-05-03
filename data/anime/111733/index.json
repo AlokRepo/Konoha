@@ -1,0 +1,70 @@
+{
+  "ids": {
+    "anilist": 111733,
+    "mal": 40295,
+    "anidb": 15065,
+    "tmdb": 92710,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Another World",
+    "english": "Another World",
+    "native": "アナザー・ワールド",
+    "synonyms": [],
+    "tmdb_title": "Another World"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 2019,
+  "episodes": 3,
+  "duration": 10,
+  "start_date": {
+    "year": 2019,
+    "month": 9,
+    "day": 13
+  },
+  "end_date": {
+    "year": 2019,
+    "month": 10,
+    "day": 4
+  },
+  "description": "The story features the point of view of the Naomi from 10 years in the future.<br>\n<br>\n<b>Episodes:</b><br>\n1. Record 2027 (2019/09/13)<br>\n2. Record 2032 (2019/09/27)<br>\n3. Record 2036 (2019/10/04)",
+  "genres": [
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Full CGI"
+  ],
+  "studios": [
+    "Graphinica"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 68,
+  "popularity": 13250,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx111733-0nvIm7cJ7BGq.jpg",
+    "poster_color": "#f1c986",
+    "banner": "https://image.tmdb.org/t/p/original/fgklHjMYhH9U0tenzEmNbHfaKpP.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/cFw0rO72AImFaCkPBvVchm0dLWH.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/fgklHjMYhH9U0tenzEmNbHfaKpP.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx111733-0nvIm7cJ7BGq.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T08:07:41.033Z",
+  "cache_version": 1
+}
