@@ -1,0 +1,96 @@
+{
+  "ids": {
+    "anilist": 1815,
+    "mal": 1815,
+    "anidb": 4388,
+    "tmdb": 68263,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Shakugan no Shana Movie",
+    "english": "Shakugan no Shana: The Movie",
+    "native": "劇場版 灼眼のシャナ",
+    "synonyms": [
+      "Gekijouban Shakugan no Shana",
+      "ชานะ นักรบเนตรอัคคี เดอะ มูฟวี่",
+      "Hoả nhãn của Shana (Movie)"
+    ],
+    "tmdb_title": "Shakugan no Shana: The Movie"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2007,
+  "episodes": 1,
+  "duration": 90,
+  "start_date": {
+    "year": 2007,
+    "month": 4,
+    "day": 21
+  },
+  "end_date": {
+    "year": 2007,
+    "month": 4,
+    "day": 21
+  },
+  "description": "The movie is not a sequel to the anime, but is an adaptation of all the events in the first novel and contains events that were not in the anime series.<br><br>\n(Source: Wikipedia)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Fantasy",
+    "Romance",
+    "Supernatural"
+  ],
+  "tags": [
+    "Tsundere",
+    "Urban Fantasy",
+    "Male Protagonist",
+    "Super Power",
+    "School",
+    "Female Protagonist"
+  ],
+  "studios": [
+    "J.C.STAFF"
+  ],
+  "producers": [
+    "Funimation",
+    "ASCII Media Works",
+    "Hakuhodo DY Music & Pictures"
+  ],
+  "source": "LIGHT_NOVEL",
+  "country": "JP",
+  "score_anilist": 71,
+  "popularity": 12017,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1815-M8GPrlO01336.png",
+    "poster_color": "#e47835",
+    "banner": "https://image.tmdb.org/t/p/original/9Cqz42MTDBtFZApQ7PQV4JDdxf9.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/fMRs3Km9gcjVWt9WCujO5E3FPUO.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/9Cqz42MTDBtFZApQ7PQV4JDdxf9.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1815-M8GPrlO01336.png"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili TV",
+      "url": "https://www.bilibili.tv/media/37278"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/shakugan-no-shana"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 125,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T08:20:11.795Z",
+  "cache_version": 1
+}
