@@ -1,0 +1,99 @@
+{
+  "ids": {
+    "anilist": 25,
+    "mal": 25,
+    "anidb": 2166,
+    "tmdb": 29616,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Sunabouzu",
+    "english": "Desert Punk",
+    "native": "砂ぼうず",
+    "synonyms": [
+      "Sunabozu",
+      "Пустынная крыса"
+    ],
+    "tmdb_title": "Desert Punk"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2004,
+  "episodes": 24,
+  "duration": 24,
+  "start_date": {
+    "year": 2004,
+    "month": 10,
+    "day": 6
+  },
+  "end_date": {
+    "year": 2005,
+    "month": 3,
+    "day": 30
+  },
+  "description": "The Great Kanto Desert is a miserable place. It’s also the home of hero-for-hire Desert Punk, the closest thing to a good guy the wasteland’s got. He’s known as the best man for any job, but his reputation is undone by his raging hormones when curvy Junko uses her double-D charms to double-cross him. With debt hanging over his head, Desert Punk sets out to salvage his name. <br><br>\n(Source: Crunchyroll)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Ecchi",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Post-Apocalyptic",
+    "Slapstick",
+    "Anti-Hero",
+    "Guns",
+    "Survival",
+    "Desert",
+    "Military",
+    "Slavery",
+    "Terrorism"
+  ],
+  "studios": [
+    "GONZO"
+  ],
+  "producers": [
+    "GDH",
+    "Funimation",
+    "Pony Canyon",
+    "CBC"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 69,
+  "popularity": 28276,
+  "trending": 1,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx25-H1etX7IgfFtQ.jpg",
+    "poster_color": "#e4785d",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/25-F2qEJ3hvFzHj.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/mJ22FZbnULTrfohVbm0JEcYTTRo.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/9ubqJedkFPgW2apWFfXUqzWl9dM.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx25-H1etX7IgfFtQ.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/desert-punk"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/desert-punk"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T06:23:35.532Z",
+  "cache_version": 1
+}
