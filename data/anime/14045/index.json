@@ -1,0 +1,84 @@
+{
+  "ids": {
+    "anilist": 14045,
+    "mal": 14045,
+    "anidb": 9207,
+    "tmdb": 53725,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Mangirl!",
+    "english": null,
+    "native": "まんがーる!",
+    "synonyms": [],
+    "tmdb_title": "Mangirl!"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2013,
+  "episodes": 13,
+  "duration": 4,
+  "start_date": {
+    "year": 2013,
+    "month": 1,
+    "day": 3
+  },
+  "end_date": {
+    "year": 2013,
+    "month": 3,
+    "day": 28
+  },
+  "description": "\"We're going to launch a manga magazine!\" <br><br>\nA team of girls with zero experience in manga editing are off and running toward their dream of creating the biggest manga magazine in Japan! They seem to do nothing but run into problems and failures... But still they're working hard every day!<br><br>\n(Source: Crunchyroll)",
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Work",
+    "Meta",
+    "Drawing",
+    "Primarily Female Cast",
+    "Cute Girls Doing Cute Things",
+    "Otaku Culture",
+    "Nudity"
+  ],
+  "studios": [
+    "Doga Kobo"
+  ],
+  "producers": [
+    "Earth Star Entertainment"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 56,
+  "popularity": 9095,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14045-K98vghbjYwpS.jpg",
+    "poster_color": "#e4f1c9",
+    "banner": "https://image.tmdb.org/t/p/original/vzTJRmZhg1otwwS6tNsukNF1AcB.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/zgKoLseRKWiIi5lfdP9WaXdobY3.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/vzTJRmZhg1otwwS6tNsukNF1AcB.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx14045-K98vghbjYwpS.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/mangirl"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T08:59:49.157Z",
+  "cache_version": 1
+}
