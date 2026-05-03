@@ -1,0 +1,121 @@
+{
+  "ids": {
+    "anilist": 512,
+    "mal": 512,
+    "anidb": 286,
+    "tmdb": 16859,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Majo no Takkyuubin",
+    "english": "Kiki's Delivery Service",
+    "native": "魔女の宅急便",
+    "synonyms": [
+      "魔女宅",
+      "Majotaku",
+      "Witch's Express Delivery",
+      "Kiki la petite sorcière",
+      "Nicky, la Aprendiz de Bruja",
+      "O Serviço de Entregas da Kiki",
+      "Kiki - Consegne a domicilio",
+      "Podniebna poczta Kiki",
+      "كيكي لخدمة التوصيل",
+      "Kikis kleiner Lieferservice",
+      "Kikis budservice",
+      "Ведьмина служба доставки",
+      "Kikin Lähettipalvelu",
+      "Kikis Expressbud",
+      "Κίκι: Η Μικρή Μαγισσούλα",
+      "Kiki Entregas a Domicilio",
+      "แม่มดน้อยกิกิ",
+      "Sendiþjónusta Kiki",
+      "Kiki, A Aprendiz de Feiticeira"
+    ],
+    "tmdb_title": "Kiki's Delivery Service"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 1989,
+  "episodes": 1,
+  "duration": 105,
+  "start_date": {
+    "year": 1989,
+    "month": 7,
+    "day": 29
+  },
+  "end_date": {
+    "year": 1989,
+    "month": 7,
+    "day": 29
+  },
+  "description": "Kiki is an enterprising young girl who must follow tradition to become a full-fledged witch. Venturing out with only her chatty black cat, Jiji, Kiki flies off for the adventure of a lifetime. Landing in a far-off city, she sets up a high-flying delivery service and begins a wonderful experience of independence and responsibility as she finds her place in the world.<br><br>\n(Source: Disney)",
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Fantasy",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Coming of Age",
+    "Witch",
+    "Urban Fantasy",
+    "Female Protagonist",
+    "Magic",
+    "Primarily Female Cast",
+    "Work",
+    "Coastal",
+    "Kids",
+    "Urban",
+    "Primarily Adult Cast",
+    "Aviation",
+    "Animals"
+  ],
+  "studios": [
+    "Studio Ghibli",
+    "Studio Hibari"
+  ],
+  "producers": [
+    "Walt Disney Studios",
+    "GKIDS"
+  ],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 81,
+  "popularity": 176286,
+  "trending": 4,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx512-UwP8X4BR8YoM.png",
+    "poster_color": "#50a1c9",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/512-Ssp3EE2NdeoA.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/dqm2k93SZsEojnHFBCNlXa2McQw.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/h5pAEVma835u8xoE60kmLVopLct.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx512-UwP8X4BR8YoM.png"
+  },
+  "streaming": [
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/60027106"
+    },
+    {
+      "site": "Max",
+      "url": "https://www.max.com/movies/b7788922-e4c4-42f8-918b-304a7a187f38"
+    },
+    {
+      "site": "Max",
+      "url": "https://www.max.com/movies/24568aaa-6cbd-4d57-8980-c1a709eac673"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T03:38:01.925Z",
+  "cache_version": 1
+}
