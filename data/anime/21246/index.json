@@ -1,0 +1,81 @@
+{
+  "ids": {
+    "anilist": 21246,
+    "mal": 31143,
+    "anidb": 11342,
+    "tmdb": 90378,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Onsen Yousei Hakone-chan",
+    "english": "Hakone-chan",
+    "native": "温泉幼精ハコネちゃん",
+    "synonyms": [],
+    "tmdb_title": "Hakone-chan"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2015,
+  "episodes": 13,
+  "duration": 4,
+  "start_date": {
+    "year": 2015,
+    "month": 10,
+    "day": 4
+  },
+  "end_date": {
+    "year": 2015,
+    "month": 12,
+    "day": 27
+  },
+  "description": "The story follows Hakone, a hot spring spirit who descended to a spa resort on Earth. However, with her long slumber, she looks like a little girl on the outside. The high school boy Touya stumbles across her at a hot spring and ends up joining Hakone in retrieving her original powers. <br><br>(Source: Anime News Network)",
+  "genres": [
+    "Comedy",
+    "Slice of Life",
+    "Supernatural"
+  ],
+  "tags": [
+    "Mythology",
+    "Primarily Female Cast",
+    "Shrine Maiden",
+    "Youkai"
+  ],
+  "studios": [
+    "Asahi Production",
+    "Ashi Productions"
+  ],
+  "producers": [],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 55,
+  "popularity": 7811,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21246-yTJbgjNYSTF8.png",
+    "poster_color": "#e44335",
+    "banner": "https://image.tmdb.org/t/p/original/iGG99d3CB7X0jqgjgG03RMyEXKK.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/gXA8pAqm1TOzH5I40ukwgXtgFqz.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/iGG99d3CB7X0jqgjgG03RMyEXKK.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21246-yTJbgjNYSTF8.png"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/hakone"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T09:20:44.524Z",
+  "cache_version": 1
+}
