@@ -1,0 +1,80 @@
+{
+  "ids": {
+    "anilist": 98495,
+    "mal": 33845,
+    "tmdb": 450149,
+    "tmdb_type": "movie"
+  },
+  "titles": {
+    "romaji": "Free!: Timeless Medley - Kizuna",
+    "english": "Free! -Timeless Medley- The Bond",
+    "native": "劇場版 Free!-Timeless Medley- 絆",
+    "synonyms": [],
+    "tmdb_title": "Free!: Timeless Medley - The Bond"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2017,
+  "episodes": 1,
+  "duration": 98,
+  "start_date": {
+    "year": 2017,
+    "month": 4,
+    "day": 22
+  },
+  "end_date": {
+    "year": 2017,
+    "month": 4,
+    "day": 22
+  },
+  "description": "First part of <i>Free!: Timeless Medley</i>.\n<br><br>\nA recap movie of mostly Eternal Summer with some of season one. Focuses on Haru and Iwatobi. Also includes never before seen scenes and includes cameos from High Speed characters.",
+  "genres": [
+    "Drama",
+    "Slice of Life",
+    "Sports"
+  ],
+  "tags": [
+    "Swimming",
+    "Coming of Age",
+    "Cute Boys Doing Cute Things",
+    "School",
+    "Primarily Male Cast"
+  ],
+  "studios": [
+    "Kyoto Animation"
+  ],
+  "producers": [
+    "Funimation"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 74,
+  "popularity": 15065,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98495-4mzOXo8Dj3pY.jpg",
+    "poster_color": "#35aee4",
+    "banner": "https://image.tmdb.org/t/p/original/3mhn70loaZxPfSVMJ0pIXt0GqXd.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/3qgJgdEa0pN9twylgjdTazTl23h.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/3mhn70loaZxPfSVMJ0pIXt0GqXd.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98495-4mzOXo8Dj3pY.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/free-iwatobi-swim-club"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T07:49:59.376Z",
+  "cache_version": 1
+}
