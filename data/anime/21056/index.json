@@ -1,0 +1,89 @@
+{
+  "ids": {
+    "anilist": 21056,
+    "mal": 29325,
+    "anidb": 11023,
+    "tmdb": 62070,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Koukaku Kidoutai ARISE: ALTERNATIVE ARCHITECTURE",
+    "english": "Ghost in the Shell Arise: Alternative Architecture",
+    "native": "攻殻機動隊ARISE ALTERNATIVE ARCHITECTURE",
+    "synonyms": [
+      "Koukaku Kidoutai: AAA"
+    ],
+    "tmdb_title": "Ghost in the Shell: Arise - Alternative Architecture"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2015,
+  "episodes": 10,
+  "duration": 24,
+  "start_date": {
+    "year": 2015,
+    "month": 4,
+    "day": 5
+  },
+  "end_date": {
+    "year": 2015,
+    "month": 6,
+    "day": 14
+  },
+  "description": "A TV anime version of <i>Ghost in the Shell: Arise</i>. <br><br>\n\n<i>Note: The first eight episodes are an edited version of the four movies while the last two are new content.</i>",
+  "genres": [
+    "Action",
+    "Mecha",
+    "Psychological",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Police",
+    "Cyberpunk",
+    "Guns",
+    "Military",
+    "Cyborg",
+    "Female Protagonist",
+    "Primarily Adult Cast",
+    "Artificial Intelligence",
+    "Ensemble Cast",
+    "Primarily Male Cast"
+  ],
+  "studios": [
+    "Production I.G"
+  ],
+  "producers": [],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 68,
+  "popularity": 9865,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21056-Lv2scuQyXusc.png",
+    "poster_color": "#f1a15d",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21056-QaHHmTJ7qpJh.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/qCX5Jb1uaKrFVTfOnT265tdzvJT.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/rUiGxO4ukukYBxkkX9aF8sJy36d.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21056-Lv2scuQyXusc.png"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/ghost-in-the-shell-arise"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T08:49:34.959Z",
+  "cache_version": 1
+}
