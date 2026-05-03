@@ -1,0 +1,104 @@
+{
+  "ids": {
+    "anilist": 20617,
+    "mal": 22359,
+    "anidb": 10421,
+    "tmdb": 62495,
+    "tmdb_type": "tv"
+  },
+  "titles": {
+    "romaji": "Sanzoku no Musume Ronja",
+    "english": "Ronja, the Robber's Daughter",
+    "native": "山賊の娘ローニャ",
+    "synonyms": [
+      "Ronja Rövardotter",
+      "Ronja Räubertochter",
+      "Ronja Røverdatter",
+      "Ronja, córka zbójnika",
+      "Ronja, la filla del bandoler",
+      "Ronja, la hija del bandolero"
+    ],
+    "tmdb_title": "Ronja, the Robber's Daughter"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2014,
+  "episodes": 26,
+  "duration": 25,
+  "start_date": {
+    "year": 2014,
+    "month": 10,
+    "day": 11
+  },
+  "end_date": {
+    "year": 2015,
+    "month": 3,
+    "day": 28
+  },
+  "description": "The story is about a girl named Ronja who is the daughter of a chief of a tribe of bandits and lives in a huge castle in the forest with the bandits. The story follows Ronja as she encounters mystical creatures, makes friends with another young child like herself, and experiences life in the forest.",
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Full CGI",
+    "Family Life",
+    "Female Protagonist",
+    "Coming of Age",
+    "Kids",
+    "Crime",
+    "Rural",
+    "CGI",
+    "Classic Literature",
+    "Historical",
+    "Mythology",
+    "Foreign",
+    "Travel"
+  ],
+  "studios": [
+    "POLYGON PICTURES",
+    "Studio Ghibli"
+  ],
+  "producers": [
+    "NHK",
+    "Dwango",
+    "GKIDS"
+  ],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 65,
+  "popularity": 9544,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20617-cyIq3bsPRExg.jpg",
+    "poster_color": "#437828",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20617.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/cFdQv0bmQqaTAtPJU5MhyfhIZ28.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/nKgHsTibflGgGv3QeEEu7jtzqjR.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20617-cyIq3bsPRExg.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Amazon Prime Video",
+      "url": "https://www.amazon.com/dp/B01MZ4E6ZP"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/80074221"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T08:53:18.983Z",
+  "cache_version": 1
+}
