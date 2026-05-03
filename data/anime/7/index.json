@@ -1,0 +1,37 @@
+{
+  "ids": {
+    "anilist": 7,
+    "mal": 7,
+    "anidb": 96,
+    "tmdb": 1098,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "tmdb_title": "Witch Hunter Robin"
+  },
+  "episodes": 26,
+  "genres": [],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "images": {
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/uqsoTTEzLVKUacVR9cqtjqEYEAb.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/y9ETqHxMWc8IrDtVvRGST3IxafB.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/y9ETqHxMWc8IrDtVvRGST3IxafB.jpg",
+    "poster": "https://image.tmdb.org/t/p/w780/uqsoTTEzLVKUacVR9cqtjqEYEAb.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T06:53:19.285Z",
+  "cache_version": 1
+}
