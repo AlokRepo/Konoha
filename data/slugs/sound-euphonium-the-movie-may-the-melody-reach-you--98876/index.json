@@ -1,0 +1,86 @@
+{
+  "ids": {
+    "anilist": 98876,
+    "mal": 35082,
+    "anidb": 12962,
+    "tmdb": 460400,
+    "tmdb_type": "movie"
+  },
+  "titles": {
+    "romaji": "Hibike! Euphonium: Todoketai Melody",
+    "english": "Sound! Euphonium The Movie — May the melody reach you! —",
+    "native": "劇場版 響け！ユーフォニアム～届けたいメロディ～",
+    "synonyms": [],
+    "tmdb_title": "Sound! Euphonium The Movie: May the Melody Reach You!"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 2017,
+  "episodes": 1,
+  "duration": 115,
+  "start_date": {
+    "year": 2017,
+    "month": 9,
+    "day": 30
+  },
+  "end_date": {
+    "year": 2017,
+    "month": 9,
+    "day": 30
+  },
+  "description": "A compilation film recapping the events from the second season of the anime television series.",
+  "genres": [
+    "Drama",
+    "Music",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Band",
+    "Primarily Female Cast",
+    "School",
+    "School Club",
+    "Classical Music",
+    "Female Protagonist",
+    "Coming of Age",
+    "Ensemble Cast"
+  ],
+  "studios": [
+    "Kyoto Animation"
+  ],
+  "producers": [],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 77,
+  "popularity": 11680,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98876-krwPsUODyWin.jpg",
+    "poster_color": "#5093f1",
+    "banner": "https://image.tmdb.org/t/p/original/aCwmPcdZwIhqhH1wM4RAwpQvroR.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/27VXkIqQHysRYGBN2uVYaKlwlO2.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/aCwmPcdZwIhqhH1wM4RAwpQvroR.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98876-krwPsUODyWin.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Tubi TV",
+      "url": "https://tubitv.com/movies/590299/sound-euphonium-the-movie-may-the-melody-reach-you-subtitled"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/sound-euphonium-movies"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T08:24:34.749Z",
+  "cache_version": 1
+}
