@@ -1,0 +1,84 @@
+{
+  "ids": {
+    "anilist": 98529,
+    "mal": 35298,
+    "anidb": 13053,
+    "tmdb": 75793,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Ramen Daisuki Koizumi-san",
+    "english": "Ms. Koizumi Loves Ramen Noodles",
+    "native": "ラーメン大好き小泉さん",
+    "synonyms": [],
+    "tmdb_title": "Ms. Koizumi Loves Ramen Noodles"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2018,
+  "episodes": 12,
+  "duration": 23,
+  "start_date": {
+    "year": 2018,
+    "month": 1,
+    "day": 4
+  },
+  "end_date": {
+    "year": 2018,
+    "month": 3,
+    "day": 22
+  },
+  "description": "The gourmet comedy follows the daily life of Koizumi, a high school girl who looks like a cool beauty at first glance, but actually has an unexpected side of her that loves ramen.<br><br>\n\n(Source: Anime News Network)",
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Food",
+    "Female Protagonist",
+    "Primarily Female Cast",
+    "Cute Girls Doing Cute Things"
+  ],
+  "studios": [
+    "Studio Gokumi",
+    "AXsiZ"
+  ],
+  "producers": [],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 62,
+  "popularity": 19421,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98529-EwZwzKGNaU8b.jpg",
+    "poster_color": "#50aef1",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98529-Yv5xHKj1kIVM.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/3mbTcv1uzE8dHJBpUcES0deLyLa.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/cybtvybUytUtoiK68dtWGhG4aYY.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98529-EwZwzKGNaU8b.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/ms-koizumi-loves-ramen-noodles"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JhLkmirpuM72GPANUHjd77l"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T07:16:31.448Z",
+  "cache_version": 1
+}
