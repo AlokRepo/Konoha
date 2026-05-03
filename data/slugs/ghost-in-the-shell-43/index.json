@@ -1,0 +1,112 @@
+{
+  "ids": {
+    "anilist": 43,
+    "mal": 43,
+    "anidb": 61,
+    "tmdb": 9323,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "GHOST IN THE SHELL: Koukaku Kidoutai",
+    "english": "Ghost in the Shell",
+    "native": "GHOST IN THE SHELL / 攻殻機動隊",
+    "synonyms": [
+      "GitS",
+      "Ghost in the Shell: O Fantasma do Futuro",
+      "Duch w pancerzu",
+      "Páncélba zárt szellem"
+    ],
+    "tmdb_title": "Ghost in the Shell"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 1995,
+  "episodes": 1,
+  "duration": 83,
+  "start_date": {
+    "year": 1995,
+    "month": 11,
+    "day": 18
+  },
+  "end_date": {
+    "year": 1995,
+    "month": 11,
+    "day": 18
+  },
+  "description": "2029: A female cybernetic government agent, Major Motoko Kusanagi, and the Internal Bureau of Investigations are hot on the trail of “The Puppet Master,” a mysterious and threatening computer virus capable of infiltrating human hosts. Together with her fellow agents from Section 9, Kusanagi embarks on a high-tech race against time to capture the omnipresent entity.<br>\n<br>\n(Source: Lionsgate Films)",
+  "genres": [
+    "Action",
+    "Psychological",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Cyberpunk",
+    "Artificial Intelligence",
+    "Philosophy",
+    "Urban",
+    "Cyborg",
+    "Robots",
+    "Police",
+    "Female Protagonist",
+    "Primarily Adult Cast",
+    "Seinen",
+    "Noir",
+    "Primarily Male Cast",
+    "Dystopian",
+    "Crime",
+    "Guns",
+    "Espionage",
+    "Nudity"
+  ],
+  "studios": [
+    "Production I.G"
+  ],
+  "producers": [
+    "Bandai Visual",
+    "Kodansha",
+    "Manga Entertainment"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 80,
+  "popularity": 163759,
+  "trending": 1,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx43-Y6EjeEMM14dj.png",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/43-uDbk1jrG9yod.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/a4EPetwSkXI1dg9wF5agbnkuisc.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/jIpagj2Dud9g3ZVJFvaWikEWsYz.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx43-Y6EjeEMM14dj.png"
+  },
+  "streaming": [
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/540533"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/watch?v=iHil4Y4r3Wk"
+    },
+    {
+      "site": "Criterion Channel",
+      "url": "https://www.criterionchannel.com/ghost-in-the-shell/videos/ghost-in-the-shell-english-dubbed-version"
+    },
+    {
+      "site": "Criterion Channel",
+      "url": "https://www.criterionchannel.com/ghost-in-the-shell/videos/ghost-in-the-shell"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T03:41:29.473Z",
+  "cache_version": 1
+}
