@@ -1,0 +1,92 @@
+{
+  "ids": {
+    "anilist": 108358,
+    "mal": 39506,
+    "anidb": 14744,
+    "tmdb": 93830,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "PHANTASY STAR ONLINE 2: EPISODE ORACLE",
+    "english": "Phantasy Star Online 2: Episode Oracle",
+    "native": "PHANTASY STAR ONLINE 2 EPISODE ORACLE",
+    "synonyms": [
+      "ファンタシースターオンライン2 エピソード・オラクル "
+    ],
+    "tmdb_title": "Phantasy Star Online 2: Episode Oracle"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2019,
+  "episodes": 25,
+  "duration": 24,
+  "start_date": {
+    "year": 2019,
+    "month": 10,
+    "day": 7
+  },
+  "end_date": {
+    "year": 2020,
+    "month": 3,
+    "day": 30
+  },
+  "description": "Based on the Phantasy Star Online 2 MMORPG published by SEGA. It covers the first three episodes of the original game and an original story. The game storyline follows members of a planetary exploration organization ARKS, based on the colony fleet Oracle that's searching for a habitable planet for its population. The members of ARKS defend Oracle and other planets from monsters called Darkers, which are under the control of the villainous Dark Falzes.",
+  "genres": [
+    "Action",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Space"
+  ],
+  "studios": [
+    "GONZO",
+    "Studio KAI"
+  ],
+  "producers": [
+    "Pony Canyon",
+    "Frontier Works",
+    "Sega Games",
+    "TOKYO MX"
+  ],
+  "source": "VIDEO_GAME",
+  "country": "JP",
+  "score_anilist": 61,
+  "popularity": 7599,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108358-9Y0qXz0o101z.png",
+    "poster_color": "#e4506b",
+    "banner": "https://image.tmdb.org/t/p/original/fYrp0if5GtHpjalPNc8yvucPNXU.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/f89UBSLFrF2HRqmyxSFnhfZQny5.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/fYrp0if5GtHpjalPNc8yvucPNXU.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108358-9Y0qXz0o101z.png"
+  },
+  "streaming": [
+    {
+      "site": "Hulu",
+      "url": "https://www.hulu.com/phantasy-star-online-2-episode-oracle"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl0OVC7UC-jy0FDN55bQ6VK7"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/phantasy-star-online-2-episode-oracle"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T09:25:10.396Z",
+  "cache_version": 1
+}

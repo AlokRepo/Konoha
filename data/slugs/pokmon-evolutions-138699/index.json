@@ -1,0 +1,81 @@
+{
+  "ids": {
+    "anilist": 138699,
+    "mal": 49730,
+    "anidb": 16599,
+    "tmdb": 132636,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Pokémon Evolutions",
+    "english": "Pokémon Evolutions",
+    "native": "Pokémon Evolutions",
+    "synonyms": [
+      "Evoluzioni Pokémon",
+      "Pokémon Entwicklungen",
+      "Evoluciones Pokémon",
+      "Pokémon Evoluções"
+    ],
+    "tmdb_title": "Pokémon Evolutions"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2021,
+  "episodes": 8,
+  "duration": 8,
+  "start_date": {
+    "year": 2021,
+    "month": 9,
+    "day": 9
+  },
+  "end_date": {
+    "year": 2021,
+    "month": 12,
+    "day": 23
+  },
+  "description": "An animated series created to celebrate 25 years of the global entertainment franchise. Each episode will take fans on a journey through all the known regions of the Pokémon world.",
+  "genres": [
+    "Action",
+    "Fantasy"
+  ],
+  "tags": [
+    "Episodic",
+    "Animals",
+    "Proxy Battle",
+    "Creature Taming",
+    "Ensemble Cast",
+    "Video Games"
+  ],
+  "studios": [
+    "OLM"
+  ],
+  "producers": [],
+  "source": "VIDEO_GAME",
+  "country": "JP",
+  "score_anilist": 73,
+  "popularity": 10962,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138699-V0PBmiG6hnuf.jpg",
+    "poster_color": "#e4bb5d",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/138699-VT4ZvtTKyNcd.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/6aEFDKdQItpRwwrjZtKUSAlxjO9.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/qUyQMM1dGA1Px08zS7aCOoyFjpP.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138699-V0PBmiG6hnuf.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T08:32:42.393Z",
+  "cache_version": 1
+}
