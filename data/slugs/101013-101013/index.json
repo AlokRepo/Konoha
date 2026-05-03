@@ -1,0 +1,37 @@
+{
+  "ids": {
+    "anilist": 101013,
+    "mal": 37206,
+    "anidb": 13756,
+    "tmdb": 82929,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "tmdb_title": "Anima Yell!"
+  },
+  "episodes": 12,
+  "genres": [],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "images": {
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/xDeLrbQ2MjwL10zo73Q0Afbjd7l.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/kiP8qpYI2n8C3bzmrMAYxbkela8.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/kiP8qpYI2n8C3bzmrMAYxbkela8.jpg",
+    "poster": "https://image.tmdb.org/t/p/w780/xDeLrbQ2MjwL10zo73Q0Afbjd7l.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T07:40:21.334Z",
+  "cache_version": 1
+}

@@ -1,0 +1,37 @@
+{
+  "ids": {
+    "anilist": 1210,
+    "mal": 1210,
+    "anidb": 4121,
+    "tmdb": 42821,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "tmdb_title": "Welcome to the N-H-K"
+  },
+  "episodes": 24,
+  "genres": [],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "images": {
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/66iPnfhpWPPbc3Vkxiyel5yQop9.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/5jtc5va1gDiRi9pjnGqgCN1W0hF.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/5jtc5va1gDiRi9pjnGqgCN1W0hF.jpg",
+    "poster": "https://image.tmdb.org/t/p/w780/66iPnfhpWPPbc3Vkxiyel5yQop9.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T03:34:56.707Z",
+  "cache_version": 1
+}

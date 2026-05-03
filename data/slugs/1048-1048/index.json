@@ -1,0 +1,37 @@
+{
+  "ids": {
+    "anilist": 1048,
+    "mal": 1048,
+    "anidb": 270,
+    "tmdb": 8654,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "tmdb_title": "The SoulTaker"
+  },
+  "episodes": 13,
+  "genres": [],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "images": {
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/2TdjOxeruAFonhaDRonCOomyPXq.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/8PnKwrvc1VLUcx1wPVRnDfHEMXT.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/8PnKwrvc1VLUcx1wPVRnDfHEMXT.jpg",
+    "poster": "https://image.tmdb.org/t/p/w780/2TdjOxeruAFonhaDRonCOomyPXq.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T09:15:56.337Z",
+  "cache_version": 1
+}
