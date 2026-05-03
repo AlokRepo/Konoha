@@ -1,0 +1,101 @@
+{
+  "ids": {
+    "anilist": 21127,
+    "mal": 30484,
+    "anidb": 11167,
+    "tmdb": 78102,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Steins;Gate 0",
+    "english": "Steins;Gate 0",
+    "native": "シュタインズ・ゲート ゼロ",
+    "synonyms": [
+      "s;g0",
+      "命运石之门0"
+    ],
+    "tmdb_title": "Steins;Gate 0"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2018,
+  "episodes": 23,
+  "duration": 24,
+  "start_date": {
+    "year": 2018,
+    "month": 4,
+    "day": 12
+  },
+  "end_date": {
+    "year": 2018,
+    "month": 9,
+    "day": 27
+  },
+  "description": "The eccentric, self-proclaimed mad scientist Rintarou Okabe has become a shell of his former self. Depressed and traumatized after failing to rescue his friend, he has decided to forsake his mad scientist alter ego and live as an ordinary college student. Surrounded by friends who know little of his time travel experiences, Okabe spends his days trying to forget the horrors of his adventures alone.<br>\n<br>\nWhile working as a receptionist at a college technology forum, Okabe meets the short, spunky Maho Hiyajo, who\nlater turns out to be the interpreter at the forum's presentation, conducted by Professor Alexis Leskinen. In front of a stunned crowd, Alexis and Maho unveil Amadeus—a revolutionary AI capable of storing a person's memories and creating a perfect simulation of that person complete with their personality and quirks. Meeting with Maho and Alexis after the presentation, Okabe learns that the two were Kurisu's colleagues in university, and that they have simulated her in Amadeus. Hired by Alexis to research the simulation's behavior, Okabe is given the chance to interact with the shadow of a long-lost dear friend. Dangerously tangled in the past, Okabe must face the harsh reality and carefully maneuver around the disastrous consequences that come with disturbing the natural flow of time.\n",
+  "genres": [
+    "Drama",
+    "Psychological",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "tags": [
+    "Alternate Universe",
+    "Time Manipulation",
+    "Artificial Intelligence",
+    "Dissociative Identities",
+    "Urban",
+    "Philosophy",
+    "Male Protagonist",
+    "Denpa",
+    "Kuudere",
+    "Military"
+  ],
+  "studios": [
+    "WHITE FOX"
+  ],
+  "producers": [
+    "Frontier Works",
+    "Media Factory",
+    "Funimation",
+    "Movic",
+    "Kadokawa Shoten",
+    "Madman Entertainment"
+  ],
+  "source": "VISUAL_NOVEL",
+  "country": "JP",
+  "score_anilist": 84,
+  "popularity": 210344,
+  "trending": 1,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21127-7ARWZkDXKiiD.jpg",
+    "poster_color": "#f1d6bb",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21127-6jTjz7ndTHOi.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/75w7GE9K7T5wvy3OGN9gauSoBOZ.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/7B4PGxWt9NrcFCEAegLSEuSyAeS.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21127-7ARWZkDXKiiD.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/steinsgate-0"
+    },
+    {
+      "site": "Bilibili TV",
+      "url": "https://www.bilibili.tv/en/media/37208"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T10:28:39.129Z",
+  "cache_version": 1
+}
