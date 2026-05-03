@@ -1,0 +1,99 @@
+{
+  "ids": {
+    "anilist": 21704,
+    "mal": 32664,
+    "anidb": 11910,
+    "tmdb": 67656,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Bananya",
+    "english": "Bananya",
+    "native": "ばなにゃ",
+    "synonyms": [],
+    "tmdb_title": "Bananya"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 2016,
+  "episodes": 13,
+  "duration": 3,
+  "start_date": {
+    "year": 2016,
+    "month": 7,
+    "day": 4
+  },
+  "end_date": {
+    "year": 2016,
+    "month": 9,
+    "day": 26
+  },
+  "description": "An adaptation of Bananya, the banana cat mascot of the stationary company Q-Lia.",
+  "genres": [
+    "Comedy",
+    "Fantasy",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Episodic",
+    "Kids",
+    "Animals",
+    "Chibi",
+    "Primarily Animal Cast",
+    "Iyashikei"
+  ],
+  "studios": [
+    "TMS Entertainment"
+  ],
+  "producers": [
+    "Gathering"
+  ],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 63,
+  "popularity": 20024,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21704-He11JaJgPPiQ.jpg",
+    "poster_color": "#f1e45d",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21704-5qafbI4umdo7.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/nkHA9QgrHLh3vEq4WL5itDZAiCt.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/eDcr92URnTb5EK5xkC4tylmE1JY.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21704-He11JaJgPPiQ.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/bananya"
+    },
+    {
+      "site": "Tubi TV",
+      "url": "https://tubitv.com/series/300004699/bananya_english_dub"
+    },
+    {
+      "site": "Tubi TV",
+      "url": "https://tubitv.com/series/3414/bananya"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JjJSQURgyx2NQaDHdBpueq9"
+    },
+    {
+      "site": "Hulu",
+      "url": "https://www.hulu.com/series/0a0014ee-7422-454e-92c5-e4d074fa4518"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 120,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T07:10:18.831Z",
+  "cache_version": 1
+}
