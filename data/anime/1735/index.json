@@ -1,0 +1,130 @@
+{
+  "ids": {
+    "anilist": 1735,
+    "mal": 1735,
+    "anidb": 4880,
+    "tmdb": 31910,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "NARUTO: Shippuuden",
+    "english": "Naruto: Shippuden",
+    "native": "NARUTO -ナルト- 疾風伝",
+    "synonyms": [
+      "Naruto Shippuuden",
+      "Naruto Shippuden",
+      "נארוטו שיפודן",
+      "火影忍者 疾风传",
+      "นารูโตะ ตำนานวายุสลาตัน",
+      "ناروتو شيبودن",
+      "Наруто: Ураганные хроники"
+    ],
+    "tmdb_title": "Naruto Shippūden"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2007,
+  "episodes": 500,
+  "duration": 23,
+  "start_date": {
+    "year": 2007,
+    "month": 2,
+    "day": 15
+  },
+  "end_date": {
+    "year": 2017,
+    "month": 3,
+    "day": 23
+  },
+  "description": "Naruto: Shippuuden is the continuation of the original animated TV series Naruto. The story revolves around an older and slightly more matured Uzumaki Naruto and his quest to save his friend Uchiha Sasuke from the grips of the snake-like Shinobi, Orochimaru. After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work, though it will not be easy, as he has amassed a few (more dangerous) enemies, in the likes of the shinobi organization; Akatsuki. <br><br>\n(Source: Anime News Network)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Fantasy",
+    "Supernatural"
+  ],
+  "tags": [
+    "Ninja",
+    "Shounen",
+    "Super Power",
+    "Male Protagonist",
+    "Revenge",
+    "Orphan",
+    "Coming of Age",
+    "Martial Arts",
+    "Criminal Organization",
+    "Conspiracy",
+    "Philosophy",
+    "Cultivation",
+    "Ensemble Cast",
+    "Fugitive",
+    "Achronological Order",
+    "Military"
+  ],
+  "studios": [
+    "Studio Pierrot"
+  ],
+  "producers": [
+    "TV Tokyo",
+    "Aniplex",
+    "KSS",
+    "Viz Media",
+    "Rakuonsha",
+    "TV Tokyo Music"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 82,
+  "popularity": 571495,
+  "trending": 20,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-kGfVm0YqCPcu.png",
+    "poster_color": "#e4865d",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1735.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/71mASgFgSiPl9QUexVH8BubU0lD.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/z0YhJvomqedHF85bplUJEotkN5l.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1735-kGfVm0YqCPcu.png"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/naruto-shippuden"
+    },
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/naruto-shippuden"
+    },
+    {
+      "site": "Adult Swim",
+      "url": "https://www.adultswim.com/videos/naruto-shippuden"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/80000603"
+    },
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md3287/"
+    },
+    {
+      "site": "Bilibili TV",
+      "url": "https://www.bilibili.tv/play/1005195"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 134,
+  "match_signals": [
+    "english_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T03:14:26.133Z",
+  "cache_version": 1
+}
