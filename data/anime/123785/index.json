@@ -1,0 +1,90 @@
+{
+  "ids": {
+    "anilist": 123785,
+    "mal": 42825,
+    "anidb": 15716,
+    "tmdb": 108977,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Praeter no Kizu",
+    "english": "Scar on the Praeter",
+    "native": "プレイタの傷",
+    "synonyms": [
+      "PROJECT SCARD: Praeter no Kizu",
+      "บาดแผลแห่งอดีตกาล"
+    ],
+    "tmdb_title": "Scar on the Praeter"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2021,
+  "episodes": 13,
+  "duration": 24,
+  "start_date": {
+    "year": 2021,
+    "month": 1,
+    "day": 9
+  },
+  "end_date": {
+    "year": 2021,
+    "month": 4,
+    "day": 3
+  },
+  "description": "After a rebellion in the Akatsuki Special Ward of Tokyo, the government collapses and citizens are left to fend for themselves. With Divine Tattoos that each possess unique powers, agents known as the Scard rise up to become the protectors of peace.\n\nBut loyal to three contending organizations, they’ll have to face more than just criminals in order to serve their own definitions of justice.\n<br><br>\n(Source: Funimation)",
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Primarily Male Cast",
+    "Ensemble Cast",
+    "CGI"
+  ],
+  "studios": [
+    "GoHands"
+  ],
+  "producers": [
+    "Frontier Works",
+    "Glovision",
+    "Funimation"
+  ],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 52,
+  "popularity": 10957,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx123785-ciGZuIesWH7l.png",
+    "poster_color": "#a15035",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/123785-RPyFqAw3o3Nx.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/dLX3gkONnNN23HgwCpTGiVwen6b.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/xjlfkkARk6ApJwLWNFQ8Sf5O4e0.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx123785-ciGZuIesWH7l.png"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl2AAB1zAh5bCOdsxuBznXFl"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/scar-on-the-praeter"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T08:32:52.994Z",
+  "cache_version": 1
+}
