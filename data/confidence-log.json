@@ -128580,5 +128580,231 @@
       "step3_score_eval",
       "step3_no_match"
     ]
+  },
+  {
+    "anilist_id": 11553,
+    "tmdb_id": 42916,
+    "mal_id": 11553,
+    "score": 70,
+    "confidence": "PENDING",
+    "signals": [
+      "english_title",
+      "format_match",
+      "studio_match"
+    ],
+    "matched_at": "2026-05-03T11:04:23.470Z",
+    "resolver_steps": [
+      "step1_manami",
+      "step1_manami_hit",
+      "step4_jikan_crossval",
+      "step2_tmdb_exact",
+      "step3_score_eval",
+      "step3_fuzzy_accepted",
+      "step4_jikan_crossval",
+      "step5_sanity"
+    ]
+  },
+  {
+    "anilist_id": 20767,
+    "tmdb_id": 378096,
+    "score": 75,
+    "confidence": "PENDING",
+    "signals": [],
+    "matched_at": "2026-05-03T11:04:25.599Z",
+    "resolver_steps": [
+      "step1_manami",
+      "step1_manami_hit",
+      "step4_jikan_crossval",
+      "step2_tmdb_exact",
+      "step3_score_eval",
+      "step3_pending"
+    ]
+  },
+  {
+    "anilist_id": 143866,
+    "tmdb_id": 99083,
+    "mal_id": 50803,
+    "score": 78,
+    "confidence": "PENDING",
+    "signals": [
+      "english_title",
+      "format_match",
+      "studio_match"
+    ],
+    "matched_at": "2026-05-03T11:04:26.608Z",
+    "resolver_steps": [
+      "step1_manami",
+      "step1_manami_hit",
+      "step4_jikan_crossval",
+      "step2_tmdb_exact",
+      "step3_score_eval",
+      "step3_fuzzy_accepted",
+      "step4_jikan_crossval",
+      "step5_sanity"
+    ]
+  },
+  {
+    "anilist_id": 6811,
+    "tmdb_id": 35610,
+    "mal_id": 6811,
+    "score": 69,
+    "confidence": "PENDING",
+    "signals": [
+      "english_title",
+      "format_match",
+      "studio_match"
+    ],
+    "matched_at": "2026-05-03T11:04:28.457Z",
+    "resolver_steps": [
+      "step1_manami",
+      "step1_manami_hit",
+      "step4_jikan_crossval",
+      "step2_tmdb_exact",
+      "step3_score_eval",
+      "step3_fuzzy_accepted",
+      "step4_jikan_crossval",
+      "step5_sanity"
+    ]
+  },
+  {
+    "anilist_id": 10067,
+    "tmdb_id": null,
+    "mal_id": 10067,
+    "score": 0,
+    "confidence": "LOW",
+    "signals": [],
+    "matched_at": "2026-05-03T11:04:30.524Z",
+    "resolver_steps": [
+      "step1_manami",
+      "step1_manami_hit",
+      "step4_jikan_crossval",
+      "step2_tmdb_exact",
+      "step3_score_eval",
+      "step3_no_match"
+    ]
+  },
+  {
+    "anilist_id": 21104,
+    "tmdb_id": null,
+    "mal_id": 30347,
+    "score": 15,
+    "confidence": "LOW",
+    "signals": [],
+    "matched_at": "2026-05-03T11:04:31.026Z",
+    "resolver_steps": [
+      "step1_manami",
+      "step1_manami_hit",
+      "step4_jikan_crossval",
+      "step2_tmdb_exact",
+      "step3_score_eval",
+      "step3_no_match"
+    ]
+  },
+  {
+    "anilist_id": 2787,
+    "tmdb_id": null,
+    "mal_id": 2787,
+    "score": 0,
+    "confidence": "LOW",
+    "signals": [],
+    "matched_at": "2026-05-03T11:04:31.997Z",
+    "resolver_steps": [
+      "step1_manami",
+      "step1_manami_hit",
+      "step4_jikan_crossval",
+      "step2_tmdb_exact",
+      "step3_score_eval",
+      "step3_no_match"
+    ]
+  },
+  {
+    "anilist_id": 127366,
+    "tmdb_id": null,
+    "mal_id": 44881,
+    "score": 0,
+    "confidence": "LOW",
+    "signals": [],
+    "matched_at": "2026-05-03T11:04:33.222Z",
+    "resolver_steps": [
+      "step1_manami",
+      "step1_manami_hit",
+      "step4_jikan_crossval",
+      "step2_tmdb_exact",
+      "step3_score_eval",
+      "step3_no_match"
+    ]
+  },
+  {
+    "anilist_id": 19291,
+    "tmdb_id": 60572,
+    "score": 69,
+    "confidence": "PENDING",
+    "signals": [],
+    "matched_at": "2026-05-03T11:04:34.725Z",
+    "resolver_steps": [
+      "step1_manami",
+      "step1_manami_hit",
+      "step4_jikan_crossval",
+      "step2_tmdb_exact",
+      "step3_score_eval",
+      "step3_pending"
+    ]
+  },
+  {
+    "anilist_id": 21874,
+    "tmdb_id": 428292,
+    "mal_id": 33581,
+    "score": 70,
+    "confidence": "PENDING",
+    "signals": [
+      "year_match",
+      "format_match",
+      "studio_match"
+    ],
+    "matched_at": "2026-05-03T11:04:37.230Z",
+    "resolver_steps": [
+      "step1_manami",
+      "step1_manami_hit",
+      "step4_jikan_crossval",
+      "step2_tmdb_exact",
+      "step3_score_eval",
+      "step2_exact_accepted",
+      "step4_jikan_crossval",
+      "step5_sanity"
+    ]
+  },
+  {
+    "anilist_id": 162669,
+    "tmdb_id": null,
+    "mal_id": 54703,
+    "score": 0,
+    "confidence": "LOW",
+    "signals": [],
+    "matched_at": "2026-05-03T11:04:41.055Z",
+    "resolver_steps": [
+      "step1_manami",
+      "step1_manami_hit",
+      "step4_jikan_crossval",
+      "step2_tmdb_exact",
+      "step3_score_eval",
+      "step3_no_match"
+    ]
+  },
+  {
+    "anilist_id": 21660,
+    "tmdb_id": null,
+    "mal_id": 32801,
+    "score": 0,
+    "confidence": "LOW",
+    "signals": [],
+    "matched_at": "2026-05-03T11:04:41.916Z",
+    "resolver_steps": [
+      "step1_manami",
+      "step1_manami_hit",
+      "step4_jikan_crossval",
+      "step2_tmdb_exact",
+      "step3_score_eval",
+      "step3_no_match"
+    ]
   }
 ]
