@@ -1,0 +1,90 @@
+{
+  "ids": {
+    "anilist": 97590,
+    "mal": 33983,
+    "anidb": 12369,
+    "tmdb": 70943,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Onihei",
+    "english": "ONIHEI",
+    "native": "鬼平",
+    "synonyms": [],
+    "tmdb_title": "Onihei"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2017,
+  "episodes": 13,
+  "duration": 23,
+  "start_date": {
+    "year": 2017,
+    "month": 1,
+    "day": 10
+  },
+  "end_date": {
+    "year": 2017,
+    "month": 4,
+    "day": 4
+  },
+  "description": "The historical novel series depicts Heizou Hasegawa, who metes justice on wrongdoers and supervises the crackdown on arsonists and robbers in Japan's Edo period (1603-1868).\n<br><br>\n(Source: Anime News Network)",
+  "genres": [
+    "Drama"
+  ],
+  "tags": [
+    "Historical",
+    "Episodic",
+    "Swordplay",
+    "Male Protagonist",
+    "Crime",
+    "Tragedy",
+    "Police",
+    "Primarily Adult Cast",
+    "Samurai"
+  ],
+  "studios": [
+    "Studio M2",
+    "TMS Entertainment"
+  ],
+  "producers": [
+    "TMS Music",
+    "Techno Sound"
+  ],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 68,
+  "popularity": 10041,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97590-T68FhBBV6QV4.png",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/97590-qCyv7tGmyETs.png",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/gvAMvwG846lYJNxvGB9Yg144Hzj.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/43WoRf8JChEF5lxvfe9QEwQLlq7.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97590-T68FhBBV6QV4.png"
+  },
+  "streaming": [
+    {
+      "site": "Amazon Prime Video",
+      "url": "https://www.amazon.com/dp/B01NH51D4R"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/onihei"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T08:46:05.670Z",
+  "cache_version": 1
+}
