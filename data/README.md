@@ -8,14 +8,24 @@ This repository is automatically maintained by the [AniSync](https://github.com/
 
 All data is served via the **jsDelivr CDN** for maximum performance:
 
-- **Global Index**: `https://cdn.jsdelivr.net/gh/AlokRepo/Konoha@main/index.json`
-- **Airing Now**: `https://cdn.jsdelivr.net/gh/AlokRepo/Konoha@main/airing.json`
-- **Anime Details**: `https://cdn.jsdelivr.net/gh/AlokRepo/Konoha@main/anime/{anilist_id}/index.json`
-- **Episode Lists**: `https://cdn.jsdelivr.net/gh/AlokRepo/Konoha@main/anime/{anilist_id}/episodes.json`
+- **Global Index**: `https://cdn.jsdelivr.net/gh/AlokRepo/Konoha@main/data/index.json`
+- **ID Mapping**: `https://cdn.jsdelivr.net/gh/AlokRepo/Konoha@main/data/id-map.json`
+- **Search Index**: `https://cdn.jsdelivr.net/gh/AlokRepo/Konoha@main/data/search.json`
+- **Anime Details**: `https://cdn.jsdelivr.net/gh/AlokRepo/Konoha@main/data/anime/{anilist_id}/index.json`
+- **Episode Lists**: `https://cdn.jsdelivr.net/gh/AlokRepo/Konoha@main/data/anime/{anilist_id}/episodes.json`
 
-## Purpose
+## Credits & Sources
 
-The goal of Konoha is to provide a standardized, cross-source anime database that can be consumed by applications with zero server-side logic and sub-50ms latency.
+This database is made possible by the incredible APIs and datasets provided by:
+
+- **[AniList](https://anilist.co)** - Primary metadata and discovery.
+- **[TMDB](https://www.themoviedb.org)** - High-fidelity 4K images and episode data.
+- **[Jikan](https://jikan.moe)** - MyAnimeList (MAL) metadata bridge.
+- **[AnimeThemes](https://animethemes.moe)** - OP/ED video and music links.
+- **[Manami Project](https://github.com/manami-project/anime-offline-database)** - Comprehensive ID mapping.
+
+Please support these projects as they are the backbone of the anime developer community.
 
 ---
-Maintained by AniSync Pipeline.
+Maintained by the **AniSync Pipeline**.  
+*Disclaimer: This repository is a community cache and does not host any video files.*
