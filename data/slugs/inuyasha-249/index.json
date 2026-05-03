@@ -1,0 +1,122 @@
+{
+  "ids": {
+    "anilist": 249,
+    "mal": 249,
+    "anidb": 144,
+    "tmdb": 35610,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Inuyasha",
+    "english": "InuYasha",
+    "native": "犬夜叉",
+    "synonyms": [
+      "Inu Yasha",
+      "이누야샤",
+      "אינויאשה",
+      "อินุยาฉะ เทพอสูรจิ้งจอกเงิน"
+    ],
+    "tmdb_title": "InuYasha"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2000,
+  "episodes": 167,
+  "duration": 24,
+  "start_date": {
+    "year": 2000,
+    "month": 10,
+    "day": 16
+  },
+  "end_date": {
+    "year": 2004,
+    "month": 9,
+    "day": 13
+  },
+  "description": "Kagome Higurashi, an average ninth grader, gets pulled into an ancient well by a demon, bringing her 500 years in the past to the feudal era. There, she meets Inuyasha, a half-demon who seeks the Shikon Jewel to make himself a full-fledged demon. With Inuyasha and new friends, Kagome's search for the Jewel of Four Souls begins...<br>\n<br>\n(Source: VIZ Media)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Romance"
+  ],
+  "tags": [
+    "Youkai",
+    "Demons",
+    "Historical",
+    "Female Protagonist",
+    "Love Triangle",
+    "Rural",
+    "Magic",
+    "Heterosexual",
+    "Swordplay",
+    "Isekai",
+    "Shounen",
+    "Tsundere",
+    "Monster Boy",
+    "Travel",
+    "Kemonomimi",
+    "Time Manipulation",
+    "Archery",
+    "Male Protagonist",
+    "Shapeshifting",
+    "Curses",
+    "Orphan",
+    "Shrine Maiden"
+  ],
+  "studios": [
+    "Kyoto Animation",
+    "Sunrise"
+  ],
+  "producers": [
+    "Yomiuri TV",
+    "Viz Media",
+    "Selecta Visión"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 77,
+  "popularity": 164660,
+  "trending": 5,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx249-jVBkyLnBvnRE.png",
+    "poster_color": "#f15093",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/249-9ufXhmXxncry.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/47kGzUp9MyU4JuZzrHJPpX6ZHQ1.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/mVE1ULmLaYhCkBQPt3JC5xZC6T6.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx249-jVBkyLnBvnRE.png"
+  },
+  "streaming": [
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/inuyasha"
+    },
+    {
+      "site": "Netflix",
+      "url": "http://www.netflix.com/title/70204995"
+    },
+    {
+      "site": "Amazon Prime Video",
+      "url": "https://www.amazon.com/gp/video/detail/B0B5W1QLLZ/ref=atv_dp_season_select_s1"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://youtube.com/playlist?list=PLDDFkfLheQ9he_kx6d1U0_ZFpmU-4L44i"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 140,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_close",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T03:41:10.272Z",
+  "cache_version": 1
+}

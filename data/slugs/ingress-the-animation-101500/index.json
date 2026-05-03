@@ -1,0 +1,81 @@
+{
+  "ids": {
+    "anilist": 101500,
+    "mal": 37438,
+    "anidb": 13890,
+    "tmdb": 83238,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Ingress",
+    "english": "Ingress: The Animation",
+    "native": "イングレス",
+    "synonyms": [
+      "Ingress: Serial animowany"
+    ],
+    "tmdb_title": "Ingress: The Animation"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2018,
+  "episodes": 11,
+  "duration": 23,
+  "start_date": {
+    "year": 2018,
+    "month": 10,
+    "day": 18
+  },
+  "end_date": {
+    "year": 2018,
+    "month": 10,
+    "day": 18
+  },
+  "description": "Special Investigator Makoto Midorikawa possesses the unusual ability to unlock and perceive the memories of any object with a single touch. While investigating an explosion at a laboratory, his powers put him in the crosshairs of an international conspiracy centered around Exotic Matter (XM), a mysterious substance that could rewrite the fabric of human destiny. Caught between the Resistance and the Enlightened, rival factions hellbent on exploiting XM to twist civilization to their whim, Makoto must use his abilities to unlock the secrets of XM and save humanity.<br><br>\n\n(Source: Sentai Filmworks)",
+  "genres": [
+    "Action",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Augmented Reality",
+    "Full CGI",
+    "Primarily Adult Cast",
+    "Fugitive"
+  ],
+  "studios": [],
+  "producers": [
+    "Craftar"
+  ],
+  "source": "VIDEO_GAME",
+  "country": "JP",
+  "score_anilist": 58,
+  "popularity": 9080,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101500-cyZGel4enSqH.jpg",
+    "poster_color": "#3586e4",
+    "banner": "https://image.tmdb.org/t/p/original/zQOjsBkOaK2qV9GCVWyh2Pug3EF.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/yaubBjPlDCkFLCreyg2migPBpcl.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/zQOjsBkOaK2qV9GCVWyh2Pug3EF.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101500-cyZGel4enSqH.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/80992853"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-03T09:00:01.647Z",
+  "cache_version": 1
+}
