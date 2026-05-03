@@ -1,0 +1,90 @@
+{
+  "ids": {
+    "anilist": 158036,
+    "mal": 53732,
+    "anidb": 17751,
+    "tmdb": 305567,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Hidarikiki no Eren",
+    "english": "Eren the Southpaw",
+    "native": "左ききのエレン",
+    "synonyms": [],
+    "tmdb_title": "Eren the Southpaw"
+  },
+  "format": "TV",
+  "status": "RELEASING",
+  "season": "SPRING",
+  "season_year": 2026,
+  "episodes": 13,
+  "duration": 25,
+  "start_date": {
+    "year": 2026,
+    "month": 4,
+    "day": 8
+  },
+  "end_date": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "next_airing": {
+    "episode": 5,
+    "at": "2026-05-05T15:00:00.000Z"
+  },
+  "description": "As high school reaches its midpoint, Koichi Asakura—who dreams of studying design at art school—has his plans shaken by explosive graffiti on a museum wall. The artist is Eren Yamagishi, a left-handed girl who buried her talent after a past incident. Drawn together by art, Koichi pursues design as Eren returns to painting, but fear, ambition, and old scars threaten their paths.<br><br>(Source: Crunchyroll)",
+  "genres": [
+    "Drama"
+  ],
+  "tags": [
+    "Drawing",
+    "Primarily Adult Cast",
+    "Male Protagonist"
+  ],
+  "studios": [
+    "Signal.MD",
+    "Production I.G",
+    "Production I.G"
+  ],
+  "producers": [
+    "Dentsu",
+    "GAGA",
+    "TV Tokyo",
+    "VAP",
+    "NADA HOLDINGS",
+    "Marui Group"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 56,
+  "popularity": 6626,
+  "trending": 6,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158036-KfXv0BFBUsWl.jpg",
+    "poster_color": "#e4bb28",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158036-gWgQ6wMNsqW7.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/gqkK8hcaR8J8Gf5JnB1Q7Z5sKAo.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/4lfbfiNYyiM27U6BwT94taynXXH.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158036-KfXv0BFBUsWl.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/series/GT00371659/eren-the-southpaw"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T09:45:36.781Z",
+  "cache_version": 1
+}
