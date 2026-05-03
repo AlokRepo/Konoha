@@ -1,0 +1,99 @@
+{
+  "ids": {
+    "anilist": 99940,
+    "mal": 36124,
+    "anidb": 13385,
+    "tmdb": 75775,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Itou Junji: Collection",
+    "english": "Junji Ito Collection",
+    "native": "伊藤潤二「コレクション」",
+    "synonyms": [
+      "จุนจิ อิโต้ คอลเลคชั่นสยอง"
+    ],
+    "tmdb_title": "Junji Ito Collection"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2018,
+  "episodes": 12,
+  "duration": 24,
+  "start_date": {
+    "year": 2018,
+    "month": 1,
+    "day": 5
+  },
+  "end_date": {
+    "year": 2018,
+    "month": 3,
+    "day": 23
+  },
+  "description": "Anime adaptation of stories from both the 11-volume Ito Junji Kessaku-shuu series and the <i>Fragments of Horror</i> book.",
+  "genres": [
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Psychological",
+    "Supernatural"
+  ],
+  "tags": [
+    "Anthology",
+    "Episodic",
+    "Gore",
+    "Body Horror",
+    "School",
+    "Tragedy",
+    "Demons",
+    "Cosmic Horror",
+    "Ensemble Cast",
+    "Curses",
+    "Heterosexual",
+    "Urban",
+    "Crime"
+  ],
+  "studios": [
+    "Studio DEEN"
+  ],
+  "producers": [
+    "Crunchyroll"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 62,
+  "popularity": 53004,
+  "trending": 1,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx99940-pxsliSVHi0sj.jpg",
+    "poster_color": "#86285d",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/99940-A6OUzUuwTFxw.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/umIn2MeNsJAvzb8ztRrv2nhfJ28.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/33szknNsrRWiw8NPJZbVXOkfBfy.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx99940-pxsliSVHi0sj.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/junji-ito-collection"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://youtube.com/playlist?list=PLwLSw1_eDZl28nYqV_gPaNLe-PL2JEnCR"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T05:05:41.698Z",
+  "cache_version": 1
+}
