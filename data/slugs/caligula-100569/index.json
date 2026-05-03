@@ -1,0 +1,82 @@
+{
+  "ids": {
+    "anilist": 100569,
+    "mal": 36828,
+    "anidb": 13592,
+    "tmdb": 77722,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Caligula",
+    "english": null,
+    "native": "カリギュラ",
+    "synonyms": [
+      "The Caligula Effect"
+    ],
+    "tmdb_title": "Caligula"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2018,
+  "episodes": 12,
+  "duration": 24,
+  "start_date": {
+    "year": 2018,
+    "month": 4,
+    "day": 8
+  },
+  "end_date": {
+    "year": 2018,
+    "month": 6,
+    "day": 24
+  },
+  "description": "The Caligula Effect is set in a virtual reality program known as \"Mobius\", created so people can escape pain in their lives and live in an idyllic high school setting, forced to live out their 3 years Indefinitely. The main protagonist is one of a group who realize that they are in a virtual world, and form the \"Go-Home Club\", a group dedicated to escaping from Mobius and its god-like overseer program, a vocal program called \"μ\". They oppose the \"Ostinato Musicians\", a group who supports μ and sees the Go-Home Club as traitors.",
+  "genres": [
+    "Action",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Virtual World",
+    "Idol",
+    "Artificial Intelligence",
+    "Philosophy"
+  ],
+  "studios": [
+    "Satelight"
+  ],
+  "producers": [],
+  "source": "VIDEO_GAME",
+  "country": "JP",
+  "score_anilist": 55,
+  "popularity": 20776,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100569-j3Sr7Bplcrum.jpg",
+    "poster_color": "#e450a1",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/100569-t2MhiAvBGphp.png",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/x9yTT1euc432Efre6X85BBJkxek.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/2EQHaIfyPoGQB8sA1mq8UFpTDP0.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100569-j3Sr7Bplcrum.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/caligula"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T07:05:35.841Z",
+  "cache_version": 1
+}
