@@ -1,0 +1,95 @@
+{
+  "ids": {
+    "anilist": 128828,
+    "mal": 46604,
+    "anidb": 16006,
+    "tmdb": 117310,
+    "tmdb_type": "tv"
+  },
+  "titles": {
+    "romaji": "Dolls' Frontline",
+    "english": "Girls’ Frontline",
+    "native": "ドールズフロントライン",
+    "synonyms": [
+      "少女前线",
+      "Shaonü Qianxian",
+      "Девушки на линии фронта"
+    ],
+    "tmdb_title": "Dolls' Frontline"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2022,
+  "episodes": 12,
+  "duration": 25,
+  "start_date": {
+    "year": 2022,
+    "month": 1,
+    "day": 8
+  },
+  "end_date": {
+    "year": 2022,
+    "month": 3,
+    "day": 26
+  },
+  "description": "In the fallout of nuclear war, the last of humanity survives with the help of life-like androids known as Dolls. Built to serve, some fight in wars as Tactical Dolls or T-Dolls. Some of them and their newly assigned human commander are sent on missions to face a new rogue threat, Sangvis Ferri.<br>\n<br>\n(Source: Funimation)",
+  "genres": [
+    "Action",
+    "Drama"
+  ],
+  "tags": [
+    "Guns",
+    "Artificial Intelligence",
+    "War",
+    "Primarily Female Cast",
+    "Military",
+    "Female Protagonist",
+    "Robots",
+    "Post-Apocalyptic"
+  ],
+  "studios": [
+    "Asahi Production"
+  ],
+  "producers": [
+    "Warner Bros. Japan",
+    "SUNBORN Network Technology",
+    "GRIFFIN & KRYUGER",
+    "Ai Addiction"
+  ],
+  "source": "VIDEO_GAME",
+  "country": "JP",
+  "score_anilist": 53,
+  "popularity": 18655,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128828-Lhulr8Niitey.png",
+    "poster_color": "#d61a1a",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/128828-XBeHkBCUrMPc.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/c5GOXlm4kfRdK4w6XXwDGabW6A0.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/v2ETaw6qRlcvgWxLHCCfSvlD5S.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128828-Lhulr8Niitey.png"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl23nn7SiSh0qSwLxieZyNmh"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/girls-frontline"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T07:23:17.077Z",
+  "cache_version": 1
+}
