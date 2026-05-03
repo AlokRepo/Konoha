@@ -1,0 +1,86 @@
+{
+  "ids": {
+    "anilist": 175199,
+    "mal": 58222,
+    "tmdb": 1317276,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Given: Umi e",
+    "english": "given The Movie: To the Sea",
+    "native": "ギヴン 海へ",
+    "synonyms": [
+      "Given Movie 3",
+      "Given: To the Sea"
+    ],
+    "tmdb_title": "given the Movie: To the Sea"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 2024,
+  "episodes": 1,
+  "duration": 80,
+  "start_date": {
+    "year": 2024,
+    "month": 9,
+    "day": 20
+  },
+  "end_date": {
+    "year": 2024,
+    "month": 9,
+    "day": 20
+  },
+  "description": "Sequel to <i>Given: Hiiragi mix</i>.",
+  "genres": [
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "tags": [
+    "Boys' Love",
+    "LGBTQ+ Themes",
+    "Male Protagonist",
+    "Primarily Male Cast",
+    "Rock Music",
+    "Band"
+  ],
+  "studios": [
+    "Lerche"
+  ],
+  "producers": [
+    "Aniplex",
+    "BLUE LYNX"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 84,
+  "popularity": 11038,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175199-WxlBkrVGK8Fg.jpg",
+    "poster_color": "#6baed6",
+    "banner": "https://image.tmdb.org/t/p/original/c0mvOfufjrI0imQ5jIGIG3ZbkX4.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/qUentZw7lvaRVbf2MRHVW8y1la8.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/c0mvOfufjrI0imQ5jIGIG3ZbkX4.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175199-WxlBkrVGK8Fg.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/watch/G7PU3DWNQ/given-the-movie-to-the-sea"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T08:31:55.747Z",
+  "cache_version": 1
+}
