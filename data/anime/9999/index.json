@@ -1,0 +1,80 @@
+{
+  "ids": {
+    "anilist": 9999,
+    "mal": 9999,
+    "anidb": 8010,
+    "tmdb": 79082,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "ONE PIECE 3D: Mugiwara Chase",
+    "english": "One Piece 3D: Mugiwara Chase",
+    "native": "ONE PIECE 3D 麦わらチェイス",
+    "synonyms": [
+      "One Piece 3D: Straw Hat Chase",
+      "One Piece 3D - L'inseguimento di Cappello di Paglia"
+    ],
+    "tmdb_title": "One Piece 3D: Straw Hat Chase"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2011,
+  "episodes": 1,
+  "duration": 30,
+  "start_date": {
+    "year": 2011,
+    "month": 3,
+    "day": 19
+  },
+  "end_date": {
+    "year": 2011,
+    "month": 3,
+    "day": 19
+  },
+  "description": "The entire Straw Hat crew began to search for Luffy's important straw hat after he woke up finding it missing.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+  ],
+  "tags": [
+    "Pirates",
+    "Full CGI",
+    "Shounen",
+    "Ships",
+    "Super Power",
+    "CGI"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 64,
+  "popularity": 13735,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9999.jpg",
+    "poster_color": "#ffa100",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/9999-T5jCX3o3cxeN.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/cxA7j9wGNQCNyJcWjX43k5EC2WC.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/dpwfPVCD2eQgEWY7GtCYAyRaVAP.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9999.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T08:02:50.899Z",
+  "cache_version": 1
+}
