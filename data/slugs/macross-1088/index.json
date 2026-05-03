@@ -1,0 +1,104 @@
+{
+  "ids": {
+    "anilist": 1088,
+    "mal": 1088,
+    "anidb": 77,
+    "tmdb": 21734,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Choujikuu Yousai Macross",
+    "english": "Macross",
+    "native": "超時空要塞マクロス",
+    "synonyms": [
+      "Cho Jiku Yosai Macross",
+      "Super Dimensional Fortress Macross",
+      "SDF Macross",
+      "Robotech: The Macross Saga"
+    ],
+    "tmdb_title": "Super Dimension Fortress Macross"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 1982,
+  "episodes": 36,
+  "duration": 26,
+  "start_date": {
+    "year": 1982,
+    "month": 10,
+    "day": 3
+  },
+  "end_date": {
+    "year": 1983,
+    "month": 6,
+    "day": 26
+  },
+  "description": "In 1999, a giant alien spacecraft crash lands on South Ataria island. Humanity proceeds to attempt to rebuild this marvel, but political conflicts centered around the Macross result in a global war. After 10 years, the Unification Wars are finally over, the new Earth United Nations Government is in power, and work on the Macross is complete.<br>\n<br>\nOn the day of the launching ceremony, its main cannon fires on its own, destroying an alien spacecraft. This fateful day marks the beginning of the war between the humans on the Macross and the Zentradi, a race of humanoid aliens of giant proportions.<br>\n<br>\n(Source: AnimEigo)",
+  "genres": [
+    "Action",
+    "Drama",
+    "Mecha",
+    "Music",
+    "Romance",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Space Opera",
+    "War",
+    "Space",
+    "Military",
+    "Love Triangle",
+    "Aliens",
+    "Heterosexual",
+    "Idol",
+    "Unrequited Love",
+    "Real Robot",
+    "Aviation",
+    "Politics",
+    "Ensemble Cast",
+    "Urban",
+    "Male Protagonist",
+    "Female Protagonist",
+    "Primarily Adult Cast"
+  ],
+  "studios": [
+    "Artland",
+    "Tatsunoko Production"
+  ],
+  "producers": [
+    "Studio Nue"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 75,
+  "popularity": 30379,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1088-b2eAPvA5zmmi.png",
+    "poster_color": "#ffd61a",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1088-qEDmlgWXrKH3.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/rF4dltR2NIaNx5zYpKl9x50zCBP.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/yiZRga7KXQvjPLuExLNlfJvkrel.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1088-b2eAPvA5zmmi.png"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/robotech"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 115,
+  "match_signals": [
+    "synonyms_match",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T06:14:54.414Z",
+  "cache_version": 1
+}
