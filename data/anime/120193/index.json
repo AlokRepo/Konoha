@@ -1,0 +1,83 @@
+{
+  "ids": {
+    "anilist": 120193,
+    "mal": 40979,
+    "anidb": 15785,
+    "tmdb": 101988,
+    "tmdb_type": "tv"
+  },
+  "titles": {
+    "romaji": "Yingxiong Zailin",
+    "english": null,
+    "native": "英雄再临",
+    "synonyms": [
+      "The Hero's Return",
+      "Hero Return"
+    ],
+    "tmdb_title": "Hero Return"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 12,
+  "duration": 15,
+  "start_date": {
+    "year": 2020,
+    "month": 10,
+    "day": 18
+  },
+  "end_date": {
+    "year": 2020,
+    "month": 12,
+    "day": 27
+  },
+  "description": "A world where justice and evil collide. A dimension intertwined with magic and science. The retirement life of the strongest hero.\n<br><br>\n(Source: QQ, translated)",
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Superhero",
+    "Super Power",
+    "Male Protagonist",
+    "Magic"
+  ],
+  "studios": [
+    "Green Monster Team"
+  ],
+  "producers": [
+    "Big Firebird Cultural Media",
+    "Tencent Penguin Pictures"
+  ],
+  "source": "OTHER",
+  "country": "CN",
+  "score_anilist": 67,
+  "popularity": 12975,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120193-KAMiBZ4Nw3xA.png",
+    "poster_color": "#5dbbe4",
+    "banner": "https://image.tmdb.org/t/p/original/njRy4Rt3kCXmlxVVpk6tSFwGLrR.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/kMKoaWVfbdkF92v9GMwp2cVUWkr.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/njRy4Rt3kCXmlxVVpk6tSFwGLrR.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120193-KAMiBZ4Nw3xA.png"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/q/q72jd29a3oxflsr.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T08:10:27.421Z",
+  "cache_version": 1
+}
