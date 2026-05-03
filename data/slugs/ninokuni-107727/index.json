@@ -1,0 +1,81 @@
+{
+  "ids": {
+    "anilist": 107727,
+    "mal": 39235,
+    "anidb": 14679,
+    "tmdb": 594188,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Ni no Kuni",
+    "english": "NiNoKuni",
+    "native": "二ノ国",
+    "synonyms": [],
+    "tmdb_title": "NiNoKuni"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 2019,
+  "episodes": 1,
+  "duration": 106,
+  "start_date": {
+    "year": 2019,
+    "month": 8,
+    "day": 23
+  },
+  "end_date": {
+    "year": 2019,
+    "month": 8,
+    "day": 23
+  },
+  "description": "Based on Level-5's Ni no Kuni video game franchise.\n\nIn the story, Yuu is a high school student, and his best friend is Haru and his childhood friend is Kotona. Through a certain incident, they travel back and forth between reality and Ni no Kuni. When Kotona's life is put in danger, the three must make \"the ultimate choice.\"",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Romance"
+  ],
+  "tags": [
+    "Magic",
+    "Alternate Universe",
+    "Isekai",
+    "Male Protagonist",
+    "Love Triangle"
+  ],
+  "studios": [
+    "OLM"
+  ],
+  "producers": [],
+  "source": "VIDEO_GAME",
+  "country": "JP",
+  "score_anilist": 63,
+  "popularity": 23239,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107727-OZLbxfScJyYE.png",
+    "poster_color": "#5dd6e4",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/107727-YG3Xz6kDrWwL.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/ud6YOdHjRFFJInlpwpPRr9bFOFH.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/f7anbqCTDcZPWxJsqRPqemFwXCD.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107727-OZLbxfScJyYE.png"
+  },
+  "streaming": [
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/81093113"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T06:51:03.442Z",
+  "cache_version": 1
+}
