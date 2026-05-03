@@ -1,0 +1,111 @@
+{
+  "ids": {
+    "anilist": 552,
+    "mal": 552,
+    "anidb": 234,
+    "tmdb": 31654,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Digimon Adventure",
+    "english": "Digimon: Digital Monsters",
+    "native": "デジモンアドベンチャー",
+    "synonyms": [
+      "Digimon Adventure 01"
+    ],
+    "tmdb_title": "Digimon: Digital Monsters"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 1999,
+  "episodes": 54,
+  "duration": 23,
+  "start_date": {
+    "year": 1999,
+    "month": 3,
+    "day": 7
+  },
+  "end_date": {
+    "year": 2000,
+    "month": 3,
+    "day": 26
+  },
+  "description": "Seven kids are transported to the Digital World, a strange place where digital creatures called \"Digimon\" reside. A group of Digimon soon befriend them and keep the kids out of harm's way. The children then discover they are the Chosen Children, which protect the Digital World from evil Digimon like Devimon and Vamdemon.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Isekai",
+    "Virtual World",
+    "Primarily Child Cast",
+    "Proxy Battle",
+    "Ensemble Cast",
+    "Artificial Intelligence",
+    "Coming of Age",
+    "Kaiju",
+    "Kids",
+    "Henshin",
+    "Wilderness",
+    "Animals",
+    "Anthropomorphism",
+    "Creature Taming",
+    "Dinosaurs",
+    "Angels",
+    "Primarily Animal Cast",
+    "Camping",
+    "Travel",
+    "Survival"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [
+    "Yomiko Advertising",
+    "Fuji TV"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 75,
+  "popularity": 68550,
+  "trending": 4,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx552-zad0ts5hylQJ.jpg",
+    "poster_color": "#e4bb43",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/552-xAHaRMpoco2e.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/AlPYAJYkSfvVYAXK1a3gZqpWwda.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/rjkMqxsjbNJ3467IWXml04tyBTW.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx552-zad0ts5hylQJ.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/digimon-adventure"
+    },
+    {
+      "site": "iQ",
+      "url": "https://www.iq.com/album/2cvhju4mx29"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/digimon-adventure"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T04:43:10.061Z",
+  "cache_version": 1
+}

@@ -1,0 +1,37 @@
+{
+  "ids": {
+    "anilist": 5356,
+    "mal": 5356,
+    "anidb": 6275,
+    "tmdb": 43418,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "tmdb_title": "Canaan"
+  },
+  "episodes": 13,
+  "genres": [],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "images": {
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/pz6F0f9gmXOVH9IprXDm3XONad4.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/AurNyartTzjWs2fek0juUIVG2yr.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/AurNyartTzjWs2fek0juUIVG2yr.jpg",
+    "poster": "https://image.tmdb.org/t/p/w780/pz6F0f9gmXOVH9IprXDm3XONad4.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T05:20:01.395Z",
+  "cache_version": 1
+}
