@@ -1,0 +1,84 @@
+{
+  "ids": {
+    "anilist": 125261,
+    "mal": 43556,
+    "anidb": 15801,
+    "tmdb": 756234,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Tsurune: Hajimari no Issha",
+    "english": "Tsurune The Movie - The First Shot -",
+    "native": "劇場版ツルネ －はじまりの一射－",
+    "synonyms": [
+      "Tsurune: The First Shot"
+    ],
+    "tmdb_title": "Tsurune the Movie: The First Shot"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 2022,
+  "episodes": 1,
+  "duration": 102,
+  "start_date": {
+    "year": 2022,
+    "month": 8,
+    "day": 19
+  },
+  "end_date": {
+    "year": 2022,
+    "month": 8,
+    "day": 19
+  },
+  "description": "Movie adaptation of <i>Tsurune: Kazemai Koukou Kyuudou-bu.</i> <br><br>\n\nMinato Narumiya reignites his passion for kyudo, the Japanese martial art of archery. <br><br>\n\n (Source: HIDIVE) ",
+  "genres": [
+    "Drama",
+    "Slice of Life",
+    "Sports"
+  ],
+  "tags": [
+    "Archery",
+    "Cute Boys Doing Cute Things",
+    "Primarily Teen Cast",
+    "Male Protagonist",
+    "School Club",
+    "Primarily Male Cast",
+    "School"
+  ],
+  "studios": [
+    "Kyoto Animation"
+  ],
+  "producers": [],
+  "source": "LIGHT_NOVEL",
+  "country": "JP",
+  "score_anilist": 73,
+  "popularity": 8437,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx125261-Sh9fN2heZ1rm.jpg",
+    "poster_color": "#e4bb5d",
+    "banner": "https://image.tmdb.org/t/p/original/36Ah4AUwERwwaupkzaqC3nE5Rof.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/8c4E6dhaAVJEq9VOyseX1w11TPF.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/36Ah4AUwERwwaupkzaqC3nE5Rof.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx125261-Sh9fN2heZ1rm.jpg"
+  },
+  "streaming": [
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/movies/tsurune-the-movie-the-first-shot"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T09:10:44.330Z",
+  "cache_version": 1
+}
