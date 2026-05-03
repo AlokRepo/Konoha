@@ -1,0 +1,81 @@
+{
+  "ids": {
+    "anilist": 20711,
+    "mal": 23421,
+    "anidb": 10620,
+    "tmdb": 61791,
+    "tmdb_type": "tv",
+    "tmdb_season": 2
+  },
+  "titles": {
+    "romaji": "Re:_HAMATORA",
+    "english": "Re: Hamatora",
+    "native": "Re:␣ハマトラ",
+    "synonyms": [
+      "Hamatora The Animation Season 2"
+    ],
+    "tmdb_title": "Hamatora"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 2014,
+  "episodes": 12,
+  "duration": 24,
+  "start_date": {
+    "year": 2014,
+    "month": 7,
+    "day": 8
+  },
+  "end_date": {
+    "year": 2014,
+    "month": 9,
+    "day": 23
+  },
+  "description": "It has been three months since the incident at Yokohama. Things have been settling down at Cafe Nowhere. Murasaki and Hajime have teamed up and started investigating again. After an unforeseen reunion, Art holds Nice at gunpoint. What are his real intentions? What will become of the connection between Art and Hamatora?<br>\n<br>\n(Source: Crunchyroll)",
+  "genres": [
+    "Comedy",
+    "Mystery"
+  ],
+  "tags": [
+    "Super Power",
+    "Male Protagonist"
+  ],
+  "studios": [
+    "Lerche",
+    "NAZ"
+  ],
+  "producers": [
+    "Q-Tec"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 70,
+  "popularity": 35533,
+  "trending": 1,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20711-b641DKQpANPv.png",
+    "poster_color": "#780d0d",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n20711-2On3Sa9VBIsv.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/gvYwsD7OoJZ9SR9XBvb6TNoMAoD.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/bNNXcyNoNEOHSgx5wVQHHU3nY53.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20711-b641DKQpANPv.png"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/hamatora"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 108,
+  "match_signals": [
+    "english_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T05:52:50.701Z",
+  "cache_version": 1
+}
