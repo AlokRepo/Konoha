@@ -1,0 +1,87 @@
+{
+  "ids": {
+    "anilist": 98873,
+    "mal": 34161,
+    "tmdb": 477447,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Overlord: Fushisha no Ou",
+    "english": "Overlord: The Undead King",
+    "native": "劇場版総集編 オーバーロード 不死者の王",
+    "synonyms": [
+      "Overlord Movie 1",
+      "โอเวอร์ ลอร์ด จอมมารพิชิตโลก เดอะ มูฟวี่ The Undead King"
+    ],
+    "tmdb_title": "Overlord: The Undead King"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2017,
+  "episodes": 1,
+  "duration": 105,
+  "start_date": {
+    "year": 2017,
+    "month": 2,
+    "day": 25
+  },
+  "end_date": {
+    "year": 2017,
+    "month": 2,
+    "day": 25
+  },
+  "description": "A compilation film recapping the first half of the <i>Overlord</i> anime's first season, with a few extended scenes.<br><br>\nFollow veteran MMORPG player Momonga, who’s just been trapped in the world of his favorite game! Realizing the unprecedented power he commands, Momonga decides to bring glory to Nazarick and change the course of history.<br><br>\n(Source: Crunchyroll)\n",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [
+    "Isekai",
+    "Male Protagonist",
+    "Skeleton",
+    "Anti-Hero",
+    "Demons",
+    "Female Harem"
+  ],
+  "studios": [
+    "MADHOUSE"
+  ],
+  "producers": [],
+  "source": "LIGHT_NOVEL",
+  "country": "JP",
+  "score_anilist": 74,
+  "popularity": 24108,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98873-XAcxAF1rXuyM.jpg",
+    "poster_color": "#5093e4",
+    "banner": "https://image.tmdb.org/t/p/original/3U4Vgcd5BwrvnV9C0TKbcl9A9IL.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/bZ8BUFxoD1FdthWap01Vl1uxBWb.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/3U4Vgcd5BwrvnV9C0TKbcl9A9IL.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98873-XAcxAF1rXuyM.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/81285994"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/overlord"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T06:46:12.082Z",
+  "cache_version": 1
+}
