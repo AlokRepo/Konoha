@@ -1,0 +1,101 @@
+{
+  "ids": {
+    "anilist": 143080,
+    "mal": 50653,
+    "anidb": 17076,
+    "tmdb": 919609,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Odd Taxi: In the Woods",
+    "english": "ODDTAXI In The Woods",
+    "native": "映画 オッドタクシー イン・ザ・ウッズ",
+    "synonyms": [
+      "ODDTAXI Movie",
+      "Необычное такси: в чаще"
+    ],
+    "tmdb_title": "ODDTAXI in the Woods"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2022,
+  "episodes": 1,
+  "duration": 127,
+  "start_date": {
+    "year": 2022,
+    "month": 4,
+    "day": 1
+  },
+  "end_date": {
+    "year": 2022,
+    "month": 4,
+    "day": 1
+  },
+  "description": "<i>Note: This is a reconstruction of the television anime that will also depict what happens after its finale with a new story written by Kazuya Konomoto.</i>",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Psychological",
+    "Thriller"
+  ],
+  "tags": [
+    "Crime",
+    "Anthropomorphism",
+    "Urban",
+    "Work",
+    "Animals",
+    "Yakuza",
+    "Cars",
+    "Male Protagonist",
+    "Anti-Hero",
+    "Philosophy",
+    "Ensemble Cast",
+    "Primarily Animal Cast",
+    "Primarily Adult Cast"
+  ],
+  "studios": [
+    "P.I.C.S.",
+    "OLM"
+  ],
+  "producers": [
+    "Pony Canyon",
+    "Dentsu",
+    "Pony Canyon Enterprise",
+    "Asmik Ace",
+    "TV Tokyo",
+    "Crunchyroll",
+    "Yoshimoto Kogyo",
+    "AT-X"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 65,
+  "popularity": 18796,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143080-T5jgumGJBbNa.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/isM7fjukRUKR4OXLcVMbdPjMHtY.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/vWtvRhnenl2g8qypSlOOlDIPLgP.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/isM7fjukRUKR4OXLcVMbdPjMHtY.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143080-T5jgumGJBbNa.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/oddtaxi"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T07:21:43.499Z",
+  "cache_version": 1
+}

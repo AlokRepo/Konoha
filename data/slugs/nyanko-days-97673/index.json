@@ -1,0 +1,83 @@
+{
+  "ids": {
+    "anilist": 97673,
+    "mal": 34148,
+    "anidb": 12433,
+    "tmdb": 69297,
+    "tmdb_type": "tv"
+  },
+  "titles": {
+    "romaji": "Nyanko Days",
+    "english": "Nyanko Days",
+    "native": "にゃんこデイズ",
+    "synonyms": [
+      "nyanko-days"
+    ],
+    "tmdb_title": "Nyanko Days"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2017,
+  "episodes": 12,
+  "duration": 2,
+  "start_date": {
+    "year": 2017,
+    "month": 1,
+    "day": 8
+  },
+  "end_date": {
+    "year": 2017,
+    "month": 3,
+    "day": 26
+  },
+  "description": "The four-panel manga follows a shy girl named Tomoko who comes home from school and is greeted by her three (personified) cats.<br><br>\n\n(Source: Anime News Network)",
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Nekomimi",
+    "Cute Girls Doing Cute Things",
+    "Kemonomimi",
+    "Chibi",
+    "Female Protagonist",
+    "Primarily Female Cast",
+    "Animals"
+  ],
+  "studios": [
+    "EMT Squared"
+  ],
+  "producers": [],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 63,
+  "popularity": 21283,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx97673-UQ7WHkc04S40.jpg",
+    "poster_color": "#f1ae43",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/97673-WsIs3TC4omER.png",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/by86nWs4qMba3wefDWFL45IKAMe.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/peCKHjkiR11ldCzhrmpoh4XDaik.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx97673-UQ7WHkc04S40.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/nyanko-days"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T07:01:50.868Z",
+  "cache_version": 1
+}
