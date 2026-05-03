@@ -1,0 +1,102 @@
+{
+  "ids": {
+    "anilist": 270,
+    "mal": 270,
+    "anidb": 32,
+    "tmdb": 16830,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "HELLSING",
+    "english": "Hellsing",
+    "native": "HELLSING",
+    "synonyms": [
+      "ヘルシング",
+      "Хеллсинг"
+    ],
+    "tmdb_title": "Hellsing"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2001,
+  "episodes": 13,
+  "duration": 23,
+  "start_date": {
+    "year": 2001,
+    "month": 10,
+    "day": 11
+  },
+  "end_date": {
+    "year": 2002,
+    "month": 1,
+    "day": 17
+  },
+  "description": "Hellsing follows the antiheroic vampire, Alucard, and a police girl-turned-vampire, Seras Victoria, two vampires employed by the vampire-extermination group of England, the Hellsing Organization. Slowly but surely, through their active duty, they find a new breed of vampires beginning to arise.\n<br><br>\n(Source: Anime News Network)",
+  "genres": [
+    "Action",
+    "Horror",
+    "Supernatural"
+  ],
+  "tags": [
+    "Vampire",
+    "Primarily Adult Cast",
+    "Super Power",
+    "Noir",
+    "Gore",
+    "Military",
+    "Urban Fantasy",
+    "Seinen",
+    "Foreign",
+    "Male Protagonist",
+    "Female Protagonist",
+    "Guns",
+    "Anti-Hero",
+    "Urban",
+    "Monster Girl",
+    "Monster Boy"
+  ],
+  "studios": [
+    "GONZO"
+  ],
+  "producers": [
+    "Funimation",
+    "Pioneer LDC"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 72,
+  "popularity": 134927,
+  "trending": 5,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b270-S2ProngvO6BU.jpg",
+    "poster_color": "#e4ae43",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/270-wzSdgMsCRvtl.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/xA3wsLJzj6XnvuryerPBPwoQodH.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/6HerLaK4Mjjtssma4fF3qQUixX5.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b270-S2ProngvO6BU.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/hellsing"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/hellsing"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T03:49:32.316Z",
+  "cache_version": 1
+}
