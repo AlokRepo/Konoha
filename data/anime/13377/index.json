@@ -1,0 +1,78 @@
+{
+  "ids": {
+    "anilist": 13377,
+    "mal": 13377,
+    "anidb": 9034,
+    "tmdb": 52873,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Recorder to Randoseru Re♪",
+    "english": "Recorder and Randsell Re",
+    "native": "リコーダーとランドセル レ♪",
+    "synonyms": [
+      "Recorder and Backpack Re",
+      "Recorder and Satchel Re"
+    ],
+    "tmdb_title": "Recorder and Randsell"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2012,
+  "episodes": 13,
+  "duration": 3,
+  "start_date": {
+    "year": 2012,
+    "month": 4,
+    "day": 4
+  },
+  "end_date": {
+    "year": 2012,
+    "month": 6,
+    "day": 27
+  },
+  "description": "Second season.",
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [
+    "School",
+    "Seinen"
+  ],
+  "studios": [
+    "Seven"
+  ],
+  "producers": [],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 64,
+  "popularity": 6586,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13377-VPSrfUSIR7Di.png",
+    "poster_color": "#1a93d6",
+    "banner": "https://image.tmdb.org/t/p/original/eotuvv8cs2uOHscUmGzo5MfXCit.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/3N78xAszaBfwteZqGtLxRhK2iim.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/eotuvv8cs2uOHscUmGzo5MfXCit.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13377-VPSrfUSIR7Di.png"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/recorder-and-randsell"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 99,
+  "match_signals": [
+    "english_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T09:45:59.012Z",
+  "cache_version": 1
+}

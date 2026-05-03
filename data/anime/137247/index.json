@@ -1,0 +1,79 @@
+{
+  "ids": {
+    "anilist": 137247,
+    "mal": 49514,
+    "anidb": 16497,
+    "tmdb": 130206,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Gensou Sangokushi: Tengen Reishinki",
+    "english": "Fantasia Sango - Realm of Legends",
+    "native": "幻想三國誌 -天元霊心記",
+    "synonyms": [],
+    "tmdb_title": "Fantasia Sango – Realm of Legends"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2022,
+  "episodes": 12,
+  "duration": 25,
+  "start_date": {
+    "year": 2022,
+    "month": 1,
+    "day": 11
+  },
+  "end_date": {
+    "year": 2022,
+    "month": 3,
+    "day": 29
+  },
+  "description": "When the Three Kingdoms are ravaged by demons and monsters, four heroes with little in common must unite to fight the realm’s most vicious enemies. Together the heroes unveil an insidious conspiracy while sharing the joys and sorrows of battling a mysterious organization intent on tearing them and the kingdoms apart.<br>\n<br>\n(Source: Funimation)",
+  "genres": [
+    "Fantasy"
+  ],
+  "tags": [
+    "Demons",
+    "Episodic",
+    "Monster Girl"
+  ],
+  "studios": [
+    "GEEKTOYS"
+  ],
+  "producers": [
+    "Tohokushinsha Film Corporation"
+  ],
+  "source": "VIDEO_GAME",
+  "country": "JP",
+  "score_anilist": 44,
+  "popularity": 6539,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137247-JAj22GZfrbUk.png",
+    "poster_color": "#c935e4",
+    "banner": "https://image.tmdb.org/t/p/original/iSdtOR6EFCTqT154Y7XKJsF8tBW.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/sVY1EJI2n0xQtbWsXH1JOYzRpsc.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/iSdtOR6EFCTqT154Y7XKJsF8tBW.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137247-JAj22GZfrbUk.png"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/fantasia-sango-realm-of-legends"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T09:46:43.695Z",
+  "cache_version": 1
+}
