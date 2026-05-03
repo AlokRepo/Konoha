@@ -1,0 +1,140 @@
+{
+  "ids": {
+    "anilist": 20,
+    "mal": 20,
+    "anidb": 239,
+    "tmdb": 46260,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "NARUTO",
+    "english": "Naruto",
+    "native": "NARUTO -ナルト-",
+    "synonyms": [
+      "נארוטו",
+      "ناروتو",
+      "火影忍者",
+      "นารูโตะ นินจาจอมคาถา",
+      "Наруто"
+    ],
+    "tmdb_title": "Naruto"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2002,
+  "episodes": 220,
+  "duration": 23,
+  "start_date": {
+    "year": 2002,
+    "month": 10,
+    "day": 3
+  },
+  "end_date": {
+    "year": 2007,
+    "month": 2,
+    "day": 8
+  },
+  "description": "Naruto Uzumaki, a hyperactive and knuckle-headed ninja, lives in Konohagakure, the Hidden Leaf village. Moments prior to his birth, a huge demon known as the Kyuubi, the Nine-tailed Fox, attacked Konohagakure and wreaked havoc. In order to put an end to the Kyuubi's rampage, the leader of the village, the 4th Hokage, sacrificed his life and sealed the monstrous beast inside the newborn Naruto. <br><br>\nShunned because of the presence of the Kyuubi inside him, Naruto struggles to find his place in the village. He strives to become the Hokage of Konohagakure, and he meets many friends and foes along the way. <br><br>\n(Source: MAL Rewrite)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Fantasy",
+    "Supernatural"
+  ],
+  "tags": [
+    "Ninja",
+    "Shounen",
+    "Coming of Age",
+    "Male Protagonist",
+    "Orphan",
+    "Super Power",
+    "Martial Arts",
+    "Found Family",
+    "Primarily Child Cast",
+    "Ensemble Cast",
+    "Battle Royale",
+    "Bullying",
+    "Slapstick",
+    "Primarily Teen Cast",
+    "Achronological Order"
+  ],
+  "studios": [
+    "Studio Pierrot"
+  ],
+  "producers": [
+    "TV Tokyo",
+    "Aniplex",
+    "Viz Media",
+    "Shueisha",
+    "KSS",
+    "SME Visual Works",
+    "Rakuonsha"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 80,
+  "popularity": 678275,
+  "trending": 18,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
+    "poster_color": "#e47850",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20-HHxhPj5JD13a.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/mpsYIytXhDXjI9yYC1Fp1S3PxsS.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/naruto"
+    },
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/naruto"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/70205012"
+    },
+    {
+      "site": "Tubi TV",
+      "url": "https://tubitv.com/series/1622/naruto"
+    },
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.tv/en/play/1005144"
+    },
+    {
+      "site": "iQ",
+      "url": "https://www.iq.com/album/naruto-1evx2uy83ah"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://youtube.com/playlist?list=PLDDFkfLheQ9hNru7WoTa26dpn6o9-AEJK"
+    },
+    {
+      "site": "Hoopla",
+      "url": "https://www.hoopladigital.com/series/naruto-dubbed/11802118009"
+    },
+    {
+      "site": "Hoopla",
+      "url": "https://www.hoopladigital.com/television/naruto-subbed-season-1/14608874"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T03:13:20.339Z",
+  "cache_version": 1
+}
