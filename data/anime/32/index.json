@@ -1,0 +1,108 @@
+{
+  "ids": {
+    "anilist": 32,
+    "mal": 32,
+    "anidb": 202,
+    "tmdb": 18491,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Shin Seiki Evangelion Movie: Air / Magokoro wo, Kimi ni",
+    "english": "Neon Genesis Evangelion: The End of Evangelion",
+    "native": "新世紀エヴァンゲリオン劇場版 Air/まごころを、君に",
+    "synonyms": [
+      "הסוף של אוונגליון",
+      "אוונגליון של הסוף",
+      "Конец Евангелиона"
+    ],
+    "tmdb_title": "Neon Genesis Evangelion: The End of Evangelion"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 1997,
+  "episodes": 1,
+  "duration": 87,
+  "start_date": {
+    "year": 1997,
+    "month": 7,
+    "day": 19
+  },
+  "end_date": {
+    "year": 1997,
+    "month": 7,
+    "day": 19
+  },
+  "description": "NERV faces a brutal attack from SEELE, but with Asuka in a coma, and Shinji in a nervous breakdown, things soon turn into the surreal. This movie provides a concurrent ending to the final two episodes of the show <b>Neon Genesis Evangelion</b>.<br>\n<br>\n(Source: IMDb)",
+  "genres": [
+    "Action",
+    "Drama",
+    "Mecha",
+    "Psychological",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Philosophy",
+    "Post-Apocalyptic",
+    "Coming of Age",
+    "Dystopian",
+    "Denpa",
+    "Body Horror",
+    "Male Protagonist",
+    "Psychosexual",
+    "Super Robot",
+    "Conspiracy",
+    "Cosmic Horror",
+    "Mythology",
+    "Kaiju",
+    "Primarily Teen Cast",
+    "Robots",
+    "Religion",
+    "Female Protagonist",
+    "Mixed Media"
+  ],
+  "studios": [
+    "Gainax",
+    "Production I.G",
+    "Toei Animation"
+  ],
+  "producers": [
+    "TV Tokyo",
+    "Kadokawa Shoten",
+    "Movic",
+    "Sega Games",
+    "TV Tokyo Music",
+    "Selecta Visión"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 85,
+  "popularity": 237456,
+  "trending": 4,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx32-5JYsv0wc122I.jpg",
+    "poster_color": "#e46b50",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n32-BH9yHJBQqeOa.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/yBanOpNIccxjZlH4QH7ag4ojWOI.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/xLMJCCSatxENpHO9rLW9yD8A12C.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx32-5JYsv0wc122I.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/60024788"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T03:28:16.546Z",
+  "cache_version": 1
+}
