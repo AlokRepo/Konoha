@@ -1,0 +1,126 @@
+{
+  "ids": {
+    "anilist": 1,
+    "mal": 1,
+    "anidb": 23,
+    "tmdb": 30991,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Cowboy Bebop",
+    "english": "Cowboy Bebop",
+    "native": "カウボーイビバップ",
+    "synonyms": [
+      "카우보이 비밥",
+      "קאובוי ביבופ",
+      "คาวบอย บีบ๊อป",
+      "Ковбой Бибоп",
+      "Καουμπόηδες του Διαστήματος",
+      "Kowboj Bebop"
+    ],
+    "tmdb_title": "Cowboy Bebop"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 1998,
+  "episodes": 26,
+  "duration": 24,
+  "start_date": {
+    "year": 1998,
+    "month": 4,
+    "day": 3
+  },
+  "end_date": {
+    "year": 1999,
+    "month": 4,
+    "day": 24
+  },
+  "description": "Enter a world in the distant future, where Bounty Hunters roam the solar system. Spike and Jet, bounty hunting partners, set out on journeys in an ever struggling effort to win bounty rewards to survive.<br><br>\nWhile traveling, they meet up with other very interesting people. Could Faye, the beautiful and ridiculously poor gambler, Edward, the computer genius, and Ein, the engineered dog be a good addition to the group?",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Space",
+    "Crime",
+    "Episodic",
+    "Ensemble Cast",
+    "Primarily Adult Cast",
+    "Travel",
+    "Noir",
+    "Philosophy",
+    "Found Family",
+    "Anti-Hero",
+    "Guns",
+    "Cyberpunk",
+    "Male Protagonist",
+    "Female Protagonist",
+    "Terrorism",
+    "Martial Arts",
+    "Tomboy",
+    "Cyborg",
+    "Cowboys"
+  ],
+  "studios": [
+    "Sunrise"
+  ],
+  "producers": [
+    "Bandai Visual",
+    "Bandai Entertainment"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 86,
+  "popularity": 440921,
+  "trending": 10,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1-GCsPm7waJ4kS.png",
+    "poster_color": "#f16b50",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1-OquNCNB6srGe.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/hbLDwYri1pyiEIMpICgftu7s8NE.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/A4PHx94G7mvM3b8vsDJ5HEaQ6uv.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1-GCsPm7waJ4kS.png"
+  },
+  "streaming": [
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/cowboy-bebop"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/cowboy-bebop"
+    },
+    {
+      "site": "Amazon Prime Video",
+      "url": "https://www.amazon.com/gp/video/detail/B00R2KO8ZE/"
+    },
+    {
+      "site": "Tubi TV",
+      "url": "https://tubitv.com/series/2052"
+    },
+    {
+      "site": "Adult Swim",
+      "url": "https://www.adultswim.com/videos/cowboy-bebop"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/80001305"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T03:17:19.868Z",
+  "cache_version": 1
+}
