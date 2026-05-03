@@ -1,0 +1,78 @@
+{
+  "ids": {
+    "anilist": 10448,
+    "mal": 10448,
+    "anidb": 8324,
+    "tmdb": 230622,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "rain town",
+    "english": null,
+    "native": "rain town",
+    "synonyms": [
+      "Rain Town"
+    ],
+    "tmdb_title": "Rain Town"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 10,
+  "start_date": {
+    "year": 2011,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 2011,
+    "month": null,
+    "day": null
+  },
+  "description": "Hiroyasu Ishida's graduation project at Kyoto Seika University.",
+  "genres": [
+    "Drama",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Urban",
+    "No Dialogue",
+    "Robots",
+    "Dystopian",
+    "Female Protagonist"
+  ],
+  "studios": [],
+  "producers": [
+    "Kyoto Seika University"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 67,
+  "popularity": 8099,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx10448-cmU7jXA5ArTy.jpg",
+    "poster_color": "#286b78",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/10448-4VdP1QPncJ0w.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/zfeOjiQWXIAaxCYwUrPzoy1poXy.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/g704utk2uAwnFN8g5hhtQjq1Wj6.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx10448-cmU7jXA5ArTy.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/watch?v=RLAfM1RXwRs"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-03T09:15:38.549Z",
+  "cache_version": 1
+}

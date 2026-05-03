@@ -1,0 +1,87 @@
+{
+  "ids": {
+    "anilist": 21189,
+    "mal": 28619,
+    "anidb": 10949,
+    "tmdb": 69891,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Ranpo Kitan: Game of Laplace",
+    "english": "Rampo Kitan: Game of Laplace",
+    "native": "乱歩奇譚 Game of Laplace",
+    "synonyms": [],
+    "tmdb_title": "Rampo Kitan: Game of Laplace"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 2015,
+  "episodes": 11,
+  "duration": 24,
+  "start_date": {
+    "year": 2015,
+    "month": 7,
+    "day": 3
+  },
+  "end_date": {
+    "year": 2015,
+    "month": 9,
+    "day": 18
+  },
+  "description": "Inspired by the works of author Edogawa Ranpo: When several murders at a middle school attract the attention of genius detective, Akechi, a student named Kobayashi volunteers to help with his investigation.<br>\n<br>\n(Source: FUNimation)",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Psychological"
+  ],
+  "tags": [
+    "Crime",
+    "Detective",
+    "Noir",
+    "Male Protagonist",
+    "Primarily Teen Cast"
+  ],
+  "studios": [
+    "Lerche"
+  ],
+  "producers": [
+    "Aniplex"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 61,
+  "popularity": 27887,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21189-ENdHxDI7278o.jpg",
+    "poster_color": "#e45d93",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21189-V1IlKEtytv6R.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/7L2tSZt6SNwOjqwLn43QeNZ9SBM.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/rSDv2x1LRheZd27mDrj94hU3bs1.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21189-ENdHxDI7278o.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/rampo-kitan-game-of-laplace"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/rampo-kitan-game-of-laplace"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T06:25:19.693Z",
+  "cache_version": 1
+}
