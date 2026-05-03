@@ -1,0 +1,93 @@
+{
+  "ids": {
+    "anilist": 104200,
+    "mal": 37596,
+    "anidb": 13977,
+    "tmdb": 1174063,
+    "tmdb_type": "movie"
+  },
+  "titles": {
+    "romaji": "Poputepipikku TV Special",
+    "english": "POP TEAM EPIC TV SPECIAL",
+    "native": "ポプテピピックTVスペシャル",
+    "synonyms": [
+      "Pop and pipi beautiful daily TV special"
+    ],
+    "tmdb_title": "POP TEAM EPIC TV SPECIAL"
+  },
+  "format": "SPECIAL",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2019,
+  "episodes": 2,
+  "duration": 24,
+  "start_date": {
+    "year": 2019,
+    "month": 4,
+    "day": 1
+  },
+  "end_date": {
+    "year": 2019,
+    "month": 4,
+    "day": 1
+  },
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [
+    "Parody",
+    "Episodic",
+    "Satire",
+    "Surreal Comedy",
+    "Meta",
+    "Female Protagonist",
+    "Mixed Media"
+  ],
+  "studios": [
+    "Kamikaze Douga"
+  ],
+  "producers": [],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 72,
+  "popularity": 8696,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104200-ErJ0ihZleQJ5.jpg",
+    "poster_color": "#e40d1a",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/svrKguefroyzveKsPS0kRSecho1.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104200-ErJ0ihZleQJ5.jpg"
+  },
+  "streaming": [
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/season/20019?seriesId=1281"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/series/G69P1K90Y/pop-team-epic"
+    },
+    {
+      "site": "Tubi TV",
+      "url": "https://tubitv.com/movies/499094/pop_team_epic_tv_special"
+    },
+    {
+      "site": "RetroCrush",
+      "url": "https://www.retrocrush.tv/video/009293v/pop-team-epic-tv-special"
+    },
+    {
+      "site": "AsianCrush",
+      "url": "https://www.asiancrush.com/details/DMR00018512/Pop-Team-Epic-TV-Special"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 100,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T09:06:38.065Z",
+  "cache_version": 1
+}
