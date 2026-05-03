@@ -1,0 +1,37 @@
+{
+  "ids": {
+    "anilist": 178312,
+    "mal": 59113,
+    "anidb": 18696,
+    "tmdb": 257609,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "tmdb_title": "Farmagia"
+  },
+  "episodes": 12,
+  "genres": [],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "images": {
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/iSIwGUp5E1T4nCEHu5qi11kVpxd.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/frVCVjVB4LDUMVpN0ADgAirfC6V.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/frVCVjVB4LDUMVpN0ADgAirfC6V.jpg",
+    "poster": "https://image.tmdb.org/t/p/w780/iSIwGUp5E1T4nCEHu5qi11kVpxd.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T09:30:35.086Z",
+  "cache_version": 1
+}
