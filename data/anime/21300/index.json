@@ -1,0 +1,93 @@
+{
+  "ids": {
+    "anilist": 21300,
+    "mal": 31430,
+    "anidb": 11493,
+    "tmdb": 61398,
+    "tmdb_type": "tv",
+    "tmdb_season": 2
+  },
+  "titles": {
+    "romaji": "Terra Formars: Revenge",
+    "english": "Terra Formars: Revenge",
+    "native": "テラフォーマーズ リベンジ",
+    "synonyms": [
+      "Terra Formars 2nd Season",
+      "Terraformars 2"
+    ],
+    "tmdb_title": "Terra Formars"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2016,
+  "episodes": 13,
+  "duration": 24,
+  "start_date": {
+    "year": 2016,
+    "month": 4,
+    "day": 2
+  },
+  "end_date": {
+    "year": 2016,
+    "month": 6,
+    "day": 25
+  },
+  "description": "The second season of <i>Terra Formars</i>.<br>\n<br>\nIn Terra Formars Revenge, the crew members of the Annex I continue to fight against Terraformars—the large humanoid cockroaches that evolved from the ones sent to Mars centuries ago. However, far from discovering the cure for the lethal Alien Engine Virus that has been plaguing Earth, the Annex I team have learned that some squadrons have agendas from their own countries. Now, the squadrons must not only fight against the Terraformars for their survival, but also each other in the never-ending battle for international dominance.\n",
+  "genres": [
+    "Action",
+    "Horror",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Space",
+    "Gore",
+    "Seinen",
+    "Body Horror"
+  ],
+  "studios": [
+    "LIDENFILMS",
+    "TYO Animations"
+  ],
+  "producers": [
+    "MAGES."
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 61,
+  "popularity": 17528,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21300-zetpWksKrHJv.png",
+    "poster_color": "#50bbe4",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21300-eSZJSTLfEMzQ.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/nZTpfSicZCwa1R6GXFFy8d2Ir8k.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/b6WtMcvcmFExFijP82X7b7mWh2O.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21300-zetpWksKrHJv.png"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/terraformars"
+    },
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/terraformars"
+    },
+    {
+      "site": "Tubi TV",
+      "url": "https://tubitv.com/series/1795/terraformars"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 89,
+  "match_signals": [
+    "english_title",
+    "season_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T07:31:17.856Z",
+  "cache_version": 1
+}
