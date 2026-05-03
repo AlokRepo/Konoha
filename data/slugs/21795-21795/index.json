@@ -1,0 +1,36 @@
+{
+  "ids": {
+    "anilist": 21795,
+    "mal": 33241,
+    "anidb": 12102,
+    "tmdb": 68405,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "21795"
+  },
+  "genres": [],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "images": {
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/qhjAjkQibM2HhBEKiUgYWsENKux.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/7wBUJF6Wvx8o8AOB8BgyK0HMQdP.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7wBUJF6Wvx8o8AOB8BgyK0HMQdP.jpg",
+    "poster": "https://image.tmdb.org/t/p/w780/qhjAjkQibM2HhBEKiUgYWsENKux.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T06:47:10.578Z",
+  "cache_version": 1
+}

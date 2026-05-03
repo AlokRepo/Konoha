@@ -1,0 +1,37 @@
+{
+  "ids": {
+    "anilist": 21126,
+    "mal": 30485,
+    "anidb": 11166,
+    "tmdb": 69239,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "tmdb_title": "ChäoS;Child"
+  },
+  "episodes": 12,
+  "genres": [],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "images": {
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/p726IZ7VFmUYvxoEEhqCTO3JngQ.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/9wzUsWSeFQcZHfHJVfvHOVJBUQ6.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9wzUsWSeFQcZHfHJVfvHOVJBUQ6.jpg",
+    "poster": "https://image.tmdb.org/t/p/w780/p726IZ7VFmUYvxoEEhqCTO3JngQ.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 140,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_close",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T06:10:09.414Z",
+  "cache_version": 1
+}

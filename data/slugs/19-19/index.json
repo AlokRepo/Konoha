@@ -1,0 +1,36 @@
+{
+  "ids": {
+    "anilist": 19,
+    "mal": 19,
+    "anidb": 1539,
+    "tmdb": 30981,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "19"
+  },
+  "genres": [],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "images": {
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/7ZhHyA0IIQOyz1hzCXpTilXg4Q2.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/6T19aRp9zLMghZo1dTEwoNyreNZ.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/6T19aRp9zLMghZo1dTEwoNyreNZ.jpg",
+    "poster": "https://image.tmdb.org/t/p/w780/7ZhHyA0IIQOyz1hzCXpTilXg4Q2.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T03:22:19.924Z",
+  "cache_version": 1
+}
