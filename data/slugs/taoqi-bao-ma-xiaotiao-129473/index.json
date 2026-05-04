@@ -1,0 +1,66 @@
+{
+  "ids": {
+    "anilist": 129473,
+    "mal": 52705,
+    "tmdb": 1211975,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Taoqi Bao Ma Xiaotiao",
+    "english": null,
+    "native": "淘气包马小跳",
+    "synonyms": [
+      "The Naughty Boy Ma Xiaotiao"
+    ],
+    "tmdb_title": "淘气包马小跳"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 87,
+  "start_date": {
+    "year": 2009,
+    "month": 1,
+    "day": 20
+  },
+  "end_date": {
+    "year": 2009,
+    "month": 1,
+    "day": 20
+  },
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "OTHER",
+  "country": "CN",
+  "popularity": 33,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129473-k3eMUbbzQZTd.jpg",
+    "poster_color": "#fee450",
+    "banner": "https://image.tmdb.org/t/p/original/unRehEoV7TlHb1jWdHWuSgruI6D.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/zTw6ysKnLHwggpVbbLcfx8tv87L.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/unRehEoV7TlHb1jWdHWuSgruI6D.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129473-k3eMUbbzQZTd.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/x/cover/fzgy0ttk41lgynb.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T17:58:18.988Z",
+  "cache_version": 1
+}
