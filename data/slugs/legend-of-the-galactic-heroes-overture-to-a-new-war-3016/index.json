@@ -64,7 +64,7 @@
   "source": "OTHER",
   "country": "JP",
   "score_anilist": 78,
-  "popularity": 12392,
+  "popularity": 12401,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3016-ubCyMga7qCq6.png",
@@ -74,7 +74,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/wmhySWDOSbrgD2c368gY0UEIg9u.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3016-ubCyMga7qCq6.png"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/movies/legend-of-the-galactic-heroes-overture-to-a-new-war"
+    }
+  ],
   "themes": [],
   "confidence": "MEDIUM",
   "match_score": 105,
@@ -83,6 +88,6 @@
     "year_match",
     "format_match"
   ],
-  "cached_at": "2026-05-03T08:16:59.249Z",
+  "cached_at": "2026-05-04T17:56:59.646Z",
   "cache_version": 1
 }
