@@ -1,0 +1,61 @@
+{
+  "ids": {
+    "anilist": 121114,
+    "mal": 42323,
+    "tmdb": 1169250,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Nanjung Ilgi",
+    "english": null,
+    "native": "난중일기",
+    "synonyms": [
+      "Admiral's Diary"
+    ],
+    "tmdb_title": "Admiral's Diary"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 70,
+  "start_date": {
+    "year": 1997,
+    "month": 7,
+    "day": 19
+  },
+  "end_date": {
+    "year": 1997,
+    "month": 7,
+    "day": 19
+  },
+  "genres": [
+    "Action"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [
+    "Hangil Production"
+  ],
+  "source": "OTHER",
+  "country": "KR",
+  "popularity": 64,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121114-EAj0g7SBMHIk.jpg",
+    "poster_color": "#e48650",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w500/mL5w6qZ9hdPn8kq0S64aH4qTdwA.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121114-EAj0g7SBMHIk.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T17:35:54.990Z",
+  "cache_version": 1
+}
