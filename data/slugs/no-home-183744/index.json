@@ -1,0 +1,85 @@
+{
+  "ids": {
+    "anilist": 183744,
+    "mal": 59868,
+    "anidb": 19311,
+    "tmdb": 275695,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Jibi Eopseo",
+    "english": "No Home",
+    "native": "집이 없어",
+    "synonyms": [
+      "No Home"
+    ],
+    "tmdb_title": "No Home"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "episodes": 8,
+  "duration": 6,
+  "start_date": {
+    "year": 2024,
+    "month": 11,
+    "day": 1
+  },
+  "end_date": {
+    "year": 2024,
+    "month": 11,
+    "day": 15
+  },
+  "description": "Hae-Jun Go, who ran from home, and Eun-Yeong Baek, the problem child who lives in a tent. These two, who met under terrible circumstances, are forced to live together in an abandoned dormitory. This is a story of difficult growth between two people who hate both the dorm and each other.\n<br><br>\n(Source: Naver, translated)",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Slice of Life",
+    "Supernatural"
+  ],
+  "tags": [
+    "Found Family",
+    "Primarily Teen Cast",
+    "Homeless",
+    "School"
+  ],
+  "studios": [],
+  "producers": [
+    "LICO",
+    "Laftel"
+  ],
+  "source": "MANGA",
+  "country": "KR",
+  "score_anilist": 66,
+  "popularity": 1899,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b183744-HEluYWpuCiqj.jpg",
+    "poster_color": "#50aef1",
+    "banner": "https://image.tmdb.org/t/p/original/qTxQ7hQA4NRXuC0VEhUri9UuMsr.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/v0CVRb5CWHpExF2zsxh0TO0PSQV.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/qTxQ7hQA4NRXuC0VEhUri9UuMsr.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b183744-HEluYWpuCiqj.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Viki",
+      "url": "https://www.viki.com/tv/41028c-no-home"
+    },
+    {
+      "site": "Laftel",
+      "url": "https://laftel.tv/en/series/132/228"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T05:43:09.104Z",
+  "cache_version": 1
+}

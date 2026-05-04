@@ -1,0 +1,83 @@
+{
+  "ids": {
+    "anilist": 21796,
+    "mal": 33240,
+    "anidb": 12103,
+    "tmdb": 115785,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Koneko no Chii: Ponponra Daibouken",
+    "english": "Chi's Sweet Adventure",
+    "native": "こねこのチー ポンポンらー大冒険",
+    "synonyms": [
+      "Chi's Sweet Home (2016)",
+      "Chii's Grand Adventures",
+      "チーズスイートホーム",
+      "As Doces Aventuras de Chi",
+      "Chi, mon chaton"
+    ],
+    "tmdb_title": "Chi's Sweet Adventure"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2016,
+  "episodes": 51,
+  "duration": 13,
+  "start_date": {
+    "year": 2016,
+    "month": 10,
+    "day": 2
+  },
+  "end_date": {
+    "year": 2017,
+    "month": 9,
+    "day": 24
+  },
+  "description": "A new 3DCG anime series for Chi's Sweet Home.",
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Full CGI",
+    "Animals",
+    "CGI",
+    "Kids",
+    "Family Life"
+  ],
+  "studios": [],
+  "producers": [
+    "Marza Animation Planet"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 61,
+  "popularity": 2272,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21796-cwyH8pphj3gU.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21796-dv4dEdpITnZd.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/4YgPy8H4YFxSYDmxNrFKndU2MAS.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/3awGkXosXdcfvx5CTbqNpdGCYc6.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21796-cwyH8pphj3gU.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Amazon Prime Video",
+      "url": "https://www.primevideo.com/detail/0NYGYQHQBPFH3PMK7LAM74BPMU/ref=atv_dp_season_select_s1"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T05:39:02.578Z",
+  "cache_version": 1
+}

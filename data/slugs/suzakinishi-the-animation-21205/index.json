@@ -1,0 +1,70 @@
+{
+  "ids": {
+    "anilist": 21205,
+    "mal": 30826,
+    "anidb": 11260,
+    "tmdb": 64059,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Suzakinishi: THE ANIMATION",
+    "english": null,
+    "native": "洲崎西 THE ANIMATION",
+    "synonyms": [],
+    "tmdb_title": "SuzakiNishi the Animation"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 2015,
+  "episodes": 12,
+  "duration": 3,
+  "start_date": {
+    "year": 2015,
+    "month": 7,
+    "day": 8
+  },
+  "end_date": {
+    "year": 2015,
+    "month": 9,
+    "day": 23
+  },
+  "description": "Voice actresses Aya Suzaki and Asuka Nishi announced at an event in Tokyo on Sunday that their SuzakiNishi radio program will get a television anime adaptation starting in July.",
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Cute Girls Doing Cute Things",
+    "Surreal Comedy",
+    "Yuri"
+  ],
+  "studios": [
+    "feel."
+  ],
+  "producers": [],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 49,
+  "popularity": 1845,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21205-3NLbbrp7IKJy.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/h9dNADoBTqTlqjzXAglZVsMyxIX.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21205-3NLbbrp7IKJy.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T05:43:29.695Z",
+  "cache_version": 1
+}
