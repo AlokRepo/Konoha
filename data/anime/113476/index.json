@@ -1,0 +1,91 @@
+{
+  "ids": {
+    "anilist": 113476,
+    "mal": 41520,
+    "anidb": 15467,
+    "tmdb": 110651,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "SHOW BY ROCK!! STARS!!",
+    "english": "Show by Rock!! Stars!!",
+    "native": "SHOW BY ROCK!!STARS!!",
+    "synonyms": [
+      "Show by Rock!! Stars!! ภาค 4"
+    ],
+    "tmdb_title": "Show by Rock!! Stars!!"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2021,
+  "episodes": 12,
+  "duration": 24,
+  "start_date": {
+    "year": 2021,
+    "month": 1,
+    "day": 7
+  },
+  "end_date": {
+    "year": 2021,
+    "month": 3,
+    "day": 25
+  },
+  "description": "The fourth season of <i>SHOW BY ROCK!!</i>.",
+  "genres": [
+    "Comedy",
+    "Music"
+  ],
+  "tags": [
+    "Kemonomimi",
+    "Primarily Female Cast",
+    "Female Protagonist",
+    "Band",
+    "Nekomimi",
+    "Ensemble Cast",
+    "Cute Girls Doing Cute Things",
+    "Idol",
+    "Werewolf",
+    "Rock Music"
+  ],
+  "studios": [
+    "Kinema Citrus",
+    "ENGI"
+  ],
+  "producers": [
+    "Pony Canyon",
+    "Funimation"
+  ],
+  "source": "VIDEO_GAME",
+  "country": "JP",
+  "score_anilist": 71,
+  "popularity": 5238,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113476-X0y7eSl4TAHd.jpg",
+    "poster_color": "#e4bb28",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/113476-L368YN6wqSR1.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/bIocmcA3boR9BKuJieK7P9845n4.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/2mCaELXGnpaZHbqy3AybqB93pIn.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113476-X0y7eSl4TAHd.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLxSscENEp7Jg-H3LCLflZvXPqNzBBcgPe"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T02:10:49.700Z",
+  "cache_version": 1
+}
