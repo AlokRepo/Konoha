@@ -1,0 +1,79 @@
+{
+  "ids": {
+    "anilist": 21740,
+    "mal": 33041,
+    "anidb": 12043,
+    "tmdb": 65210,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Bubuki Buranki: Hoshi no Kyojin",
+    "english": "BBK/BRNK The Gentle Giants of the Galaxy",
+    "native": "ブブキ・ブランキ 星の巨人",
+    "synonyms": [],
+    "tmdb_title": "BBK/BRNK"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2016,
+  "episodes": 12,
+  "duration": 24,
+  "start_date": {
+    "year": 2016,
+    "month": 10,
+    "day": 1
+  },
+  "end_date": {
+    "year": 2016,
+    "month": 12,
+    "day": 17
+  },
+  "description": "Second season of Bubuki Buranki.",
+  "genres": [
+    "Action",
+    "Drama",
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Aliens",
+    "Super Robot",
+    "Full CGI"
+  ],
+  "studios": [
+    "SANZIGEN"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 64,
+  "popularity": 5796,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21740-5EDdxaQZGznt.png",
+    "poster_color": "#e47828",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21740-omett877TMzw.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/zVjFhC43B3hklP83JgC4vxhhI0X.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/2fs9w915mmNAtAoYeS9XpWaz048.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21740-5EDdxaQZGznt.png"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/bbkbrnk"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 107,
+  "match_signals": [
+    "english_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T02:03:56.954Z",
+  "cache_version": 1
+}
