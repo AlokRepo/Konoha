@@ -1,0 +1,82 @@
+{
+  "ids": {
+    "anilist": 104212,
+    "mal": 38150,
+    "anidb": 14256,
+    "tmdb": 87474,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Namu Amida Butsu!: Rendai UTENA",
+    "english": "Namuamidabutsu! -UTENA-",
+    "native": "なむあみだ仏っ！-蓮台 UTENA-",
+    "synonyms": [],
+    "tmdb_title": "NAMUAMIDABUTSU! -UTENA-"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2019,
+  "episodes": 12,
+  "duration": 24,
+  "start_date": {
+    "year": 2019,
+    "month": 4,
+    "day": 8
+  },
+  "end_date": {
+    "year": 2019,
+    "month": 6,
+    "day": 24
+  },
+  "description": "The story follows the Thirteen Buddha, along with Taishakuten and Bonten, who must confront the evil Māra. Māra seeks revenge against Shaka Nyorai, who had previously saved the world from suffering and conflict by achieving enlightenment.\n<br><br>\n(Source: Anime News Network)",
+  "genres": [
+    "Fantasy"
+  ],
+  "tags": [
+    "Primarily Male Cast",
+    "Gods",
+    "Male Protagonist",
+    "Historical"
+  ],
+  "studios": [
+    "Asahi Production"
+  ],
+  "producers": [],
+  "source": "VIDEO_GAME",
+  "country": "JP",
+  "score_anilist": 50,
+  "popularity": 4087,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b104212-Pb79PmiljHwx.jpg",
+    "poster_color": "#e4935d",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/104212-9yezOgTRNAvM.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/zoCLMTA1t1dMXbC26RLfvEp24If.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/8HP4oDZqwzCuaSQajo5Ho9GwL4j.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b104212-Pb79PmiljHwx.jpg"
+  },
+  "streaming": [
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/namuamidabutsu-utena-"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/namuamidabutsu-utena-"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T02:28:33.318Z",
+  "cache_version": 1
+}
