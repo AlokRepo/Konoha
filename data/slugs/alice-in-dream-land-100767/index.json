@@ -1,0 +1,74 @@
+{
+  "ids": {
+    "anilist": 100767,
+    "mal": 31941,
+    "anidb": 11733,
+    "tmdb": 482776,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Alice in Dreamland",
+    "english": "Alice in Dream Land",
+    "native": "アリス・イン・ドリームランド",
+    "synonyms": [],
+    "tmdb_title": "Alice in Dreamland"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2015,
+  "episodes": 1,
+  "duration": 44,
+  "start_date": {
+    "year": 2015,
+    "month": 12,
+    "day": 19
+  },
+  "end_date": {
+    "year": 2015,
+    "month": 12,
+    "day": 19
+  },
+  "description": "Alice is summoned by the White Rabbit to save Wonderland from spreading Darkness. However, she knows Alice in Wonderland is a story and that this must be a dream. And so it proves, but at the end, the now grown-up Alice sees the events of her dream begin to unfold for real.",
+  "genres": [
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [
+    "Isekai"
+  ],
+  "studios": [],
+  "producers": [
+    "BITGANG"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 43,
+  "popularity": 851,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx100767-XjYbC8TMj5NV.jpg",
+    "poster_color": "#e4bb86",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/100767-ug9gHMSqomE5.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/nBu6p5uT6PJpZyXZMjL6OQA6Dr2.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/3u1OvrA5zS4mCvFQ8FtWcJX4EP5.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx100767-XjYbC8TMj5NV.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/channel/UCtgm01HDJ0fyxRw4-xLpRmg"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T08:14:09.252Z",
+  "cache_version": 1
+}
