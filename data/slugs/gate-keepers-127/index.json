@@ -1,0 +1,83 @@
+{
+  "ids": {
+    "anilist": 127,
+    "mal": 127,
+    "anidb": 91,
+    "tmdb": 22401,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Gate Keepers",
+    "english": "Gate Keepers",
+    "native": "ゲートキーパーズ",
+    "synonyms": [
+      "Gatekeepers"
+    ],
+    "tmdb_title": "Gate Keepers"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2000,
+  "episodes": 24,
+  "duration": 25,
+  "start_date": {
+    "year": 2000,
+    "month": 4,
+    "day": 3
+  },
+  "end_date": {
+    "year": 2000,
+    "month": 9,
+    "day": 18
+  },
+  "description": "It is Tokyo, 1969. Earth is under the attack of the \"Invaders.\" Fortunately, though, the public is unaware of this. But to the secret orginazation, A.E.G.I.S., the threat is very real, and it is up them to stop this invasion. One day on his route to high school, Ukiya Shun observes a battle between a young girl and a group of Invaders. He ends up helping her and discovers that much like the girl, he possesses the ability to generate a \"gate\" of special power that only a few other people are gifted with. As a result, Ukiya then joins A.E.G.I.S. in an effort to recruit other Gate Keepers in order to protect the city, all while doing his best not to imitate his late father, whom he dispises.\n<br><br>\n(Source: Anime News Network)",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Fantasy",
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Aliens"
+  ],
+  "studios": [
+    "GONZO"
+  ],
+  "producers": [
+    "Media Factory"
+  ],
+  "source": "VIDEO_GAME",
+  "country": "JP",
+  "score_anilist": 64,
+  "popularity": 4436,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127-gwP6xnzX1ZiY.png",
+    "poster_color": "#f18635",
+    "banner": "https://image.tmdb.org/t/p/original/cJ3qe6fdpPcz6ku9ArmabHPnxm9.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/x7qKnc8j2sTPO1j51lvd5KYtv2s.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/cJ3qe6fdpPcz6ku9ArmabHPnxm9.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127-gwP6xnzX1ZiY.png"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/gate-keepers"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 140,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_close",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T02:22:13.194Z",
+  "cache_version": 1
+}
