@@ -1,0 +1,64 @@
+{
+  "ids": {
+    "anilist": 6851,
+    "mal": 6851,
+    "anidb": 7193,
+    "tmdb": 380412,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Kaitei no Boukun",
+    "english": null,
+    "native": "海底の暴君",
+    "synonyms": [
+      "Kaitei no Bokun",
+      "The Underwater Tyrant"
+    ],
+    "tmdb_title": "The Underwater Tyrant"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 1,
+  "start_date": {
+    "year": 1935,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 1935,
+    "month": null,
+    "day": null
+  },
+  "description": "Short film from the 1930s.",
+  "genres": [
+    "Adventure"
+  ],
+  "tags": [
+    "Achromatic",
+    "Animals"
+  ],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 37,
+  "popularity": 448,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6851.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6851.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T08:52:40.951Z",
+  "cache_version": 1
+}

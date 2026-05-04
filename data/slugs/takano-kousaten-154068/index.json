@@ -1,0 +1,71 @@
+{
+  "ids": {
+    "anilist": 154068,
+    "mal": 50206,
+    "anidb": 17099,
+    "tmdb": 986170,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Takano Kousaten",
+    "english": null,
+    "native": "高野交差点",
+    "synonyms": [
+      "Takano Intersection"
+    ],
+    "tmdb_title": "Takano Intersection"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 2021,
+  "episodes": 1,
+  "duration": 6,
+  "start_date": {
+    "year": 2021,
+    "month": 9,
+    "day": 17
+  },
+  "end_date": {
+    "year": 2021,
+    "month": 9,
+    "day": 17
+  },
+  "description": "In a certain city, for just a moment in time, the lives of three strangers intersect.\n<br><br>\n(Source: YouTube)",
+  "genres": [
+    "Slice of Life"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 61,
+  "popularity": 455,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b154068-brntL70VGO3g.jpg",
+    "poster_color": "#e4ae93",
+    "banner": "https://image.tmdb.org/t/p/original/frNJd7kZv9FlqGA3bqgA2s78JHb.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/pNKs3wtgO0PGfrfxUYfmXwxhq3a.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/frNJd7kZv9FlqGA3bqgA2s78JHb.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b154068-brntL70VGO3g.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://youtu.be/MJyGc_-dfxQ"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T08:51:24.973Z",
+  "cache_version": 1
+}

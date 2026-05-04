@@ -1,0 +1,71 @@
+{
+  "ids": {
+    "anilist": 102627,
+    "mal": 30045,
+    "anidb": 6945,
+    "tmdb": 490953,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Shin Saru Kani Gassen",
+    "english": null,
+    "native": "新猿蟹合戦",
+    "synonyms": [
+      "Monkey and Crabs"
+    ],
+    "tmdb_title": "Monkey and Crabs"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 11,
+  "start_date": {
+    "year": 1939,
+    "month": 8,
+    "day": 4
+  },
+  "end_date": {
+    "year": 1939,
+    "month": 8,
+    "day": 4
+  },
+  "description": "Crabs ban together to get right of an ape in their peach tree after it keeps stealing their food and hitting them with the fruits to the point where one gets severely injured.\n",
+  "genres": [
+    "Drama"
+  ],
+  "tags": [
+    "Fairy Tale",
+    "Achromatic"
+  ],
+  "studios": [],
+  "producers": [
+    "The National Film Center Japan"
+  ],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 43,
+  "popularity": 456,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102627-UkuuH2B8cXQb.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/6FjFQEmS52msVPjEaMluM0WD91y.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102627-UkuuH2B8cXQb.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Japanese Film Archives",
+      "url": "https://animation.filmarchives.jp/en/works/view/44405"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T08:51:12.711Z",
+  "cache_version": 1
+}
