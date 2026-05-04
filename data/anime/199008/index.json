@@ -1,0 +1,73 @@
+{
+  "ids": {
+    "anilist": 199008,
+    "mal": 62523,
+    "tmdb": 301127,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Uso Tantei Tomanto",
+    "english": null,
+    "native": "うそ探偵トマント",
+    "synonyms": [],
+    "tmdb_title": "Uso Tantei Tomanto"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2025,
+  "episodes": 26,
+  "duration": 1,
+  "start_date": {
+    "year": 2025,
+    "month": 10,
+    "day": 6
+  },
+  "end_date": {
+    "year": 2026,
+    "month": 4,
+    "day": 5
+  },
+  "description": "Tomanto and friends as they solve mysteries using vegetable and fruit trivia.\n<br><br>\n(Source: Anime News Network)",
+  "genres": [
+    "Mystery"
+  ],
+  "tags": [],
+  "studios": [
+    "Fanworks"
+  ],
+  "producers": [
+    "San-X"
+  ],
+  "source": "OTHER",
+  "country": "JP",
+  "popularity": 130,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199008-P45zksUSzTWD.png",
+    "poster_color": "#e4865d",
+    "banner": "https://image.tmdb.org/t/p/original/eRHHM4jcCd4NmfnaMHSl2fFc8UU.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/rpHGjK7sGUkopfvtZS70O1yLpO5.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/eRHHM4jcCd4NmfnaMHSl2fFc8UU.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199008-P45zksUSzTWD.png"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://youtube.com/playlist?list=PLQHgyFFC_PG3jG-Ek2Q8mQLlyQ7xI9Tax&si=CRhVA9_2yo9C6DJD"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T06:33:09.514Z",
+  "cache_version": 1
+}

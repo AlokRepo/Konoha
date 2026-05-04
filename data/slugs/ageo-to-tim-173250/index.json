@@ -1,0 +1,70 @@
+{
+  "ids": {
+    "anilist": 173250,
+    "mal": 58603,
+    "tmdb": 242755,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Ageo to Tim",
+    "english": null,
+    "native": "あげおとティム",
+    "synonyms": [],
+    "tmdb_title": "Ageo to Tim"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2024,
+  "episodes": 12,
+  "duration": 2,
+  "start_date": {
+    "year": 2024,
+    "month": 4,
+    "day": 2
+  },
+  "end_date": {
+    "year": 2024,
+    "month": 6,
+    "day": 18
+  },
+  "description": "A planet inhabited by creatures that never see the light of day. There's nothing to be proud of, but that's okay.",
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [
+    "Shogakukan Music & Digital Entertainment",
+    "Shogakukan-Shueisha Productions"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "popularity": 123,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173250-3tOJC8zzTcoC.png",
+    "poster_color": "#e42843",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/173250-zm1gAOkbaCrT.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/9cfhFYRKFFSZe5gn3DsY9cOD6x.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173250-3tOJC8zzTcoC.png"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PL58O4nPuExbCCXVDUgzyOCyMSWuZmVcLG"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T06:34:11.329Z",
+  "cache_version": 1
+}

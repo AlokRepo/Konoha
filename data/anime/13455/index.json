@@ -1,0 +1,62 @@
+{
+  "ids": {
+    "anilist": 13455,
+    "mal": 13455,
+    "anidb": 9100,
+    "tmdb": 211915,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Zumomo to Nupepe",
+    "english": null,
+    "native": "ズモモとヌペペ",
+    "synonyms": [],
+    "tmdb_title": "ズモモとヌペペ"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2012,
+  "episodes": 32,
+  "duration": 5,
+  "start_date": {
+    "year": 2012,
+    "month": 4,
+    "day": 3
+  },
+  "end_date": {
+    "year": 2013,
+    "month": 2,
+    "day": 26
+  },
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [
+    "Egg"
+  ],
+  "country": "JP",
+  "popularity": 122,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13455.jpg",
+    "poster_color": "#f1f15d",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/zwrIsLmDE9Kd0CqsKu3mdvcVYqb.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13455.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T06:34:22.671Z",
+  "cache_version": 1
+}

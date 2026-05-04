@@ -1,0 +1,68 @@
+{
+  "ids": {
+    "anilist": 126877,
+    "mal": 30342,
+    "anidb": 11137,
+    "tmdb": 211366,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Funassyi no Funafunafuna Biyori",
+    "english": null,
+    "native": "ふなっしーのふなふなふな日和",
+    "synonyms": [],
+    "tmdb_title": "Funassyi no Funafunafuna Biyori"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2015,
+  "episodes": 130,
+  "duration": 1,
+  "start_date": {
+    "year": 2015,
+    "month": 3,
+    "day": 30
+  },
+  "end_date": {
+    "year": 2015,
+    "month": 9,
+    "day": 25
+  },
+  "description": "Anime about Funassyi, the popular pear-shaped mascot character of the Tokyo suburb Funabashi.",
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Kids"
+  ],
+  "studios": [
+    "Asahi Production"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "popularity": 115,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126877-v6yr0YskMKHO.jpg",
+    "poster_color": "#a1e45d",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/AtEWKbZ5cA2PmYklgAxkylLeG1.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b126877-v6yr0YskMKHO.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T06:35:28.039Z",
+  "cache_version": 1
+}
