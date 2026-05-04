@@ -1,0 +1,79 @@
+{
+  "ids": {
+    "anilist": 21570,
+    "mal": 32454,
+    "anidb": 11865,
+    "tmdb": 68389,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Usakame",
+    "english": null,
+    "native": "うさかめ",
+    "synonyms": [],
+    "tmdb_title": "Usakame"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2016,
+  "episodes": 12,
+  "duration": 4,
+  "start_date": {
+    "year": 2016,
+    "month": 4,
+    "day": 12
+  },
+  "end_date": {
+    "year": 2016,
+    "month": 6,
+    "day": 28
+  },
+  "description": "A spin-off of focusing on the rivals of the Teekyuu girls.",
+  "genres": [
+    "Comedy",
+    "Sports"
+  ],
+  "tags": [
+    "Primarily Female Cast",
+    "Primarily Teen Cast",
+    "Cute Girls Doing Cute Things",
+    "Tennis"
+  ],
+  "studios": [
+    "Millepensee"
+  ],
+  "producers": [],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 56,
+  "popularity": 4899,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21570-zzAl1zWpP9v3.jpg",
+    "poster_color": "#f1d6a1",
+    "banner": "https://image.tmdb.org/t/p/original/ajMMM6e3rtpo6ArGyCeN2GBouhg.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/4gfEzW3X4MJrU54HhHy087F3VQ1.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/ajMMM6e3rtpo6ArGyCeN2GBouhg.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21570-zzAl1zWpP9v3.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/usakame"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T05:21:17.731Z",
+  "cache_version": 1
+}
