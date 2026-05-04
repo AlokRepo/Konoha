@@ -61,7 +61,7 @@
   "source": "OTHER",
   "country": "JP",
   "score_anilist": 76,
-  "popularity": 15028,
+  "popularity": 15040,
   "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx3014-HcjYHAbi1bnd.jpg",
@@ -71,16 +71,20 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/7ro9Y7Wyti93UFQ4FsmLc8yfWlP.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx3014-HcjYHAbi1bnd.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/movies/legend-of-the-galactic-heroes-my-conquest-is-the-sea-of-stars"
+    }
+  ],
   "themes": [],
-  "confidence": "HIGH",
-  "match_score": 130,
+  "confidence": "MEDIUM",
+  "match_score": 105,
   "match_signals": [
     "exact_title",
     "year_match",
-    "format_match",
-    "studio_match"
+    "format_match"
   ],
-  "cached_at": "2026-05-03T07:50:22.303Z",
+  "cached_at": "2026-05-04T17:51:36.394Z",
   "cache_version": 1
 }

@@ -68,7 +68,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/i7oKytMBPC0uJwPFDpfr3DsDxkL.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2746-Nz1qZjj7wSs6.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-273947"
+    }
+  ],
   "themes": [],
   "confidence": "MEDIUM",
   "match_score": 109,
@@ -78,6 +83,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-04T07:28:57.065Z",
+  "cached_at": "2026-05-04T18:46:41.267Z",
   "cache_version": 1
 }
