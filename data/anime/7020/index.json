@@ -1,0 +1,62 @@
+{
+  "ids": {
+    "anilist": 7020,
+    "mal": 7020,
+    "anidb": 9009,
+    "tmdb": 388626,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Fashion",
+    "english": null,
+    "native": "ファッション",
+    "synonyms": [],
+    "tmdb_title": "Fashion"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 5,
+  "start_date": {
+    "year": 1960,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 1960,
+    "month": null,
+    "day": null
+  },
+  "description": "Experimental anime from animation pioneer Yoji Kuri from 1960.",
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [
+    "eFrontier"
+  ],
+  "country": "JP",
+  "score_anilist": 34,
+  "popularity": 579,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b7020-9DAqHQuuFJ8Y.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/9h5OqyAaE2yUtSh6Cz4mSbWaTPO.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/swEDJ17rZTjWFn9WZhc9DKqYnc6.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/9h5OqyAaE2yUtSh6Cz4mSbWaTPO.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b7020-9DAqHQuuFJ8Y.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T08:36:01.549Z",
+  "cache_version": 1
+}
