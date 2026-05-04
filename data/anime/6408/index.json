@@ -4,7 +4,8 @@
     "mal": 6408,
     "anidb": 6959,
     "tmdb": 60669,
-    "tmdb_type": "movie"
+    "tmdb_type": "movie",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Bungaku Shoujo",
@@ -60,7 +61,7 @@
   "source": "LIGHT_NOVEL",
   "country": "JP",
   "score_anilist": 69,
-  "popularity": 14963,
+  "popularity": 14965,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6408-UsXM2RcYTCZd.jpg",
@@ -70,7 +71,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/cYlIhEYazAWq07CgKdtt46J5saR.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6408-UsXM2RcYTCZd.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-257075"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 130,
@@ -80,6 +86,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T07:51:09.959Z",
+  "cached_at": "2026-05-04T17:51:53.931Z",
   "cache_version": 1
 }
