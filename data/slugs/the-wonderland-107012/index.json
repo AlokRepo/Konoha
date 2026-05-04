@@ -4,7 +4,8 @@
     "mal": 38985,
     "anidb": 14589,
     "tmdb": 573683,
-    "tmdb_type": "movie"
+    "tmdb_type": "movie",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Birthday Wonderland",
@@ -61,7 +62,7 @@
   "source": "OTHER",
   "country": "JP",
   "score_anilist": 63,
-  "popularity": 9522,
+  "popularity": 9525,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107012-0WAuOIbIlLVh.png",
@@ -79,6 +80,10 @@
     {
       "site": "Crunchyroll",
       "url": "https://www.crunchyroll.com/the-wonderland"
+    },
+    {
+      "site": "Shahid",
+      "url": "https://shahid.mbc.net/en/movies/The-Wonderland/movie-828972"
     }
   ],
   "themes": [],
@@ -89,6 +94,6 @@
     "year_match",
     "format_match"
   ],
-  "cached_at": "2026-05-03T08:53:52.154Z",
+  "cached_at": "2026-05-04T18:04:52.932Z",
   "cache_version": 1
 }
