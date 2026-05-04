@@ -1,0 +1,77 @@
+{
+  "ids": {
+    "anilist": 445,
+    "mal": 445,
+    "anidb": 389,
+    "tmdb": 30501,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Tales of Eternia THE ANIMATION",
+    "english": "Tales of Eternia",
+    "native": "テイルズ オブ エターニア THE ANIMATION",
+    "synonyms": [
+      "ToE"
+    ],
+    "tmdb_title": "Tales of Eternia The Animation"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2001,
+  "episodes": 13,
+  "duration": 22,
+  "start_date": {
+    "year": 2001,
+    "month": 1,
+    "day": 8
+  },
+  "end_date": {
+    "year": 2001,
+    "month": 3,
+    "day": 26
+  },
+  "description": "In order to prevent the catastrophe called the Grand Fall, Rid Hershel and his companions Farah, Keel and Meredy have obtained the three Greater Spirits (\"Craymels\" in the game version) of Inferia. En route to Mount Farlos, Rid is kidnapped by the bounty hunter Marone Blucarno, and the party is compelled to head to Belcarnu, an archipelago far from the major cities of Inferia. A series of adventures forces them to remain on the islands, where a more immediate threat to Inferia sleeps.\n<br><br>\n(Source: Anime News Network)",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Romance"
+  ],
+  "tags": [],
+  "studios": [
+    "Production I.G",
+    "Xebec"
+  ],
+  "producers": [
+    "Media Blasters",
+    "Yomiko Advertising"
+  ],
+  "source": "VIDEO_GAME",
+  "country": "JP",
+  "score_anilist": 58,
+  "popularity": 3858,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx445-sHFObzk6p0Yh.png",
+    "poster_color": "#ae7835",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/445-exOBYzk07V2v.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/8MHb9SPqJ21PMg4zfXvowhnjnUs.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/gRaFtY3Hd7ODPpsdCJduS6cTuVY.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx445-sHFObzk6p0Yh.png"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T02:31:24.787Z",
+  "cache_version": 1
+}

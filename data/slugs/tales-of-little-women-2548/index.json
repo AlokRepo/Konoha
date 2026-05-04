@@ -1,0 +1,93 @@
+{
+  "ids": {
+    "anilist": 2548,
+    "mal": 2548,
+    "anidb": 2290,
+    "tmdb": 21618,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Ai no Wakakusa Monogatari",
+    "english": "Tales of Little Women",
+    "native": "愛の若草物語",
+    "synonyms": [
+      "Sekai Meisaku Gekijou",
+      "World Masterpiece Theater",
+      "WMT"
+    ],
+    "tmdb_title": "Tales of Little Women"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 1987,
+  "episodes": 48,
+  "duration": 24,
+  "start_date": {
+    "year": 1987,
+    "month": 1,
+    "day": 11
+  },
+  "end_date": {
+    "year": 1987,
+    "month": 12,
+    "day": 27
+  },
+  "description": "Meg, faithful and gentle, Jo, independent and energetic, Beth, quiet and shy, Amy, amiable and precocious&ndash;the four sisters live vigorously and happily at home with their gentle mother while waiting for their father to return from the Civil War. Helping each other, they challenge their fates and grow up to become wonderful women.",
+  "genres": [
+    "Drama",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Classic Literature",
+    "Historical",
+    "Family Life",
+    "Foreign",
+    "Primarily Female Cast",
+    "Travel",
+    "Coming of Age",
+    "Female Protagonist"
+  ],
+  "studios": [
+    "Nippon Animation"
+  ],
+  "producers": [
+    "Saban Entertainment"
+  ],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 71,
+  "popularity": 2989,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2548-hTF8lyM7Tqq3.jpg",
+    "poster_color": "#f1d635",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2548-RXvb3cqfo2r3.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/7tulmUB9Uw3tVZ3nMgCnsoJRHzn.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/wuH3KbJBGHTlW6gRnU1Y27jDf97.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2548-hTF8lyM7Tqq3.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Amazon Prime Video",
+      "url": "https://www.amazon.com/gp/video/detail/B076MCTL9J/ref=atv_wl_hom_7_c_unkc_1_4"
+    },
+    {
+      "site": "Hoopla",
+      "url": "https://www.hoopladigital.com/series/tales-of-little-women/2830715698"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T02:48:55.652Z",
+  "cache_version": 1
+}

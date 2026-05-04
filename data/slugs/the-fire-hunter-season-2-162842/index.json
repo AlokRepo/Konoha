@@ -1,0 +1,91 @@
+{
+  "ids": {
+    "anilist": 162842,
+    "mal": 54754,
+    "anidb": 17916,
+    "tmdb": 156688,
+    "tmdb_type": "tv",
+    "tmdb_season": 2
+  },
+  "titles": {
+    "romaji": "Hikari no Ou 2nd Season",
+    "english": "The Fire Hunter Season 2",
+    "native": "火狩りの王 第2シーズン",
+    "synonyms": [],
+    "tmdb_title": "The Fire Hunter"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2024,
+  "episodes": 10,
+  "duration": 24,
+  "start_date": {
+    "year": 2024,
+    "month": 1,
+    "day": 14
+  },
+  "end_date": {
+    "year": 2024,
+    "month": 3,
+    "day": 17
+  },
+  "description": "The second season of <i>Hikari no Ou</i>.\n\n",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Fantasy",
+    "Mystery"
+  ],
+  "tags": [
+    "Post-Apocalyptic",
+    "Female Protagonist",
+    "Steampunk",
+    "Gods",
+    "Animals",
+    "Environmental",
+    "Philosophy",
+    "Urban",
+    "Wilderness",
+    "Male Protagonist",
+    "Conspiracy",
+    "Swordplay"
+  ],
+  "studios": [
+    "Signal.MD"
+  ],
+  "producers": [
+    "WOWOW"
+  ],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 58,
+  "popularity": 5059,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162842-zs6SfZgw6SYL.jpg",
+    "poster_color": "#e4bb35",
+    "banner": "https://image.tmdb.org/t/p/original/xMXey1bzzycMCDjflCMvpeMlC4o.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/v8AbZ7MOwoABASQFP3GJp6xLR1f.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/xMXey1bzzycMCDjflCMvpeMlC4o.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162842-zs6SfZgw6SYL.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/series/GJ0H7Q5X9/the-fire-hunter"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 98,
+  "match_signals": [
+    "english_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T02:13:45.412Z",
+  "cache_version": 1
+}
