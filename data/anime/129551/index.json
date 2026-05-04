@@ -1,0 +1,71 @@
+{
+  "ids": {
+    "anilist": 129551,
+    "mal": 44154,
+    "tmdb": 564285,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Seer 2  Da Dianying: Leiyi Yu Maiersi",
+    "english": null,
+    "native": "赛尔号大电影2：雷伊与迈尔斯 ",
+    "synonyms": [
+      "赛尔号大电影2之雷伊与迈尔斯",
+      "Seer: Ray yu Miles",
+      "Sai Er Hao 2: Leiyi Yu Maiersi"
+    ],
+    "tmdb_title": "Seer 2"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 90,
+  "start_date": {
+    "year": 2012,
+    "month": 6,
+    "day": 28
+  },
+  "end_date": {
+    "year": 2012,
+    "month": 6,
+    "day": 28
+  },
+  "genres": [
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Taomee"
+  ],
+  "producers": [],
+  "source": "VIDEO_GAME",
+  "country": "CN",
+  "popularity": 188,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129551-CR1NWiBsESlq.png",
+    "poster_color": "#e4a11a",
+    "banner": "https://image.tmdb.org/t/p/original/3bhrZ7nEwJRWZKg8RgXtylbc1um.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w500/uIDHLllPRFxp77LwvZnvq4r1RAh.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/3bhrZ7nEwJRWZKg8RgXtylbc1um.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129551-CR1NWiBsESlq.png"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/x/cover/8rhm1xj9jys8vg0.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 82,
+  "match_signals": [
+    "english_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T10:28:52.947Z",
+  "cache_version": 1
+}

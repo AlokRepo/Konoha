@@ -1,0 +1,64 @@
+{
+  "ids": {
+    "anilist": 128059,
+    "mal": 48313,
+    "tmdb": 774018,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "11-gatsu Umare no Otokonoko no Tame ni.",
+    "english": "Dear November boy.",
+    "native": "11月うまれの男の子のために。",
+    "synonyms": [],
+    "tmdb_title": "Dear November Boy."
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 3,
+  "start_date": {
+    "year": 2012,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 2012,
+    "month": null,
+    "day": null
+  },
+  "description": "A short stop motion animation from Takeshi Yashiro.",
+  "genres": [
+    "Slice of Life"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 44,
+  "popularity": 153,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b128059-YbCqwzBFcFIa.png",
+    "poster_color": "#f1d6ae",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/eMGELQ9Ai8olHebrctbBfI2hkcJ.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b128059-YbCqwzBFcFIa.png"
+  },
+  "streaming": [
+    {
+      "site": "Vimeo",
+      "url": "https://vimeo.com/253559746"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T10:45:29.764Z",
+  "cache_version": 1
+}

@@ -1,0 +1,62 @@
+{
+  "ids": {
+    "anilist": 138946,
+    "mal": 38375,
+    "tmdb": 876701,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "PORT OF WORMY",
+    "english": null,
+    "native": "PORT OF WORMY",
+    "synonyms": [],
+    "tmdb_title": "Port of Wormy"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 1,
+  "start_date": {
+    "year": 2009,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 2009,
+    "month": null,
+    "day": null
+  },
+  "description": "A surreal short created by Mirai Mizue.",
+  "genres": [],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 40,
+  "popularity": 172,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b138946-7cWiWo7v1oQU.png",
+    "poster_color": "#d61a28",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/bCCZUKV89wakC5MQP66O3X4Lno9.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b138946-7cWiWo7v1oQU.png"
+  },
+  "streaming": [
+    {
+      "site": "Vimeo",
+      "url": "https://vimeo.com/channels/471858/59278897"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T10:35:28.812Z",
+  "cache_version": 1
+}

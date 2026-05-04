@@ -1,0 +1,61 @@
+{
+  "ids": {
+    "anilist": 13365,
+    "mal": 13365,
+    "anidb": 5320,
+    "tmdb": 365019,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Samchongsa: Taimmeosin 001",
+    "english": null,
+    "native": "삼총사 타임머신 001",
+    "synonyms": [
+      "Three Musketeers: Time Machine 001",
+      "Les 3 Mousquetaires dans le Temps"
+    ],
+    "tmdb_title": "Three Musketeers: Time Machine 001"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 71,
+  "start_date": {
+    "year": 1980,
+    "month": 1,
+    "day": 12
+  },
+  "end_date": {
+    "year": 1980,
+    "month": 1,
+    "day": 12
+  },
+  "genres": [
+    "Sci-Fi"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "country": "KR",
+  "score_anilist": 41,
+  "popularity": 169,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13365.jpg",
+    "poster_color": "#a13535",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/jE0UU5sMkU5qTEDahqBzU4a5F32.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13365.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T10:36:30.006Z",
+  "cache_version": 1
+}
