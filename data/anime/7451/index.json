@@ -1,0 +1,63 @@
+{
+  "ids": {
+    "anilist": 7451,
+    "mal": 7451,
+    "anidb": 5153,
+    "tmdb": 226253,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Kid's Castle",
+    "english": null,
+    "native": "キッズキャッスル",
+    "synonyms": [],
+    "tmdb_title": "Kid's Castle"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 5,
+  "start_date": {
+    "year": 1995,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 1995,
+    "month": null,
+    "day": null
+  },
+  "description": "A short film by Koji Yamamura.",
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [
+    "No Dialogue",
+    "Kids"
+  ],
+  "studios": [],
+  "producers": [
+    "Whatever"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 49,
+  "popularity": 417,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7451-F1sevvh8vQTe.png",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7451-F1sevvh8vQTe.png"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T08:58:00.141Z",
+  "cache_version": 1
+}

@@ -1,0 +1,62 @@
+{
+  "ids": {
+    "anilist": 98967,
+    "mal": 35407,
+    "anidb": 12875,
+    "tmdb": 461701,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "RHYTHM",
+    "english": "Rhythm",
+    "native": "RHYTHM(リズム)",
+    "synonyms": []
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 3,
+  "start_date": {
+    "year": 1935,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 1935,
+    "month": null,
+    "day": null
+  },
+  "description": "A comfortable rhythm composed of light and shadow. Director Ogino-style absolute movie which freely manipulates geometric figures.\n",
+  "genres": [],
+  "tags": [
+    "Achromatic"
+  ],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 33,
+  "popularity": 434,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98967-M3bX2vT9HW34.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98967-M3bX2vT9HW34.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Japanese Film Archives",
+      "url": "https://animation.filmarchives.jp/en/works/view/71605"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 95,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T08:55:11.237Z",
+  "cache_version": 1
+}

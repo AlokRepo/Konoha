@@ -1,0 +1,71 @@
+{
+  "ids": {
+    "anilist": 109689,
+    "mal": 35388,
+    "anidb": 12859,
+    "tmdb": 491008,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Ameya Tanuki",
+    "english": null,
+    "native": "あめやたぬき",
+    "synonyms": [
+      "The Candy Man's Raccoon Dog Dance"
+    ],
+    "tmdb_title": "The Candy Man's Raccoon Dog Dance"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 4,
+  "start_date": {
+    "year": 1931,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 1931,
+    "month": null,
+    "day": null
+  },
+  "description": "A candy man performs for some children in the same manner that tanuki did in folklore.",
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [
+    "Achromatic",
+    "No Dialogue",
+    "Mythology"
+  ],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 33,
+  "popularity": 413,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109689-G1HtYZEfblZi.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/109689-Gql9g02u5ZZB.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/67MTBoK5pHxvwV7ilmXTp9rv8cl.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109689-G1HtYZEfblZi.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Japanese Film Archives",
+      "url": "https://animation.filmarchives.jp/works/playen/41691"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T08:58:33.968Z",
+  "cache_version": 1
+}
