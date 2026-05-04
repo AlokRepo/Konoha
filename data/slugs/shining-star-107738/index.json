@@ -1,0 +1,73 @@
+{
+  "ids": {
+    "anilist": 107738,
+    "mal": 39918,
+    "tmdb": 283292,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Shining Star",
+    "english": null,
+    "native": "샤이닝스타",
+    "synonyms": [
+      "Magic Idol"
+    ],
+    "tmdb_title": "Shining Star"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "episodes": 52,
+  "duration": 24,
+  "start_date": {
+    "year": 2017,
+    "month": 10,
+    "day": 16
+  },
+  "end_date": {
+    "year": 2018,
+    "month": 12,
+    "day": 3
+  },
+  "description": "At the prestigious Shining Star School, every girl dreams of becoming the best idol, called \"Muse\". Nara, an ordinary girl, decides to attend the school in order to fulfill her dream.",
+  "genres": [
+    "Music"
+  ],
+  "tags": [
+    "Idol"
+  ],
+  "studios": [],
+  "producers": [
+    "Maro Studio"
+  ],
+  "source": "ORIGINAL",
+  "country": "KR",
+  "score_anilist": 53,
+  "popularity": 634,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107738-51gxXQu6Yv8V.jpg",
+    "poster_color": "#5da1f1",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/107738-513p4tFeHOII.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/HrLzNzdmrUkmJfCmmB7XsmKiWC.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/e3B1DECaL4GSAKFmg6uN0pf8SsB.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107738-51gxXQu6Yv8V.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/channel/UCde-B1KjFgIb9WGsSdT5wqQ"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T04:26:27.321Z",
+  "cache_version": 1
+}
