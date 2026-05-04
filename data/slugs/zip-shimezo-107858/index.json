@@ -1,0 +1,69 @@
+{
+  "ids": {
+    "anilist": 107858,
+    "mal": 38013,
+    "anidb": 14180,
+    "tmdb": 570576,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Chuck Shimezou",
+    "english": "Zip! Shimezo",
+    "native": "チャックシメゾウ",
+    "synonyms": [
+      "2019 Young Animator Training Project",
+      "Anime Mirai 2019",
+      "Anime Tamago 2019"
+    ],
+    "tmdb_title": "Zip! Shimezo"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2019,
+  "episodes": 1,
+  "duration": 23,
+  "start_date": {
+    "year": 2019,
+    "month": 3,
+    "day": 9
+  },
+  "end_date": {
+    "year": 2019,
+    "month": 3,
+    "day": 9
+  },
+  "genres": [],
+  "tags": [],
+  "studios": [
+    "Nippon Animation"
+  ],
+  "producers": [
+    "AM Studios"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 45,
+  "popularity": 258,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b107858-q79fpWelretQ.jpg",
+    "poster_color": "#e4c950",
+    "banner": "https://image.tmdb.org/t/p/original/tT8QXfGzOinjgi05APQ23K99lst.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/a6iAA19hnYrlI6lZhfjjfiOBzsU.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/tT8QXfGzOinjgi05APQ23K99lst.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b107858-q79fpWelretQ.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T09:35:27.961Z",
+  "cache_version": 1
+}
