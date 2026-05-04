@@ -4,7 +4,8 @@
     "mal": 9760,
     "anidb": 8073,
     "tmdb": 79707,
-    "tmdb_type": "movie"
+    "tmdb_type": "movie",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Hoshi wo Ou Kodomo",
@@ -66,7 +67,7 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 71,
-  "popularity": 53516,
+  "popularity": 53552,
   "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9760-Ur2uU0HuF1Iz.jpg",
@@ -84,6 +85,10 @@
     {
       "site": "Criterion Channel",
       "url": "https://www.criterionchannel.com/children-who-chase-lost-voices/videos/children-who-chase-lost-voices"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-253453"
     }
   ],
   "themes": [],
@@ -94,6 +99,6 @@
     "year_match",
     "format_match"
   ],
-  "cached_at": "2026-05-03T05:04:53.736Z",
+  "cached_at": "2026-05-04T17:05:00.575Z",
   "cache_version": 1
 }

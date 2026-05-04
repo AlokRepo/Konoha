@@ -4,7 +4,8 @@
     "mal": 905,
     "anidb": 1071,
     "tmdb": 39107,
-    "tmdb_type": "movie"
+    "tmdb_type": "movie",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Dragon Ball Z: Fukkatsu no Fusion!! Goku to Vegeta",
@@ -61,7 +62,7 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 74,
-  "popularity": 40126,
+  "popularity": 40167,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/905-T97prwPOeyxm.jpg",
@@ -75,6 +76,10 @@
     {
       "site": "Bilibili TV",
       "url": "https://www.bilibili.tv/media/1028116"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-283693"
     }
   ],
   "themes": [],
@@ -86,6 +91,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T05:37:23.710Z",
+  "cached_at": "2026-05-04T17:11:01.354Z",
   "cache_version": 1
 }
