@@ -1,0 +1,71 @@
+{
+  "ids": {
+    "anilist": 9595,
+    "mal": 9595,
+    "anidb": 7997,
+    "tmdb": 791245,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Amanatsu",
+    "english": null,
+    "native": "アマナツ",
+    "synonyms": [],
+    "tmdb_title": "Amanatsu"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2009,
+  "episodes": 1,
+  "duration": 14,
+  "start_date": {
+    "year": 2009,
+    "month": 4,
+    "day": 16
+  },
+  "end_date": {
+    "year": 2009,
+    "month": 4,
+    "day": 16
+  },
+  "description": "In the near future, a girl yearning for death and a robot who has been near her since she was a child continue moving in eternity.<br><br>\n(Source: Annecy)",
+  "genres": [
+    "Sci-Fi"
+  ],
+  "tags": [],
+  "studios": [
+    "Kamikaze Douga"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 50,
+  "popularity": 788,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9595.jpg",
+    "poster_color": "#e47835",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/9595-eOw0J26VtzPT.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/nh1J5iIju99WEssdgcrPQqTAFjO.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9595.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/watch?v=8YCwmwEOYHo"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T08:17:15.099Z",
+  "cache_version": 1
+}

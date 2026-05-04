@@ -1,0 +1,71 @@
+{
+  "ids": {
+    "anilist": 2653,
+    "mal": 2653,
+    "tmdb": 326236,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Doraemon: Ganbare! Gian!!",
+    "english": "Doraemon: Ganbare! Gian!!",
+    "native": "ドラえもん がんばれ！ジャイアン！！",
+    "synonyms": [],
+    "tmdb_title": "Doraemon: Ganbare! Gian!!"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2001,
+  "episodes": 1,
+  "duration": 26,
+  "start_date": {
+    "year": 2001,
+    "month": 3,
+    "day": 10
+  },
+  "end_date": {
+    "year": 2001,
+    "month": 3,
+    "day": 10
+  },
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+  ],
+  "tags": [
+    "Kids"
+  ],
+  "studios": [
+    "Shin-Ei Animation"
+  ],
+  "producers": [
+    "TV Asahi",
+    "Shogakukan"
+  ],
+  "country": "JP",
+  "score_anilist": 58,
+  "popularity": 803,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2653.jpg",
+    "poster_color": "#e49335",
+    "banner": "https://image.tmdb.org/t/p/original/1ZjHoMc0zoFwuRbrAtaqabyOIw4.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/ruLNpSSXITxpMe0Lvd8t95kBRsH.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/1ZjHoMc0zoFwuRbrAtaqabyOIw4.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2653.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T08:16:18.960Z",
+  "cache_version": 1
+}
