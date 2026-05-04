@@ -1,0 +1,65 @@
+{
+  "ids": {
+    "anilist": 16730,
+    "mal": 16730,
+    "anidb": 9626,
+    "tmdb": 994125,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Ojamanga Yamada-kun (Movie)",
+    "english": null,
+    "native": "おじゃまんが山田くん",
+    "synonyms": [],
+    "tmdb_title": "Ojamanga Yamada-kun"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 1981,
+  "episodes": 1,
+  "duration": 27,
+  "start_date": {
+    "year": 1981,
+    "month": 3,
+    "day": 14
+  },
+  "end_date": {
+    "year": 1981,
+    "month": 3,
+    "day": 14
+  },
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [
+    "Kadokawa Shoten"
+  ],
+  "country": "JP",
+  "score_mal": 6.02,
+  "popularity": 177,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16730.jpg",
+    "poster_color": "#d6ae1a",
+    "banner": "https://image.tmdb.org/t/p/original/3M3XYaBGlQe74lrWB4pOyKn74tU.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/d2sFv4AonsHUK3a4MSxHSS8Jceg.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/3M3XYaBGlQe74lrWB4pOyKn74tU.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16730.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 84,
+  "match_signals": [
+    "english_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T10:33:07.534Z",
+  "cache_version": 1
+}
