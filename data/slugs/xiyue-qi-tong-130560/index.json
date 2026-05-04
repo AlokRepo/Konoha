@@ -1,0 +1,69 @@
+{
+  "ids": {
+    "anilist": 130560,
+    "mal": 32269,
+    "anidb": 12143,
+    "tmdb": 827722,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Xiyue Qi Tong",
+    "english": null,
+    "native": "西岳奇童",
+    "synonyms": [
+      "Saving Mother",
+      "Lotus Lantern"
+    ],
+    "tmdb_title": "Saving Mother"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 55,
+  "start_date": {
+    "year": 1984,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 1984,
+    "month": null,
+    "day": null
+  },
+  "description": "A puppet stop-motion film about the classic Lotus Lantern Chinese story.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Shanghai Animation Film Studio"
+  ],
+  "producers": [],
+  "source": "OTHER",
+  "country": "CN",
+  "popularity": 64,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130560-3MlSXLKpD7Dl.png",
+    "poster_color": "#e4865d",
+    "banner": "https://image.tmdb.org/t/p/original/1i1wlc0eibBssz70JESGiDv5o2U.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/yBbeOFnxZEUpfdZNF3MbXThuwFc.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/1i1wlc0eibBssz70JESGiDv5o2U.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130560-3MlSXLKpD7Dl.png"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T17:36:00.289Z",
+  "cache_version": 1
+}

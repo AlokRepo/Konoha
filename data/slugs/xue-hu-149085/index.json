@@ -1,0 +1,60 @@
+{
+  "ids": {
+    "anilist": 149085,
+    "mal": 43851,
+    "tmdb": 997684,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Xue Hu",
+    "english": null,
+    "native": "雪狐",
+    "synonyms": [],
+    "tmdb_title": "雪狐"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 5,
+  "start_date": {
+    "year": 1998,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 1998,
+    "month": null,
+    "day": null
+  },
+  "genres": [
+    "Drama"
+  ],
+  "tags": [],
+  "studios": [
+    "Shanghai Animation Film Studio"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 59,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx149085-PVcM5qwpEbf5.jpg",
+    "poster_color": "#e46b0d",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/mJdJkXHd0lSWX7BitHwcmowVovZ.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx149085-PVcM5qwpEbf5.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T17:40:28.930Z",
+  "cache_version": 1
+}

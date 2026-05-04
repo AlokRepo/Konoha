@@ -1,0 +1,68 @@
+{
+  "ids": {
+    "anilist": 143620,
+    "mal": 51881,
+    "tmdb": 931405,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Xiao Hu Dun Da Yingxiong",
+    "english": null,
+    "native": "小虎墩大英雄",
+    "synonyms": [
+      "Run, Tiger Run!"
+    ],
+    "tmdb_title": "Run, Tiger Run!"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 89,
+  "start_date": {
+    "year": 2022,
+    "month": 2,
+    "day": 1
+  },
+  "end_date": {
+    "year": 2022,
+    "month": 2,
+    "day": 1
+  },
+  "genres": [
+    "Adventure"
+  ],
+  "tags": [],
+  "studios": [
+    "Soular Animation"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 51,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143620-lFjEVSoS63le.png",
+    "poster_color": "#e47828",
+    "banner": "https://image.tmdb.org/t/p/original/u2T5Wj8HVKxtyg6iiBIHRuYerJm.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/73PZdKGTj2PkIeBfRhTG5KJBY5X.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/u2T5Wj8HVKxtyg6iiBIHRuYerJm.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143620-lFjEVSoS63le.png"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/t/mzc002008m8uka6.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T17:46:16.751Z",
+  "cache_version": 1
+}
