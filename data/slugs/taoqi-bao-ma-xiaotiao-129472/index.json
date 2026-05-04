@@ -1,0 +1,67 @@
+{
+  "ids": {
+    "anilist": 129472,
+    "mal": 44700,
+    "tmdb": 132612,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Taoqi Bao Ma Xiaotiao",
+    "english": null,
+    "native": "淘气包马小跳",
+    "synonyms": [
+      "A lot of trouble Ma Xiaotiao"
+    ],
+    "tmdb_title": "淘气包马小跳"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "episodes": 104,
+  "duration": 12,
+  "start_date": {
+    "year": 2008,
+    "month": 5,
+    "day": 1
+  },
+  "end_date": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [
+    "ITS CARTOON"
+  ],
+  "producers": [],
+  "source": "OTHER",
+  "country": "CN",
+  "popularity": 35,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129472-9HYGIIssTrat.png",
+    "poster_color": "#f1d635",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/tXhNCRtFBYzO9VjKYXNDl9HysP6.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129472-9HYGIIssTrat.png"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/w/wwzkx47qdy9hutp.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T06:49:55.174Z",
+  "cache_version": 1
+}

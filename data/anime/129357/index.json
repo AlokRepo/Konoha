@@ -1,0 +1,66 @@
+{
+  "ids": {
+    "anilist": 129357,
+    "mal": 45355,
+    "tmdb": 195741,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Kuaile Dongxi",
+    "english": null,
+    "native": "快乐东西",
+    "synonyms": [
+      "Happy Stuff"
+    ],
+    "tmdb_title": "快乐小东西"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "episodes": 60,
+  "duration": 10,
+  "start_date": {
+    "year": 2003,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [
+    "ITS CARTOON"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 36,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129357-anzEKNVzuwix.jpg",
+    "poster_color": "#e4781a",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/ArDZrKo68UwLtFzKQcxLZKtXNxh.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129357-anzEKNVzuwix.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/x/x9j8sg9thry4p6w.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T06:49:29.985Z",
+  "cache_version": 1
+}

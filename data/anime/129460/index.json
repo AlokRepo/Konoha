@@ -1,0 +1,65 @@
+{
+  "ids": {
+    "anilist": 129460,
+    "tmdb": 154664,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Xiao Heshang",
+    "english": null,
+    "native": "小和尚 ",
+    "synonyms": [
+      "的笃小和尚",
+      "The Little Monk"
+    ],
+    "tmdb_title": "小和尚"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "episodes": 52,
+  "duration": 10,
+  "start_date": {
+    "year": 2001,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [
+    "Shanghai Animation Film Studio"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 37,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b129460-sDlps1VhtcFs.jpg",
+    "poster_color": "#e4ae5d",
+    "banner": "https://image.tmdb.org/t/p/original/vK9TKLo4pNcYWVthwYCGFeCVXij.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/9OA5jiPN0a8pG0dG4HvrO1k1uZr.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/vK9TKLo4pNcYWVthwYCGFeCVXij.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b129460-sDlps1VhtcFs.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 150,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T06:49:09.567Z",
+  "cache_version": 1
+}
