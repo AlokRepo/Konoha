@@ -1,0 +1,80 @@
+{
+  "ids": {
+    "anilist": 100359,
+    "mal": 35681,
+    "anidb": 13212,
+    "tmdb": 495872,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Engimon",
+    "english": "Engimon",
+    "native": "えんぎもん",
+    "synonyms": [
+      "2018 Young Animator Training Project",
+      "Anime Mirai 2018",
+      "Anime Tamago 2018"
+    ],
+    "tmdb_title": "Engimon"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2018,
+  "episodes": 1,
+  "duration": 24,
+  "start_date": {
+    "year": 2018,
+    "month": 3,
+    "day": 10
+  },
+  "end_date": {
+    "year": 2018,
+    "month": 3,
+    "day": 10
+  },
+  "description": "In the children's room of the Amanogawa household in the neighborhood of Shichifukujin, there are five Engimon: Haruo (a papier-mache dog), Kin-chan (a goldfish paper balloon), Hebikura (a bamboo snake), Chief Daruma (a daruma doll), and Koume (a Kokeshi doll). They are always watching over the siblings of the household, Himi and Yamato. One day, an Engimon from somewhere else appears, and Himi leaves the house to chase it. Haruo and his friends come alive, much to Yamato's surprise, and together they go to rescue Himi.\n<br><br>\n(Source: Anime News Network)",
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [
+    "Anthropomorphism",
+    "CGI",
+    "Kids"
+  ],
+  "studios": [
+    "Studio Nanahoshi"
+  ],
+  "producers": [
+    "Usagi.Ou"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 44,
+  "popularity": 388,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx100359-Z6GcEnlXaC5j.png",
+    "poster_color": "#e4861a",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/gGrswc5nLNgRkMIeaUPNGOI6uuJ.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx100359-Z6GcEnlXaC5j.png"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/watch?v=UCfuwroyYrU"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T09:02:06.784Z",
+  "cache_version": 1
+}

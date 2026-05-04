@@ -1,0 +1,79 @@
+{
+  "ids": {
+    "anilist": 5096,
+    "mal": 5096,
+    "anidb": 6382,
+    "tmdb": 136686,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Doraemon: Nobita to Midori no Kyojin Den",
+    "english": null,
+    "native": "ドラえもん のび太と緑の巨人伝",
+    "synonyms": [
+      "Doraemon the Future 2008",
+      "Doraemon the Movie 2008",
+      "Doraemon: Nobita to Midori no Kyojinden",
+      "Doraemon: Nobita and the Green Giant Legend",
+      "哆啦A梦：大雄与绿巨人传",
+      "Doraemon i Zielona Planeta"
+    ],
+    "tmdb_title": "Doraemon: Nobita and the Green Giant Legend"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2008,
+  "episodes": 1,
+  "duration": 112,
+  "start_date": {
+    "year": 2008,
+    "month": 3,
+    "day": 8
+  },
+  "end_date": {
+    "year": 2008,
+    "month": 3,
+    "day": 8
+  },
+  "description": "One day Nobita found a small sapling behind the hill but his mom won't allow him to plant it in the backyard. Using Doraemon's special tool, they made the tree alive so it could move around freely. Nobita name it Ki-b&#333; and the two became like brothers. From there, a new adventure awaits...",
+  "genres": [
+    "Adventure",
+    "Comedy"
+  ],
+  "tags": [
+    "Environmental",
+    "Kids"
+  ],
+  "studios": [
+    "Shin-Ei Animation"
+  ],
+  "producers": [
+    "Toho"
+  ],
+  "country": "JP",
+  "score_anilist": 72,
+  "popularity": 4139,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5096-VJtbKOmgfavH.jpg",
+    "poster_color": "#fec950",
+    "banner": "https://image.tmdb.org/t/p/original/9kRAyJHknHsNUnavRAFC29OSy7C.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/jY2c8s4s8YyGxuxX8ymmzGUdnwZ.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/9kRAyJHknHsNUnavRAFC29OSy7C.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5096-VJtbKOmgfavH.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T12:27:13.903Z",
+  "cache_version": 1
+}

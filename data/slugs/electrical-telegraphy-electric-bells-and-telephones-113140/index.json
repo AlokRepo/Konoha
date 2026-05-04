@@ -1,0 +1,65 @@
+{
+  "ids": {
+    "anilist": 113140,
+    "mal": 35409,
+    "anidb": 12878,
+    "tmdb": 455494,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Denshin Denrei Denwa",
+    "english": "Electrical Telegraphy, Electric Bells and Telephones",
+    "native": "電信 電鈴 電話",
+    "synonyms": [],
+    "tmdb_title": "Electrical Telegraphy, Electric Bells and Telephones"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 11,
+  "start_date": {
+    "year": 1931,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 1931,
+    "month": null,
+    "day": null
+  },
+  "description": "When copper wire is wrapped around an iron rod and connected to a battery, it becomes an electromagnet. A science teaching material movie that explains the principle and structure of electric bells and telephones by applying the principle of an electromagnet through a fusion of live action and animation.",
+  "genres": [],
+  "tags": [
+    "Educational",
+    "Mixed Media"
+  ],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 38,
+  "popularity": 372,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b113140-W6N9nEPlTiXL.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/z9FXi7iMyWOzErItsIWvbnqcqPS.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b113140-W6N9nEPlTiXL.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Japanese Film Archives",
+      "url": "https://animation.filmarchives.jp/works/view/91172"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T09:09:56.375Z",
+  "cache_version": 1
+}
