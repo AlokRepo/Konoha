@@ -1,0 +1,58 @@
+{
+  "ids": {
+    "anilist": 143714,
+    "mal": 43605,
+    "tmdb": 997487,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Yi Ye Fuweng",
+    "english": null,
+    "native": "一夜富翁",
+    "synonyms": [],
+    "tmdb_title": "一夜富翁"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 9,
+  "start_date": {
+    "year": 1986,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 1986,
+    "month": null,
+    "day": null
+  },
+  "genres": [],
+  "tags": [],
+  "studios": [
+    "Shanghai Animation Film Studio"
+  ],
+  "producers": [],
+  "source": "OTHER",
+  "country": "CN",
+  "popularity": 47,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143714-GZ9fmM2k5l4A.jpg",
+    "poster_color": "#d6bb78",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/dCvHuBxGZYUkfds8anGYX6bg6ic.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143714-GZ9fmM2k5l4A.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T17:49:33.587Z",
+  "cache_version": 1
+}
