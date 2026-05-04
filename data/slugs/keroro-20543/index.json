@@ -1,0 +1,80 @@
+{
+  "ids": {
+    "anilist": 20543,
+    "mal": 21671,
+    "anidb": 10306,
+    "tmdb": 60656,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Keroro",
+    "english": null,
+    "native": "ケロロ",
+    "synonyms": [],
+    "tmdb_title": "Keroro"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2014,
+  "episodes": 23,
+  "duration": 3,
+  "start_date": {
+    "year": 2014,
+    "month": 3,
+    "day": 22
+  },
+  "end_date": {
+    "year": 2014,
+    "month": 9,
+    "day": 6
+  },
+  "description": "Keroro will be a flash anime airing on television and will have a new title of Keroro instead of Keroro Gunsou.\r\n\r\n\n<br><br>\n(Source: Anime News Network)",
+  "genres": [
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Parody",
+    "Shounen",
+    "Aliens",
+    "Flash"
+  ],
+  "studios": [
+    "Sunrise"
+  ],
+  "producers": [
+    "Animax",
+    "Gathering"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 63,
+  "popularity": 2702,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20543.jpg",
+    "poster_color": "#fef10d",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/xiuePP7GqmHERw0ZIvyHhWBENOi.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20543.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLk1PvG98Lm7cs1HZh_R3fJAEec47UFgPu"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T05:34:12.931Z",
+  "cache_version": 1
+}

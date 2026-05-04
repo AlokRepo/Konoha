@@ -1,0 +1,78 @@
+{
+  "ids": {
+    "anilist": 21655,
+    "mal": 32805,
+    "anidb": 11945,
+    "tmdb": 68061,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Nyanbo!",
+    "english": "Nyanbo!",
+    "native": "にゃんぼー!",
+    "synonyms": [],
+    "tmdb_title": "Nyanbo!"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2016,
+  "episodes": 26,
+  "duration": 5,
+  "start_date": {
+    "year": 2016,
+    "month": 9,
+    "day": 27
+  },
+  "end_date": {
+    "year": 2017,
+    "month": 3,
+    "day": 28
+  },
+  "description": "The \"Nyanbo\" are creatures with square bodies with ears and tails that came to Earth from outer space. There's Tora, who dreams of repairing their broken UFO and returning to space, as well as his sister Kotora, the precocious Shiro, the mischievous Mike, the mysterious Kuro, and many more. All of these Nyanbos are now happily living much like cats, free-spirited and sometimes getting into trouble, in places that humans don't know about.<br>\n<br>\n(Source: Crunchyroll)",
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Full CGI",
+    "Kids",
+    "Animals"
+  ],
+  "studios": [
+    "Shirogumi"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 59,
+  "popularity": 2381,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21655-yvHxPvZogNzp.png",
+    "poster_color": "#e4d643",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21655-SYLOZDKdFaY6.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/rkaF6Y9GQDnTLtNCt8DxsoiEBKS.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/vKUBWHSws3BD5mR2SlBsZalEn9S.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21655-yvHxPvZogNzp.png"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/nyanbo"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T05:38:05.710Z",
+  "cache_version": 1
+}

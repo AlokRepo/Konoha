@@ -1,0 +1,81 @@
+{
+  "ids": {
+    "anilist": 148492,
+    "mal": 51773,
+    "anidb": 17354,
+    "tmdb": 201395,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "KJ File",
+    "english": null,
+    "native": "KJファイル",
+    "synonyms": [
+      "Kaiju File"
+    ],
+    "tmdb_title": "KJ File"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 2022,
+  "episodes": 13,
+  "duration": 4,
+  "start_date": {
+    "year": 2022,
+    "month": 7,
+    "day": 11
+  },
+  "end_date": {
+    "year": 2022,
+    "month": 10,
+    "day": 2
+  },
+  "description": "The story is set in a world where unique kaijuus suddenly begin to appear in various places around the world. Members of the United Nations Monster Observatory will explore a world where kaijuus with great powers and humankind live together.<br>\n<br>\n(Source: MAL News)",
+  "genres": [
+    "Action",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Kaiju",
+    "Anthology",
+    "Dragons"
+  ],
+  "studios": [
+    "yell"
+  ],
+  "producers": [
+    "ILCA"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 42,
+  "popularity": 2502,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx148492-yGnBaNJpYaKu.jpg",
+    "poster_color": "#f18628",
+    "banner": "https://image.tmdb.org/t/p/original/aHFGRnAEkYRxdh69UIib4qjs4Mq.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/fvjNsxNFaMC6aIlgRBcPbHRljI8.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/aHFGRnAEkYRxdh69UIib4qjs4Mq.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx148492-yGnBaNJpYaKu.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://youtu.be/I_2N7ll8vaM"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 120,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T05:36:02.154Z",
+  "cache_version": 1
+}
