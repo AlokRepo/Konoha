@@ -1,0 +1,82 @@
+{
+  "ids": {
+    "anilist": 965,
+    "mal": 965,
+    "anidb": 4068,
+    "tmdb": 42891,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Yoshinaga-sanchi no Gargoyle",
+    "english": "Gargoyle of Yoshinaga House",
+    "native": "吉永さん家のガーゴイル",
+    "synonyms": [
+      "The Gargoyle of the Yoshinagas"
+    ],
+    "tmdb_title": "Gargoyle of Yoshinaga House"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2006,
+  "episodes": 13,
+  "duration": 24,
+  "start_date": {
+    "year": 2006,
+    "month": 4,
+    "day": 2
+  },
+  "end_date": {
+    "year": 2006,
+    "month": 6,
+    "day": 25
+  },
+  "description": "Based on the novel by Taguchi Sennendou.\n<br><br>Winning the lottery can completely change a person’s life, as Futaba soon discovers. Instead of amassing an instant fortune, however, she obtains a stone gargoyle who proclaims itself the gatekeeper of the Yoshinaga household.<br><br>(Source: HIDIVE)",
+  "genres": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "tags": [
+    "Family Life",
+    "Magic"
+  ],
+  "studios": [
+    "Studio Hibari"
+  ],
+  "producers": [
+    "Sentai Filmworks",
+    "Trinet Entertainment"
+  ],
+  "source": "LIGHT_NOVEL",
+  "country": "JP",
+  "score_anilist": 66,
+  "popularity": 1571,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx965-wSNF2I6OyOjL.png",
+    "poster_color": "#e4bb5d",
+    "banner": "https://image.tmdb.org/t/p/original/7rqOiQ6S9pnU6SOIRNpwGxzyi0K.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/gcplxwfC69HDJ4mOHu2QBhpNdln.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/7rqOiQ6S9pnU6SOIRNpwGxzyi0K.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx965-wSNF2I6OyOjL.png"
+  },
+  "streaming": [
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/gargoyle-of-yoshinaga-house"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T03:35:04.234Z",
+  "cache_version": 1
+}

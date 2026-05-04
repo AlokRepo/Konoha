@@ -1,0 +1,79 @@
+{
+  "ids": {
+    "anilist": 21756,
+    "mal": 33027,
+    "anidb": 12034,
+    "tmdb": 74093,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Infini-T Force",
+    "english": "Infini-T Force",
+    "native": "インフィニティフォース",
+    "synonyms": [],
+    "tmdb_title": "Infini-T Force"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2017,
+  "episodes": 12,
+  "duration": 22,
+  "start_date": {
+    "year": 2017,
+    "month": 10,
+    "day": 3
+  },
+  "end_date": {
+    "year": 2017,
+    "month": 12,
+    "day": 19
+  },
+  "description": "A full 3DCG anime project to celebrate the 55th anniversary of Tatsunoko Productions. The anime has a different story from the original manga.",
+  "genres": [
+    "Action"
+  ],
+  "tags": [
+    "Super Power",
+    "Henshin",
+    "Full CGI",
+    "Superhero"
+  ],
+  "studios": [
+    "Tatsunoko Production",
+    "Digital Frontier"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 59,
+  "popularity": 2431,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21756-nAxST1ag5idY.jpg",
+    "poster_color": "#2886e4",
+    "banner": "https://image.tmdb.org/t/p/original/5mLT6hQEMolmsBCGBTL7jAqNGkE.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/9tfBRF7ZKcSyYngVFv60CF6sSFl.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/5mLT6hQEMolmsBCGBTL7jAqNGkE.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21756-nAxST1ag5idY.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Tubi TV",
+      "url": "http://tubitv.com/series/2218/infini_t_force"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T03:02:25.886Z",
+  "cache_version": 1
+}
