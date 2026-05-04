@@ -1,0 +1,64 @@
+{
+  "ids": {
+    "anilist": 102771,
+    "mal": 31926,
+    "tmdb": 1281431,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "KASHIKOKIMONO",
+    "english": null,
+    "native": "KASHIKOKIMONO (かしこきもの)",
+    "synonyms": [],
+    "tmdb_title": "KASHIKOKIMONO"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 9,
+  "start_date": {
+    "year": 2004,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 2004,
+    "month": null,
+    "day": null
+  },
+  "description": "A combination of hand-drawn animation and computer-based generative animation exploring music and animation as a form of organic expression. Animated by Takahiro Hayakawa.",
+  "genres": [
+    "Music"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 41,
+  "popularity": 162,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx102771-Rv90ZnODzf7h.jpg",
+    "poster_color": "#d61a1a",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/eJ6XSOVvyRoI71Ol6ZoLZHn09hd.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx102771-Rv90ZnODzf7h.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/channel/UCjKP2eKKH38uDViDml4Ls_w"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T10:40:45.398Z",
+  "cache_version": 1
+}

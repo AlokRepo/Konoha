@@ -1,0 +1,62 @@
+{
+  "ids": {
+    "anilist": 102770,
+    "mal": 31834,
+    "anidb": 11716,
+    "tmdb": 383337,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Mormorando",
+    "english": null,
+    "native": "モルモランド",
+    "synonyms": []
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 2014,
+  "episodes": 1,
+  "duration": 4,
+  "start_date": {
+    "year": 2014,
+    "month": 9,
+    "day": 16
+  },
+  "end_date": {
+    "year": 2014,
+    "month": 9,
+    "day": 16
+  },
+  "description": "Short animation by Komazaki Tomomi.\n",
+  "genres": [],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 46,
+  "popularity": 227,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102770-loOlSazT8R35.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102770-loOlSazT8R35.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/channel/UCkWKdX0gMny3JhQ1eSNl0JA"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T10:03:34.639Z",
+  "cache_version": 1
+}

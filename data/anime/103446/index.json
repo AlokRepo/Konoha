@@ -1,0 +1,64 @@
+{
+  "ids": {
+    "anilist": 103446,
+    "mal": 34632,
+    "tmdb": 400898,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "such a good place to die",
+    "english": null,
+    "native": "such a good place to die",
+    "synonyms": [],
+    "tmdb_title": "such a good place to die"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 3,
+  "start_date": {
+    "year": 2015,
+    "month": 3,
+    "day": 29
+  },
+  "end_date": {
+    "year": 2015,
+    "month": 3,
+    "day": 29
+  },
+  "description": "A short film by Onohana.",
+  "genres": [],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 49,
+  "popularity": 362,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103446-2RfNTv2VcqQ2.jpg",
+    "poster_color": "#e47850",
+    "banner": "https://image.tmdb.org/t/p/original/k4rJMxAYVGJA2anmcEI82UjsdQC.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/7Mq78dc6E0BwW7tfbIQMDlGWQEK.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/k4rJMxAYVGJA2anmcEI82UjsdQC.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103446-2RfNTv2VcqQ2.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Vimeo",
+      "url": "https://vimeo.com/123583035"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T09:12:26.445Z",
+  "cache_version": 1
+}

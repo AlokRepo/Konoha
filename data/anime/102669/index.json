@@ -1,0 +1,56 @@
+{
+  "ids": {
+    "anilist": 102669,
+    "mal": 30329,
+    "tmdb": 381728,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Nice to See You",
+    "english": null,
+    "native": "ナイス･トゥー･シー･ユー",
+    "synonyms": [],
+    "tmdb_title": "Nice to See You"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 3,
+  "start_date": {
+    "year": 1975,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 1975,
+    "month": null,
+    "day": null
+  },
+  "description": "Short animation by Furukawa Taku",
+  "genres": [],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 30,
+  "popularity": 255,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102669-L9xBboq33Mfv.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/isJvIywx7aJ4tTskFpgbUlSinRq.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102669-L9xBboq33Mfv.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T09:36:34.434Z",
+  "cache_version": 1
+}
