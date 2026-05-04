@@ -4,7 +4,8 @@
     "mal": 39753,
     "anidb": 14883,
     "tmdb": 624812,
-    "tmdb_type": "movie"
+    "tmdb_type": "movie",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Omoi, Omoware, Furi, Furare",
@@ -54,7 +55,7 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 71,
-  "popularity": 29477,
+  "popularity": 29499,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109125-LRhTuc4RMct7.jpg",
@@ -64,7 +65,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/sxZlQvHcOR5E1vZpdvpUcn1INZy.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109125-LRhTuc4RMct7.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "Shahid",
+      "url": "https://shahid.mbc.net/en/movies/Love-Me-Love-Me-Not/movie-919802"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 130,
@@ -74,6 +80,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T06:19:19.689Z",
+  "cached_at": "2026-05-04T17:36:06.728Z",
   "cache_version": 1
 }
