@@ -1,0 +1,77 @@
+{
+  "ids": {
+    "anilist": 17671,
+    "mal": 17671,
+    "anidb": 3080,
+    "tmdb": 204012,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Animal 1",
+    "english": null,
+    "native": "アニマル１",
+    "synonyms": [
+      "Animal One",
+      "アニマルワン"
+    ],
+    "tmdb_title": "Animal 1"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 1968,
+  "episodes": 27,
+  "duration": 22,
+  "start_date": {
+    "year": 1968,
+    "month": 4,
+    "day": 1
+  },
+  "end_date": {
+    "year": 1968,
+    "month": 9,
+    "day": 30
+  },
+  "description": "Ichirou Azuma, a young amateur wrestler, wants to participate in the Olympics Games in Mexico.\n<br><br>\n(Source: Anime News Network)",
+  "genres": [
+    "Sports"
+  ],
+  "tags": [
+    "Foreign",
+    "Shounen",
+    "Wrestling",
+    "Achromatic"
+  ],
+  "studios": [
+    "Mushi Production"
+  ],
+  "producers": [
+    "Fuji TV"
+  ],
+  "country": "JP",
+  "score_anilist": 46,
+  "popularity": 403,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b17671-5FX5kKX8BcaG.png",
+    "poster_color": "#e4281a",
+    "banner": "https://image.tmdb.org/t/p/original/nXphKxb2wATwC3Gl0qZE0zIvuqD.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/oLkzjdgEot9I4TeaOTA01YZ3AOa.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/nXphKxb2wATwC3Gl0qZE0zIvuqD.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b17671-5FX5kKX8BcaG.png"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T04:47:24.412Z",
+  "cache_version": 1
+}
