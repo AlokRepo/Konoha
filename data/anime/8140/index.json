@@ -1,0 +1,71 @@
+{
+  "ids": {
+    "anilist": 8140,
+    "mal": 8140,
+    "anidb": 3368,
+    "tmdb": 8747,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Konchuu Monogatari Minashigo Hutch (1989)",
+    "english": null,
+    "native": "昆虫物語みなしごハッチ",
+    "synonyms": [],
+    "tmdb_title": "Honeybee Hutch"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 1989,
+  "episodes": 55,
+  "duration": 25,
+  "start_date": {
+    "year": 1989,
+    "month": 7,
+    "day": 21
+  },
+  "end_date": {
+    "year": 1990,
+    "month": 8,
+    "day": 31
+  },
+  "description": "A remake of the 1970's version.",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "tags": [
+    "Kids",
+    "Animals"
+  ],
+  "studios": [
+    "Tatsunoko Production"
+  ],
+  "producers": [],
+  "country": "JP",
+  "score_anilist": 65,
+  "popularity": 481,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8140-12plXdLXKWBf.png",
+    "poster_color": "#d6ae1a",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/8140-5eFEY0nbjfPO.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/qDoDHlICc0RwtSq1T7baCBw8upL.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/nPw2ME9wPquLQtPZJpAl33m2L1i.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8140-12plXdLXKWBf.png"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 100,
+  "match_signals": [
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T04:39:05.535Z",
+  "cache_version": 1
+}
