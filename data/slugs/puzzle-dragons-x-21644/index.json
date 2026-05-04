@@ -1,0 +1,78 @@
+{
+  "ids": {
+    "anilist": 21644,
+    "mal": 32772,
+    "anidb": 11927,
+    "tmdb": 80573,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Puzzle & Dragons X",
+    "english": "Puzzle & Dragons X",
+    "native": "パズドラＸ",
+    "synonyms": [
+      "PAD X",
+      "Puzzle and Dragons Cross"
+    ],
+    "tmdb_title": "Puzzle & Dragons X"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 2016,
+  "episodes": 89,
+  "duration": 24,
+  "start_date": {
+    "year": 2016,
+    "month": 7,
+    "day": 4
+  },
+  "end_date": {
+    "year": 2018,
+    "month": 3,
+    "day": 26
+  },
+  "description": "An anime adaptation of the Nintendo 3DS game Puzzle & Dragons. Dorogoza Island is rich in “Drop Energy” that players can use on friendly monsters. Once strong enough, they can face enemies in puzzle wars. Winners reap rewards, but what happens to the losers? Only the brave can take on these monstrous challenges!\n<br><br>\n(Source: Crunchyroll)",
+  "genres": [
+    "Fantasy"
+  ],
+  "tags": [
+    "Card Battle"
+  ],
+  "studios": [
+    "Studio Pierrot"
+  ],
+  "producers": [],
+  "source": "VIDEO_GAME",
+  "country": "JP",
+  "score_anilist": 58,
+  "popularity": 2314,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21644-2MLiUF0PHlAj.jpg",
+    "poster_color": "#e45035",
+    "banner": "https://image.tmdb.org/t/p/original/k6ODUwcIt7JFqjmhCwZ79XSwHAQ.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/xHdBuzxB77E7EcmPilOur0LOwNt.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/k6ODUwcIt7JFqjmhCwZ79XSwHAQ.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21644-2MLiUF0PHlAj.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/puzzle-dragons-x"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T03:05:29.684Z",
+  "cache_version": 1
+}
