@@ -1,0 +1,82 @@
+{
+  "ids": {
+    "anilist": 5618,
+    "mal": 5618,
+    "anidb": 4953,
+    "tmdb": 45356,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Dokonjou Gaeru",
+    "english": "The Gutsy Frog",
+    "native": "ど根性ガエル",
+    "synonyms": [
+      "Frog With Guts!",
+      "La Rana Raponchi",
+      "La Rana Valiente",
+      "Hiroshi y Raponchi",
+      "Dokonjo Gaeru"
+    ],
+    "tmdb_title": "The Gutsy Frog"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 1972,
+  "episodes": 103,
+  "duration": 20,
+  "start_date": {
+    "year": 1972,
+    "month": 10,
+    "day": 7
+  },
+  "end_date": {
+    "year": 1974,
+    "month": 9,
+    "day": 28
+  },
+  "description": "When Hiroshi was fighting against his rival Gorillaimo, he stumbled over a stone and fell on to a frog. To be surprised, the frog was still alive and it named itself Pyonkichi.",
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [
+    "Shounen",
+    "Animals"
+  ],
+  "studios": [
+    "Tokyo Movie Shinsha"
+  ],
+  "producers": [],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 66,
+  "popularity": 1068,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5618-y1q6PqL5uRuc.jpg",
+    "poster_color": "#e4ae1a",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/5618-KZ1QKsZw2bAA.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/tINZLA1slqie76LvFDrVR7kMB0E.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/2kRu77wc9IdbMR8JSoNdpwPmStP.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5618-y1q6PqL5uRuc.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLj2Ugc-vxcWG_zTnv_Bzlo_T9tG2xDmzD"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T03:55:00.917Z",
+  "cache_version": 1
+}
