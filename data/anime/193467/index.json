@@ -1,0 +1,73 @@
+{
+  "ids": {
+    "anilist": 193467,
+    "mal": 57117,
+    "tmdb": 233547,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Dinoster: Gongnyongsuhodae ",
+    "english": "Quantum Heroes Dinoster",
+    "native": "다이노스터: 공룡수호대",
+    "synonyms": [],
+    "tmdb_title": "Quantum Heroes Dinoster"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "episodes": 26,
+  "duration": 12,
+  "start_date": {
+    "year": 2023,
+    "month": 8,
+    "day": 28
+  },
+  "end_date": {
+    "year": 2023,
+    "month": 11,
+    "day": 20
+  },
+  "genres": [
+    "Action",
+    "Comedy",
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "tags": [],
+  "studios": [
+    "Fun Flux Entertainment"
+  ],
+  "producers": [
+    "EBS",
+    "Alpha Animation"
+  ],
+  "source": "ORIGINAL",
+  "country": "KR",
+  "popularity": 28,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx193467-AV1XEy5Dh8iw.png",
+    "poster_color": "#43bbe4",
+    "banner": "https://image.tmdb.org/t/p/original/qNhlC4lwAq9JScqDVzyKi8WEfWi.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/gJay1eFmt8Xr8mClXuX9f2ZrMXN.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/qNhlC4lwAq9JScqDVzyKi8WEfWi.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx193467-AV1XEy5Dh8iw.png"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/@DinosterTV"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 120,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T06:52:01.163Z",
+  "cache_version": 1
+}
