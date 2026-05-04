@@ -4,7 +4,8 @@
     "mal": 46420,
     "anidb": 15997,
     "tmdb": 843241,
-    "tmdb_type": "movie"
+    "tmdb_type": "movie",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Nanatsu no Taizai: Hikari ni Norowareshi Mono-tachi",
@@ -56,8 +57,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 70,
-  "popularity": 36066,
-  "trending": 0,
+  "popularity": 36113,
+  "trending": 2,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128740-xpjfCO2kpFdz.png",
     "poster_color": "#e4bb43",
@@ -81,6 +82,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T05:50:59.111Z",
+  "cached_at": "2026-05-04T17:18:57.292Z",
   "cache_version": 1
 }
