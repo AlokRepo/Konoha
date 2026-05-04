@@ -1,0 +1,68 @@
+{
+  "ids": {
+    "anilist": 8501,
+    "mal": 8501,
+    "anidb": 5095,
+    "tmdb": 44263,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Chibikko Kaijuu Yadamon",
+    "english": null,
+    "native": "ちびっこ怪獣ヤダモン",
+    "synonyms": [],
+    "tmdb_title": "Chibikko Kaiju Yadamon"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 1967,
+  "episodes": 26,
+  "duration": 25,
+  "start_date": {
+    "year": 1967,
+    "month": 10,
+    "day": 2
+  },
+  "end_date": {
+    "year": 1968,
+    "month": 3,
+    "day": 25
+  },
+  "description": "A comedy about a spoiled and bratty kid monster. Each episode contains 2 stories.<br><br>\n(Source: AniDB)",
+  "genres": [
+    "Comedy",
+    "Supernatural"
+  ],
+  "tags": [
+    "Kids",
+    "Achromatic"
+  ],
+  "studios": [],
+  "producers": [
+    "P Productions"
+  ],
+  "country": "JP",
+  "popularity": 190,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8501.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/tlLpz7wJk8dM0ySwI7Np4EWsahA.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/zwN4Ib3us1cyOldI0NhWQdK2Hrp.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/tlLpz7wJk8dM0ySwI7Np4EWsahA.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8501.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 92,
+  "match_signals": [
+    "synonyms_match",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T05:05:18.337Z",
+  "cache_version": 1
+}

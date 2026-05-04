@@ -1,0 +1,67 @@
+{
+  "ids": {
+    "anilist": 181870,
+    "mal": 21539,
+    "anidb": 5092,
+    "tmdb": 43591,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Oraa Guzura Dado",
+    "english": null,
+    "native": "おらぁグズラだど",
+    "synonyms": [],
+    "tmdb_title": "Oraa Guzura Dado"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 1967,
+  "episodes": 52,
+  "duration": 25,
+  "start_date": {
+    "year": 1967,
+    "month": 10,
+    "day": 7
+  },
+  "end_date": {
+    "year": 1967,
+    "month": 9,
+    "day": 25
+  },
+  "description": "A comedy about a kind but slow-witted dragon who appears from a nearby volcanic eruption. People find Guzura quite charming and interesting as he can consume metal and change it into useful devices.\n<br><br>\n(Source: AniDB)",
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [
+    "Tatsunoko Production"
+  ],
+  "producers": [],
+  "country": "JP",
+  "score_anilist": 60,
+  "popularity": 171,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b181870-CFwvvqjkttlS.png",
+    "poster_color": "#d6931a",
+    "banner": "https://image.tmdb.org/t/p/original/x4n0BHFLJmQ0sGxzPhlasjISvLH.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/fZ6MCfeO6BAzwZRl7xb6W3mVZYs.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/x4n0BHFLJmQ0sGxzPhlasjISvLH.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b181870-CFwvvqjkttlS.png"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 140,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_close",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T05:06:20.768Z",
+  "cache_version": 1
+}
