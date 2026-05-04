@@ -1,7 +1,7 @@
 {
   "ids": {
     "anilist": 145834,
-    "tmdb": 311840,
+    "tmdb": 194911,
     "tmdb_type": "tv",
     "tmdb_season": null
   },
@@ -12,7 +12,7 @@
     "synonyms": [
       "The Four Seasons"
     ],
-    "tmdb_title": "四季红"
+    "tmdb_title": "四季彩キッチン"
   },
   "format": "MOVIE",
   "status": "FINISHED",
@@ -37,21 +37,25 @@
   "producers": [],
   "source": "ORIGINAL",
   "country": "JP",
-  "popularity": 479,
+  "popularity": 480,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b145834-QR1ySxPstogo.png",
     "poster_color": "#c9e4a1",
+    "banner": "https://image.tmdb.org/t/p/original/9VsclijivubqBbfq8dDGWVpJIWk.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/7LE0NW4EElW0sZetMVoBq3Gga3.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/9VsclijivubqBbfq8dDGWVpJIWk.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b145834-QR1ySxPstogo.png"
   },
   "streaming": [],
   "themes": [],
   "confidence": "MEDIUM",
-  "match_score": 80,
+  "match_score": 85,
   "match_signals": [
     "exact_title",
+    "season_match",
     "episode_exact"
   ],
-  "cached_at": "2026-05-04T08:47:39.499Z",
+  "cached_at": "2026-05-04T14:49:27.073Z",
   "cache_version": 1
 }
