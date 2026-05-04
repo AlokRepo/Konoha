@@ -3,7 +3,8 @@
     "anilist": 21384,
     "mal": 31715,
     "tmdb": 985457,
-    "tmdb_type": "movie"
+    "tmdb_type": "movie",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "WORKING!!!: Lord of the Takanashi",
@@ -52,7 +53,7 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 80,
-  "popularity": 23668,
+  "popularity": 23678,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21384-YR0hAau5UHAB.png",
@@ -62,7 +63,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/oxLwVuiNcKDhgma9bxx4MtHS3Qi.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21384-YR0hAau5UHAB.png"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-238016"
+    }
+  ],
   "themes": [],
   "confidence": "MEDIUM",
   "match_score": 90,
@@ -71,6 +77,6 @@
     "year_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T06:48:30.608Z",
+  "cached_at": "2026-05-04T18:07:25.163Z",
   "cache_version": 1
 }

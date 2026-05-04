@@ -15,7 +15,8 @@
       "Bloodlust",
       "Vampire Hunter D: Żądza krwi ",
       "D: охотник на вампиров: Жажда крови"
-    ]
+    ],
+    "tmdb_title": "Vampire Hunter D: Bloodlust"
   },
   "format": "MOVIE",
   "status": "FINISHED",
@@ -48,11 +49,11 @@
     "Male Protagonist",
     "Primarily Adult Cast",
     "Dystopian",
-    "Heterosexual",
     "Fugitive",
-    "Post-Apocalyptic",
     "Travel",
+    "Post-Apocalyptic",
     "Swordplay",
+    "Heterosexual",
     "Guns",
     "Primarily Male Cast"
   ],
@@ -66,8 +67,8 @@
   "source": "LIGHT_NOVEL",
   "country": "JP",
   "score_anilist": 78,
-  "popularity": 50240,
-  "trending": 4,
+  "popularity": 50357,
+  "trending": 2,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx543-MAeWIDl4TwuG.png",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/543-jQdmjf48M0Lf.jpg",
@@ -75,7 +76,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/lwkwVTNdNeG0a1FT06wr1Ylm1OV.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx543-MAeWIDl4TwuG.png"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/movies/vampire-hunter-d"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 120,
@@ -85,6 +91,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T05:12:43.501Z",
+  "cached_at": "2026-05-04T17:07:35.809Z",
   "cache_version": 1
 }
