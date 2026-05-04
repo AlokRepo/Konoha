@@ -1,0 +1,85 @@
+{
+  "ids": {
+    "anilist": 12875,
+    "mal": 12875,
+    "anidb": 8923,
+    "tmdb": 44038,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Ginga e Kickoff!!",
+    "english": "Galaxy Kickoff!!",
+    "native": "銀河へキックオフ!!",
+    "synonyms": [
+      "Victory Kickoff!!"
+    ],
+    "tmdb_title": "Galaxy Kickoff!!"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2012,
+  "episodes": 39,
+  "duration": 25,
+  "start_date": {
+    "year": 2012,
+    "month": 3,
+    "day": 26
+  },
+  "end_date": {
+    "year": 2013,
+    "month": 2,
+    "day": 26
+  },
+  "description": "The story follows a boy who was in a soccer team, but it was disbanded due to not enough players. However, after the boy meets a female professional soccer player, he aims to bring his soccer team back.<br><br>\n(Source: AniDB)",
+  "genres": [
+    "Sports"
+  ],
+  "tags": [
+    "Football",
+    "Male Protagonist",
+    "Primarily Child Cast",
+    "Ensemble Cast",
+    "School"
+  ],
+  "studios": [
+    "TYO Animations"
+  ],
+  "producers": [
+    "NHK",
+    "NAS",
+    "NHK Enterprises"
+  ],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 67,
+  "popularity": 5751,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12875-AJxPZ23esr7w.jpg",
+    "poster_color": "#5daee4",
+    "banner": "https://image.tmdb.org/t/p/original/vBPoQ31jMmdPaVWbw8PQot0wAmE.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/xwu6mqWQcmBAXMRkKw6bn9Yu6Yv.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/vBPoQ31jMmdPaVWbw8PQot0wAmE.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12875-AJxPZ23esr7w.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/series/GT00337554/galaxy-kickoff"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T02:04:49.826Z",
+  "cache_version": 1
+}
