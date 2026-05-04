@@ -1,0 +1,66 @@
+{
+  "ids": {
+    "anilist": 168979,
+    "tmdb": 805028,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Tekkoujo",
+    "english": "Iron Pulse",
+    "native": "鉄工所",
+    "synonyms": [],
+    "tmdb_title": "Iron Pulse"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 4,
+  "start_date": {
+    "year": 2020,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 2020,
+    "month": null,
+    "day": null
+  },
+  "description": "A small family-owned iron factory was closed down. What will remain of it?\n<br><br>\n(Source: Geidai Animation)",
+  "genres": [
+    "Psychological",
+    "Slice of Life"
+  ],
+  "tags": [],
+  "studios": [
+    "Geidai Animation"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "popularity": 71,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168979-okPmJlXNP1b7.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/kbZherit5O2lKPLZZZLCHviGrrp.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/bCx27omMEsaJswH1aAddFqqZrrI.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/kbZherit5O2lKPLZZZLCHviGrrp.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168979-okPmJlXNP1b7.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Vimeo",
+      "url": "https://vimeo.com/499991401"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T17:21:23.123Z",
+  "cache_version": 1
+}

@@ -1,0 +1,64 @@
+{
+  "ids": {
+    "anilist": 150586,
+    "mal": 43596,
+    "tmdb": 543934,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Xin Zhuang De Menling",
+    "english": null,
+    "native": "新装的门铃",
+    "synonyms": [
+      "The New Doorbell"
+    ],
+    "tmdb_title": "The New Door Bell"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 5,
+  "start_date": {
+    "year": 1986,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 1986,
+    "month": null,
+    "day": null
+  },
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [
+    "Shanghai Animation Film Studio"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 54,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150586-UPFFnibrmUoI.jpg",
+    "poster_color": "#f1c950",
+    "banner": "https://image.tmdb.org/t/p/original/q9OfwFXmgefVAStyTxGxuDp4Ciu.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w500/7q3DFeUY4SttUEsczkli9oxeCFW.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/q9OfwFXmgefVAStyTxGxuDp4Ciu.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150586-UPFFnibrmUoI.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 86,
+  "match_signals": [
+    "synonyms_match",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T17:43:16.730Z",
+  "cache_version": 1
+}

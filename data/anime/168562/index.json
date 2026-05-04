@@ -1,0 +1,67 @@
+{
+  "ids": {
+    "anilist": 168562,
+    "mal": 53095,
+    "tmdb": 1147023,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Snuff Film",
+    "english": null,
+    "native": "スナッフフィルム",
+    "synonyms": [],
+    "tmdb_title": "Snuff Film"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 6,
+  "start_date": {
+    "year": 2015,
+    "month": 4,
+    "day": 12
+  },
+  "end_date": {
+    "year": 2015,
+    "month": 4,
+    "day": 12
+  },
+  "description": " Graduation work in Tama Art University Department of Graphic Design.",
+  "genres": [
+    "Psychological"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [
+    "Tama Art University"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_mal": 6.31,
+  "popularity": 82,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168562-21Y9Jf1rLHKL.png",
+    "poster_color": "#f1e493",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/168562-ANoIRtrjtQlc.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/ye425u5M6COY96MXM0xrHrM8wCE.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168562-21Y9Jf1rLHKL.png"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://youtu.be/ckxtyYuU8QI"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T17:05:12.911Z",
+  "cache_version": 1
+}
