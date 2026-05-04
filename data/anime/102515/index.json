@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "anilist": 102515,
+    "mal": 30341,
+    "tmdb": 469162,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Tarzan",
+    "english": null,
+    "native": "ターザン",
+    "synonyms": [],
+    "tmdb_title": "TarZAN"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 6,
+  "start_date": {
+    "year": 1990,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 1990,
+    "month": null,
+    "day": null
+  },
+  "description": "Short Animation by Furukawa Taku",
+  "genres": [],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 42,
+  "popularity": 288,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102515-jooOCkWjy8S3.png",
+    "poster_color": "#ae4328",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/5MCUGPYk8G3twh3Cyft4Cymz9ms.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102515-jooOCkWjy8S3.png"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T09:27:00.071Z",
+  "cache_version": 1
+}
