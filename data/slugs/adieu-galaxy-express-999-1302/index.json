@@ -1,0 +1,78 @@
+{
+  "ids": {
+    "anilist": 1302,
+    "mal": 1302,
+    "anidb": 765,
+    "tmdb": 59717,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Sayonara Ginga Tetsudou 999: Andromeda Shuuchakueki",
+    "english": "Adieu Galaxy Express 999",
+    "native": "さよなら銀河鉄道999 -アンドロメダ終着駅-",
+    "synonyms": [
+      "Sayonara Ginga Tetsudo 999: Andromeda Shuuchakueki",
+      "Addio Galaxy Express 999 - Capolinea Andromeda",
+      "Sayonara, Galaxy Express 999",
+      "ddio Galaxy Express 999 - Capolinea Andromeda",
+      "Прощай, галактический экспресс 999: Терминал Андромеды"
+    ],
+    "tmdb_title": "Adieu Galaxy Express 999"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 1981,
+  "episodes": 1,
+  "duration": 130,
+  "start_date": {
+    "year": 1981,
+    "month": 8,
+    "day": 1
+  },
+  "end_date": {
+    "year": 1981,
+    "month": 8,
+    "day": 1
+  },
+  "description": "Two years after the events in Galaxy Express 999, Earth has become a battleground. Tetsuro, older and fighting the Machine People, rejoins Maetel aboard the GE999.",
+  "genres": [
+    "Drama",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Trains"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [
+    "Discotek"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 71,
+  "popularity": 3644,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx1302-EWYtczQU91xl.jpg",
+    "poster_color": "#f1ae43",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1302-palEc3EhS7bI.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/mZweXqrwqolwI7aL2anN3Mu8V66.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/gchisJAc4XqGpuzJEA7X17AgPi1.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx1302-EWYtczQU91xl.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T12:28:30.849Z",
+  "cache_version": 1
+}
