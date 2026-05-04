@@ -1,0 +1,85 @@
+{
+  "ids": {
+    "anilist": 2747,
+    "mal": 2747,
+    "anidb": 1440,
+    "tmdb": 10826,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Tetsuwan Atom",
+    "english": "Astro Boy",
+    "native": "鉄腕アトム",
+    "synonyms": [
+      "Tetsuwan Atomu",
+      "Mighty Atom",
+      "Astroboy"
+    ],
+    "tmdb_title": "Astro Boy"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 1963,
+  "episodes": 193,
+  "duration": 26,
+  "start_date": {
+    "year": 1963,
+    "month": 1,
+    "day": 1
+  },
+  "end_date": {
+    "year": 1966,
+    "month": 12,
+    "day": 31
+  },
+  "description": "In the distant year 2003, Japan is a technological utopia, and robots are everywhere. One such robot, Tobio, was built by the brilliant Dr. Tenma to replace his dead son. But when it soon becomes apparent that Tobio is an imperfect copy of his departed child, Dr. Tenma throws him out. He is rescued from the scrap heap by the benevolent Professor Ochanomizu, a crusader for robot civil rights. Now the little robot, renamed Astro Boy, is given a mission to defend Japan and the world from all manner of sinister threats. Using his seven super-abilities and 100,000 horsepower worth of strength to battle evil, Astro hopes to set an example to the world of the good which all robots are capable of. ",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Episodic",
+    "Robots",
+    "Shounen",
+    "Artificial Intelligence"
+  ],
+  "studios": [
+    "Mushi Production"
+  ],
+  "producers": [],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 65,
+  "popularity": 4317,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2747.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2747-9vSxJNN5dr3Y.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/nmzhfHyuOfhmTH9A20LhFP6u5Fx.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/zMOdLPEDlpJssUkJnf8rFXqnmCq.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2747.jpg"
+  },
+  "streaming": [
+    {
+      "site": "RetroCrush",
+      "url": "https://www.retrocrush.tv/details/DMR00001413/Astro-Boy-(1963)"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T02:25:06.353Z",
+  "cache_version": 1
+}
