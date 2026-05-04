@@ -1,0 +1,73 @@
+{
+  "ids": {
+    "anilist": 126506,
+    "mal": 44130,
+    "anidb": 15850,
+    "tmdb": 113119,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Pont Qiao Booth",
+    "english": null,
+    "native": "ポンチャオブース",
+    "synonyms": [],
+    "tmdb_title": "Pont Qiao Booth"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2020,
+  "episodes": 22,
+  "duration": 5,
+  "start_date": {
+    "year": 2020,
+    "month": 12,
+    "day": 2
+  },
+  "end_date": {
+    "year": 2021,
+    "month": 6,
+    "day": 19
+  },
+  "description": "An anime based on Studio Bridge's original multi-media project, VTuber duo Pont and Qiao.",
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [
+    "VTuber"
+  ],
+  "studios": [
+    "Bridge"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "popularity": 218,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126506-aF5YdvHd5DUZ.png",
+    "poster_color": "#e45d93",
+    "banner": "https://image.tmdb.org/t/p/original/wHDsJpDq35Zj88iQry8PUcXeos5.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/nRFZrAtsn5t7L5van3CUyxmjmQj.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/wHDsJpDq35Zj88iQry8PUcXeos5.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126506-aF5YdvHd5DUZ.png"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://youtube.com/playlist?list=PL1-V5MTY0nYWVRGGFD41d7BzC5iLAUOTY"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 120,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T06:21:49.572Z",
+  "cache_version": 1
+}

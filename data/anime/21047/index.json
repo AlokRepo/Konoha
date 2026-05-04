@@ -1,0 +1,68 @@
+{
+  "ids": {
+    "anilist": 21047,
+    "mal": 22503,
+    "anidb": 10422,
+    "tmdb": 210064,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "wasimo",
+    "english": null,
+    "native": "わしも-wasimo-",
+    "synonyms": [
+      "washimo"
+    ],
+    "tmdb_title": "Washimo"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2014,
+  "episodes": 10,
+  "duration": 10,
+  "start_date": {
+    "year": 2014,
+    "month": 3,
+    "day": 10
+  },
+  "end_date": {
+    "year": 2014,
+    "month": 3,
+    "day": 21
+  },
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "tags": [],
+  "studios": [
+    "Studio DEEN"
+  ],
+  "producers": [],
+  "source": "OTHER",
+  "country": "JP",
+  "popularity": 227,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21047-2DEa05ZiJcQL.jpg",
+    "poster_color": "#e4e428",
+    "banner": "https://image.tmdb.org/t/p/original/cSMqSp6CLAvhsYBJzBbRsjbb3r8.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/m4e7wWhoEx74hsUva97bVuB2VcR.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/cSMqSp6CLAvhsYBJzBbRsjbb3r8.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21047-2DEa05ZiJcQL.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 120,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T06:21:08.300Z",
+  "cache_version": 1
+}

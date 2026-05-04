@@ -1,0 +1,83 @@
+{
+  "ids": {
+    "anilist": 130529,
+    "tmdb": 292676,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Cosmo Samurai",
+    "english": "Cosmo Samurai",
+    "native": "Cosmo Samurai",
+    "synonyms": [
+      "Toonami"
+    ],
+    "tmdb_title": "Cosmo Samurai"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2021,
+  "episodes": 4,
+  "duration": 3,
+  "start_date": {
+    "year": 2021,
+    "month": 2,
+    "day": 6
+  },
+  "end_date": {
+    "year": 2021,
+    "month": 2,
+    "day": 27
+  },
+  "description": "A part of Toonami's Total Immersion Event (T.I.E.) for 2021, Venture into the stars with Cosmo Samurai! Initiate anime adventure! <br>\n<br>\n<i>Note: The parts of 'Cosmo Samurai' and a combined, full version 'Cosmo Samurai (Full Interstitial)' are both available on the official Adult Swim YouTube channel.</i>",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Space",
+    "Robots",
+    "Swordplay",
+    "Samurai",
+    "Guns"
+  ],
+  "studios": [
+    "Telecom Animation Film"
+  ],
+  "producers": [
+    "Adult Swim"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 47,
+  "popularity": 205,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130529-DaHwvbLF95o2.png",
+    "poster_color": "#1ad6d6",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/dHeHTr91LcpZmGh1roAiOZP3qzw.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130529-DaHwvbLF95o2.png"
+  },
+  "streaming": [
+    {
+      "site": "Adult Swim",
+      "url": "https://www.adultswim.com/videos/toonami/cosmo-samurai-part-1"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/watch?v=d2QOdMdwhig"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T06:23:28.395Z",
+  "cache_version": 1
+}

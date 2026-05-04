@@ -1,0 +1,76 @@
+{
+  "ids": {
+    "anilist": 18941,
+    "mal": 18941,
+    "anidb": 9131,
+    "tmdb": 201740,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Shimajirou no Wow!",
+    "english": "Shimajiro: A Wonderful Adventure",
+    "native": "しまじろうのわお!",
+    "synonyms": [],
+    "tmdb_title": "Shimajiro: A Wonderful Adventure"
+  },
+  "format": "TV_SHORT",
+  "status": "RELEASING",
+  "season": "SPRING",
+  "season_year": 2012,
+  "episodes": 904,
+  "duration": 8,
+  "start_date": {
+    "year": 2012,
+    "month": 4,
+    "day": 2
+  },
+  "end_date": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "description": "Fourth season of the Shimajirou children's television series.",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "The Answer Studio"
+  ],
+  "producers": [
+    "Benesse Corporation",
+    "TV Setouchi"
+  ],
+  "source": "OTHER",
+  "country": "JP",
+  "popularity": 223,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18941.jpg",
+    "poster_color": "#f19300",
+    "banner": "https://image.tmdb.org/t/p/original/kEjKZgzrrubouSuLYx7PWwF8LIJ.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/g7GOTt1qCloqFdoJXsfTfbEDxRF.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/kEjKZgzrrubouSuLYx7PWwF8LIJ.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18941.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/81235103"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T06:21:20.135Z",
+  "cache_version": 1
+}
