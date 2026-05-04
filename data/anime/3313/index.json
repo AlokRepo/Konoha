@@ -1,0 +1,75 @@
+{
+  "ids": {
+    "anilist": 3313,
+    "mal": 3313,
+    "anidb": 3555,
+    "tmdb": 19613,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Montana Jones",
+    "english": "Montana Jones",
+    "native": "モンタナ・ジョーンズ",
+    "synonyms": [
+      "Caccia al tesoro con Montana"
+    ],
+    "tmdb_title": "Montana Jones"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 1994,
+  "episodes": 52,
+  "duration": 26,
+  "start_date": {
+    "year": 1994,
+    "month": 4,
+    "day": 2
+  },
+  "end_date": {
+    "year": 1995,
+    "month": 4,
+    "day": 8
+  },
+  "description": "Boston, 1930: Montana Jones and his cousin professor Alfred Jones travel around the world to search lost treasures in order to bring them to museums. Alfred's mentor professor Gerrit helps them by sending LPs with information. On one trip they meet Melissa, a wealthy reporter, who speaks nearly all languages. She accompanies the two on their trips. Their opponent is Lord Zero, a rich, bizarre art lover and master thief. Lord Zero has two henchmen: Slim and Slam. There is also the inventor Dr. Nitro, who invents strange engines, which to help finding treasures.<br><br>\n(Source: Wikipedia)",
+  "genres": [
+    "Adventure",
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [
+    "Studio Junio"
+  ],
+  "producers": [
+    "NHK Enterprises",
+    "NHK",
+    "RAI"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 54,
+  "popularity": 621,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3313.jpg",
+    "poster_color": "#e4c928",
+    "banner": "https://image.tmdb.org/t/p/original/v92p85Tx08L5w6AZb4OCJoNEQEo.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/7EDquGJ5eYZA5AwErQ4RxVjZLpX.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/v92p85Tx08L5w6AZb4OCJoNEQEo.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3313.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T04:27:17.716Z",
+  "cache_version": 1
+}

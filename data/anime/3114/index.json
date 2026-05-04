@@ -1,0 +1,74 @@
+{
+  "ids": {
+    "anilist": 3114,
+    "mal": 3114,
+    "anidb": 3948,
+    "tmdb": 26574,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Chiisana Kyojin Microman",
+    "english": null,
+    "native": "小さな巨人ミクロマン",
+    "synonyms": [
+      "Chisana Kyoujin Mikuroman",
+      "The Small Giant Microman",
+      "Microman MagnePowers"
+    ]
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 1999,
+  "episodes": 52,
+  "duration": 20,
+  "start_date": {
+    "year": 1999,
+    "month": 1,
+    "day": 4
+  },
+  "end_date": {
+    "year": 1999,
+    "month": 12,
+    "day": 27
+  },
+  "description": "3 kids meet 5 micro-sized superheroes from another world who enlist in their aid in fighting off alien invaders.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "tags": [],
+  "studios": [
+    "Studio Pierrot"
+  ],
+  "producers": [],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 63,
+  "popularity": 662,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3114-g9EzK5VAw5pq.png",
+    "poster_color": "#864328",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/3114-guWICpLfeMom.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/85buxG56S5Q2tfOmNcFKrU5SmbP.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3114-g9EzK5VAw5pq.png"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 140,
+  "match_signals": [
+    "english_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T04:24:13.951Z",
+  "cache_version": 1
+}
