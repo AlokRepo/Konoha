@@ -1,0 +1,71 @@
+{
+  "ids": {
+    "anilist": 3823,
+    "mal": 3823,
+    "anidb": 5516,
+    "tmdb": 122039,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Little Lulu to Chicchai Nakama",
+    "english": "The Adventures of Little Lulu and Tubby",
+    "native": "リトル・ルルとちっちゃい仲間",
+    "synonyms": [],
+    "tmdb_title": "Little Lulu"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 1976,
+  "episodes": 26,
+  "duration": 25,
+  "start_date": {
+    "year": 1976,
+    "month": 10,
+    "day": 3
+  },
+  "end_date": {
+    "year": 1977,
+    "month": 4,
+    "day": 3
+  },
+  "description": "The series follows the everyday adventures of Little Lulu, Tubby, and the rest of their friends. The most prominent themes derived from the comics include the boys vs. girls rivalry, Tubby's clubhouse, and mishaps with the troublemaking Westside Gang.",
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Foreign",
+    "Primarily Child Cast"
+  ],
+  "studios": [
+    "Nippon Animation"
+  ],
+  "producers": [],
+  "country": "JP",
+  "score_anilist": 49,
+  "popularity": 360,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3823.jpg",
+    "poster_color": "#c98643",
+    "banner": "https://image.tmdb.org/t/p/original/8XoQPGUFqIoW7ieVfdwSjXJnFJ1.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/rq8KLYxb5RstvN1U4lHRIAl9Mc3.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/8XoQPGUFqIoW7ieVfdwSjXJnFJ1.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3823.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 138,
+  "match_signals": [
+    "english_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T04:51:41.034Z",
+  "cache_version": 1
+}

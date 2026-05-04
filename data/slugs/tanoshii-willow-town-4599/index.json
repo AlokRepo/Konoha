@@ -1,0 +1,67 @@
+{
+  "ids": {
+    "anilist": 4599,
+    "mal": 4599,
+    "anidb": 4698,
+    "tmdb": 211524,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Tanoshii Willow Town",
+    "english": null,
+    "native": "楽しいウイロータウン",
+    "synonyms": [
+      "Fun Willow Town",
+      "O czym szumią wierzby"
+    ],
+    "tmdb_title": "Willow Town"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 1993,
+  "episodes": 26,
+  "duration": 23,
+  "start_date": {
+    "year": 1993,
+    "month": 10,
+    "day": 7
+  },
+  "end_date": {
+    "year": 1994,
+    "month": 3,
+    "day": 31
+  },
+  "genres": [],
+  "tags": [
+    "Kids"
+  ],
+  "studios": [],
+  "producers": [],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 49,
+  "popularity": 355,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4599.jpg",
+    "poster_color": "#e45035",
+    "banner": "https://image.tmdb.org/t/p/original/3GkpCSpxuDFHnYHHsurBUO4VQke.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/5HwgFTaQrhOAgGQLyUX7YpBhwQn.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/3GkpCSpxuDFHnYHHsurBUO4VQke.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4599.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 111,
+  "match_signals": [
+    "english_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T04:51:58.537Z",
+  "cache_version": 1
+}

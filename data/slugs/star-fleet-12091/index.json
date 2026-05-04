@@ -1,0 +1,81 @@
+{
+  "ids": {
+    "anilist": 12091,
+    "mal": 12091,
+    "anidb": 8740,
+    "tmdb": 1295,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "X Bomber",
+    "english": "Star Fleet",
+    "native": "Ｘボンバー",
+    "synonyms": [
+      "Super Space Machine",
+      "Bomber X"
+    ],
+    "tmdb_title": "X-Bomber"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 1980,
+  "episodes": 25,
+  "duration": 26,
+  "start_date": {
+    "year": 1980,
+    "month": 10,
+    "day": 4
+  },
+  "end_date": {
+    "year": 1981,
+    "month": 3,
+    "day": 28
+  },
+  "description": "In the last years of the third millennium, the solar system is recovering from a devastating interplanetary war. Suddenly, a new enemy arrives in the solar system, intent on destruction and conquest. Against them stands the Earth Defense Force and its top secret X Project.\n<br><br>\n(Source: Anime News Network)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Space",
+    "Real Robot"
+  ],
+  "studios": [],
+  "producers": [
+    "Discotek"
+  ],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 52,
+  "popularity": 348,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n12091-o2IwqTlCHTkS.jpg",
+    "poster_color": "#e4ae28",
+    "banner": "https://image.tmdb.org/t/p/original/ySf7lp6HQFfH43DMu3lRMpPuYup.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/pntjyWaiSwtoad7yGIJrgYNXokM.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/ySf7lp6HQFfH43DMu3lRMpPuYup.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n12091-o2IwqTlCHTkS.jpg"
+  },
+  "streaming": [
+    {
+      "site": "RetroCrush",
+      "url": "https://www.retrocrush.tv/series/021316s/star-fleet"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T04:52:52.537Z",
+  "cache_version": 1
+}

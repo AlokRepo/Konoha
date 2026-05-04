@@ -1,0 +1,68 @@
+{
+  "ids": {
+    "anilist": 5140,
+    "mal": 5140,
+    "anidb": 4651,
+    "tmdb": 26392,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Karaoke Senshi Mike Jirou",
+    "english": null,
+    "native": "カラオケ戦士 マイク次郎",
+    "synonyms": [
+      "Karaoke Fighter Jiro Mike"
+    ],
+    "tmdb_title": "Karaoke Senshi Mike-jirou"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 1994,
+  "episodes": 20,
+  "duration": 20,
+  "start_date": {
+    "year": 1994,
+    "month": 4,
+    "day": 4
+  },
+  "end_date": {
+    "year": 1995,
+    "month": 3,
+    "day": 11
+  },
+  "description": "A story about kids fighting with Karaoke.",
+  "genres": [
+    "Music"
+  ],
+  "tags": [],
+  "studios": [
+    "Studio Kikan"
+  ],
+  "producers": [],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 57,
+  "popularity": 352,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5140-ItFAPplysb6H.jpg",
+    "poster_color": "#d6861a",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/m6LjZTDglEE8C9SO1zGm9B2O200.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5140-ItFAPplysb6H.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T04:52:22.832Z",
+  "cache_version": 1
+}

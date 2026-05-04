@@ -1,0 +1,76 @@
+{
+  "ids": {
+    "anilist": 5223,
+    "mal": 5223,
+    "anidb": 5560,
+    "tmdb": 44743,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Robotan",
+    "english": "Robotan",
+    "native": "ロボタン",
+    "synonyms": [
+      "Robotan (1986)"
+    ],
+    "tmdb_title": "Robotan"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 1986,
+  "episodes": 33,
+  "duration": 20,
+  "start_date": {
+    "year": 1986,
+    "month": 1,
+    "day": 6
+  },
+  "end_date": {
+    "year": 1986,
+    "month": 9,
+    "day": 20
+  },
+  "description": "Household robot Robotan, made by a nerdy school boy named Kan-chan, lives with an everyday Japanese family as a domestic servant and friend to the children.",
+  "genres": [
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Robots",
+    "Kids"
+  ],
+  "studios": [
+    "Tokyo Movie Shinsha"
+  ],
+  "producers": [
+    "Yomiuri TV",
+    "Daiko"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 54,
+  "popularity": 364,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5223-6Bp0PQICE7oO.png",
+    "poster_color": "#e4d628",
+    "banner": "https://image.tmdb.org/t/p/original/fpCz8nfJwfq0jPLJWaUpRtqhW6e.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/fRRZPfA7XsGRpGic4MzCcR0SHek.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/fpCz8nfJwfq0jPLJWaUpRtqhW6e.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5223-6Bp0PQICE7oO.png"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 115,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_close",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T04:50:55.113Z",
+  "cache_version": 1
+}
