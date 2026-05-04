@@ -1,0 +1,71 @@
+{
+  "ids": {
+    "anilist": 9172,
+    "mal": 9172,
+    "anidb": 2213,
+    "tmdb": 104682,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Kaitei Sanman Mile",
+    "english": null,
+    "native": "海底3万マイル",
+    "synonyms": [
+      "Kaitei 3-man Mile",
+      "30,000 Miles Under the Sea",
+      "Thirty Thousand Miles Under the Sea"
+    ],
+    "tmdb_title": "30,000 Miles Under the Sea"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 1970,
+  "episodes": 1,
+  "duration": 60,
+  "start_date": {
+    "year": 1970,
+    "month": 7,
+    "day": 19
+  },
+  "end_date": {
+    "year": 1970,
+    "month": 7,
+    "day": 19
+  },
+  "description": "Returning home from an ocean trip, young Isamu meets the beautiful sea-dweller Angel on a volcanic island. Attacked by a fiery dragon, Isamu and Angel escape on the observation boat See Through, and Angel invites Isamu to see her undersea kingdom of Atlas.<br><br>\n(Source: AniDB)",
+  "genres": [
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [],
+  "country": "JP",
+  "score_anilist": 54,
+  "popularity": 667,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9172.jpg",
+    "poster_color": "#e48628",
+    "banner": "https://image.tmdb.org/t/p/original/9RkhJI9L0bhy1RRR6s0x1UgLUv0.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/2cbX39IxMUb6Xjs5QYSWc74ccdd.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/9RkhJI9L0bhy1RRR6s0x1UgLUv0.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9172.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T08:26:13.195Z",
+  "cache_version": 1
+}
