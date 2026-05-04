@@ -4,7 +4,8 @@
     "mal": 1366,
     "anidb": 2052,
     "tmdb": 39202,
-    "tmdb_type": "movie"
+    "tmdb_type": "movie",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Meitantei Conan: Meikyuu no Crossroad",
@@ -58,7 +59,7 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 75,
-  "popularity": 11624,
+  "popularity": 11629,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1366-76LNoYLEqaxv.jpg",
@@ -72,6 +73,10 @@
     {
       "site": "Netflix",
       "url": "https://www.netflix.com/title/81757599"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-281139"
     }
   ],
   "themes": [],
@@ -83,6 +88,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T08:25:52.791Z",
+  "cached_at": "2026-05-04T17:58:35.988Z",
   "cache_version": 1
 }
