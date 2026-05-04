@@ -1,0 +1,78 @@
+{
+  "ids": {
+    "anilist": 6303,
+    "mal": 6303,
+    "anidb": 3205,
+    "tmdb": 65739,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Perman",
+    "english": null,
+    "native": "パーマン",
+    "synonyms": [
+      "Paman",
+      "Superkid",
+      "P-Man",
+      "Paaman"
+    ],
+    "tmdb_title": "Perman"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 1967,
+  "episodes": 54,
+  "duration": 22,
+  "start_date": {
+    "year": 1967,
+    "month": 4,
+    "day": 2
+  },
+  "end_date": {
+    "year": 1968,
+    "month": 4,
+    "day": 14
+  },
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [
+    "Super Power",
+    "Kids",
+    "School",
+    "Achromatic"
+  ],
+  "studios": [
+    "Tokyo Movie Shinsha"
+  ],
+  "producers": [
+    "Studio Zero"
+  ],
+  "country": "JP",
+  "score_anilist": 65,
+  "popularity": 1645,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6303.jpg",
+    "poster_color": "#e47828",
+    "banner": "https://image.tmdb.org/t/p/original/aPv4PHQgQdJtjChMcHmffvFJ5JY.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/alvU2cGHQBouCCS9IPeKoc3SuEP.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/aPv4PHQgQdJtjChMcHmffvFJ5JY.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6303.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T03:29:41.485Z",
+  "cache_version": 1
+}

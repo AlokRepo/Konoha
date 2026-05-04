@@ -1,0 +1,71 @@
+{
+  "ids": {
+    "anilist": 5832,
+    "mal": 5832,
+    "anidb": 863,
+    "tmdb": 232413,
+    "tmdb_type": "tv",
+    "tmdb_season": 2
+  },
+  "titles": {
+    "romaji": "Tiger Mask Nisei",
+    "english": null,
+    "native": "タイガーマスク二世",
+    "synonyms": [
+      "Tiger Mask II"
+    ],
+    "tmdb_title": "Tiger Mask II"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 1981,
+  "episodes": 33,
+  "duration": 20,
+  "start_date": {
+    "year": 1981,
+    "month": 4,
+    "day": 20
+  },
+  "end_date": {
+    "year": 1982,
+    "month": 1,
+    "day": 18
+  },
+  "description": "Second season to the original Tiger Mask, with a different cast of characters.",
+  "genres": [
+    "Sports"
+  ],
+  "tags": [
+    "Wrestling"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 70,
+  "popularity": 1635,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5832-6di0YSEHyF3v.png",
+    "poster_color": "#f1f10d",
+    "banner": "https://image.tmdb.org/t/p/original/2dBVKSku6UGy9BSPkCCP4ODYkst.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/esLCI3EkzRx5wMHLlgqZWd9Jk9D.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/2dBVKSku6UGy9BSPkCCP4ODYkst.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5832-6di0YSEHyF3v.png"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T03:31:01.987Z",
+  "cache_version": 1
+}

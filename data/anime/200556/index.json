@@ -1,0 +1,84 @@
+{
+  "ids": {
+    "anilist": 200556,
+    "mal": 62804,
+    "anidb": 19657,
+    "tmdb": 308142,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "High School! Kimengumi (2026)",
+    "english": "High School! Kimengumi (2026)",
+    "native": "ハイスクール！奇面組 (2026)",
+    "synonyms": [],
+    "tmdb_title": "High School! Kimengumi"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2026,
+  "episodes": 12,
+  "duration": 23,
+  "start_date": {
+    "year": 2026,
+    "month": 1,
+    "day": 9
+  },
+  "end_date": {
+    "year": 2026,
+    "month": 3,
+    "day": 27
+  },
+  "description": "The wildly eccentric group, the Kimengumi, returns in the Reiwa era with their ultra-high-energy youth comedy!",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "tags": [],
+  "studios": [
+    "Seven",
+    "Seven"
+  ],
+  "producers": [
+    "Fuji TV",
+    "Aniplex",
+    "Shueisha",
+    "Dentsu",
+    "Tohan",
+    "Bit grooove promotion",
+    "Slow Curve",
+    "Fuji Creative Corporation"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 48,
+  "popularity": 1642,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200556-TezRfCQCFLbA.png",
+    "poster_color": "#00feff",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/200556-vp7XJGhTNK6j.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/wnyyrHudrB1HG2SNHq1LfOH3BTO.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/obIzS1ZCJsDPOkzZjdQSw2tIKTo.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200556-TezRfCQCFLbA.png"
+  },
+  "streaming": [
+    {
+      "site": "Amazon Prime Video",
+      "url": "https://www.amazon.com/dp/B0G5HC4NG9/"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 139,
+  "match_signals": [
+    "english_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T03:30:13.172Z",
+  "cache_version": 1
+}
