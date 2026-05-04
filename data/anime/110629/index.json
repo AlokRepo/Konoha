@@ -1,0 +1,63 @@
+{
+  "ids": {
+    "anilist": 110629,
+    "mal": 39541,
+    "tmdb": 1191884,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Mukashi no Yama",
+    "english": "Mountain",
+    "native": "むかしの山",
+    "synonyms": [],
+    "tmdb_title": "Mountain"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 4,
+  "start_date": {
+    "year": 2017,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 2017,
+    "month": null,
+    "day": null
+  },
+  "description": "Inspired by Katsuhiko Kamimura's Myths of India, a collection of short stories on Hindu mythology, Mukashi no Yama tells a poetic and humerus tale about mountains that could fly. When they fell to the ground, the earth shook with a great sound. Sound and music, composed and performed :Makiko T \n<br><br>\n(Source: Vimeo)",
+  "genres": [
+    "Psychological"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "OTHER",
+  "country": "JP",
+  "score_mal": 5.45,
+  "popularity": 105,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b110629-hZdVQPCxGrcj.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/fLazSP3w6EEuk5Wq2BR8hiIf581.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b110629-hZdVQPCxGrcj.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Vimeo",
+      "url": "https://vimeo.com/ondemand/181589/326740957"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T16:51:24.543Z",
+  "cache_version": 1
+}

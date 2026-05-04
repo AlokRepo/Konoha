@@ -1,0 +1,75 @@
+{
+  "ids": {
+    "anilist": 10737,
+    "mal": 10737,
+    "tmdb": 69189,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "A-Channel: +A-Channel",
+    "english": null,
+    "native": "+Aチャンネル",
+    "synonyms": [
+      "A-Channel Specials"
+    ],
+    "tmdb_title": "A-Channel"
+  },
+  "format": "SPECIAL",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2011,
+  "episodes": 11,
+  "duration": 2,
+  "start_date": {
+    "year": 2011,
+    "month": 5,
+    "day": 25
+  },
+  "end_date": {
+    "year": 2011,
+    "month": 10,
+    "day": 26
+  },
+  "description": "Extra anime from the DVD/BDs.",
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Cute Girls Doing Cute Things"
+  ],
+  "studios": [
+    "Studio Gokumi"
+  ],
+  "producers": [
+    "Aniplex",
+    "Sentai Filmworks"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 66,
+  "popularity": 4754,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10737.jpg",
+    "poster_color": "#5dbbe4",
+    "banner": "https://image.tmdb.org/t/p/original/fKBz6ZLxtw5l6mVNh9VMkt8BxD6.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/8v5DNnmMgFpjSw4RPrEDP86Isxr.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/fKBz6ZLxtw5l6mVNh9VMkt8BxD6.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10737.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 119,
+  "match_signals": [
+    "english_title",
+    "year_match",
+    "episode_close",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T18:25:04.803Z",
+  "cache_version": 1
+}
