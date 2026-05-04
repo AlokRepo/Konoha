@@ -1,0 +1,76 @@
+{
+  "ids": {
+    "anilist": 7160,
+    "mal": 7160,
+    "anidb": 3051,
+    "tmdb": 22931,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Yoroshiku Mechadoc",
+    "english": "Mecha-Doc",
+    "native": "よろしくメカドック",
+    "synonyms": [
+      "A Tutto Gas",
+      "What's Up Mechadoc",
+      "Leave it to Mecha-Doc"
+    ],
+    "tmdb_title": "Mecha-Doc"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 1984,
+  "episodes": 30,
+  "duration": 24,
+  "start_date": {
+    "year": 1984,
+    "month": 9,
+    "day": 1
+  },
+  "end_date": {
+    "year": 1985,
+    "month": 3,
+    "day": 30
+  },
+  "description": "Mechadoc is a powerful race car obtained from a simple economy car, which is able to race on any ground.",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Sports"
+  ],
+  "tags": [
+    "Cars"
+  ],
+  "studios": [
+    "Tatsunoko Production"
+  ],
+  "producers": [],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 61,
+  "popularity": 1258,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7160-Rm14M3T11JfI.jpg",
+    "poster_color": "#d61a28",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/7160-L8d7IPX8SQgB.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/gcJSiNJLf6g8FW3834OBr1X9Brd.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/hVo6UNQ1ReyyPValP8SDrWJx26m.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7160-Rm14M3T11JfI.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T03:47:02.568Z",
+  "cache_version": 1
+}
