@@ -1,0 +1,65 @@
+{
+  "ids": {
+    "anilist": 5661,
+    "mal": 5661,
+    "anidb": 6612,
+    "tmdb": 319145,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Umi no Momotarou",
+    "english": "Momotaro under the Sea",
+    "native": "海の桃太郎",
+    "synonyms": [],
+    "tmdb_title": "Umi no Momotaro"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 9,
+  "start_date": {
+    "year": 1932,
+    "month": 1,
+    "day": 26
+  },
+  "end_date": {
+    "year": 1932,
+    "month": 1,
+    "day": 26
+  },
+  "description": "Momotaro under the Sea, in which Momotaro defeats a big shark in a submarine, was produced in response to the popularity of Momotaro in the Sky (1931).",
+  "genres": [],
+  "tags": [
+    "Achromatic",
+    "No Dialogue"
+  ],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 39,
+  "popularity": 727,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5661-9B7yFdmLiVSQ.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/8HWUXmQrVDpBTIJp3ylenDOTV4A.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5661-9B7yFdmLiVSQ.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Japanese Film Archives",
+      "url": "https://animation.filmarchives.jp/en/works/view/11121"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 84,
+  "match_signals": [
+    "english_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T08:21:12.934Z",
+  "cache_version": 1
+}
