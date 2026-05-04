@@ -1,0 +1,63 @@
+{
+  "ids": {
+    "anilist": 103716,
+    "mal": 31759,
+    "anidb": 11707,
+    "tmdb": 382456,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Hakubutsushi",
+    "english": "Natural History",
+    "native": "博物誌",
+    "synonyms": [],
+    "tmdb_title": "Natural History"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 2,
+  "start_date": {
+    "year": 1985,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 1985,
+    "month": null,
+    "day": null
+  },
+  "description": "Inspired by Ish Patel's After Life, and Pliny's Natural History, I draw and transform medieval European creatures by drawing clay on a transmitted light stand.\n<br><br>\n(Source:  http://www.yamamura-animation.jp)",
+  "genres": [],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 41,
+  "popularity": 368,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103716-52FQrwDT1kmE.jpg",
+    "poster_color": "#f1e4c9",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/uMWaXKALO5xgODRYCPj20knr2fZ.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103716-52FQrwDT1kmE.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Vimeo",
+      "url": "https://vimeo.com/115559708"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T09:11:03.008Z",
+  "cache_version": 1
+}

@@ -1,0 +1,67 @@
+{
+  "ids": {
+    "anilist": 104632,
+    "mal": 35747,
+    "anidb": 12882,
+    "tmdb": 461710,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Nyago Dance",
+    "english": "The Cat Purr Dance",
+    "native": "ニヤゴダンス",
+    "synonyms": [],
+    "tmdb_title": "The Cat Purr Dance"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 3,
+  "start_date": {
+    "year": 1932,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 1932,
+    "month": null,
+    "day": null
+  },
+  "description": "Six mischievous little mice did not pay heed to their mother. Now they face a drunken black cat.<br>\n<br>\n(Source: Japanese Animated Film Classics)",
+  "genres": [
+    "Music"
+  ],
+  "tags": [
+    "Achromatic",
+    "Animals"
+  ],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 35,
+  "popularity": 393,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/104632-USjakWgEXban.png",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/cqRPm9y4m2cugbBpU4gbfBZHagp.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/104632-USjakWgEXban.png"
+  },
+  "streaming": [
+    {
+      "site": "Japanese Film Archives",
+      "url": "https://animation.filmarchives.jp/en/works/playen/91180"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T09:01:28.107Z",
+  "cache_version": 1
+}
