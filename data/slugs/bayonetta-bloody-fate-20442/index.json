@@ -65,8 +65,8 @@
   "source": "VIDEO_GAME",
   "country": "JP",
   "score_anilist": 64,
-  "popularity": 13777,
-  "trending": 1,
+  "popularity": 13801,
+  "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20442-h9FYhs7SrKGj.jpg",
     "poster_color": "#780d0d",
@@ -83,6 +83,10 @@
     {
       "site": "Crunchyroll",
       "url": "https://www.crunchyroll.com/bayonetta-bloody-fate"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/"
     }
   ],
   "themes": [],
@@ -94,6 +98,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T08:02:34.225Z",
+  "cached_at": "2026-05-04T17:55:04.241Z",
   "cache_version": 1
 }

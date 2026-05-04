@@ -58,8 +58,8 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 71,
-  "popularity": 44982,
-  "trending": 1,
+  "popularity": 45041,
+  "trending": 2,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1686-oZQepxP4SRQ2.jpg",
     "poster_color": "#ffa143",
@@ -68,7 +68,20 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/5VhdliaIS5Y4QQRDT0jpxfJQdfM.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1686-oZQepxP4SRQ2.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-281006"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/"
+    },
+    {
+      "site": "AmasianTV",
+      "url": "https://amasian.tv/video/movies/bleach-movie-memories-of-nobody/"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 130,
@@ -78,6 +91,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T05:25:43.207Z",
+  "cached_at": "2026-05-04T17:10:03.061Z",
   "cache_version": 1
 }
