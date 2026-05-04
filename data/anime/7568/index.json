@@ -1,0 +1,71 @@
+{
+  "ids": {
+    "anilist": 7568,
+    "mal": 7568,
+    "tmdb": 25499,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Umineko no Naku Koro ni Specials",
+    "english": "When the Seagulls Cry Specials",
+    "native": "うみねこのなく頃に",
+    "synonyms": [
+      "Uraneko",
+      "When They Cry 3 Specials"
+    ],
+    "tmdb_title": "Umineko: When They Cry"
+  },
+  "format": "SPECIAL",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2009,
+  "episodes": 26,
+  "duration": 1,
+  "start_date": {
+    "year": 2009,
+    "month": 10,
+    "day": 23
+  },
+  "end_date": {
+    "year": 2010,
+    "month": 10,
+    "day": 24
+  },
+  "description": "DVD and BD specials of Umineko no Naku Koro ni containing the parody dubbing by the original cast.",
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [
+    "Studio DEEN"
+  ],
+  "producers": [
+    "Frontier Works"
+  ],
+  "source": "VISUAL_NOVEL",
+  "country": "JP",
+  "score_anilist": 55,
+  "popularity": 3438,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7568.jpg",
+    "poster_color": "#ffd693",
+    "banner": "https://image.tmdb.org/t/p/original/tvoe0JHWnaBJbWKvGruprc0RrF2.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/jSXaOtStb2vyNoGQSSXLT5EG0g7.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/tvoe0JHWnaBJbWKvGruprc0RrF2.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7568.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 100,
+  "match_signals": [
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T18:30:17.017Z",
+  "cache_version": 1
+}
