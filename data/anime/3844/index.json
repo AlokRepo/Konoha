@@ -1,0 +1,75 @@
+{
+  "ids": {
+    "anilist": 3844,
+    "mal": 3844,
+    "anidb": 1902,
+    "tmdb": 76731,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Apache Yakyuugun",
+    "english": "Apache Baseball Team",
+    "native": "アパッチ野球軍",
+    "synonyms": [],
+    "tmdb_title": "アパッチ野球軍"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 1971,
+  "episodes": 26,
+  "duration": 20,
+  "start_date": {
+    "year": 1971,
+    "month": 10,
+    "day": 6
+  },
+  "end_date": {
+    "year": 1972,
+    "month": 3,
+    "day": 29
+  },
+  "description": "Mr. Dojima refuses to join a professional baseball team, and becomes a high-school baseball coach in a small village. Through baseball games, he teaches his students the greatness of cooperation.",
+  "genres": [
+    "Action",
+    "Sports"
+  ],
+  "tags": [
+    "Delinquents",
+    "Baseball",
+    "Shounen"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [
+    "TV Asahi"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 57,
+  "popularity": 575,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3844-pKT3KKJJ71xj.jpg",
+    "poster_color": "#f1781a",
+    "banner": "https://image.tmdb.org/t/p/original/4qAcXj3kYhpqKTSUROT8FhngPaR.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/cyGe9Bb6TUOrLUkvb2r5tk7rS6U.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/4qAcXj3kYhpqKTSUROT8FhngPaR.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3844-pKT3KKJJ71xj.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T04:30:53.139Z",
+  "cache_version": 1
+}

@@ -1,0 +1,72 @@
+{
+  "ids": {
+    "anilist": 3909,
+    "mal": 3909,
+    "anidb": 2074,
+    "tmdb": 19343,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Bikkuriman",
+    "english": null,
+    "native": "ビックリマン",
+    "synonyms": [
+      "Prince Hercule"
+    ],
+    "tmdb_title": "Bikkuriman"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 1987,
+  "episodes": 75,
+  "duration": 24,
+  "start_date": {
+    "year": 1987,
+    "month": 10,
+    "day": 11
+  },
+  "end_date": {
+    "year": 1989,
+    "month": 4,
+    "day": 2
+  },
+  "description": "In a world divided between angels and evil creatures, only the young hero Yamato Shintei has the power to defeat the demons...",
+  "genres": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "tags": [
+    "Kids"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 56,
+  "popularity": 577,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3909.jpg",
+    "poster_color": "#f1c928",
+    "banner": "https://image.tmdb.org/t/p/original/qVBfhE3YPGGaE3n21sMf11oG2k3.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/4rJqUC4NWSOMk53GY03yNMyYIFb.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/qVBfhE3YPGGaE3n21sMf11oG2k3.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3909.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 120,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T04:30:25.994Z",
+  "cache_version": 1
+}
