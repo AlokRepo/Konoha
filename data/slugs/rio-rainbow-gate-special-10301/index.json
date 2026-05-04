@@ -1,0 +1,73 @@
+{
+  "ids": {
+    "anilist": 10301,
+    "mal": 10301,
+    "tmdb": 38532,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Rio: Rainbow Gate! Special",
+    "english": null,
+    "native": "リオ レインボーゲート",
+    "synonyms": [
+      "Rio: Rainbow Gate OVA"
+    ],
+    "tmdb_title": "Rio: Rainbow Gate!"
+  },
+  "format": "SPECIAL",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2011,
+  "episodes": 1,
+  "duration": 23,
+  "start_date": {
+    "year": 2011,
+    "month": 10,
+    "day": 19
+  },
+  "end_date": {
+    "year": 2011,
+    "month": 10,
+    "day": 19
+  },
+  "description": "An extra episode of Rio: Rainbow Gate! which will be bundled with the seventh volume of the Blu-ray and the DVD. ",
+  "genres": [
+    "Comedy",
+    "Ecchi"
+  ],
+  "tags": [],
+  "studios": [
+    "Xebec"
+  ],
+  "producers": [],
+  "country": "JP",
+  "score_anilist": 53,
+  "popularity": 1452,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10301.jpg",
+    "poster_color": "#5d86d6",
+    "banner": "https://image.tmdb.org/t/p/original/w9EmtEwpiNV347pNMgISvzX1Z1c.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/wcwqmoc8jmxj3xVDIvt9lpw0gGE.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/w9EmtEwpiNV347pNMgISvzX1Z1c.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10301.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/rio-rainbow-gate"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 99,
+  "match_signals": [
+    "english_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T18:47:55.580Z",
+  "cache_version": 1
+}

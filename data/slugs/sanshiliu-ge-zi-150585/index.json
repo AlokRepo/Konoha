@@ -1,0 +1,61 @@
+{
+  "ids": {
+    "anilist": 150585,
+    "mal": 43544,
+    "tmdb": 650640,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Sanshiliu Ge Zi",
+    "english": null,
+    "native": "三十六个字",
+    "synonyms": [
+      "36 Characters",
+      "36个字"
+    ],
+    "tmdb_title": "36 Characters"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 11,
+  "start_date": {
+    "year": 1984,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 1984,
+    "month": null,
+    "day": null
+  },
+  "genres": [],
+  "tags": [],
+  "studios": [
+    "Shanghai Animation Film Studio"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 51,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150585-ddQ655DhxpSE.jpg",
+    "poster_color": "#50a1e4",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w500/7Bz5buNLuDGP11MMZkdVmva7BOc.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150585-ddQ655DhxpSE.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T17:46:25.232Z",
+  "cache_version": 1
+}

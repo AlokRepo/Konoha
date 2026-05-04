@@ -1,0 +1,65 @@
+{
+  "ids": {
+    "anilist": 149102,
+    "mal": 60487,
+    "tmdb": 856519,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "REDTABLE",
+    "english": null,
+    "native": "REDTABLE",
+    "synonyms": [
+      "RED TABLE"
+    ],
+    "tmdb_title": "RED TABLE"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 7,
+  "start_date": {
+    "year": 2021,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 2021,
+    "month": null,
+    "day": null
+  },
+  "description": "Mesmerizing play with a toy train set blends with bloodthirsty greed in a young boy’s playtime over a red tabletop in this whimsical animation.",
+  "genres": [],
+  "tags": [],
+  "studios": [
+    "Studio 8 Dogs"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "popularity": 37,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx149102-bsZyoApjQXOi.png",
+    "poster_color": "#e40d28",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/cOMaIUlHi0YwkWduBO8dpWDKUx9.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx149102-bsZyoApjQXOi.png"
+  },
+  "streaming": [
+    {
+      "site": "Vimeo",
+      "url": "https://vimeo.com/509703353"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T17:56:13.448Z",
+  "cache_version": 1
+}
