@@ -1,0 +1,73 @@
+{
+  "ids": {
+    "anilist": 4800,
+    "mal": 4800,
+    "anidb": 3675,
+    "tmdb": 71448,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Huckleberry Finn Monogatari",
+    "english": null,
+    "native": "ハックルベリー・フィン物語",
+    "synonyms": [
+      "Huckleberry Finn Story"
+    ],
+    "tmdb_title": "The Adventures of Huck Finn"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 1994,
+  "episodes": 26,
+  "duration": 20,
+  "start_date": {
+    "year": 1994,
+    "month": 8,
+    "day": 26
+  },
+  "end_date": {
+    "year": 1995,
+    "month": 3,
+    "day": 3
+  },
+  "description": "Based on Mark Twain's famous book about the adventures of young orphan Huckleberry Finn.",
+  "genres": [
+    "Adventure"
+  ],
+  "tags": [
+    "Classic Literature",
+    "Foreign",
+    "Male Protagonist"
+  ],
+  "studios": [
+    "Aubec"
+  ],
+  "producers": [],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 55,
+  "popularity": 594,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4800-kGp5fI1svKxb.jpg",
+    "poster_color": "#e4865d",
+    "banner": "https://image.tmdb.org/t/p/original/osP5OqLMqPoe7BzcMnwiu8UkiGT.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/jOLQMv2mPf9oLBBgG8qBSi4xakp.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/osP5OqLMqPoe7BzcMnwiu8UkiGT.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4800-kGp5fI1svKxb.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 100,
+  "match_signals": [
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T04:28:55.430Z",
+  "cache_version": 1
+}

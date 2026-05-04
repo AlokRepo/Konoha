@@ -1,0 +1,83 @@
+{
+  "ids": {
+    "anilist": 4597,
+    "mal": 4597,
+    "anidb": 5133,
+    "tmdb": 71151,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Kouya no Shounen Isamu",
+    "english": null,
+    "native": "荒野の少年イサム",
+    "synonyms": [
+      "Willie Boy",
+      "Willy Boy",
+      "Shounen Isamu",
+      "The Rough and Ready Cowboy"
+    ],
+    "tmdb_title": "Kouya no Shounen Isamu"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 1973,
+  "episodes": 52,
+  "duration": 20,
+  "start_date": {
+    "year": 1973,
+    "month": 4,
+    "day": 4
+  },
+  "end_date": {
+    "year": 1974,
+    "month": 3,
+    "day": 27
+  },
+  "description": "The adventures of Isamu, a young boy living in the Far West, searching for his real father.",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [
+    "Cowboys",
+    "Historical"
+  ],
+  "studios": [
+    "Tokyo Movie Shinsha",
+    "Studio Junio",
+    "TMS Entertainment",
+    "Oh! Production",
+    "Tokyo Movie"
+  ],
+  "producers": [
+    "Fuji TV"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 62,
+  "popularity": 566,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4597-BDkCvZQf8kcx.png",
+    "poster_color": "#ffbb00",
+    "banner": "https://image.tmdb.org/t/p/original/y86vUvKYj6T1EoqERuyobpAfjbY.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/2eWFDDZuXlnBca2ntpQOJaHBcA6.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/y86vUvKYj6T1EoqERuyobpAfjbY.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4597-BDkCvZQf8kcx.png"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T04:31:42.262Z",
+  "cache_version": 1
+}
