@@ -1,0 +1,67 @@
+{
+  "ids": {
+    "anilist": 4286,
+    "mal": 4286,
+    "anidb": 3548,
+    "tmdb": 66569,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "BONOBONO",
+    "english": "Bonobono",
+    "native": "ぼのぼの",
+    "synonyms": [],
+    "tmdb_title": "Bonobono"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 1995,
+  "episodes": 48,
+  "duration": 15,
+  "start_date": {
+    "year": 1995,
+    "month": 4,
+    "day": 20
+  },
+  "end_date": {
+    "year": 1996,
+    "month": 3,
+    "day": 28
+  },
+  "description": "A sea otter and his friends, a raccoon and squirrel, live and play together in the forest.",
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [
+    "Group TAC"
+  ],
+  "producers": [],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 65,
+  "popularity": 664,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4286.jpg",
+    "poster_color": "#e4a15d",
+    "banner": "https://image.tmdb.org/t/p/original/6XELL0PJ3yPH7MFYtfq6sr9qOxB.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/16Crf2Wvw941JL0FXMUGAUT7t9L.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/6XELL0PJ3yPH7MFYtfq6sr9qOxB.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4286.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T05:59:19.234Z",
+  "cache_version": 1
+}

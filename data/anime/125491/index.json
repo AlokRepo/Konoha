@@ -1,0 +1,92 @@
+{
+  "ids": {
+    "anilist": 125491,
+    "mal": 43350,
+    "anidb": 15775,
+    "tmdb": 202482,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Gebaude=Baude",
+    "english": "Gebäude-Bäude",
+    "native": "ゲボイデ＝ボイデ",
+    "synonyms": [
+      "Gebaude Baude",
+      "Fireball: Gebäude Bäude",
+      "Fireball: Gebaude Baude",
+      "Gebäude Bäude",
+      "Fireball: Gebäude=Bäude",
+      "Fireball: Gebaude=Baude",
+      "Gebäude=Bäude",
+      "파이어볼 게보이데보이데"
+    ],
+    "tmdb_title": "Gebäude-Bäude"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2020,
+  "episodes": 10,
+  "duration": 3,
+  "start_date": {
+    "year": 2020,
+    "month": 11,
+    "day": 8
+  },
+  "end_date": {
+    "year": 2020,
+    "month": 12,
+    "day": 10
+  },
+  "description": "The final chapter of <i>Fireball</i>.<br><br>\nGebäude-Bäude tries to show the mistress Ariadne the outside world, but is constantly interrupted.<br><br>\n(Source: Disney+)",
+  "genres": [
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Robots",
+    "Full CGI",
+    "Hikikomori",
+    "Artificial Intelligence",
+    "Ojou-sama",
+    "Dystopian",
+    "Acting"
+  ],
+  "studios": [
+    "Jinni's Animation Studio"
+  ],
+  "producers": [
+    "Walt Disney Studios"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 58,
+  "popularity": 732,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx125491-8DuV6JfT3KkM.jpg",
+    "poster_color": "#e4c935",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/125491-2lhE0HClnYXa.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/t9KeJmhV4W55Jr1ojQMUA7NL2ZH.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/ueTA6XMdp9yvCaCHVExrhPzBa4X.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx125491-8DuV6JfT3KkM.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Disney Plus",
+      "url": "https://www.disneyplus.com/en-jp/browse/entity-cd0338d4-49b6-483b-a245-51fb4f2bce3b"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T05:57:47.481Z",
+  "cache_version": 1
+}

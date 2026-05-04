@@ -1,0 +1,72 @@
+{
+  "ids": {
+    "anilist": 198720,
+    "mal": 62987,
+    "tmdb": 310026,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Hokuto no Ken: Kenou-gun Zako-tachi no Banka",
+    "english": null,
+    "native": "北斗の拳 拳王軍ザコたちの挽歌",
+    "synonyms": [],
+    "tmdb_title": "Elegy for the Henchmen: Fist of the North Star"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2026,
+  "episodes": 12,
+  "duration": 4,
+  "start_date": {
+    "year": 2026,
+    "month": 1,
+    "day": 5
+  },
+  "end_date": {
+    "year": 2026,
+    "month": 3,
+    "day": 23
+  },
+  "description": "A young man named Nobu, who is looking for a job in the post-apocalyptic world, ends up tricked into joining Raoh's Army.",
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [
+    "Doraku"
+  ],
+  "producers": [
+    "Frontier Works",
+    "AT-X",
+    "Coamix",
+    "STARRY",
+    "arma bianca"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 47,
+  "popularity": 794,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198720-khTq51fpDDUZ.jpg",
+    "poster_color": "#780d0d",
+    "banner": "https://image.tmdb.org/t/p/original/1YYy81JProstVsNynO465ilMVAx.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/76VzGj5JENehcjWV4wK0LQKarhv.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/1YYy81JProstVsNynO465ilMVAx.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198720-khTq51fpDDUZ.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 100,
+  "match_signals": [
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T05:56:42.181Z",
+  "cache_version": 1
+}
