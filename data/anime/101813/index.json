@@ -56,8 +56,8 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 78,
-  "popularity": 28074,
-  "trending": 0,
+  "popularity": 28104,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101813-ckCNyMkU2Kkc.png",
     "poster_color": "#f1e435",
@@ -70,6 +70,10 @@
     {
       "site": "Crunchyroll",
       "url": "https://www.crunchyroll.com/code-geass"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/"
     }
   ],
   "themes": [],
@@ -81,6 +85,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T06:24:27.810Z",
+  "cached_at": "2026-05-04T17:37:12.036Z",
   "cache_version": 1
 }
