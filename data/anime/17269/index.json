@@ -60,7 +60,7 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 70,
-  "popularity": 11007,
+  "popularity": 11010,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx17269-PTlucMYOYZWn.jpg",
@@ -74,6 +74,10 @@
     {
       "site": "Tubi TV",
       "url": "https://tubitv.com/movies/396830/harlock_space_pirate"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/"
     }
   ],
   "themes": [],
@@ -85,6 +89,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T18:23:06.123Z",
+  "cached_at": "2026-05-04T17:59:54.286Z",
   "cache_version": 1
 }

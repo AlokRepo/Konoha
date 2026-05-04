@@ -4,7 +4,8 @@
     "mal": 57448,
     "anidb": 18301,
     "tmdb": 1214138,
-    "tmdb_type": "movie"
+    "tmdb_type": "movie",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Fureru.",
@@ -50,8 +51,8 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 64,
-  "popularity": 6841,
-  "trending": 0,
+  "popularity": 6843,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171109-L8VMss7mdCKU.jpg",
     "poster_color": "#2878e4",
@@ -75,6 +76,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T09:40:07.055Z",
+  "cached_at": "2026-05-04T18:14:13.251Z",
   "cache_version": 1
 }
