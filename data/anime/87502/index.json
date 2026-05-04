@@ -1,0 +1,80 @@
+{
+  "ids": {
+    "anilist": 87502,
+    "mal": 33737,
+    "anidb": 12296,
+    "tmdb": 129553,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Megaton-kyuu Musashi",
+    "english": "MEGATON MUSASHI",
+    "native": "メガトン級ムサシ",
+    "synonyms": [],
+    "tmdb_title": "MEGATON MUSASHI"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2021,
+  "episodes": 13,
+  "duration": 25,
+  "start_date": {
+    "year": 2021,
+    "month": 10,
+    "day": 1
+  },
+  "end_date": {
+    "year": 2021,
+    "month": 12,
+    "day": 24
+  },
+  "description": "The story takes place after 90 percent of humanity wiped out due to an invasion. Survivors live in a shelter where their lives are monitored, and memories of the invasion erased. Three teenagers from the shelter are chosen to pilot three machines that combine to form the Musashi robot, made out of a material named Megatronium alloy. The series will balance robot action with school life.",
+  "genres": [
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Post-Apocalyptic",
+    "Super Robot",
+    "Aliens",
+    "Memory Manipulation",
+    "Ensemble Cast",
+    "Kids",
+    "School"
+  ],
+  "studios": [
+    "OLM"
+  ],
+  "producers": [],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 59,
+  "popularity": 5934,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx87502-IukO9bOX8G7V.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/phNTciK1qPvUqbX6hkT3sg6PQ6m.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/8cz1PoLOi72iarRQhTdLRCyyGxm.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/phNTciK1qPvUqbX6hkT3sg6PQ6m.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx87502-IukO9bOX8G7V.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/series/GP5HJ840X/megaton-musashi"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 120,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T02:02:51.755Z",
+  "cache_version": 1
+}

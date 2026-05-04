@@ -1,0 +1,83 @@
+{
+  "ids": {
+    "anilist": 9241,
+    "mal": 9241,
+    "anidb": 7718,
+    "tmdb": 45214,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Super Robot Taisen OG: The Inspector",
+    "english": "Super Robot Wars OG: The Inspector",
+    "native": "スーパーロボット大戦OG -ジ・インスペクター-",
+    "synonyms": [
+      "Super Robot Taisen Original Generation: The Inspector",
+      "SRWOG"
+    ],
+    "tmdb_title": "Super Robot Wars OG: The Inspector"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2010,
+  "episodes": 26,
+  "duration": 23,
+  "start_date": {
+    "year": 2010,
+    "month": 10,
+    "day": 2
+  },
+  "end_date": {
+    "year": 2011,
+    "month": 4,
+    "day": 2
+  },
+  "description": "With many of its central personnel lost in the war, the Earth Federation Government is forced to rebuild, and Brian Midcrid, president of the Unified Colonies, takes the position of its president. During an emergency session of the Federation Diet, he publicly acknowledges the existence of extraterrestials, and reveals the events of the L5 campaign to the masses in what will later come to be called the \"Tokyo Declaration\". He goes on to state that these aliens pose a serious threat to humanity.<br><br>\n(Source: Crunchyroll)",
+  "genres": [
+    "Action",
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Space",
+    "Super Robot",
+    "Real Robot",
+    "Military",
+    "Aliens"
+  ],
+  "studios": [
+    "Asahi Production"
+  ],
+  "producers": [],
+  "source": "VIDEO_GAME",
+  "country": "JP",
+  "score_anilist": 67,
+  "popularity": 2588,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9241.jpg",
+    "poster_color": "#e4435d",
+    "banner": "https://image.tmdb.org/t/p/original/5sazmZvmr5V1warXsokdmCL1Wf2.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/txF1KhYk9h3M7uR5DLvNuBjeH4W.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/5sazmZvmr5V1warXsokdmCL1Wf2.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9241.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/super-robot-wars-og-the-inspector"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T02:57:51.280Z",
+  "cache_version": 1
+}
