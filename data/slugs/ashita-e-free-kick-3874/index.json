@@ -1,0 +1,75 @@
+{
+  "ids": {
+    "anilist": 3874,
+    "mal": 3874,
+    "anidb": 3077,
+    "tmdb": 103757,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Ashita e Free Kick",
+    "english": null,
+    "native": "あしたへフリーキック",
+    "synonyms": [
+      "Free Kick Toward Tomorrow",
+      "Graine de champion",
+      "Supercampeones",
+      "Forza campioni"
+    ],
+    "tmdb_title": "Free Kick Toward Tomorrow"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 1992,
+  "episodes": 52,
+  "duration": 23,
+  "start_date": {
+    "year": 1992,
+    "month": 4,
+    "day": 14
+  },
+  "end_date": {
+    "year": 1993,
+    "month": 4,
+    "day": 24
+  },
+  "description": "Shun Godai is a young boy who likes soccer. But his grandfather, a successful businessman, want his grandson to follow his path...",
+  "genres": [
+    "Sports"
+  ],
+  "tags": [
+    "Football"
+  ],
+  "studios": [
+    "Ashi Productions"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 63,
+  "popularity": 694,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3874.jpg",
+    "poster_color": "#e48650",
+    "banner": "https://image.tmdb.org/t/p/original/gnKM7dtDB9aJLJJYhOTgnM4mjr5.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/1vuH7d43BPxESt1vj7j1feVYhVX.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/gnKM7dtDB9aJLJJYhOTgnM4mjr5.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3874.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T04:21:59.777Z",
+  "cache_version": 1
+}
