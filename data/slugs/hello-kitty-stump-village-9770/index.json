@@ -1,0 +1,71 @@
+{
+  "ids": {
+    "anilist": 9770,
+    "mal": 9770,
+    "anidb": 6440,
+    "tmdb": 231586,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Hello Kitty no Stump Village",
+    "english": "Hello Kitty: Stump Village",
+    "native": "ハローキティのスタンプヴィレッジ",
+    "synonyms": [
+      "Hello Kitty: Stubbelandsbyen",
+      "Hello Kitty: Leśny zakątek "
+    ],
+    "tmdb_title": "Hello Kitty Stump Village"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "episodes": 26,
+  "duration": 9,
+  "start_date": {
+    "year": 2005,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 2005,
+    "month": null,
+    "day": null
+  },
+  "description": "A Hello Kitty claymation series.\n<br><br>\nThe Stump Village itself is a group of tree stump houses located in a secluded area of a forest. The village residents are a tight-knit bunch: Badtz Maru, Cinnamoroll, My Melody, Pom Pom Purin, and Hello Kitty.",
+  "genres": [
+    "Fantasy",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Kids",
+    "Stop Motion",
+    "Magic",
+    "Episodic"
+  ],
+  "studios": [],
+  "producers": [],
+  "country": "JP",
+  "score_anilist": 63,
+  "popularity": 641,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9770.jpg",
+    "poster_color": "#e4a15d",
+    "banner": "https://image.tmdb.org/t/p/original/jz99DMiNHU82Ua4nOX9fp9KRqSp.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/9M6ubCfpLwXN84fKYUohQ0t6dBM.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/jz99DMiNHU82Ua4nOX9fp9KRqSp.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9770.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 125,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T06:00:09.996Z",
+  "cache_version": 1
+}

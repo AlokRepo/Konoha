@@ -1,0 +1,73 @@
+{
+  "ids": {
+    "anilist": 125153,
+    "mal": 42657,
+    "anidb": 15759,
+    "tmdb": 114590,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Himitsukessha Taka no Tsume: Golden Spell",
+    "english": "Eagle Talon: Golden Spell",
+    "native": "秘密結社 鷹の爪 ～ゴールデン・スペル～",
+    "synonyms": [],
+    "tmdb_title": "EAGLE TALON ~Golden Spell~"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2020,
+  "episodes": 12,
+  "duration": 15,
+  "start_date": {
+    "year": 2020,
+    "month": 10,
+    "day": 5
+  },
+  "end_date": {
+    "year": 2020,
+    "month": 12,
+    "day": 21
+  },
+  "genres": [
+    "Comedy",
+    "Supernatural"
+  ],
+  "tags": [],
+  "studios": [
+    "DLE"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 51,
+  "popularity": 559,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx125153-ROvjT0nsLAwa.png",
+    "poster_color": "#bb35ff",
+    "banner": "https://image.tmdb.org/t/p/original/9lEPOmv8eHpxdyH5exBSrk4KN3X.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/puDbbGicOFtLhPnsOV9SAIOXjg8.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/9lEPOmv8eHpxdyH5exBSrk4KN3X.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx125153-ROvjT0nsLAwa.png"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/eagle-talon-golden-spell"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T06:02:51.928Z",
+  "cache_version": 1
+}

@@ -1,0 +1,72 @@
+{
+  "ids": {
+    "anilist": 8815,
+    "mal": 8815,
+    "tmdb": 128041,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Domo TV",
+    "english": null,
+    "native": "どーもくん",
+    "synonyms": [
+      "Domo-kun TV"
+    ],
+    "tmdb_title": "Domo"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "episodes": 26,
+  "duration": 2,
+  "start_date": {
+    "year": 2008,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 2008,
+    "month": null,
+    "day": null
+  },
+  "description": "A co-production between Nickelodeon and NHK featuring the stop-motion character Domo-kun, aired both in the US and Japan.",
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Surreal Comedy",
+    "Kids",
+    "Stop Motion"
+  ],
+  "studios": [],
+  "producers": [
+    "NHK",
+    "dwarf"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 54,
+  "popularity": 553,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8815.jpg",
+    "poster_color": "#a1bb28",
+    "banner": "https://image.tmdb.org/t/p/original/6iQse15q92AI1u9rfvhU6dAUCp5.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/jTPGKyzpiCLVmETklsc5wOnPI2q.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/6iQse15q92AI1u9rfvhU6dAUCp5.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8815.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 95,
+  "match_signals": [
+    "english_title",
+    "season_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T06:03:06.998Z",
+  "cache_version": 1
+}
