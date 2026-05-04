@@ -1,0 +1,66 @@
+{
+  "ids": {
+    "anilist": 175103,
+    "tmdb": 1465564,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Spring storm",
+    "english": "Spring storm",
+    "native": "Spring storm",
+    "synonyms": [],
+    "tmdb_title": "Spring storm"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 4,
+  "start_date": {
+    "year": 2023,
+    "month": 5,
+    "day": 28
+  },
+  "end_date": {
+    "year": 2023,
+    "month": 5,
+    "day": 28
+  },
+  "description": "Graduation work of Hanaka Owada at Tama Art University.",
+  "genres": [],
+  "tags": [
+    "Fairy"
+  ],
+  "studios": [],
+  "producers": [
+    "Tama Art University"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "popularity": 75,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175103-gyRVEXgKbLWk.png",
+    "poster_color": "#aec9e4",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/175103-RtJ2iUIYQ4eh.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/lUpFGjRMcGty9JlqYhoJcJ21PYu.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/dbNqJNZaE8sOtYrC0PZN1Mf3yIB.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175103-gyRVEXgKbLWk.png"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://youtu.be/RzfNfAqTl8E"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T17:17:42.382Z",
+  "cache_version": 1
+}
