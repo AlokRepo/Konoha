@@ -1,0 +1,66 @@
+{
+  "ids": {
+    "anilist": 109006,
+    "mal": 38341,
+    "anidb": 13803,
+    "tmdb": 689061,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Bai Niao",
+    "english": null,
+    "native": "白鸟",
+    "synonyms": [
+      "White Bird"
+    ],
+    "tmdb_title": "White Bird"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 14,
+  "start_date": {
+    "year": 2017,
+    "month": 6,
+    "day": 13
+  },
+  "end_date": {
+    "year": 2017,
+    "month": 6,
+    "day": 13
+  },
+  "description": "Based on a Kazakh Folk Tale.",
+  "genres": [],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "OTHER",
+  "country": "CN",
+  "score_anilist": 47,
+  "popularity": 252,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b109006-NzZrxR5zdYQJ.jpg",
+    "poster_color": "#e4bba1",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/109006-2NGNtnxn59YQ.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/ankJWSolVyLVrpmz6nXgtuQylht.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b109006-NzZrxR5zdYQJ.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/video/av23571921/"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T09:38:10.085Z",
+  "cache_version": 1
+}

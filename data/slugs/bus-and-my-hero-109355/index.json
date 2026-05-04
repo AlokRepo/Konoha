@@ -1,0 +1,67 @@
+{
+  "ids": {
+    "anilist": 109355,
+    "tmdb": 1616402,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Bus to Hero",
+    "english": "Bus and my Hero",
+    "native": "バスとヒーロー",
+    "synonyms": [],
+    "tmdb_title": "Bus and my Hero"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 5,
+  "start_date": {
+    "year": 2018,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 2018,
+    "month": null,
+    "day": null
+  },
+  "description": "Graduation work of Marika Matsunaga at Tama Art University.",
+  "genres": [
+    "Romance"
+  ],
+  "tags": [
+    "Achromatic"
+  ],
+  "studios": [],
+  "producers": [
+    "Tama Art University"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "popularity": 138,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109355-QJm1vk8ktUNZ.png",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/109355-qBL9fsqgSWM4.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/t1VMIYkBl17QsWjvmqCTpXDz7TW.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/7dWg86JuIFR4rb9pz0gOgZIzeve.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109355-QJm1vk8ktUNZ.png"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://youtu.be/hnV-lx6TbNo"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T10:52:26.537Z",
+  "cache_version": 1
+}

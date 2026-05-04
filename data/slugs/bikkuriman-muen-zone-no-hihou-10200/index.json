@@ -1,0 +1,65 @@
+{
+  "ids": {
+    "anilist": 10200,
+    "mal": 10200,
+    "anidb": 7354,
+    "tmdb": 1352903,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Bikkuriman: Muen Zone no Hihou",
+    "english": null,
+    "native": "ビックリマン 無縁ゾーンの秘宝",
+    "synonyms": [
+      "BIKKURI MAN 2 The Secret of Muen Zone"
+    ],
+    "tmdb_title": "ビックリマン 無縁ゾーンの秘宝"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 1988,
+  "episodes": 1,
+  "duration": 45,
+  "start_date": {
+    "year": 1988,
+    "month": 7,
+    "day": 9
+  },
+  "end_date": {
+    "year": 1988,
+    "month": 7,
+    "day": 9
+  },
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [],
+  "source": "OTHER",
+  "country": "JP",
+  "popularity": 166,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10200.jpg",
+    "poster_color": "#ffc935",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/23Yn4KlrkKjM0KuZsTm9l7hjdyD.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10200.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T10:38:54.502Z",
+  "cache_version": 1
+}

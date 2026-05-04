@@ -1,0 +1,62 @@
+{
+  "ids": {
+    "anilist": 109330,
+    "mal": 21765,
+    "anidb": 7024,
+    "tmdb": 1094033,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Ari to Hato (1959)",
+    "english": null,
+    "native": "ありとはと",
+    "synonyms": [
+      "The Ant and the Pigeon (1959)"
+    ],
+    "tmdb_title": "The Ant and the Pigeon"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 8,
+  "start_date": {
+    "year": 1959,
+    "month": 9,
+    "day": 5
+  },
+  "end_date": {
+    "year": 1959,
+    "month": 9,
+    "day": 5
+  },
+  "description": "In this tale an ant and a pigeon help each other. Third remake of the Ari to Hato.",
+  "genres": [],
+  "tags": [],
+  "studios": [],
+  "producers": [
+    "Gakken"
+  ],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 39,
+  "popularity": 294,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b109330-V4X7NEXL5O3B.jpg",
+    "poster_color": "#f1bb5d",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/ng1dU1rEVPKlhx9NWFL43ZQwoz2.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b109330-V4X7NEXL5O3B.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 83,
+  "match_signals": [
+    "english_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T09:24:55.120Z",
+  "cache_version": 1
+}

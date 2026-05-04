@@ -1,0 +1,66 @@
+{
+  "ids": {
+    "anilist": 8416,
+    "mal": 8416,
+    "anidb": 7523,
+    "tmdb": 643277,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Bonobono (Movie)",
+    "english": "Bonobono",
+    "native": "ぼのぼの",
+    "synonyms": [],
+    "tmdb_title": "Bonobono"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 1993,
+  "episodes": 1,
+  "duration": 103,
+  "start_date": {
+    "year": 1993,
+    "month": 11,
+    "day": 13
+  },
+  "end_date": {
+    "year": 1993,
+    "month": 11,
+    "day": 13
+  },
+  "description": "The first theatrical Bonobono movie.",
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [
+    "Group TAC"
+  ],
+  "producers": [],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 48,
+  "popularity": 316,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8416.jpg",
+    "poster_color": "#5093f1",
+    "banner": "https://image.tmdb.org/t/p/original/x7dn00iOqSx3jWgMifwvPSYxvEz.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/vjG7FF1aCql50IJBIr3BQLlOePE.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/x7dn00iOqSx3jWgMifwvPSYxvEz.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8416.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T09:19:38.535Z",
+  "cache_version": 1
+}
