@@ -1,0 +1,72 @@
+{
+  "ids": {
+    "anilist": 7808,
+    "mal": 7808,
+    "anidb": 3661,
+    "tmdb": 277360,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Zukkoke Knight: Don De La Mancha",
+    "english": "Don Quixote in the Tales of La Mancha",
+    "native": "ずっこけナイト　ドンデラマンチャ",
+    "synonyms": [
+      "Don Chisciotte",
+      "Don Quijote y los Cuentos De La Mancha"
+    ],
+    "tmdb_title": "Zukkoke Knight: Don De La Mancha (ずっこけナイト　ドンデラマンチャ)"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 1980,
+  "episodes": 23,
+  "duration": 25,
+  "start_date": {
+    "year": 1980,
+    "month": 4,
+    "day": 15
+  },
+  "end_date": {
+    "year": 1980,
+    "month": 9,
+    "day": 23
+  },
+  "description": "Don Quixote, that infinitely popular character, travels the countryside battling windmills and attempting to win the love of his Dulcinea.",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Romance"
+  ],
+  "tags": [],
+  "studios": [
+    "Ashi Productions"
+  ],
+  "producers": [
+    "Kokusai Eigasha"
+  ],
+  "country": "JP",
+  "score_anilist": 41,
+  "popularity": 418,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7808.jpg",
+    "poster_color": "#e45d35",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/bsTJ0WOViDYjDbIt60PrRuup4rJ.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7808.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T04:45:51.318Z",
+  "cache_version": 1
+}

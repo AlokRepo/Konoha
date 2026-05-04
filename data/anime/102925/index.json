@@ -1,0 +1,79 @@
+{
+  "ids": {
+    "anilist": 102925,
+    "mal": 37787,
+    "anidb": 14054,
+    "tmdb": 107036,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Space Bug",
+    "english": "The Journey Home",
+    "native": "スペースバグ",
+    "synonyms": [],
+    "tmdb_title": "Space Bug"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 2018,
+  "episodes": 26,
+  "duration": 24,
+  "start_date": {
+    "year": 2018,
+    "month": 7,
+    "day": 8
+  },
+  "end_date": {
+    "year": 2019,
+    "month": 1,
+    "day": 6
+  },
+  "description": "This story is about Mick, a sleeping chironomid. Insects are taken up into space for use in experiments by humans. An epic space adventure of Mick and his friends on their journey back home to Earth. The development plans and experiments are aborted by humans for no known reason, the organisms are left behind in the space station with limited resources. Going over hurdles and fighting through challenges, together, they travel across planets and gain new comrades, heading for Earth. As their journey progresses, the mystery behind the human’s abandonment unravels. ",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [
+    "Robots",
+    "Artificial Intelligence",
+    "Ensemble Cast",
+    "Full CGI",
+    "Survival",
+    "Educational"
+  ],
+  "studios": [
+    "TMS Entertainment",
+    "P.I.C.S."
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 49,
+  "popularity": 442,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx102925-VxdddCNVPvac.jpg",
+    "poster_color": "#0dbbe4",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/c9eZlHkY0HViguUBZXynLzgcyrG.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx102925-VxdddCNVPvac.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/the-journey-home"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 120,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T04:42:29.471Z",
+  "cache_version": 1
+}

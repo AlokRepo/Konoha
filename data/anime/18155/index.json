@@ -1,0 +1,72 @@
+{
+  "ids": {
+    "anilist": 18155,
+    "mal": 18155,
+    "anidb": 9786,
+    "tmdb": 61364,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Line Town",
+    "english": null,
+    "native": "ラインタウン",
+    "synonyms": [
+      "raintaun"
+    ],
+    "tmdb_title": "Line Town"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2013,
+  "episodes": 50,
+  "duration": 24,
+  "start_date": {
+    "year": 2013,
+    "month": 4,
+    "day": 3
+  },
+  "end_date": {
+    "year": 2014,
+    "month": 3,
+    "day": 26
+  },
+  "description": "Featuring characters from NHN's popular app such as Moon, Brown, Connie, James, Jessica, and Sally living  happily together in Line Town. ",
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [
+    "Ascension"
+  ],
+  "producers": [
+    "Shogakukan Music & Digital Entertainment"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 54,
+  "popularity": 434,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18155.jpg",
+    "poster_color": "#ffae00",
+    "banner": "https://image.tmdb.org/t/p/original/bS7jwFXd5wivd6nBRnygL6kkIZF.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/olKCKwW3180jfPnwsh16TrGd3Bl.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/bS7jwFXd5wivd6nBRnygL6kkIZF.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18155.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T04:43:29.794Z",
+  "cache_version": 1
+}
