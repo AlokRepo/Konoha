@@ -1,0 +1,80 @@
+{
+  "ids": {
+    "anilist": 116415,
+    "mal": 41405,
+    "anidb": 15431,
+    "tmdb": 273045,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Bakugan Armored Alliance",
+    "english": "Bakugan Armored Alliance",
+    "native": "爆丸アーマードアライアンス",
+    "synonyms": [
+      "Bakugan Battle Planet 2",
+      "Bakugan: Przymierze wojowników"
+    ],
+    "tmdb_title": "ばくがんアーマードアライアンス"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2020,
+  "episodes": 52,
+  "duration": 23,
+  "start_date": {
+    "year": 2020,
+    "month": 4,
+    "day": 3
+  },
+  "end_date": {
+    "year": 2021,
+    "month": 3,
+    "day": 26
+  },
+  "description": "The second season of <i>Bakugan Battle Planet</i>.",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Fantasy"
+  ],
+  "tags": [
+    "Kids",
+    "Card Battle"
+  ],
+  "studios": [
+    "TMS Entertainment"
+  ],
+  "producers": [
+    "Nelvana",
+    "TV Tokyo"
+  ],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 57,
+  "popularity": 1347,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b116415-5EavwM1M0Av2.jpg",
+    "poster_color": "#ffbb43",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/cGIgt5uYij9hS0PUCcnZ9lHGkAe.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b116415-5EavwM1M0Av2.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/81310654"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 95,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T03:43:26.944Z",
+  "cache_version": 1
+}
