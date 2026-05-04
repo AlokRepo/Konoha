@@ -1,0 +1,85 @@
+{
+  "ids": {
+    "anilist": 117876,
+    "mal": 34292,
+    "anidb": 12505,
+    "tmdb": 211691,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Kamigami no Ki",
+    "english": null,
+    "native": "神々の記",
+    "synonyms": [],
+    "tmdb_title": "神々の記"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2016,
+  "episodes": 16,
+  "duration": 3,
+  "start_date": {
+    "year": 2016,
+    "month": 11,
+    "day": 24
+  },
+  "end_date": {
+    "year": 2017,
+    "month": 4,
+    "day": 28
+  },
+  "description": "Set during 3000 BCE in the Nile region of Egypt, Kamigami no Ki (\"Chronicles of the Gods\") will depict the comical misadventures of Bastet, Anubis, Ra, and the mysterious ghost Medjedo as well as their caretakers, Iabi and Ahkeu.\n<br><br>\n(Source: Crunchyroll)",
+  "genres": [
+    "Comedy",
+    "Supernatural"
+  ],
+  "tags": [
+    "Gods",
+    "Foreign",
+    "Historical",
+    "Desert",
+    "Mythology"
+  ],
+  "studios": [],
+  "producers": [
+    "Sotsu"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 46,
+  "popularity": 431,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b117876-fDli7IKqiw9X.jpg",
+    "poster_color": "#50aefe",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/AaTHG0ZYxGPWptDAY2EH56Tcs98.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b117876-fDli7IKqiw9X.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Niconico Video",
+      "url": "https://ch.nicovideo.jp/kamigaminoki"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLsFv4v6nLapVqxasvdTavxcleOo76YGYT"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/@神々の記公式/"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T06:06:22.534Z",
+  "cache_version": 1
+}

@@ -1,0 +1,80 @@
+{
+  "ids": {
+    "anilist": 184289,
+    "mal": 60070,
+    "anidb": 19270,
+    "tmdb": 285260,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Kaijuu Sekai Seifuku",
+    "english": null,
+    "native": "かいじゅうせかいせいふく",
+    "synonyms": [
+      "Tiny Dragons Rule the World"
+    ],
+    "tmdb_title": "Kaijuu Sekai Seifuku"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2025,
+  "episodes": 50,
+  "duration": 3,
+  "start_date": {
+    "year": 2025,
+    "month": 4,
+    "day": 5
+  },
+  "end_date": {
+    "year": 2026,
+    "month": 3,
+    "day": 21
+  },
+  "description": "Following the chaotic and heartwarming daily lives of Kaijuu who have come to Earth to conquer the world and live with their human masters.",
+  "genres": [
+    "Slice of Life"
+  ],
+  "tags": [
+    "Kaiju",
+    "Chibi"
+  ],
+  "studios": [
+    "DLE"
+  ],
+  "producers": [
+    "Kotobukiya"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 46,
+  "popularity": 419,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184289-v85FJN0O4S1j.jpg",
+    "poster_color": "#5da1f1",
+    "banner": "https://image.tmdb.org/t/p/original/ziSGP5kpDzkygAZVn8BFqWBd3AY.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/1jfjLiru6y97EyjrQDZTGLHl41i.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/ziSGP5kpDzkygAZVn8BFqWBd3AY.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184289-v85FJN0O4S1j.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/@kaijyu_sekai"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T06:06:49.510Z",
+  "cache_version": 1
+}

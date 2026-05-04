@@ -1,0 +1,74 @@
+{
+  "ids": {
+    "anilist": 15795,
+    "mal": 15795,
+    "anidb": 9405,
+    "tmdb": 130794,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Beast Saga",
+    "english": null,
+    "native": "ビーストサーガ",
+    "synonyms": [],
+    "tmdb_title": "Beast Saga"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2013,
+  "episodes": 38,
+  "duration": 11,
+  "start_date": {
+    "year": 2013,
+    "month": 1,
+    "day": 13
+  },
+  "end_date": {
+    "year": 2013,
+    "month": 9,
+    "day": 22
+  },
+  "description": "Beast Saga takes place on a distant planet in our galaxy called Beast where three beast tribes, the Sea Tribe, the Land Tribe, and the Sky Tribe, fight for their honor. Each of the tribes protect an infinite elemental power source called Godlot.\n<br><br>\n(Source: Anime News Network)",
+  "genres": [
+    "Action",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Anthropomorphism"
+  ],
+  "studios": [
+    "SynergySP"
+  ],
+  "producers": [
+    "TV Tokyo",
+    "Half H.P Studio"
+  ],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 49,
+  "popularity": 531,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15795.jpg",
+    "poster_color": "#e4861a",
+    "banner": "https://image.tmdb.org/t/p/original/uWG58PLJwTvgZhRyVoDkcju1ryu.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/nwHoQFjEQITJRLess96ercfRmiW.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/uWG58PLJwTvgZhRyVoDkcju1ryu.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15795.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T06:03:58.546Z",
+  "cache_version": 1
+}

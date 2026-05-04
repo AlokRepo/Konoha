@@ -1,0 +1,72 @@
+{
+  "ids": {
+    "anilist": 107070,
+    "mal": 31150,
+    "anidb": 13392,
+    "tmdb": 6732,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Xi Yangyang Yu Hui Tailang",
+    "english": "Pleasant Goat and Big Big Wolf",
+    "native": "喜羊羊与灰太狼",
+    "synonyms": [],
+    "tmdb_title": "Pleasant Goat and Big Big Wolf"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "episodes": 530,
+  "duration": 12,
+  "start_date": {
+    "year": 2005,
+    "month": 8,
+    "day": 3
+  },
+  "end_date": {
+    "year": 2008,
+    "month": null,
+    "day": null
+  },
+  "description": "The hectic daily life of a group of goats living on the Green Pasture, or Qing Qing Grassland (青青草原), and the clumsy wolf who wants to eat them.\n",
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [
+    "Animals"
+  ],
+  "studios": [
+    "Creative Power Entertaining"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "score_anilist": 56,
+  "popularity": 452,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n107070-xhhnoqjybFsI.jpg",
+    "poster_color": "#e4ae35",
+    "banner": "https://image.tmdb.org/t/p/original/4rqGhqQ3aHv5TN7z59OsnLFhD8t.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/3TEX73koX9NroUA9lVwFDMTZtaC.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/4rqGhqQ3aHv5TN7z59OsnLFhD8t.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n107070-xhhnoqjybFsI.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLCxAtDkpA3f9CiPqB_NSD08PAdonJHnO2"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T06:05:35.592Z",
+  "cache_version": 1
+}
