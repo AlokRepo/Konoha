@@ -1,0 +1,67 @@
+{
+  "ids": {
+    "anilist": 8357,
+    "mal": 8357,
+    "anidb": 6958,
+    "tmdb": 863158,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Himitsukessha Taka no Tsume THE MOVIE 3: http://takanotsume.jp wa Eien ni",
+    "english": null,
+    "native": "秘密結社鷹の爪 THE MOVIE3 http://鷹の爪.jp は永遠に",
+    "synonyms": [
+      "Eagle Talon The Movie 3"
+    ],
+    "tmdb_title": "Eagle Talon THE MOVIE 3"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2010,
+  "episodes": 1,
+  "duration": 95,
+  "start_date": {
+    "year": 2010,
+    "month": 1,
+    "day": 16
+  },
+  "end_date": {
+    "year": 2010,
+    "month": 1,
+    "day": 16
+  },
+  "description": "The third Taka no Tsume movie.",
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [
+    "DLE"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 43,
+  "popularity": 292,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8357.jpg",
+    "poster_color": "#f1a143",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/7OrdTIGCippdmaBA9T0kBAauYAs.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8357.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T09:25:15.732Z",
+  "cache_version": 1
+}
