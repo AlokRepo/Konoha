@@ -1,0 +1,66 @@
+{
+  "ids": {
+    "anilist": 121964,
+    "mal": 39206,
+    "tmdb": 487318,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Ohanashi no Hana",
+    "english": "Bloomed Words",
+    "native": "おはなしの花",
+    "synonyms": [],
+    "tmdb_title": "Bloomed Words"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 2,
+  "start_date": {
+    "year": 2006,
+    "month": 10,
+    "day": null
+  },
+  "end_date": {
+    "year": 2006,
+    "month": 10,
+    "day": null
+  },
+  "description": "Short film by Amika Kubo and Seita Inoue, creatively animating a conversation between three people as they talk about traveling.",
+  "genres": [
+    "Slice of Life"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_mal": 5.47,
+  "popularity": 111,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121964-eIXNj1PcpaUe.jpg",
+    "poster_color": "#e4a143",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/121964-J3flZCf9QMoe.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/mzUDNzlWLG9kMue2wC1RO9Uow9C.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/844jH51OyLkwhuXtVlLwLgfY8ox.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121964-eIXNj1PcpaUe.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Vimeo",
+      "url": "https://vimeo.com/52937150"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 95,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T11:07:54.593Z",
+  "cache_version": 1
+}

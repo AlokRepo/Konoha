@@ -1,0 +1,67 @@
+{
+  "ids": {
+    "anilist": 120981,
+    "mal": 42233,
+    "tmdb": 568558,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Suirin: Karma 2",
+    "english": null,
+    "native": "水輪 カルマ2",
+    "synonyms": [
+      "Water Ring Karma 2"
+    ],
+    "tmdb_title": "Water Ring: Karma 2"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 4,
+  "start_date": {
+    "year": 1980,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 1980,
+    "month": null,
+    "day": null
+  },
+  "description": "A serene, abstract hand drawn animation by Nobuhiro Aihara, featuring Kitarou's song \"Asa no Inori\" from his album \"Oasis.\"",
+  "genres": [
+    "Music"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 48,
+  "popularity": 180,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120981-RMmoCFPvgSOX.jpg",
+    "poster_color": "#e4c993",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/120981-TqTiFosMn87R.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/hrAXLPAtkxRZTrxyzaXHQKdqYpj.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120981-RMmoCFPvgSOX.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Vimeo",
+      "url": "https://vimeo.com/ondemand/uplinkcloud1040102/"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T10:31:38.204Z",
+  "cache_version": 1
+}

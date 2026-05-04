@@ -1,0 +1,76 @@
+{
+  "ids": {
+    "anilist": 123447,
+    "mal": 31348,
+    "anidb": 14060,
+    "tmdb": 182221,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Xue Haizi",
+    "english": null,
+    "native": "雪孩子",
+    "synonyms": [
+      "The Snow Child",
+      "Snow Kid"
+    ],
+    "tmdb_title": "The Snow Child"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 20,
+  "start_date": {
+    "year": 1980,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 1980,
+    "month": null,
+    "day": null
+  },
+  "description": "During the Winter season, mother rabbit has to go out, but she is afraid of leaving her son home alone. Her rabbit son decides to make a friend out of the snow to keep him company.\n",
+  "genres": [
+    "Fantasy"
+  ],
+  "tags": [
+    "Snowscape",
+    "Kids"
+  ],
+  "studios": [
+    "Shanghai Animation Film Studio"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "score_anilist": 42,
+  "popularity": 162,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx123447-bTrBGBD5jmhS.png",
+    "poster_color": "#d6a11a",
+    "banner": "https://image.tmdb.org/t/p/original/8LFzdllmZ3YbJmJDN295TgdHmqI.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w500/pAOGpxFVgkAMgyLyvpS4LoV5uWP.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/8LFzdllmZ3YbJmJDN295TgdHmqI.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx123447-bTrBGBD5jmhS.png"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/t/t4b7n992uaz4hi1.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T10:41:09.434Z",
+  "cache_version": 1
+}

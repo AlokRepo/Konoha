@@ -1,0 +1,63 @@
+{
+  "ids": {
+    "anilist": 123198,
+    "mal": 42815,
+    "anidb": 15763,
+    "tmdb": 729993,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Xin Yu Gong Yu Shan",
+    "english": null,
+    "native": "新愚公移山",
+    "synonyms": [
+      "The Old Man and Two Mountains"
+    ],
+    "tmdb_title": "The Old Man and Two Mountains"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 83,
+  "start_date": {
+    "year": 2020,
+    "month": 9,
+    "day": 10
+  },
+  "end_date": {
+    "year": 2020,
+    "month": 9,
+    "day": 10
+  },
+  "genres": [
+    "Adventure"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [
+    "Toonmax Media",
+    "SFA Pictures"
+  ],
+  "source": "OTHER",
+  "country": "CN",
+  "popularity": 171,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx123198-9SX3IG2cRUS7.jpg",
+    "poster_color": "#ff9335",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w500/7NLLKrCbP1sqdN81tbmvbQOSzAs.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx123198-9SX3IG2cRUS7.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T10:35:50.372Z",
+  "cache_version": 1
+}

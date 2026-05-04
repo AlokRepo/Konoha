@@ -1,0 +1,56 @@
+{
+  "ids": {
+    "anilist": 121040,
+    "mal": 42257,
+    "tmdb": 601631,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "GAVORA",
+    "english": null,
+    "native": "GAVORA",
+    "synonyms": [],
+    "tmdb_title": "Gavora"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 5,
+  "start_date": {
+    "year": 1989,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 1989,
+    "month": null,
+    "day": null
+  },
+  "description": "Psychedelic animation that impresses with eyeballs and other motifs.",
+  "genres": [],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 48,
+  "popularity": 235,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121040-hmPn1ghCZvm8.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/nEpMmD3CHhf5saBRpjmTRnVdCzW.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121040-hmPn1ghCZvm8.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T09:47:08.986Z",
+  "cache_version": 1
+}

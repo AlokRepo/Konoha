@@ -1,0 +1,62 @@
+{
+  "ids": {
+    "anilist": 125322,
+    "mal": 23005,
+    "anidb": 5733,
+    "tmdb": 998934,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Mogura no Motoro",
+    "english": null,
+    "native": "もぐらのモトロ",
+    "synonyms": [],
+    "tmdb_title": "Mogura no Motoro"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 15,
+  "start_date": {
+    "year": 1962,
+    "month": 7,
+    "day": 19
+  },
+  "end_date": {
+    "year": 1962,
+    "month": 7,
+    "day": 19
+  },
+  "genres": [
+    "Slice of Life"
+  ],
+  "tags": [],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 39,
+  "popularity": 199,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b125322-UAPa7Zomr8wC.jpg",
+    "poster_color": "#e4bb78",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/jr2oKtSkjusPPNgybDAywhO0Xs6.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b125322-UAPa7Zomr8wC.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T10:22:35.527Z",
+  "cache_version": 1
+}

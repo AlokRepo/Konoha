@@ -1,0 +1,60 @@
+{
+  "ids": {
+    "anilist": 121064,
+    "mal": 42256,
+    "tmdb": 105998,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Tonbo",
+    "english": null,
+    "native": "とんぼ",
+    "synonyms": [
+      "Dragonfly"
+    ],
+    "tmdb_title": "Dragonfly"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 7,
+  "start_date": {
+    "year": 1988,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 1988,
+    "month": null,
+    "day": null
+  },
+  "description": "An abstract animation with a motif of a dragonfly, and a complex multi-exposure landscape of a field and a woman's naked body overlap.",
+  "genres": [],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 41,
+  "popularity": 192,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121064-2psfUScLRk2k.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/7HYsifadG7xYmDloQ8NMZHsWJEn.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/oOqhMB2zdR8U0UeZBTOFcMesHt8.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/7HYsifadG7xYmDloQ8NMZHsWJEn.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121064-2psfUScLRk2k.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact"
+  ],
+  "cached_at": "2026-05-04T10:26:11.293Z",
+  "cache_version": 1
+}
