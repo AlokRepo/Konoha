@@ -1,0 +1,80 @@
+{
+  "ids": {
+    "anilist": 162840,
+    "mal": 54630,
+    "anidb": 17882,
+    "tmdb": 221313,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Bosanimal",
+    "english": null,
+    "native": "ぼさにまる",
+    "synonyms": [],
+    "tmdb_title": "Bosanimal"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2023,
+  "episodes": 96,
+  "duration": 1,
+  "start_date": {
+    "year": 2023,
+    "month": 4,
+    "day": 3
+  },
+  "end_date": {
+    "year": 2023,
+    "month": 9,
+    "day": 14
+  },
+  "description": "<i>Bosanimal</i> follows the daily adventures of a group of animals that live at their own pace in the human world even if it can be a bit messy and lazy at times. <br><br>\n\n(Source: Crunchyroll, edited)",
+  "genres": [
+    "Slice of Life"
+  ],
+  "tags": [
+    "Animals",
+    "Ensemble Cast"
+  ],
+  "studios": [
+    "ODDJOB",
+    "soket",
+    "maroyaka"
+  ],
+  "producers": [
+    "Sanrio"
+  ],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 48,
+  "popularity": 404,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162840-mP5pRc0aGcR6.jpg",
+    "poster_color": "#f1d6a1",
+    "banner": "https://image.tmdb.org/t/p/original/wEX5TUoAM7ahiWUDYOj0UImEgh6.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/207sL04PwVmHTn6TYC0sYEMkmfF.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/wEX5TUoAM7ahiWUDYOj0UImEgh6.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162840-mP5pRc0aGcR6.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLFNUyl__hoIivROXI-GSXs5sb3MPA3gnG"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T06:07:39.394Z",
+  "cache_version": 1
+}
