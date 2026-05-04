@@ -13,8 +13,7 @@
     "synonyms": [
       "Hakuoki Movie 2",
       "Hakuouki Shinsengumi Kitan Movie 2"
-    ],
-    "tmdb_title": "Hakuouki: Warrior Spirit of the Blue Sky"
+    ]
   },
   "format": "MOVIE",
   "status": "FINISHED",
@@ -62,7 +61,7 @@
   "source": "VISUAL_NOVEL",
   "country": "JP",
   "score_anilist": 72,
-  "popularity": 3876,
+  "popularity": 3875,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13119-VsSwIwKDqxVc.png",
@@ -72,7 +71,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/FMUFQ4CspK73oauVRRbsxQI2gG.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13119-VsSwIwKDqxVc.png"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/movies/hakuoki-theatrical-version-chapter-2-warrior-spirit-of-the-blue-sky"
+    }
+  ],
   "themes": [],
   "confidence": "MEDIUM",
   "match_score": 86,
@@ -82,6 +86,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-04T07:16:31.357Z",
+  "cached_at": "2026-05-04T18:34:07.622Z",
   "cache_version": 1
 }
