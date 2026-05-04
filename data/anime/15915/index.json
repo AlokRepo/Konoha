@@ -1,0 +1,72 @@
+{
+  "ids": {
+    "anilist": 15915,
+    "mal": 15915,
+    "anidb": 5711,
+    "tmdb": 199372,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Magical Hat",
+    "english": null,
+    "native": "まじかるハット",
+    "synonyms": [],
+    "tmdb_title": "Magical Hat"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 1989,
+  "episodes": 33,
+  "duration": 25,
+  "start_date": {
+    "year": 1989,
+    "month": 10,
+    "day": 18
+  },
+  "end_date": {
+    "year": 1990,
+    "month": 7,
+    "day": 6
+  },
+  "description": "The series stars Hat, the descendant of a hero who fought an evil king and sealed Devildom. Hat falls into Devildom and finds he has to defeat the evil king.<br><br>\n(Source: AniDB)",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Studio Pierrot",
+    "E&G Films"
+  ],
+  "producers": [
+    "Fuji TV",
+    "Yomiuri Advertising"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 44,
+  "popularity": 363,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx15915-vSj7WyaQ26qa.jpg",
+    "poster_color": "#ffc943",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/r3fzCpffSCwtPvPsqy79tJvyT9M.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx15915-vSj7WyaQ26qa.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T04:51:26.845Z",
+  "cache_version": 1
+}
