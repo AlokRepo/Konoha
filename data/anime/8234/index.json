@@ -1,0 +1,75 @@
+{
+  "ids": {
+    "anilist": 8234,
+    "mal": 8234,
+    "anidb": 1007,
+    "tmdb": 68268,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Moomin",
+    "english": null,
+    "native": "ムーミン",
+    "synonyms": [
+      "Mumin",
+      "Muumin"
+    ],
+    "tmdb_title": "Moomin"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 1969,
+  "episodes": 65,
+  "duration": 25,
+  "start_date": {
+    "year": 1969,
+    "month": 10,
+    "day": 5
+  },
+  "end_date": {
+    "year": 1970,
+    "month": 12,
+    "day": 27
+  },
+  "description": "Very loosely based upon the Moomin books by Finnish author Tove Jansson. Jansson, however, never really approved of the series due to dramatic changes in plot, atmosphere, character personality, appearance and names etc. The series was directed to adults rather than children.<br><br>\n(Source: Wikipedia)",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Classic Literature"
+  ],
+  "studios": [
+    "Tokyo Movie Shinsha",
+    "Mushi Production"
+  ],
+  "producers": [],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 64,
+  "popularity": 2070,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8234-QwZruOPEXm6H.png",
+    "poster_color": "#f1930d",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/1kEf1vblX2y5o8cBjMc28LqliQX.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8234-QwZruOPEXm6H.png"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T03:12:56.627Z",
+  "cache_version": 1
+}
