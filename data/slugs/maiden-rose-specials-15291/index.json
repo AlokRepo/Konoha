@@ -1,0 +1,65 @@
+{
+  "ids": {
+    "anilist": 15291,
+    "mal": 15291,
+    "tmdb": 44458,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Hyakujitsu no Bara Specials",
+    "english": "Maiden Rose Specials",
+    "native": "百日の薔薇",
+    "synonyms": [],
+    "tmdb_title": "Maiden Rose"
+  },
+  "format": "SPECIAL",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2009,
+  "episodes": 2,
+  "duration": 5,
+  "start_date": {
+    "year": 2009,
+    "month": 5,
+    "day": 29
+  },
+  "end_date": {
+    "year": 2009,
+    "month": 10,
+    "day": 23
+  },
+  "description": "Specials included in the OVA of Hyakujitsu no Bara.",
+  "genres": [],
+  "tags": [],
+  "studios": [
+    "PrimeTime"
+  ],
+  "producers": [],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 57,
+  "popularity": 1580,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15291.jpg",
+    "poster_color": "#f1ae5d",
+    "banner": "https://image.tmdb.org/t/p/original/zYHMl1MUBRlGtgm551ZknVR4BUC.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/bRQJHK7QP35w6D64JeUqI0Ccqs7.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/zYHMl1MUBRlGtgm551ZknVR4BUC.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/15291.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 139,
+  "match_signals": [
+    "english_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T18:46:21.034Z",
+  "cache_version": 1
+}

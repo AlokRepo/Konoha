@@ -1,0 +1,80 @@
+{
+  "ids": {
+    "anilist": 137639,
+    "mal": 53849,
+    "anidb": 16528,
+    "tmdb": 1092087,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Kyouki Sanmyaku: Naked Peak - Pilot Film",
+    "english": null,
+    "native": "狂気山脈 ネイキッド・ピーク パイロット・フィルム",
+    "synonyms": [
+      "Kyouki Sanmyaku: Jashin no Sanrei",
+      "狂気山脈 ～邪神の山嶺～",
+      "NAKED PEAK -climb the Mountains of Madness-",
+      "Mountains of Madness -Summit of Deities- | PILOT FILM"
+    ],
+    "tmdb_title": "NAKED PEAK -climb the Mountains of Madness-"
+  },
+  "format": "SPECIAL",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2023,
+  "episodes": 1,
+  "duration": 5,
+  "start_date": {
+    "year": 2023,
+    "month": 2,
+    "day": 28
+  },
+  "end_date": {
+    "year": 2023,
+    "month": 2,
+    "day": 28
+  },
+  "description": "Pilot film for the crowdfunded anime project, based on <i>Kyouki Sanmyaku: Jashin no Sanrei</i> (狂気山脈 ～邪神の山嶺～), a TTRPG scenario that combines the mythos of Cthulhu and mountain climbing.",
+  "genres": [
+    "Adventure",
+    "Sports"
+  ],
+  "tags": [
+    "Classic Literature",
+    "Outdoor Activities",
+    "No Dialogue"
+  ],
+  "studios": [
+    "STEREOTYPE Inc.",
+    "G-angle"
+  ],
+  "producers": [],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 64,
+  "popularity": 1275,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137639-XaWByN7AZQnq.jpg",
+    "poster_color": "#50aef1",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/vWbAnglC8k14j2Be4l8f4iwqfIA.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137639-XaWByN7AZQnq.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/watch?v=S-YsjhfEgEY"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 100,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T18:50:40.272Z",
+  "cache_version": 1
+}
