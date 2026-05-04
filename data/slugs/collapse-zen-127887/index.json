@@ -1,0 +1,62 @@
+{
+  "ids": {
+    "anilist": 127887,
+    "mal": 40106,
+    "tmdb": 1540469,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Collapse Zen",
+    "english": null,
+    "native": "Collapse Zen",
+    "synonyms": [],
+    "tmdb_title": "Collapse Zen"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 2,
+  "start_date": {
+    "year": 2014,
+    "month": 10,
+    "day": 26
+  },
+  "end_date": {
+    "year": 2014,
+    "month": 10,
+    "day": 26
+  },
+  "description": "Short film by Koujirou Shishido.",
+  "genres": [],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 38,
+  "popularity": 144,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b127887-VTL9gmGuP5PV.jpg",
+    "poster_color": "#f1d6bb",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/qLSfRMlSbei8V3QlFEq2ZTH0w58.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b127887-VTL9gmGuP5PV.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/watch?v=vSBHv0XojmU"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T10:50:02.874Z",
+  "cache_version": 1
+}

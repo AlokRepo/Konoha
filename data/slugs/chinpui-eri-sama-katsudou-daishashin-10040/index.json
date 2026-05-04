@@ -1,0 +1,70 @@
+{
+  "ids": {
+    "anilist": 10040,
+    "mal": 10040,
+    "anidb": 5228,
+    "tmdb": 1359769,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Chinpui: Eri-sama Katsudou Daishashin",
+    "english": null,
+    "native": "チンプイ エリさま活動大写真",
+    "synonyms": [
+      "Chimpui: Eri-sama Katsudou Daishashin",
+      "Timpui: Eri-sama Katsudou Daishashin"
+    ],
+    "tmdb_title": "Chinpui: Eri-sama Katsudou Daishashin"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 1990,
+  "episodes": 1,
+  "duration": 40,
+  "start_date": {
+    "year": 1990,
+    "month": 3,
+    "day": 10
+  },
+  "end_date": {
+    "year": 1990,
+    "month": 3,
+    "day": 10
+  },
+  "description": "Chinpui movie.",
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [
+    "Shin-Ei Animation"
+  ],
+  "producers": [
+    "TV Asahi",
+    "Shogakukan"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 55,
+  "popularity": 301,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10040.jpg",
+    "poster_color": "#e45093",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/gXFphoXPV1v0m0r73PBin5mlJp2.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10040.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T09:23:38.599Z",
+  "cache_version": 1
+}
