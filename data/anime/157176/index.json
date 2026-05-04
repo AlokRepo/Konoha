@@ -1,0 +1,62 @@
+{
+  "ids": {
+    "anilist": 157176,
+    "mal": 37386,
+    "tmdb": 1109696,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Calicula Machine",
+    "english": null,
+    "native": "カリキュラマシーン",
+    "synonyms": [],
+    "tmdb_title": "Calicula Machine"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 7,
+  "start_date": {
+    "year": 1974,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 1974,
+    "month": null,
+    "day": null
+  },
+  "description": "A short film made for international festivals by Kinoshita Renzo in 1974.",
+  "genres": [],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 40,
+  "popularity": 152,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx157176-jilbYhnbtA4G.jpg",
+    "poster_color": "#e4785d",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/m6Z8lrc26gOtGNJg9PwkagvcInQ.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx157176-jilbYhnbtA4G.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/watch?v=s4mUBaouBRI"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T10:45:36.238Z",
+  "cache_version": 1
+}

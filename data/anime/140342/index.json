@@ -1,0 +1,68 @@
+{
+  "ids": {
+    "anilist": 140342,
+    "mal": 54324,
+    "tmdb": 829174,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "In full bloom",
+    "english": "In full bloom",
+    "native": "In full bloom",
+    "synonyms": [],
+    "tmdb_title": "In full bloom"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 4,
+  "start_date": {
+    "year": 2021,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 2021,
+    "month": null,
+    "day": null
+  },
+  "description": "Miho Takahashi's graduation work from 2021 at Tama Art University.",
+  "genres": [
+    "Drama",
+    "Psychological"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [
+    "Tama Art University"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 50,
+  "popularity": 137,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140342-9xAYBLyRHsY5.jpg",
+    "poster_color": "#e4d65d",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140342-1arJQinCPf6m.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/on5ZuTU83R7nPemawjiD6OgGZuX.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140342-9xAYBLyRHsY5.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/watch?v=XJa9Ujfa9Vg"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 95,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T10:53:02.179Z",
+  "cache_version": 1
+}

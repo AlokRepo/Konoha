@@ -1,0 +1,70 @@
+{
+  "ids": {
+    "anilist": 143322,
+    "mal": 43387,
+    "anidb": 12380,
+    "tmdb": 419645,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Dalbitgunggwol",
+    "english": "Lost in the Moonlight",
+    "native": "달빛궁궐",
+    "synonyms": [
+      "dal-bich-gung-gwol",
+      "Moonlight Palace"
+    ],
+    "tmdb_title": "Lost in the Moonlight"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 80,
+  "start_date": {
+    "year": 2016,
+    "month": 9,
+    "day": 7
+  },
+  "end_date": {
+    "year": 2016,
+    "month": 9,
+    "day": 7
+  },
+  "description": "Hyunjuli, who accidentally falls into a fantasy world of the Moonlit Palace, fights against the evil Blossom Lady to protect her new friends.",
+  "genres": [
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "country": "KR",
+  "score_mal": 6.12,
+  "popularity": 201,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143322-EbZtFj7Uv3CH.jpg",
+    "poster_color": "#1aaee4",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/143322-jBFSyFaym9x7.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/kY7oXja73YYCrBGW3mK7uNZwr51.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/hWRIpKaPNDkpGX57kFSf5p6EP3j.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143322-EbZtFj7Uv3CH.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Tubi TV",
+      "url": "https://tubitv.com/movies/605666/lost-in-the-moonlight?start=true"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T10:21:24.219Z",
+  "cache_version": 1
+}
