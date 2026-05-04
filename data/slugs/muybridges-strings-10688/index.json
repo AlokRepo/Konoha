@@ -1,0 +1,72 @@
+{
+  "ids": {
+    "anilist": 10688,
+    "mal": 10688,
+    "anidb": 8408,
+    "tmdb": 255510,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Muybridge no Ito",
+    "english": "Muybridge's Strings",
+    "native": "マイブリッジの糸",
+    "synonyms": [],
+    "tmdb_title": "Muybridge's Strings"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2011,
+  "episodes": 1,
+  "duration": 13,
+  "start_date": {
+    "year": 2011,
+    "month": 5,
+    "day": 16
+  },
+  "end_date": {
+    "year": 2011,
+    "month": 5,
+    "day": 16
+  },
+  "description": "The destiny of photographer Eadweard Muybridge and that of a Japanese mother clash poetically in this exploration of the irrepressible human desire to make time stand still.<br><br>\n(Source: AniDB)\n\nCo-production from NHK and the National Film Board of Canada.",
+  "genres": [
+    "Drama"
+  ],
+  "tags": [
+    "Historical",
+    "Drawing"
+  ],
+  "studios": [
+    "Yamamura Animation, Inc."
+  ],
+  "producers": [
+    "NHK"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 57,
+  "popularity": 802,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10688.jpg",
+    "poster_color": "#f1e4ae",
+    "banner": "https://image.tmdb.org/t/p/original/wEWC446xRbWvcTsSoxX5klThLb6.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/9sbY7pIoUdSr4kOkCb0seaiPRjl.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/wEWC446xRbWvcTsSoxX5klThLb6.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10688.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T08:16:25.611Z",
+  "cache_version": 1
+}

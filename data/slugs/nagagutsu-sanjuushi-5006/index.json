@@ -1,0 +1,75 @@
+{
+  "ids": {
+    "anilist": 5006,
+    "mal": 5006,
+    "anidb": 2216,
+    "tmdb": 194395,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Nagagutsu Sanjuushi",
+    "english": null,
+    "native": "ながぐつ三銃士",
+    "synonyms": [
+      "Nagagutsu Sanjyuushi",
+      "The Three Musketeers in Boots",
+      "Continuavano a chiamarlo il gatto con gli stivali",
+      "Le retour du Chat Botté",
+      "Mästerkatten i vilda västern",
+      "Kot w butach na dzikim zachodzie"
+    ],
+    "tmdb_title": "The Three Musketeers in Boots"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 1972,
+  "episodes": 1,
+  "duration": 52,
+  "start_date": {
+    "year": 1972,
+    "month": 3,
+    "day": 18
+  },
+  "end_date": {
+    "year": 1972,
+    "month": 3,
+    "day": 18
+  },
+  "description": "Second Puss in Boots movie, this time in a wild west setting. ",
+  "genres": [
+    "Adventure"
+  ],
+  "tags": [
+    "Kids"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [],
+  "country": "JP",
+  "score_anilist": 62,
+  "popularity": 740,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5006.jpg",
+    "poster_color": "#f1bb1a",
+    "banner": "https://image.tmdb.org/t/p/original/etpXcGhqdSkpXpiw3Jh1E509YFc.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/nIeaXu0h0EYGpEt8wgHx60LsHW6.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/etpXcGhqdSkpXpiw3Jh1E509YFc.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5006.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T08:20:03.497Z",
+  "cache_version": 1
+}

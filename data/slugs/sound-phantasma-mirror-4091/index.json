@@ -1,0 +1,70 @@
+{
+  "ids": {
+    "anilist": 4091,
+    "mal": 4091,
+    "anidb": 4310,
+    "tmdb": 220670,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Kagami no Genon",
+    "english": "sound / phantasma / mirror",
+    "native": "かがみのげんおん",
+    "synonyms": [
+      "Kagami no Gen'on",
+      "Mirror's Fundamental Tone"
+    ],
+    "tmdb_title": "sound / phantasma / mirror"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2004,
+  "episodes": 1,
+  "duration": 6,
+  "start_date": {
+    "year": 2004,
+    "month": 10,
+    "day": 17
+  },
+  "end_date": {
+    "year": 2004,
+    "month": 10,
+    "day": 17
+  },
+  "description": "A short amateur movie by Kojiro Shishido. Winner at the 10th annual Student CG Contest held in 2005.<br><br>\nIt shows great sensitivity towards the delicate gradations of light and shadow in the natural world, with a matching delicate soundtrack by Shishido himself.",
+  "genres": [
+    "Slice of Life"
+  ],
+  "tags": [],
+  "studios": [
+    "Kojiro Shishido Animation Works"
+  ],
+  "producers": [],
+  "country": "JP",
+  "score_anilist": 51,
+  "popularity": 794,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4091.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/i35K7k6mBDDknU5VIXrcOKAtHyk.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4091.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/watch?v=aqaHCF8KGaY"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T08:16:59.836Z",
+  "cache_version": 1
+}
