@@ -69,7 +69,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/a0TjgiPu6493yNCwTsz7ejMN2xw.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108630-pu0vFUXKIuhI.png"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "Shahid",
+      "url": "https://shahid.mbc.net/en/movies/Looking-For-Magical-DoReMi/movie-919809"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 130,
@@ -79,6 +84,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-04T07:06:32.685Z",
+  "cached_at": "2026-05-04T18:21:58.497Z",
   "cache_version": 1
 }
