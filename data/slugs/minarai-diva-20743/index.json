@@ -1,0 +1,69 @@
+{
+  "ids": {
+    "anilist": 20743,
+    "mal": 23375,
+    "anidb": 10555,
+    "tmdb": 112890,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Minarai Diva",
+    "english": null,
+    "native": "みならいディーバ",
+    "synonyms": [
+      "Apprentice Diva"
+    ],
+    "tmdb_title": "Apprentice Diva"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 2014,
+  "episodes": 10,
+  "duration": 40,
+  "start_date": {
+    "year": 2014,
+    "month": 7,
+    "day": 14
+  },
+  "end_date": {
+    "year": 2014,
+    "month": 9,
+    "day": 22
+  },
+  "description": "The story follows two aspiring divas who hope to become famous through a unique brand of music.",
+  "genres": [
+    "Music"
+  ],
+  "tags": [
+    "Primarily Female Cast",
+    "Full CGI",
+    "Idol"
+  ],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 44,
+  "popularity": 848,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20743-EV9vNvVRNJdW.png",
+    "poster_color": "#f1ff43",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/o6J8nKeWIIV8z8k13VAPXp6wA72.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20743-EV9vNvVRNJdW.png"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T04:10:42.521Z",
+  "cache_version": 1
+}

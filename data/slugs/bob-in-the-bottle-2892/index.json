@@ -1,0 +1,82 @@
+{
+  "ids": {
+    "anilist": 2892,
+    "mal": 2892,
+    "anidb": 2740,
+    "tmdb": 62340,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Hakushon Daimaou",
+    "english": "Bob in the Bottle",
+    "native": "ハクション大魔王",
+    "synonyms": [
+      "The Genie Family",
+      "Bob, der Flaschengeist",
+      "Il mago pancione Etcì",
+      "Przyjaciel Bob",
+      "Bob i Flasken",
+      "Bob i Flaskan"
+    ],
+    "tmdb_title": "The Genie Family"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 1969,
+  "episodes": 52,
+  "duration": 24,
+  "start_date": {
+    "year": 1969,
+    "month": 10,
+    "day": 5
+  },
+  "end_date": {
+    "year": 1970,
+    "month": 9,
+    "day": 27
+  },
+  "description": "One day Kan-chan finds a magic bottle in the attic. Whenever someone sneezes, a genie named Hakushon Daimaou is brought out and must grant any wish of whoever sneezed until he or she sneezes again. Sometimes, however, he accidentally fails and only causes trouble instead of granting any wishes.",
+  "genres": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "tags": [
+    "Male Protagonist",
+    "Kids",
+    "Slapstick",
+    "Episodic",
+    "Magic"
+  ],
+  "studios": [
+    "Tatsunoko Production"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 60,
+  "popularity": 868,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2892.jpg",
+    "poster_color": "#e4935d",
+    "banner": "https://image.tmdb.org/t/p/original/tVI00TGbOg3rf43qD7tkMx16RKB.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/7fNnVacr8SBbX0TS5XtpTaWkU6F.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/tVI00TGbOg3rf43qD7tkMx16RKB.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2892.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T04:08:25.381Z",
+  "cache_version": 1
+}
