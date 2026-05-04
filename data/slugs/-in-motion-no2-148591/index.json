@@ -1,0 +1,60 @@
+{
+  "ids": {
+    "anilist": 148591,
+    "tmdb": 957740,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "É in MOTION No.2",
+    "english": null,
+    "native": "É in MOTION No.2",
+    "synonyms": [],
+    "tmdb_title": "É in MOTION No.2"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 12,
+  "start_date": {
+    "year": 2012,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 2012,
+    "month": null,
+    "day": null
+  },
+  "description": "Originally designed to be projected on 360 degree scope screen, the image portrays a life of one man and the never ending cycle of life.",
+  "genres": [],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "popularity": 43,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx148591-5l3wNobTV43a.jpg",
+    "poster_color": "#1a78a1",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/q445U1xkjGGEd88RNIR8ahKEPOh.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx148591-5l3wNobTV43a.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Vimeo",
+      "url": "https://vimeo.com/ondemand/inmotionno2"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 95,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T17:52:24.039Z",
+  "cache_version": 1
+}
