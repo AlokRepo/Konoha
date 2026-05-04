@@ -1,0 +1,70 @@
+{
+  "ids": {
+    "anilist": 18819,
+    "mal": 18819,
+    "anidb": 3084,
+    "tmdb": 231439,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Alice Tantei Kyoku",
+    "english": null,
+    "native": "アリス 探偵局",
+    "synonyms": [
+      "Alice Tanteikyoku",
+      "Alice's Detective Agency"
+    ],
+    "tmdb_title": "Alice's Detective Agency"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 1995,
+  "episodes": 56,
+  "duration": 25,
+  "start_date": {
+    "year": 1995,
+    "month": 4,
+    "day": 5
+  },
+  "end_date": {
+    "year": 1997,
+    "month": 1,
+    "day": 21
+  },
+  "genres": [],
+  "tags": [],
+  "studios": [
+    "Studio Junio"
+  ],
+  "producers": [
+    "NHK"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 54,
+  "popularity": 221,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18819.jpg",
+    "poster_color": "#ffd600",
+    "banner": "https://image.tmdb.org/t/p/original/quVJIE3z7KZul5wyhumwlh8HQZF.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/8s2UGEz10KqKT8zXlTi8DZ6nYFf.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/quVJIE3z7KZul5wyhumwlh8HQZF.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18819.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T05:03:14.023Z",
+  "cache_version": 1
+}
