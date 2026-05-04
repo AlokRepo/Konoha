@@ -1,0 +1,78 @@
+{
+  "ids": {
+    "anilist": 3822,
+    "mal": 3822,
+    "anidb": 3644,
+    "tmdb": 29335,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Sougen no Shoujo Laura",
+    "english": "Laura",
+    "native": "草原の少女ローラ",
+    "synonyms": [
+      "Laura The Prairie Girl"
+    ],
+    "tmdb_title": "Laura, the Prairie Girl"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 1975,
+  "episodes": 26,
+  "duration": 24,
+  "start_date": {
+    "year": 1975,
+    "month": 10,
+    "day": 7
+  },
+  "end_date": {
+    "year": 1976,
+    "month": 3,
+    "day": 30
+  },
+  "description": "This anime is based on the same work as the famous American live-action TV series Little House on the Prairie.",
+  "genres": [
+    "Adventure"
+  ],
+  "tags": [
+    "Family Life",
+    "Classic Literature",
+    "Rural",
+    "Foreign",
+    "Biographical",
+    "Female Protagonist"
+  ],
+  "studios": [
+    "Nippon Animation"
+  ],
+  "producers": [
+    "TBS"
+  ],
+  "country": "JP",
+  "score_anilist": 54,
+  "popularity": 515,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3822.jpg",
+    "poster_color": "#f1c9bb",
+    "banner": "https://image.tmdb.org/t/p/original/sHQzAM4XM1JfNq4K1YzdCAD4PW2.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/jdZMoS1XOuhXNGNZkSl6d0ss501.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/sHQzAM4XM1JfNq4K1YzdCAD4PW2.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3822.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T04:35:45.939Z",
+  "cache_version": 1
+}
