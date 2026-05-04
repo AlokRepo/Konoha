@@ -1,0 +1,70 @@
+{
+  "ids": {
+    "anilist": 8152,
+    "mal": 8152,
+    "anidb": 2307,
+    "tmdb": 603431,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Gegege no Kitarou (1985 Movie)",
+    "english": "Spooky Kitaro",
+    "native": "ゲゲゲの鬼太郎",
+    "synonyms": [],
+    "tmdb_title": "Spooky Kitaro"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 1985,
+  "episodes": 1,
+  "duration": 24,
+  "start_date": {
+    "year": 1985,
+    "month": 12,
+    "day": 21
+  },
+  "end_date": {
+    "year": 1985,
+    "month": 12,
+    "day": 21
+  },
+  "description": "Movie based on the 1985 TV anime with an original plot.",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Horror",
+    "Supernatural"
+  ],
+  "tags": [
+    "Youkai"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [],
+  "country": "JP",
+  "score_anilist": 48,
+  "popularity": 450,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8152.jpg",
+    "poster_color": "#f1931a",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/yg0o8na222dewYevbuksmHYJUb0.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8152.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T08:52:01.880Z",
+  "cache_version": 1
+}

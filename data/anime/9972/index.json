@@ -1,0 +1,71 @@
+{
+  "ids": {
+    "anilist": 9972,
+    "mal": 9972,
+    "anidb": 2355,
+    "tmdb": 458537,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Document Taiyou no Kiba Dougram",
+    "english": null,
+    "native": "ドキュメント 太陽の牙ダグラム",
+    "synonyms": [
+      "Document Fang of the Sun Dagram",
+      "Document Fang of the Sun Dougram"
+    ],
+    "tmdb_title": "Document: Fang of the Sun Dougram"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 1983,
+  "episodes": 1,
+  "duration": 80,
+  "start_date": {
+    "year": 1983,
+    "month": 7,
+    "day": 9
+  },
+  "end_date": {
+    "year": 1983,
+    "month": 7,
+    "day": 9
+  },
+  "description": "In the planet Deloyer, a colony of the Earth federation, Colonel Von Stein stages a coup d'etat on behalf of the Federation chairman Donan Cashim.",
+  "genres": [
+    "Drama",
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "tags": [],
+  "studios": [
+    "Sunrise"
+  ],
+  "producers": [],
+  "country": "JP",
+  "score_anilist": 50,
+  "popularity": 461,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b9972-WadmmVpHCPC3.jpg",
+    "poster_color": "#e4931a",
+    "banner": "https://image.tmdb.org/t/p/original/ahu9ZM5KBrnvHvg8rW6GGqyxjoA.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/7WY7LVSk4hkPqlDOMHtWJGalYvx.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/ahu9ZM5KBrnvHvg8rW6GGqyxjoA.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b9972-WadmmVpHCPC3.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T08:50:43.578Z",
+  "cache_version": 1
+}

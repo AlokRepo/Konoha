@@ -1,0 +1,64 @@
+{
+  "ids": {
+    "anilist": 103929,
+    "mal": 35400,
+    "anidb": 12883,
+    "tmdb": 490956,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Kamishibai Kintarou no Maki",
+    "english": "Kamishibai Kintaro",
+    "native": "漫画 紙芝居 金太郎の卷",
+    "synonyms": [],
+    "tmdb_title": "Kamishibai Kintaro"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 7,
+  "start_date": {
+    "year": 1934,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 1934,
+    "month": null,
+    "day": null
+  },
+  "description": "Another classic adaptation of Kintarou from Japanese folklore.",
+  "genres": [
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 39,
+  "popularity": 439,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103929-270FJGOdSF4O.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/5VJd3LLUqC7ZdWnJhZ56LYtqVXV.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103929-270FJGOdSF4O.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Japanese Film Archives",
+      "url": "https://animation.filmarchives.jp/en/works/view/91176"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T08:53:57.714Z",
+  "cache_version": 1
+}
