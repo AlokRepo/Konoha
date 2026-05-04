@@ -1,0 +1,87 @@
+{
+  "ids": {
+    "anilist": 143203,
+    "mal": 50678,
+    "anidb": 17091,
+    "tmdb": 120966,
+    "tmdb_type": "tv",
+    "tmdb_season": 2
+  },
+  "titles": {
+    "romaji": "Kyoukai Senki Part 2",
+    "english": "AMAIM Warrior at the Borderline Part 2",
+    "native": "境界戦機 第二部",
+    "synonyms": [],
+    "tmdb_title": "AMAIM Warrior at the Borderline"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2022,
+  "episodes": 12,
+  "duration": 24,
+  "start_date": {
+    "year": 2022,
+    "month": 4,
+    "day": 12
+  },
+  "end_date": {
+    "year": 2022,
+    "month": 6,
+    "day": 28
+  },
+  "description": "The second cour of <i>Kyoukai Senki</i>.",
+  "genres": [
+    "Fantasy",
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "tags": [],
+  "studios": [
+    "Sunrise Beyond"
+  ],
+  "producers": [
+    "BANDAI SPIRITS",
+    "Sunrise Music",
+    "Dentsu",
+    "Funimation"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 61,
+  "popularity": 4651,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143203-WhXWagWXSg3Z.jpg",
+    "poster_color": "#3586e4",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/143203-jlZRsHLwDufE.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/k4tntuoJAKFzev51yGTtoECqYAI.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/t5KMOhdsy0yR3C8N6WaJb5W4XFD.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143203-WhXWagWXSg3Z.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/amaim-warrior-at-the-borderline"
+    },
+    {
+      "site": "Bilibili TV",
+      "url": "https://www.bilibili.tv/media/1028697/"
+    },
+    {
+      "site": "iQ",
+      "url": "https://www.iq.com/album/25qzy8ot4kl/"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 87,
+  "match_signals": [
+    "english_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T02:18:45.864Z",
+  "cache_version": 1
+}

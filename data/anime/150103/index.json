@@ -1,0 +1,102 @@
+{
+  "ids": {
+    "anilist": 150103,
+    "anidb": 17422,
+    "tmdb": 202282,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Rick and Morty: The Anime",
+    "english": "Rick and Morty: The Anime",
+    "native": "リック・アンド・モーティ ザ・アニメ",
+    "synonyms": [
+      "Rick i Morty: Anime",
+      "Rick és Morty: Anime"
+    ],
+    "tmdb_title": "Rick and Morty: The Anime"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 2024,
+  "episodes": 10,
+  "duration": 19,
+  "start_date": {
+    "year": 2024,
+    "month": 8,
+    "day": 16
+  },
+  "end_date": {
+    "year": 2024,
+    "month": 10,
+    "day": 18
+  },
+  "description": "An anime adaptation of Rick and Morty. Directed by Takashi Sano (Rick and Morty vs. Genocider, Summer Meets God) at Telecom Animation Film, the anime will be an original work, based on themes and events from the main Rick and Morty animated series. \n<br><br>\n(Source: Anime News Network, edited)\n<br><br>\n<i>Note: The first episode was screened early on June 25th at the 17th International Animated Film Festival ANIMATOR in Poznań, Poland.<i>",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Aliens",
+    "Clone",
+    "Fugitive",
+    "Time Manipulation",
+    "Elderly Protagonist",
+    "Alternate Universe",
+    "Space",
+    "Post-Apocalyptic",
+    "Bisexual",
+    "Video Games",
+    "Male Protagonist",
+    "Philosophy",
+    "Anti-Hero",
+    "Superhero",
+    "Memory Manipulation",
+    "Amnesia",
+    "Virtual World"
+  ],
+  "studios": [
+    "Telecom Animation Film"
+  ],
+  "producers": [
+    "Adult Swim",
+    "Sola Entertainment"
+  ],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 44,
+  "popularity": 6282,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150103-6rlFCeObUPlI.jpg",
+    "poster_color": "#93e45d",
+    "banner": "https://image.tmdb.org/t/p/original/p30JVQksxQvI0B7W9d6TAKELXXW.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/kQFPw9W3EO6ZLhg3TI782edq9Fr.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/p30JVQksxQvI0B7W9d6TAKELXXW.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150103-6rlFCeObUPlI.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Adult Swim",
+      "url": "https://www.adultswim.com/videos/rick-and-morty-the-anime"
+    },
+    {
+      "site": "Max",
+      "url": "https://play.max.com/show/6ace005a-41eb-4e44-bf13-abdfaa9e5143"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T01:58:51.318Z",
+  "cache_version": 1
+}
