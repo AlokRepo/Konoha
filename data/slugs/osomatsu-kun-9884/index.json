@@ -1,0 +1,79 @@
+{
+  "ids": {
+    "anilist": 9884,
+    "mal": 9884,
+    "anidb": 5487,
+    "tmdb": 43277,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Osomatsu-kun",
+    "english": null,
+    "native": "おそ松くん(1966年版)",
+    "synonyms": [
+      "Osomatsu-kun (1966)"
+    ],
+    "tmdb_title": "Osomatsu-kun"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 1966,
+  "episodes": 56,
+  "duration": 25,
+  "start_date": {
+    "year": 1966,
+    "month": 2,
+    "day": 5
+  },
+  "end_date": {
+    "year": 1967,
+    "month": 3,
+    "day": 25
+  },
+  "description": "A wacky comedy about identical sextuplets causing wild pranks. Each episode features 2 stories.<br>\n<br>\n<i>Note: The original 1966 broadcast of Osomatsu-kun ran over 60 time slots. Four of these were entirely rerun content, while eight others featured one new half-episode and one rerun.</i>",
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [
+    "Slapstick",
+    "Episodic",
+    "Achromatic",
+    "Twins",
+    "Primarily Male Cast",
+    "Kids"
+  ],
+  "studios": [
+    "Children's Corner"
+  ],
+  "producers": [
+    "Mainichi Broadcasting System",
+    "Studio Zero"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 59,
+  "popularity": 1286,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9884-CGiD1zldkPwY.png",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/9884-R5kZqe0lcBeF.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/lVKcjACkVUL5nM3Xwc2wIw6HaGN.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/n4fQIxFlmgE8NDxsEgTbJoCkzhW.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9884-CGiD1zldkPwY.png"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 140,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_close",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T03:46:18.141Z",
+  "cache_version": 1
+}
