@@ -1,0 +1,65 @@
+{
+  "ids": {
+    "anilist": 107857,
+    "mal": 38014,
+    "anidb": 14181,
+    "tmdb": 570579,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Captain Bal",
+    "english": null,
+    "native": "キャプテン・バル",
+    "synonyms": [
+      "2019 Young Animator Training Project",
+      "Anime Mirai 2019",
+      "Anime Tamago 2019"
+    ],
+    "tmdb_title": "Captain Bal"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2019,
+  "episodes": 1,
+  "duration": 22,
+  "start_date": {
+    "year": 2019,
+    "month": 3,
+    "day": 9
+  },
+  "end_date": {
+    "year": 2019,
+    "month": 3,
+    "day": 9
+  },
+  "genres": [],
+  "tags": [],
+  "studios": [],
+  "producers": [
+    "Flying Ship Studio"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 45,
+  "popularity": 283,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b107857-KqjrLK8UrF5n.jpg",
+    "poster_color": "#e4281a",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/fdwLVGd3DpkUUZoilH1wASqKoVf.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b107857-KqjrLK8UrF5n.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T13:03:57.328Z",
+  "cache_version": 1
+}

@@ -1,0 +1,66 @@
+{
+  "ids": {
+    "anilist": 121960,
+    "mal": 39208,
+    "tmdb": 727433,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "100% Renewable Energy",
+    "english": null,
+    "native": "100% Renewable Energy",
+    "synonyms": [],
+    "tmdb_title": "100% Renewable Energy"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 3,
+  "start_date": {
+    "year": 2012,
+    "month": 3,
+    "day": null
+  },
+  "end_date": {
+    "year": 2012,
+    "month": 3,
+    "day": null
+  },
+  "description": "Short film directed by Amika Kubo and sponsored by WWF Japan as part of their campaign to move Japan away from nuclear energy and towards the use of renewable energy.",
+  "genres": [],
+  "tags": [
+    "Animals",
+    "Environmental"
+  ],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 44,
+  "popularity": 159,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121960-lHy9zQhaw4hI.jpg",
+    "poster_color": "#e4d6a1",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/121960-nY5QhAeDuGQU.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/oaxdYrFNbZX4Tivtd4wAxcBJ2bC.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121960-lHy9zQhaw4hI.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Vimeo",
+      "url": "https://vimeo.com/50230886"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T10:43:15.298Z",
+  "cache_version": 1
+}
