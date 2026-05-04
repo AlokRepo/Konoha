@@ -1,0 +1,63 @@
+{
+  "ids": {
+    "anilist": 124449,
+    "mal": 39130,
+    "anidb": 14122,
+    "tmdb": 261648,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Hong Mao Lan Tu: A Muxing",
+    "english": null,
+    "native": "虹猫蓝兔阿木星",
+    "synonyms": [
+      "Homer and Landau Jupiter"
+    ],
+    "tmdb_title": "虹猫蓝兔阿木星"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "episodes": 30,
+  "duration": 16,
+  "start_date": {
+    "year": 2007,
+    "month": 7,
+    "day": null
+  },
+  "end_date": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "genres": [
+    "Adventure"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 67,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b124449-Vixe6nnxa0lX.jpg",
+    "poster_color": "#e49335",
+    "banner": "https://image.tmdb.org/t/p/original/osvro6QN1zcdzhfXY6USh8LAyp0.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/4dXSjzTvpDoXx0EMvD09YwMZzST.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/osvro6QN1zcdzhfXY6USh8LAyp0.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b124449-Vixe6nnxa0lX.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T05:11:52.041Z",
+  "cache_version": 1
+}

@@ -1,0 +1,67 @@
+{
+  "ids": {
+    "anilist": 129481,
+    "mal": 44279,
+    "tmdb": 195591,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Guodong San Jianke",
+    "english": null,
+    "native": "果冻三剑客",
+    "synonyms": [
+      "果宝特攻前传",
+      "The Jelly 3 Musketeers"
+    ],
+    "tmdb_title": "果冻三剑客"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "episodes": 20,
+  "duration": 25,
+  "start_date": {
+    "year": 2013,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 58,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b129481-noNkVcSgCqgb.jpg",
+    "poster_color": "#e4861a",
+    "banner": "https://image.tmdb.org/t/p/original/pny5iwhJpnJisGGxEpygzdp7AP9.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/szS9SL7qMf29lVJvYYpfFp3kUaj.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/pny5iwhJpnJisGGxEpygzdp7AP9.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b129481-noNkVcSgCqgb.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/1/1f6d0l2y0v8yyc3.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T05:12:48.364Z",
+  "cache_version": 1
+}

@@ -1,0 +1,74 @@
+{
+  "ids": {
+    "anilist": 129211,
+    "mal": 42765,
+    "tmdb": 261122,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Jijia Shou Shen",
+    "english": null,
+    "native": "机甲兽神",
+    "synonyms": [
+      "The Mechnimals",
+      "低碳世纪之机甲兽神",
+      "Ditan Shiji: Jijia Shou shen"
+    ],
+    "tmdb_title": "The Mechnimals"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "episodes": 26,
+  "duration": 23,
+  "start_date": {
+    "year": 2010,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 2011,
+    "month": null,
+    "day": null
+  },
+  "genres": [
+    "Action"
+  ],
+  "tags": [
+    "CGI"
+  ],
+  "studios": [
+    "Qianqi Cartoon"
+  ],
+  "producers": [
+    "Alpha Animation"
+  ],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 82,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129211-mDq7s1I25bFO.png",
+    "poster_color": "#28feae",
+    "banner": "https://image.tmdb.org/t/p/original/yGdrVY1IJNTMYl3m9xKavYon0sc.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/3hNz9QMWZ5Sc0k2rXZynVfPDiNJ.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/yGdrVY1IJNTMYl3m9xKavYon0sc.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129211-mDq7s1I25bFO.png"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLQukwpGC9a0wgNqgUTustq6yWMi4vifZj"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T05:11:21.473Z",
+  "cache_version": 1
+}
