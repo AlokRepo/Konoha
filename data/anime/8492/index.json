@@ -1,0 +1,67 @@
+{
+  "ids": {
+    "anilist": 8492,
+    "mal": 8492,
+    "anidb": 7456,
+    "tmdb": 581295,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Kikansha Yaemon",
+    "english": null,
+    "native": "きかんしゃやえもん",
+    "synonyms": [],
+    "tmdb_title": "Kikansha Yaemon"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2009,
+  "episodes": 1,
+  "duration": 31,
+  "start_date": {
+    "year": 2009,
+    "month": 10,
+    "day": 3
+  },
+  "end_date": {
+    "year": 2009,
+    "month": 10,
+    "day": 3
+  },
+  "description": "Animated 3D movie based on a bestseller picture book by Agawa Hiroyuki, illustrated by Okabe Fuyuhiko and published in 1959 by Iwanami Shoten Publishing.",
+  "genres": [
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [],
+  "source": "OTHER",
+  "country": "JP",
+  "score_mal": 5.95,
+  "popularity": 149,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8492.jpg",
+    "poster_color": "#0d6be4",
+    "banner": "https://image.tmdb.org/t/p/original/aUhucSVgk3Hr8SQ3KAUoAd0ZMbp.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/fbm08Gqzb7n93xrVXuHaukp2vqw.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/aUhucSVgk3Hr8SQ3KAUoAd0ZMbp.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8492.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T10:46:48.669Z",
+  "cache_version": 1
+}

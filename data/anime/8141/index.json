@@ -1,0 +1,80 @@
+{
+  "ids": {
+    "anilist": 8141,
+    "mal": 8141,
+    "anidb": 7287,
+    "tmdb": 177578,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Konchuu Monogatari Mitsubachi Hutch: Yuuki no Melody",
+    "english": null,
+    "native": "昆虫物語 みつばちハッチ～勇気のメロディ～",
+    "synonyms": [
+      "Hutch the Honeybee"
+    ],
+    "tmdb_title": "Hutch the Honeybee"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 2010,
+  "episodes": 1,
+  "duration": 101,
+  "start_date": {
+    "year": 2010,
+    "month": 7,
+    "day": 31
+  },
+  "end_date": {
+    "year": 2010,
+    "month": 7,
+    "day": 31
+  },
+  "description": "A Hutch movie.",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "tags": [],
+  "studios": [
+    "Tatsunoko Production",
+    "Group TAC"
+  ],
+  "producers": [
+    "Yahoo! Japan",
+    "Sedic International",
+    "Marza Animation Planet",
+    "Shouchiku",
+    "Dentsu",
+    "Mainichi Broadcasting System",
+    "CBC",
+    "TBS"
+  ],
+  "country": "JP",
+  "score_anilist": 50,
+  "popularity": 394,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8141.jpg",
+    "poster_color": "#e4a150",
+    "banner": "https://image.tmdb.org/t/p/original/qQOSUbkSdel9rRTXKnTVQ0jljiP.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/xO1AilDxmVOqHCIRbT58PFQKUO1.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/qQOSUbkSdel9rRTXKnTVQ0jljiP.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8141.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T09:01:01.518Z",
+  "cache_version": 1
+}
