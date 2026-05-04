@@ -1,0 +1,81 @@
+{
+  "ids": {
+    "anilist": 2492,
+    "mal": 2492,
+    "anidb": 2557,
+    "tmdb": 444936,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Touch 2: Sayonara no Okurimono",
+    "english": null,
+    "native": "タッチ2 さよならの贈り物",
+    "synonyms": [
+      "Touch 2: The Farewell Gift"
+    ],
+    "tmdb_title": "Touch 2: The Farewell Gift"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 1986,
+  "episodes": 1,
+  "duration": 80,
+  "start_date": {
+    "year": 1986,
+    "month": 12,
+    "day": 13
+  },
+  "end_date": {
+    "year": 1986,
+    "month": 12,
+    "day": 13
+  },
+  "description": "Compilation movie of the second year of the Touch timeline. Plotwise, the movie doesn't have much to do with the series second year.",
+  "genres": [
+    "Drama",
+    "Romance",
+    "Sports"
+  ],
+  "tags": [
+    "School",
+    "School Club",
+    "Coming of Age",
+    "Male Protagonist",
+    "Shounen",
+    "Heterosexual",
+    "Baseball",
+    "Athletics"
+  ],
+  "studios": [],
+  "producers": [],
+  "country": "JP",
+  "score_anilist": 59,
+  "popularity": 913,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2492.jpg",
+    "poster_color": "#e46b35",
+    "banner": "https://image.tmdb.org/t/p/original/3JAxg5vlotaWmAmdvemZYzNRO3C.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/45RW0gbvG1HGHua72lCbckKsQUT.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/3JAxg5vlotaWmAmdvemZYzNRO3C.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2492.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/play/ep58218"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T08:09:46.005Z",
+  "cache_version": 1
+}
