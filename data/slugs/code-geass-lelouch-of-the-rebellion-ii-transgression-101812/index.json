@@ -3,7 +3,8 @@
     "anilist": 101812,
     "mal": 34439,
     "tmdb": 477777,
-    "tmdb_type": "movie"
+    "tmdb_type": "movie",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Code Geass: Hangyaku no Lelouch II - Handou",
@@ -51,8 +52,8 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 74,
-  "popularity": 25053,
-  "trending": 0,
+  "popularity": 25085,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101812-rCTRQhzHIryT.jpg",
     "poster_color": "#f1e45d",
@@ -65,6 +66,10 @@
     {
       "site": "Crunchyroll",
       "url": "https://www.crunchyroll.com/code-geass"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/"
     }
   ],
   "themes": [],
@@ -76,6 +81,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T06:40:44.115Z",
+  "cached_at": "2026-05-04T17:39:44.427Z",
   "cache_version": 1
 }
