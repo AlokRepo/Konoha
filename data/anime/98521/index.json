@@ -1,0 +1,91 @@
+{
+  "ids": {
+    "anilist": 98521,
+    "mal": 35254,
+    "anidb": 13039,
+    "tmdb": 70208,
+    "tmdb_type": "tv",
+    "tmdb_season": 2
+  },
+  "titles": {
+    "romaji": "Time Bokan: Gyakushuu no San-Akunin",
+    "english": "Time Bokan: The Villains' Strike Back",
+    "native": "タイムボカン 逆襲の三悪人",
+    "synonyms": [
+      "Time Bokan: Three Bad Guys' Counterattack",
+      "Time Bokan 24 2nd Season"
+    ],
+    "tmdb_title": "Time Bokan 24"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2017,
+  "episodes": 24,
+  "duration": 23,
+  "start_date": {
+    "year": 2017,
+    "month": 10,
+    "day": 7
+  },
+  "end_date": {
+    "year": 2018,
+    "month": 3,
+    "day": 24
+  },
+  "description": "The second season of Time Bokan 24.",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Superhero",
+    "Time Manipulation",
+    "Slapstick",
+    "Robots",
+    "Foreign",
+    "Episodic",
+    "Kids",
+    "Historical",
+    "Educational"
+  ],
+  "studios": [
+    "Tatsunoko Production",
+    "Tatsunoko Production"
+  ],
+  "producers": [
+    "Yomiuri TV"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 51,
+  "popularity": 939,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98521-WTX6Uvf7DivL.png",
+    "poster_color": "#50a1e4",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98521-mVWLQIF0Z9SZ.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/pZ8oi87EA3U1SOVtpFpSR8LJQwM.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/4JosOdpZT05v8lA12vLCV7G4P56.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98521-WTX6Uvf7DivL.png"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/time-bokan-24"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 98,
+  "match_signals": [
+    "english_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T04:03:36.495Z",
+  "cache_version": 1
+}

@@ -1,0 +1,81 @@
+{
+  "ids": {
+    "anilist": 3345,
+    "mal": 3345,
+    "anidb": 4599,
+    "tmdb": 124358,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Mikan Enikki",
+    "english": null,
+    "native": "みかん絵日記",
+    "synonyms": [
+      "Mikan's Picture Diary",
+      "Mikan's Illustrated Diary",
+      "Mikan – pomarańczowy kot"
+    ],
+    "tmdb_title": "Mikan Enikki"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 1992,
+  "episodes": 31,
+  "duration": 26,
+  "start_date": {
+    "year": 1992,
+    "month": 10,
+    "day": 16
+  },
+  "end_date": {
+    "year": 1993,
+    "month": 6,
+    "day": 18
+  },
+  "description": "A kitten, abandoned and left for dead along with his siblings, is taken in by Tomu Kusanagi, who nurtures him and discovers that the tangerine cat he so adores is actually a genius who can talk, walk, read, and has even acquired a taste for liquor!",
+  "genres": [
+    "Comedy",
+    "Romance",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Family Life",
+    "Anthropomorphism",
+    "Episodic",
+    "Slapstick",
+    "Animals",
+    "Shoujo"
+  ],
+  "studios": [
+    "Nippon Animation"
+  ],
+  "producers": [],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 61,
+  "popularity": 964,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3345.jpg",
+    "poster_color": "#f18650",
+    "banner": "https://image.tmdb.org/t/p/original/oJgootdh0gbOAIJTcb9EWSmlEYO.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/oYdp1sXERydEyjzObzUegqqvkq8.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/oJgootdh0gbOAIJTcb9EWSmlEYO.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3345.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T04:01:31.078Z",
+  "cache_version": 1
+}
