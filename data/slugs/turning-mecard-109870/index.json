@@ -1,0 +1,81 @@
+{
+  "ids": {
+    "anilist": 109870,
+    "mal": 35541,
+    "anidb": 13804,
+    "tmdb": 76843,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Turning Mecard",
+    "english": null,
+    "native": "터닝메카드",
+    "synonyms": [],
+    "tmdb_title": "Turning Mecard"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "episodes": 52,
+  "duration": 28,
+  "start_date": {
+    "year": 2015,
+    "month": 2,
+    "day": 3
+  },
+  "end_date": {
+    "year": 2016,
+    "month": 2,
+    "day": 5
+  },
+  "description": "Turning Mecard stars Jason, a grade-schooler who meets a Mecanimal, a transforming minicar from the alternate world of Triforce, named Evan. Jason and Evan are both searching for missing family members, and team up to help each other. Together, they meet more Mecanimals as they battle across dimensions and learn important lessons along the way.\n<br><br>\n(Source: Crunchyroll)",
+  "genres": [
+    "Adventure",
+    "Mecha"
+  ],
+  "tags": [
+    "Cars"
+  ],
+  "studios": [
+    "Heewon Entertainment",
+    "Choirock"
+  ],
+  "producers": [
+    "Sonokong"
+  ],
+  "source": "OTHER",
+  "country": "KR",
+  "score_anilist": 55,
+  "popularity": 436,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b109870-BCjuCsfeGZvt.jpg",
+    "poster_color": "#e4a15d",
+    "banner": "https://image.tmdb.org/t/p/original/xWRmOW6X0dSBYfSZbTnhu7dEbQG.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/3eev0HAIVqDMDEUZNlNBnIlvFHD.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/xWRmOW6X0dSBYfSZbTnhu7dEbQG.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b109870-BCjuCsfeGZvt.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLZcWUVgQtnvj_-2DvVhVbWkhzT3Bj221W"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/c/mecard/featured"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T04:43:08.730Z",
+  "cache_version": 1
+}
