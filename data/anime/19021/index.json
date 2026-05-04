@@ -52,7 +52,7 @@
   "source": "LIGHT_NOVEL",
   "country": "JP",
   "score_anilist": 72,
-  "popularity": 32051,
+  "popularity": 32080,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19021-4Z0vCkzH3Vmb.jpg",
@@ -62,7 +62,16 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/i1hKSnXnzvBRLwZD8xayiYqxHHl.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19021-4Z0vCkzH3Vmb.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/movies/love-chunibyo-and-other-delusions-rikka-version"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 130,
@@ -72,6 +81,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T06:06:49.102Z",
+  "cached_at": "2026-05-04T17:23:54.992Z",
   "cache_version": 1
 }

@@ -4,7 +4,8 @@
     "mal": 61903,
     "anidb": 19402,
     "tmdb": 316815,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan",
@@ -64,8 +65,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 84,
-  "popularity": 39624,
-  "trending": 2,
+  "popularity": 39805,
+  "trending": 4,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194884-rHgGAzKSCEWz.jpg",
     "poster_color": "#1a78ff",
@@ -77,6 +78,10 @@
     {
       "site": "Crunchyroll",
       "url": "https://www.crunchyroll.com/watch/GWDU78X9N/chika-fujiwara-wants-to-surprise--miyuki-shirogane-wants-to-talk--kaguya-shinomiyas-impossible-task"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
     }
   ],
   "themes": [],
@@ -88,6 +93,6 @@
     "episode_exact",
     "format_match"
   ],
-  "cached_at": "2026-05-03T05:38:23.248Z",
+  "cached_at": "2026-05-04T18:04:59.387Z",
   "cache_version": 1
 }
