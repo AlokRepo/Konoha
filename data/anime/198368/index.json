@@ -1,0 +1,70 @@
+{
+  "ids": {
+    "anilist": 198368,
+    "mal": 62508,
+    "anidb": 19711,
+    "tmdb": 1542261,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Doraemon: Shin Nobita no Kaitei Kiganjou",
+    "english": null,
+    "native": "映画ドラえもん 新・のび太の海底鬼岩城",
+    "synonyms": [
+      "Doraemon the Movie: New Nobita's Undersea Fortress",
+      "Doraemon the Movie: New Nobita and the Castle of the Undersea Devil"
+    ],
+    "tmdb_title": "Doraemon the Movie: New Nobita and the Castle of the Undersea Devil"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2026,
+  "episodes": 1,
+  "start_date": {
+    "year": 2026,
+    "month": 2,
+    "day": 27
+  },
+  "end_date": {
+    "year": 2026,
+    "month": 2,
+    "day": 27
+  },
+  "description": "10,000 meters below sea level. On this Earth, there lies a world no one has yet to uncover.\n<br><br>\nNote: This is a remake of the 1983 movie <i>Doraemon: Nobita no Kaitei Kiganjou</i>.",
+  "genres": [
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "MANGA",
+  "country": "JP",
+  "popularity": 551,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198368-uQ4yo55q9teU.jpg",
+    "poster_color": "#28bbfe",
+    "banner": "https://image.tmdb.org/t/p/original/pxd9rc03EMMln3tVFdfd427Fpsi.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/j0n3oaUqbig4Gb0yG1GPrb2KRyl.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/pxd9rc03EMMln3tVFdfd427Fpsi.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198368-uQ4yo55q9teU.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/user/DoraemonTheMovie"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T08:38:22.933Z",
+  "cache_version": 1
+}

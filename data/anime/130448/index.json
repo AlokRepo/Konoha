@@ -1,0 +1,79 @@
+{
+  "ids": {
+    "anilist": 130448,
+    "mal": 42488,
+    "tmdb": 729532,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Wasureta Furi wo Shite",
+    "english": "Pretending to forget",
+    "native": "忘れたフリをして",
+    "synonyms": [],
+    "tmdb_title": "Pretending to forget"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 2020,
+  "episodes": 1,
+  "duration": 13,
+  "start_date": {
+    "year": 2020,
+    "month": 6,
+    "day": 30
+  },
+  "end_date": {
+    "year": 2020,
+    "month": 6,
+    "day": 30
+  },
+  "description": "Animation film celebrating the 50th anniversary of the Senba Center Building. Based on the manga \"A manga in the Semba Center Building\" by You Machida.<br>\n<br>\nOne day, manga artist YOU Machida received a request to draw the Semba Center Building, which was celebrating its 50th anniversary. This is the story of a quiet dialogue between a manga artist who has suffered from depression in the past and the Senba Center Building, a generous old commercial facility that has lived for 50 years in the middle of Osaka, over a four-day period.",
+  "genres": [
+    "Slice of Life"
+  ],
+  "tags": [
+    "Rehabilitation",
+    "Drawing",
+    "Autobiographical"
+  ],
+  "studios": [
+    "CALF"
+  ],
+  "producers": [
+    "CEKAI"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 53,
+  "popularity": 531,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130448-RCB4OPYMmD5R.png",
+    "banner": "https://image.tmdb.org/t/p/original/nmpDANXSjg9FCwgdKdJJkuvc2lX.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/odm3nBCZxjxC0SwsDDnG9i3RKtN.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/nmpDANXSjg9FCwgdKdJJkuvc2lX.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130448-RCB4OPYMmD5R.png"
+  },
+  "streaming": [
+    {
+      "site": "Vimeo",
+      "url": "https://vimeo.com/435734827"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/watch?v=9CwgjP_8CIk"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T08:40:37.726Z",
+  "cache_version": 1
+}
