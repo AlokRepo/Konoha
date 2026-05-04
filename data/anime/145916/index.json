@@ -1,0 +1,70 @@
+{
+  "ids": {
+    "anilist": 145916,
+    "mal": 51147,
+    "anidb": 17230,
+    "tmdb": 944703,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "IDOL bu SHOW Movie",
+    "english": null,
+    "native": "劇場版 IDOL舞SHOW",
+    "synonyms": [],
+    "tmdb_title": "IDOL bu SHOW Movie"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 2022,
+  "episodes": 1,
+  "duration": 64,
+  "start_date": {
+    "year": 2022,
+    "month": 6,
+    "day": 24
+  },
+  "end_date": {
+    "year": 2022,
+    "month": 6,
+    "day": 24
+  },
+  "genres": [
+    "Music"
+  ],
+  "tags": [
+    "Idol"
+  ],
+  "studios": [
+    "ORENDA"
+  ],
+  "producers": [
+    "Amineworks"
+  ],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 47,
+  "popularity": 673,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145916-XkQ9CSdKepBQ.jpg",
+    "poster_color": "#c95de4",
+    "banner": "https://image.tmdb.org/t/p/original/wYiu3jWNZUzrbMVQSdLUbZobsUS.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/up3w45xvOy1rw6zxqYNKw00ENq3.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/wYiu3jWNZUzrbMVQSdLUbZobsUS.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145916-XkQ9CSdKepBQ.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T08:25:49.900Z",
+  "cache_version": 1
+}
