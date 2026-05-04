@@ -1,0 +1,74 @@
+{
+  "ids": {
+    "anilist": 181863,
+    "mal": 54933,
+    "tmdb": 222294,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Denden no Dennou Densha",
+    "english": null,
+    "native": "でんでんの電脳電車",
+    "synonyms": [
+      "DEN NOU DENSYA"
+    ],
+    "tmdb_title": "Denden's Cyber Train"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2023,
+  "episodes": 12,
+  "duration": 5,
+  "start_date": {
+    "year": 2023,
+    "month": 4,
+    "day": 13
+  },
+  "end_date": {
+    "year": 2023,
+    "month": 6,
+    "day": 29
+  },
+  "description": "A 3D short anime featuring active VTubers/VSingers.",
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [
+    "Studio HUIT"
+  ],
+  "producers": [
+    "Pony Canyon"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "popularity": 175,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181863-qLC3QLZTm9OT.png",
+    "poster_color": "#35c9e4",
+    "banner": "https://image.tmdb.org/t/p/original/ptdchkOlB9ZHBYMHWkAJAbcWgbG.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/32h4x3fYxs20lcuuTekrIswvqwT.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/ptdchkOlB9ZHBYMHWkAJAbcWgbG.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181863-qLC3QLZTm9OT.png"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/@DenDenTrain"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 100,
+  "match_signals": [
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T06:27:02.613Z",
+  "cache_version": 1
+}

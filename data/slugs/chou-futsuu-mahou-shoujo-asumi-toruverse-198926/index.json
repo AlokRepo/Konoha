@@ -1,0 +1,73 @@
+{
+  "ids": {
+    "anilist": 198926,
+    "mal": 62522,
+    "anidb": 19665,
+    "tmdb": 302335,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Chou Futsuu Mahou Shoujo Asumi Toruverse",
+    "english": null,
+    "native": "超普通マホウ少女アスミトルバース",
+    "synonyms": [],
+    "tmdb_title": "Chou Futsuu Mahou Shoujo: Asumi Toruverse"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2025,
+  "episodes": 13,
+  "duration": 4,
+  "start_date": {
+    "year": 2025,
+    "month": 10,
+    "day": 2
+  },
+  "end_date": {
+    "year": 2025,
+    "month": 12,
+    "day": 25
+  },
+  "description": "Fifth season of the <i>Chou Futsuu</i> series.",
+  "genres": [
+    "Comedy",
+    "Fantasy",
+    "Mahou Shoujo"
+  ],
+  "tags": [],
+  "studios": [
+    "Super Normal Studio"
+  ],
+  "producers": [
+    "Frontier Works"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "popularity": 338,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198926-J5Ml6dqNGze9.png",
+    "poster_color": "#e46b5d",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/ddrAstefk8U2NavcydQJ4ZeF8dL.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198926-J5Ml6dqNGze9.png"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLjA4aVnZl7mi0Xdh8iH40w9CdAhN4pF5I"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T06:10:58.005Z",
+  "cache_version": 1
+}
