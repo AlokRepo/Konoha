@@ -1,0 +1,79 @@
+{
+  "ids": {
+    "anilist": 20530,
+    "mal": 21421,
+    "anidb": 10286,
+    "tmdb": 68612,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Mahou Shoujo Taisen",
+    "english": "Magica Wars",
+    "native": "魔法少女大戦",
+    "synonyms": [
+      "Magical Girl Wars"
+    ],
+    "tmdb_title": "Magica Wars"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2014,
+  "episodes": 26,
+  "duration": 4,
+  "start_date": {
+    "year": 2014,
+    "month": 4,
+    "day": 8
+  },
+  "end_date": {
+    "year": 2014,
+    "month": 9,
+    "day": 30
+  },
+  "description": "Mahou Shoujo Taisen is a project that was created for a variety show for Otaku 2.5 Dimension TV. The characters are the magical girls, each representing local towns in Japan.",
+  "genres": [
+    "Fantasy",
+    "Mahou Shoujo"
+  ],
+  "tags": [
+    "Magic",
+    "Female Protagonist"
+  ],
+  "studios": [
+    "Gainax"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 52,
+  "popularity": 4757,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20530.jpg",
+    "poster_color": "#f1c950",
+    "banner": "https://image.tmdb.org/t/p/original/4J0SQvyXHbF1ftKLqA15lJeqf4T.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/svHhEKRnMZBkSJhocrijDRjG7Wh.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/4J0SQvyXHbF1ftKLqA15lJeqf4T.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20530.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/magica-wars"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T05:21:50.363Z",
+  "cache_version": 1
+}

@@ -1,0 +1,86 @@
+{
+  "ids": {
+    "anilist": 143150,
+    "mal": 50685,
+    "anidb": 17089,
+    "tmdb": 123684,
+    "tmdb_type": "tv",
+    "tmdb_season": 2
+  },
+  "titles": {
+    "romaji": "Kaginado Season 2",
+    "english": "KAGINADO Season 2",
+    "native": "かぎなど シーズン２",
+    "synonyms": [
+      "Key, etc.",
+      "鍵等"
+    ],
+    "tmdb_title": "KAGINADO"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2022,
+  "episodes": 12,
+  "duration": 4,
+  "start_date": {
+    "year": 2022,
+    "month": 4,
+    "day": 13
+  },
+  "end_date": {
+    "year": 2022,
+    "month": 6,
+    "day": 29
+  },
+  "description": "The second season of <i>Kaginado</i>.",
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [
+    "Crossover",
+    "Chibi"
+  ],
+  "studios": [
+    "LIDENFILMS Kyoto Studio"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 72,
+  "popularity": 4677,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143150-yYb9yimEQocm.png",
+    "poster_color": "#4393ff",
+    "banner": "https://image.tmdb.org/t/p/original/6BPh9lPOqyzenBTFlDUqDl6Fgh4.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/lQXXtlIQYlw4D73mgFQPkrW5FU9.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/6BPh9lPOqyzenBTFlDUqDl6Fgh4.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143150-yYb9yimEQocm.png"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/series/G3KHEV73Z/kaginado"
+    },
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/movies/kaginado-season-2"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl3gRcH6U4L-LonrzmvlvvX0"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 99,
+  "match_signals": [
+    "english_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T05:22:04.387Z",
+  "cache_version": 1
+}
