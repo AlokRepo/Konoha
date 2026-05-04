@@ -1,0 +1,78 @@
+{
+  "ids": {
+    "anilist": 8361,
+    "mal": 8361,
+    "anidb": 4706,
+    "tmdb": 128878,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Crayon Shin-chan: Bakuhatsu! Onsen Wakuwaku Daikessen",
+    "english": "Crayon Shin-chan: Explosion! The Hot Spring's Feel Good Final Battle",
+    "native": "映画 クレヨンしんちゃん　爆発！温泉わくわく大決戦",
+    "synonyms": [
+      "Eiga Crayon Shin-chan: Bakuhatsu! Onsen Wakuwaku Daikessen",
+      "Shin Chan Spa Wars: La guerra de los balnearios",
+      "ชินจัง เดอะมูฟวี่ 7 : ระเบิดระเบ้อ! พิชิตบ่อน้ำร้อนแห่งไซตามะ",
+      "Crayon Shin-chan : Bùng Nổ ! Cuộc Chiến Quyết Định Suối Nước Nóng Thú Vị"
+    ],
+    "tmdb_title": "Crayon Shin-chan: Explosion! The Hot Spring's Feel Good Final Battle"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 1999,
+  "episodes": 1,
+  "duration": 110,
+  "start_date": {
+    "year": 1999,
+    "month": 4,
+    "day": 17
+  },
+  "end_date": {
+    "year": 1999,
+    "month": 4,
+    "day": 17
+  },
+  "description": "The Nohara family and \"Onsen G-Men\", the secret government agency maintaining all the hot springs in Japan, fight against \"Yuzame\", a bath-hating terrorist organization plotting to wipe out all the hot springs in Japan.<br>\n<br>\n(Source Bilibili TV)\n",
+  "genres": [
+    "Comedy",
+    "Ecchi",
+    "Slice of Life"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [
+    "TV Asahi"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 65,
+  "popularity": 1724,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8361.jpg",
+    "poster_color": "#f1c935",
+    "banner": "https://image.tmdb.org/t/p/original/qHJe3nWhDaRk4LguKuYtQk4aA8y.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/buQjzchKfrbKioiptk22y2TQNSj.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/qHJe3nWhDaRk4LguKuYtQk4aA8y.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8361.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili TV",
+      "url": "https://www.bilibili.tv/media/37485"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T12:37:20.209Z",
+  "cache_version": 1
+}
