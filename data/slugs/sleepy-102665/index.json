@@ -1,0 +1,58 @@
+{
+  "ids": {
+    "anilist": 102665,
+    "mal": 30334,
+    "anidb": 17228,
+    "tmdb": 525115,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Sleepy",
+    "english": null,
+    "native": "スリーピー",
+    "synonyms": [],
+    "tmdb_title": "Sleepy"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 5,
+  "start_date": {
+    "year": 1980,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 1980,
+    "month": null,
+    "day": null
+  },
+  "description": "A Furukawa Taku film",
+  "genres": [],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 40,
+  "popularity": 250,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx102665-QJfl5f62zmfB.jpg",
+    "poster_color": "#3593ae",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/kDsDI93hncF86KlvhSPrYhAsTAb.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx102665-QJfl5f62zmfB.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T09:38:57.399Z",
+  "cache_version": 1
+}

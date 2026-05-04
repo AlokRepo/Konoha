@@ -1,0 +1,73 @@
+{
+  "ids": {
+    "anilist": 8149,
+    "mal": 8149,
+    "anidb": 7472,
+    "tmdb": 314225,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Gegege no Kitarou (1968 Movie)",
+    "english": "Spooky Kitaro",
+    "native": "ゲゲゲの鬼太郎",
+    "synonyms": [],
+    "tmdb_title": "Spooky Kitaro"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 1968,
+  "episodes": 1,
+  "duration": 60,
+  "start_date": {
+    "year": 1968,
+    "month": 7,
+    "day": 21
+  },
+  "end_date": {
+    "year": 1968,
+    "month": 7,
+    "day": 21
+  },
+  "description": "A retelling of episodes 5-6 from the 1968 TV anime.",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Horror",
+    "Supernatural"
+  ],
+  "tags": [
+    "Youkai",
+    "Ghost",
+    "Achromatic"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [],
+  "country": "JP",
+  "score_anilist": 52,
+  "popularity": 407,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8149.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/gUy9JPVq6BzpN4KvYoQCT4kvK7m.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/2hH8HAbQKzeh5s2hj78ZBqvwW1x.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/gUy9JPVq6BzpN4KvYoQCT4kvK7m.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8149.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T08:59:24.340Z",
+  "cache_version": 1
+}

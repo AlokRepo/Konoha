@@ -1,0 +1,72 @@
+{
+  "ids": {
+    "anilist": 8150,
+    "mal": 8150,
+    "anidb": 7474,
+    "tmdb": 501753,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Gegege no Kitarou: Chisougan",
+    "english": "Spooky Kitaro: The All Seeing Eye",
+    "native": "ゲゲゲの鬼太郎 地相眼",
+    "synonyms": [],
+    "tmdb_title": "Spooky Kitaro: The All Seeing Eye"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 1980,
+  "episodes": 1,
+  "duration": 25,
+  "start_date": {
+    "year": 1980,
+    "month": 7,
+    "day": 12
+  },
+  "end_date": {
+    "year": 1980,
+    "month": 7,
+    "day": 12
+  },
+  "description": "A retelling of episode 37 from the 1971 TV anime.",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Horror",
+    "Supernatural"
+  ],
+  "tags": [
+    "Youkai"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [],
+  "country": "JP",
+  "score_anilist": 49,
+  "popularity": 417,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8150.jpg",
+    "poster_color": "#f1e45d",
+    "banner": "https://image.tmdb.org/t/p/original/6JK7nXq4WhAkYExpt6BEhi3pwLH.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/a6B3Ybor6ERODsR4K3BHxrjCxik.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/6JK7nXq4WhAkYExpt6BEhi3pwLH.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8150.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T08:58:06.286Z",
+  "cache_version": 1
+}

@@ -1,0 +1,76 @@
+{
+  "ids": {
+    "anilist": 103388,
+    "mal": 33238,
+    "anidb": 13682,
+    "tmdb": 133248,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Padak Padak",
+    "english": "Swimming to Sea",
+    "native": "파닥파닥",
+    "synonyms": [
+      "Pa-dak Pa-dak",
+      "PADAK"
+    ],
+    "tmdb_title": "Padak"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 78,
+  "start_date": {
+    "year": 2012,
+    "month": 7,
+    "day": 25
+  },
+  "end_date": {
+    "year": 2012,
+    "month": 7,
+    "day": 25
+  },
+  "description": "A mackerel from the sea attempts to escape from a restaurant! Padak is a mackerel from the sea, who is caught in a net and gets dumped into a restaurant tank. An old flatfish is the only one that's survived very long. He gains the trust of other fish with his survival skills. Thanks to Padak, who attempts to make it back to the ocean, the peace in the tank is shattered and conflicts with the old flatfish get bigger and bigger.\n<br><br>\n(Source: IMDb)",
+  "genres": [
+    "Drama"
+  ],
+  "tags": [
+    "CGI",
+    "Animals"
+  ],
+  "studios": [
+    "E-DEHI Animation Studio"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "KR",
+  "score_anilist": 57,
+  "popularity": 414,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx103388-tfet0wCc825p.jpg",
+    "poster_color": "#1aa1d6",
+    "banner": "https://image.tmdb.org/t/p/original/hWF4upKZOqAQpnMalYsWAvY9bIk.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/rRn2prpFPA7Ktkmc22c6WfB1W2Y.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/hWF4upKZOqAQpnMalYsWAvY9bIk.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx103388-tfet0wCc825p.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Amazon Prime Video",
+      "url": "https://www.amazon.com/gp/video/detail/B07F5CGGL3/ref=atv_br_def_r_br_c_unkc_1_12"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T08:58:25.404Z",
+  "cache_version": 1
+}
