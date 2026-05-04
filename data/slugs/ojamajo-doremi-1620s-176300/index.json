@@ -1,0 +1,85 @@
+{
+  "ids": {
+    "anilist": 176300,
+    "mal": 58535,
+    "tmdb": 1263887,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Ojamajo Doremi 1620's",
+    "english": null,
+    "native": "おジャ魔女どれみ1620's",
+    "synonyms": [
+      "おジャ魔女カーニバル!!",
+      "Ojamajo Carnival!!",
+      "おジャ魔女どれみ新作映像",
+      "Ojamajo Doremi Shinsaku Eizou",
+      "わたしのつばさ",
+      "Watashi no Tsubasa"
+    ],
+    "tmdb_title": "Ojamajo Doremi 1620's"
+  },
+  "format": "SPECIAL",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2024,
+  "episodes": 2,
+  "duration": 2,
+  "start_date": {
+    "year": 2024,
+    "month": 3,
+    "day": 23
+  },
+  "end_date": {
+    "year": 2024,
+    "month": 7,
+    "day": 31
+  },
+  "description": "Short animations commemorating the 25th anniversary of the <i>Ojamajo Doremi</i> anime, which made its debut at AnimeJapan 2024.",
+  "genres": [
+    "Mahou Shoujo",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Dancing",
+    "Primarily Female Cast",
+    "Henshin"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [],
+  "source": "LIGHT_NOVEL",
+  "country": "JP",
+  "score_anilist": 76,
+  "popularity": 1425,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176300-Gj0QdWs3AaFW.png",
+    "poster_color": "#35bbf1",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176300-9wM7FAMSN9H6.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/71OGfRoULv9T04tvrQJYK3QzEu.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176300-Gj0QdWs3AaFW.png"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/watch?v=i3mzMFy3dBg"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/watch?v=4AMf-7R7B0k"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 100,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T18:48:17.381Z",
+  "cache_version": 1
+}
