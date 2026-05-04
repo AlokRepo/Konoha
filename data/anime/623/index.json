@@ -1,0 +1,102 @@
+{
+  "ids": {
+    "anilist": 623,
+    "mal": 623,
+    "anidb": 853,
+    "tmdb": 34161,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Shichinin no Nana",
+    "english": "Nana: Seven of Seven",
+    "native": "七人のナナ",
+    "synonyms": [
+      "Nana Seven of Seven",
+      "7 of 7",
+      "Nana 7 of 7",
+      "7인의 나나"
+    ],
+    "tmdb_title": "Seven of Seven"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2002,
+  "episodes": 25,
+  "duration": 24,
+  "start_date": {
+    "year": 2002,
+    "month": 1,
+    "day": 10
+  },
+  "end_date": {
+    "year": 2002,
+    "month": 6,
+    "day": 27
+  },
+  "description": "Nana is your average high school girl with a boyfriend, average grades, interests, and problems until her inventor grandfather’s experiment goes haywire and produces 6 Nana clones! The trouble begins when they all have a crush on the same boy!<br><br>(Source: Media Blasters)",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Romance"
+  ],
+  "tags": [
+    "Magic",
+    "School",
+    "Clone",
+    "Shounen",
+    "Dissociative Identities"
+  ],
+  "studios": [
+    "Hal Film Maker",
+    "A.C.G.T."
+  ],
+  "producers": [
+    "TV Tokyo",
+    "Genco",
+    "Asatsu DK",
+    "d-rights",
+    "AT-X",
+    "Media Blasters",
+    "NYAV Post"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 64,
+  "popularity": 2997,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx623-4vLVAsUbQDO0.png",
+    "poster_color": "#e4a143",
+    "banner": "https://image.tmdb.org/t/p/original/AfhmOdKGhLRebi3Z3aGEgf0Wxcp.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/pYLS84odmAvvLt19EAyLvjdWxIl.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/AfhmOdKGhLRebi3Z3aGEgf0Wxcp.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx623-4vLVAsUbQDO0.png"
+  },
+  "streaming": [
+    {
+      "site": "Tubi TV",
+      "url": "https://tubitv.com/series/300009076/seven-of-seven-english-dubbed"
+    },
+    {
+      "site": "Tubi TV",
+      "url": "https://tubitv.com/series/300009282/nana-seven-of-seven-subbed"
+    },
+    {
+      "site": "Hoopla",
+      "url": "https://www.hoopladigital.com/television/nana-seven-of-seven-season-1-nana-mizuki/14935685"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 82,
+  "match_signals": [
+    "synonyms_match",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T02:48:47.587Z",
+  "cache_version": 1
+}

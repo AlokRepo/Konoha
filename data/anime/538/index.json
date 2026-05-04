@@ -1,0 +1,81 @@
+{
+  "ids": {
+    "anilist": 538,
+    "mal": 538,
+    "anidb": 337,
+    "tmdb": 20485,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Shin Tenchi Muyou!",
+    "english": "Tenchi in Tokyo",
+    "native": "新・天地無用!",
+    "synonyms": [
+      "New Tenchi Muyo"
+    ],
+    "tmdb_title": "Tenchi in Tokyo"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 1997,
+  "episodes": 26,
+  "duration": 23,
+  "start_date": {
+    "year": 1997,
+    "month": 4,
+    "day": 1
+  },
+  "end_date": {
+    "year": 1997,
+    "month": 9,
+    "day": 23
+  },
+  "description": "Tenchi decides to move to Tokyo in order to lead a normal life in the big city. While in Tokyo, Tenchi meets a girl named Sakuya. They soon fall in love, but as it turns out, a dark sinister force has created Sakuya to get at Tenchi and rule the earth. Now Tenchi must balance love, friends, and life while defending the earth one last time.\n<br><br>\n(Source: Anime News Network)",
+  "genres": [
+    "Comedy",
+    "Romance",
+    "Sci-Fi"
+  ],
+  "tags": [],
+  "studios": [
+    "AIC"
+  ],
+  "producers": [
+    "Funimation",
+    "Pioneer LDC",
+    "TV Tokyo",
+    "Kadokawa Shoten"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 65,
+  "popularity": 6444,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx538-yPo9msL7L6sm.png",
+    "poster_color": "#e4ae5d",
+    "banner": "https://image.tmdb.org/t/p/original/5hWwHMCln3N7APZOajZ6cTe4llG.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/4IrO5vNH7UVvMWVbJSe4L2Afhee.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/5hWwHMCln3N7APZOajZ6cTe4llG.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx538-yPo9msL7L6sm.png"
+  },
+  "streaming": [
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/tenchi-in-tokyo"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T01:55:45.745Z",
+  "cache_version": 1
+}

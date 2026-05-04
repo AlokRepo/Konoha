@@ -1,0 +1,86 @@
+{
+  "ids": {
+    "anilist": 6918,
+    "mal": 6918,
+    "anidb": 7384,
+    "tmdb": 38247,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Wolverine",
+    "english": null,
+    "native": "ウルヴァリン",
+    "synonyms": [],
+    "tmdb_title": "Wolverine"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2011,
+  "episodes": 12,
+  "duration": 23,
+  "start_date": {
+    "year": 2011,
+    "month": 1,
+    "day": 7
+  },
+  "end_date": {
+    "year": 2011,
+    "month": 3,
+    "day": 25
+  },
+  "description": "Logan learns that his girlfriend, Mariko Yashida, who disappeared a year ago, has been taken to Tokyo by her father Shingen, who is the head of a Japanese crime syndicate and a supplier of AIM. He then decides to head to Japan to find her and take her back, no matter what.",
+  "genres": [
+    "Action"
+  ],
+  "tags": [
+    "Super Power",
+    "Heterosexual",
+    "Travel",
+    "Martial Arts",
+    "Guns",
+    "Swordplay",
+    "Unrequited Love",
+    "Male Protagonist",
+    "Primarily Adult Cast"
+  ],
+  "studios": [
+    "MADHOUSE"
+  ],
+  "producers": [
+    "Marvel Entertainment",
+    "Sony Pictures Entertainment"
+  ],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 54,
+  "popularity": 5083,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6918.jpg",
+    "poster_color": "#e45d50",
+    "banner": "https://image.tmdb.org/t/p/original/b4wRDmy0tqad6JC7GybUu1dzLxF.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/wgN8YRBtof55H2Glza256kzJ300.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/b4wRDmy0tqad6JC7GybUu1dzLxF.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6918.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/70205687"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T02:13:17.566Z",
+  "cache_version": 1
+}

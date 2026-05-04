@@ -1,0 +1,83 @@
+{
+  "ids": {
+    "anilist": 55,
+    "mal": 55,
+    "anidb": 433,
+    "tmdb": 15124,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Arc the Lad",
+    "english": "Arc the Lad",
+    "native": "アークザラッド",
+    "synonyms": [
+      "Arc"
+    ],
+    "tmdb_title": "Arc the Lad"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 1999,
+  "episodes": 26,
+  "duration": 22,
+  "start_date": {
+    "year": 1999,
+    "month": 4,
+    "day": 5
+  },
+  "end_date": {
+    "year": 1999,
+    "month": 9,
+    "day": 11
+  },
+  "description": "The story follows Elk, a bounty hunter in some strange futuristic world. On this world archaic but advanced technology exists side by side with primitive attitudes, beasts and magic. In other words it's got a bit of everything. It also has an evil conspiracy who are able to produce powerful monsters called chimera, who can also appear as human. Naturally it is not long before Elk has rescued a young female beast-master and gained himself some serious enemies.\n<br><br>\n(Source: Anime News Network)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Horror",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Revenge",
+    "Military",
+    "Male Protagonist",
+    "Magic"
+  ],
+  "studios": [
+    "Bee Train"
+  ],
+  "producers": [
+    "Sony Pictures Entertainment",
+    "Aniplex",
+    "ADV Films"
+  ],
+  "source": "VIDEO_GAME",
+  "country": "JP",
+  "score_anilist": 61,
+  "popularity": 3056,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx55-uG26UwIxEJkJ.png",
+    "poster_color": "#e4c95d",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n55-GkpzkjVbaMxb.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/jBGsAzjumIMpb1RVKFsCWLWXI4B.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/2XuLx1hWMMkYKXrHAevK70MwioU.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx55-uG26UwIxEJkJ.png"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T02:47:10.612Z",
+  "cache_version": 1
+}
