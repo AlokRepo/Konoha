@@ -1,0 +1,87 @@
+{
+  "ids": {
+    "anilist": 2920,
+    "mal": 2920,
+    "anidb": 1631,
+    "tmdb": 301513,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Ashita no Joe (Movie)",
+    "english": "Tomorrow's Joe: The Movie",
+    "native": "あしたのジョー (1980)",
+    "synonyms": [],
+    "tmdb_title": "Tomorrow's Joe The Movie"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 1980,
+  "episodes": 1,
+  "duration": 153,
+  "start_date": {
+    "year": 1980,
+    "month": 3,
+    "day": 8
+  },
+  "end_date": {
+    "year": 1980,
+    "month": 3,
+    "day": 8
+  },
+  "description": "A summary movie of the first season for people to get reminded on what happened before the airing of the second season.",
+  "genres": [
+    "Action",
+    "Drama",
+    "Slice of Life",
+    "Sports"
+  ],
+  "tags": [
+    "Boxing",
+    "Shounen",
+    "Male Protagonist",
+    "Delinquents"
+  ],
+  "studios": [
+    "Mushi Production"
+  ],
+  "producers": [
+    "Discotek",
+    "Fuji TV"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 66,
+  "popularity": 2520,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2920-7rvrEGt2PODe.png",
+    "poster_color": "#f16b35",
+    "banner": "https://image.tmdb.org/t/p/original/dk61tJ99xKjez9ddmmLSOwhiVIc.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/eWLL5dQONrcfg0cLerTQLEhXahq.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/dk61tJ99xKjez9ddmmLSOwhiVIc.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2920-7rvrEGt2PODe.png"
+  },
+  "streaming": [
+    {
+      "site": "RetroCrush",
+      "url": "https://www.retrocrush.tv/video/016928v/tomorrow's-joe-(dubbed)"
+    },
+    {
+      "site": "RetroCrush",
+      "url": "https://www.retrocrush.tv/video/016919v/tomorrow's-joe-(subbed)"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T12:32:44.267Z",
+  "cache_version": 1
+}
