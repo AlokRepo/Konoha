@@ -1,0 +1,65 @@
+{
+  "ids": {
+    "anilist": 19219,
+    "mal": 19219,
+    "anidb": 11383,
+    "tmdb": 381969,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "MODERN No.2",
+    "english": null,
+    "native": "MODERN No.2",
+    "synonyms": [],
+    "tmdb_title": "Modern No.2"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 4,
+  "start_date": {
+    "year": 2011,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 2011,
+    "month": null,
+    "day": null
+  },
+  "description": "Using a sheet of graph paper, which is typically used for architectural drawings, I combined straight lines which stretch out in three directions to construct the visual. I think that original fascination with animation is the limitations. To challenge the limitations, I started creating animation by using minimal elements. Apparently, it looks like computer graphics though it's really digital animation drawn by hand.<br>\n<br>\n(Source: Mirai Mizue)",
+  "genres": [
+    "Music"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 50,
+  "popularity": 516,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19219-LALwl9nh8S4f.jpg",
+    "poster_color": "#e4a143",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/dkCWYLkL1ABzyJZXFPJcYmWWL4D.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19219-LALwl9nh8S4f.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Vimeo",
+      "url": "https://vimeo.com/273500763"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T08:42:44.078Z",
+  "cache_version": 1
+}

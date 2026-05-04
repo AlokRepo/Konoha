@@ -1,0 +1,68 @@
+{
+  "ids": {
+    "anilist": 104457,
+    "mal": 28047,
+    "anidb": 10898,
+    "tmdb": 455492,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Kokoro no Chikara",
+    "english": "Will Power",
+    "native": "心の力",
+    "synonyms": [],
+    "tmdb_title": "Will Power"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 18,
+  "start_date": {
+    "year": 1931,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 1931,
+    "month": null,
+    "day": null
+  },
+  "description": "A man in love with a noble lady tries to get close to her with the help of cats.\n<br><br>\n(Source: TMDB)",
+  "genres": [
+    "Adventure",
+    "Romance"
+  ],
+  "tags": [
+    "Samurai",
+    "Swordplay"
+  ],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 42,
+  "popularity": 490,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx104457-fqoS9WznlieN.png",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/5RVYjzxiR13fkZTCSYk3KaQzgvE.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx104457-fqoS9WznlieN.png"
+  },
+  "streaming": [
+    {
+      "site": "Japanese Film Archives",
+      "url": "https://animation.filmarchives.jp/works/view/5227"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T08:45:42.251Z",
+  "cache_version": 1
+}

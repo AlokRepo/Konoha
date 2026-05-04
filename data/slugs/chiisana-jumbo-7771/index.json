@@ -1,0 +1,71 @@
+{
+  "ids": {
+    "anilist": 7771,
+    "mal": 7771,
+    "anidb": 6981,
+    "tmdb": 529375,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Chiisana Jumbo",
+    "english": null,
+    "native": "小さなジャンボ",
+    "synonyms": [
+      "Little Jumbo"
+    ],
+    "tmdb_title": "Little Jumbo"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 1977,
+  "episodes": 1,
+  "duration": 28,
+  "start_date": {
+    "year": 1977,
+    "month": 9,
+    "day": 10
+  },
+  "end_date": {
+    "year": 1977,
+    "month": 9,
+    "day": 10
+  },
+  "description": "This is a colorful, painstakingly animated musical about a boy and his pet white elephant who one day drift onto a peaceful island which soon finds itself caught between two larger islands at war",
+  "genres": [
+    "Fantasy"
+  ],
+  "tags": [
+    "Musical Theater",
+    "Animals",
+    "War"
+  ],
+  "studios": [],
+  "producers": [
+    "Sanrio"
+  ],
+  "country": "JP",
+  "score_anilist": 51,
+  "popularity": 518,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7771.jpg",
+    "poster_color": "#864328",
+    "banner": "https://image.tmdb.org/t/p/original/AivHL36jHomRYCyqBQ1YguTgq9Z.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/6wHxf9UniQg6JgPV5A3xbFRujte.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/AivHL36jHomRYCyqBQ1YguTgq9Z.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7771.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T08:42:16.217Z",
+  "cache_version": 1
+}
