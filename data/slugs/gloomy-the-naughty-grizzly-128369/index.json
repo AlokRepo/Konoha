@@ -1,0 +1,88 @@
+{
+  "ids": {
+    "anilist": 128369,
+    "mal": 45587,
+    "anidb": 15957,
+    "tmdb": 122475,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Itazura Guma no Gloomy",
+    "english": "GLOOMY THE NAUGHTY GRIZZLY",
+    "native": "いたずらぐまのグル～ミ～",
+    "synonyms": [
+      "Gloomy Bear"
+    ],
+    "tmdb_title": "GLOOMY The Naughty Grizzly"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2021,
+  "episodes": 12,
+  "duration": 1,
+  "start_date": {
+    "year": 2021,
+    "month": 4,
+    "day": 12
+  },
+  "end_date": {
+    "year": 2021,
+    "month": 6,
+    "day": 28
+  },
+  "description": "GLOOMY is Pity’s pet bear. He’s a little over 6 feet and weighs as much as 2000 pomegranates. He’s well trained for the most part, but he can never remember that he’s not supposed to attack humans. Still, a pet owner must take ultimate responsibility for his pets. Recalling warm memories of GLOOMY as a cute bear cub, Pity tries to lead a life of peaceful co-existence with his pet bear.<br>\n<br>\n(Source: Crunchyroll)",
+  "genres": [
+    "Comedy",
+    "Horror",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Surreal Comedy",
+    "Animals",
+    "Gore",
+    "Episodic"
+  ],
+  "studios": [
+    "NAZ"
+  ],
+  "producers": [
+    "Sonilude"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 48,
+  "popularity": 3423,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128369-a4OaoPGT8ZFP.jpg",
+    "poster_color": "#ff3593",
+    "banner": "https://image.tmdb.org/t/p/original/sfHu8doVb1TQ0YbWyfSOY4sHxkO.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/pS1rfiDNW5yti5Kg9w2fLGuk8Dz.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/sfHu8doVb1TQ0YbWyfSOY4sHxkO.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128369-a4OaoPGT8ZFP.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/gloomy-the-naughty-grizzly"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JjzQ-eGW-h4zyWbEhdM2wiJ"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T05:29:15.515Z",
+  "cache_version": 1
+}
