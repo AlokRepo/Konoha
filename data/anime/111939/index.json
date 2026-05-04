@@ -1,0 +1,70 @@
+{
+  "ids": {
+    "anilist": 111939,
+    "mal": 39936,
+    "anidb": 14637,
+    "tmdb": 68506,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Nezha Chuan Qi",
+    "english": "The Legend of Nezha",
+    "native": "哪吒传奇",
+    "synonyms": [
+      "Legenda Nezha"
+    ],
+    "tmdb_title": "The Legend of Nezha"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "episodes": 52,
+  "duration": 22,
+  "start_date": {
+    "year": 2003,
+    "month": 6,
+    "day": 1
+  },
+  "end_date": {
+    "year": 2004,
+    "month": 7,
+    "day": null
+  },
+  "description": "The Legend of Nezha narrative: The story of Nezha, the heavenly boy who was born bare, very mischievous, but the temperament, the mentality of goodness, always towards the righteous. With powerful martial arts and magic, he tried to bring peaceful life for the people in the time of raging evil.",
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Supernatural"
+  ],
+  "tags": [],
+  "studios": [
+    "CCTV Animation"
+  ],
+  "producers": [],
+  "source": "OTHER",
+  "country": "CN",
+  "score_anilist": 53,
+  "popularity": 250,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx111939-x5BK4fxoKtnw.jpg",
+    "poster_color": "#f1ae1a",
+    "banner": "https://image.tmdb.org/t/p/original/hRHzVxiUmsHJvNK9nMBG3Xydyyb.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/y4jF5ZVJv0pAiasXAVFype0wD4P.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/hRHzVxiUmsHJvNK9nMBG3Xydyyb.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx111939-x5BK4fxoKtnw.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T05:00:24.361Z",
+  "cache_version": 1
+}

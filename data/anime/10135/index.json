@@ -1,0 +1,63 @@
+{
+  "ids": {
+    "anilist": 10135,
+    "mal": 10135,
+    "anidb": 6300,
+    "tmdb": 204833,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Manga Hajimete Monogatari",
+    "english": null,
+    "native": "まんがはじめて物語",
+    "synonyms": [],
+    "tmdb_title": "Manga Hajimete Monogatari"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 1978,
+  "episodes": 305,
+  "duration": 25,
+  "start_date": {
+    "year": 1978,
+    "month": 5,
+    "day": 6
+  },
+  "end_date": {
+    "year": 1984,
+    "month": 3,
+    "day": 31
+  },
+  "genres": [
+    "Adventure",
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "country": "JP",
+  "popularity": 243,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10135.jpg",
+    "poster_color": "#ffe443",
+    "banner": "https://image.tmdb.org/t/p/original/zO1dI6ZW1KRIsi4gmwkhXRQWLOU.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/unGVjYNOaYXOXwAa9O3ibc2x8pZ.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/zO1dI6ZW1KRIsi4gmwkhXRQWLOU.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10135.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T05:01:08.490Z",
+  "cache_version": 1
+}

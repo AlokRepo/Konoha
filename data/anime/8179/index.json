@@ -1,0 +1,72 @@
+{
+  "ids": {
+    "anilist": 8179,
+    "mal": 8179,
+    "anidb": 7338,
+    "tmdb": 206483,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Eagle Sam",
+    "english": null,
+    "native": "イーグルサム",
+    "synonyms": [
+      "Sam the Olympic Eagle"
+    ],
+    "tmdb_title": "Eagle Sam"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 1983,
+  "episodes": 51,
+  "duration": 25,
+  "start_date": {
+    "year": 1983,
+    "month": 4,
+    "day": 7
+  },
+  "end_date": {
+    "year": 1984,
+    "month": 3,
+    "day": 29
+  },
+  "description": "An anime made in the runup to the 1984 Olympics in Los Angeles, featuring Olympic mascot Sam the Olympic Eagle.",
+  "genres": [
+    "Comedy",
+    "Sports"
+  ],
+  "tags": [
+    "Foreign",
+    "Animals"
+  ],
+  "studios": [],
+  "producers": [
+    "DAX Production"
+  ],
+  "country": "JP",
+  "score_anilist": 40,
+  "popularity": 271,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8179.jpg",
+    "poster_color": "#f1bb1a",
+    "banner": "https://image.tmdb.org/t/p/original/ddvtTY4oVQVJIXGNyvBefjCP1ra.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/owI4I2a7pIiXDFpQvVrXJbAyV63.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/ddvtTY4oVQVJIXGNyvBefjCP1ra.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8179.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T04:58:45.808Z",
+  "cache_version": 1
+}
