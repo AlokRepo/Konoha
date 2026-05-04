@@ -1,0 +1,78 @@
+{
+  "ids": {
+    "anilist": 133510,
+    "mal": 49184,
+    "anidb": 16416,
+    "tmdb": 133306,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "GUNMACHAN",
+    "english": "GUNMACHAN",
+    "native": "ぐんまちゃん",
+    "synonyms": [
+      "Gunma-chan",
+      "Gunma Chan"
+    ],
+    "tmdb_title": "Gunma Chan"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2021,
+  "episodes": 13,
+  "duration": 24,
+  "start_date": {
+    "year": 2021,
+    "month": 10,
+    "day": 3
+  },
+  "end_date": {
+    "year": 2021,
+    "month": 12,
+    "day": 26
+  },
+  "description": "An anime series based on the Gunma prefecture mascot character, Gunma-chan. <br><br>\nThis is Hiragana Gunma--a strange place that exists somewhere in the world.<br><br>\nWhile it may be strange, it's also a place of kindness and warmth. Just as there are many different people around you, we see many kinds of strange residents here as well. What might Gunma-chan be up to here in Hiragana Gunma?<br><br>\n(Source: Crunchyroll)\n",
+  "genres": [
+    "Slice of Life"
+  ],
+  "tags": [
+    "Kids",
+    "Super Robot"
+  ],
+  "studios": [
+    "Ascension"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 53,
+  "popularity": 469,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b133510-sCZf52CUxXvr.png",
+    "poster_color": "#e4c950",
+    "banner": "https://image.tmdb.org/t/p/original/8gm9QbitX5CY0IXEOP8OlBybrOX.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/bTkGeX9p1Qsk7T6d3fUhFh5gwQh.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/8gm9QbitX5CY0IXEOP8OlBybrOX.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b133510-sCZf52CUxXvr.png"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/series/GDKHZEPP3/gunma-chan"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 120,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T04:40:03.662Z",
+  "cache_version": 1
+}
