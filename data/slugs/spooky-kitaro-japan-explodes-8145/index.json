@@ -1,0 +1,69 @@
+{
+  "ids": {
+    "anilist": 8145,
+    "mal": 8145,
+    "anidb": 7163,
+    "tmdb": 450999,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Gegege no Kitarou: Nippon Bakuretsu",
+    "english": "Spooky Kitaro: Japan Explodes!!",
+    "native": "劇場版 ゲゲゲの鬼太郎 日本爆裂!!",
+    "synonyms": [],
+    "tmdb_title": "Spooky Kitaro: Japan Explodes!!"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2008,
+  "episodes": 1,
+  "duration": 83,
+  "start_date": {
+    "year": 2008,
+    "month": 12,
+    "day": 20
+  },
+  "end_date": {
+    "year": 2008,
+    "month": 12,
+    "day": 20
+  },
+  "description": "Movie based on the 2007 TV anime with an original plot.",
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Horror",
+    "Supernatural"
+  ],
+  "tags": [
+    "Youkai"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [],
+  "country": "JP",
+  "score_anilist": 63,
+  "popularity": 541,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8145.jpg",
+    "poster_color": "#50bbe4",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/5PetjD5gfgA1N7buxckFVNJwvuX.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8145.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T08:39:33.147Z",
+  "cache_version": 1
+}

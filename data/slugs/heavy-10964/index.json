@@ -1,0 +1,66 @@
+{
+  "ids": {
+    "anilist": 10964,
+    "mal": 10964,
+    "anidb": 5230,
+    "tmdb": 588106,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Heavy",
+    "english": null,
+    "native": "ヘヴィ",
+    "synonyms": [],
+    "tmdb_title": "Heavy"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 1990,
+  "episodes": 1,
+  "duration": 50,
+  "start_date": {
+    "year": 1990,
+    "month": 4,
+    "day": 14
+  },
+  "end_date": {
+    "year": 1990,
+    "month": 4,
+    "day": 14
+  },
+  "description": "Gai, a karate expert in the New York slum, is trained to be a boxing champion by a cancer-strucken doctor and a transvestite suffering from AIDS. Based on the manga by Motoka Murakami.",
+  "genres": [
+    "Action",
+    "Drama",
+    "Sports"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 49,
+  "popularity": 538,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10964.jpg",
+    "poster_color": "#d67850",
+    "banner": "https://image.tmdb.org/t/p/original/2IKgSV4Ptcc3NA4c5mZVj5rNZr5.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/lpDPuk5DPWpNUSiDzxcCxuvTmGq.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/2IKgSV4Ptcc3NA4c5mZVj5rNZr5.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10964.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T08:40:00.136Z",
+  "cache_version": 1
+}
