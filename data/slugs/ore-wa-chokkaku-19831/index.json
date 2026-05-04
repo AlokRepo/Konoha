@@ -1,0 +1,62 @@
+{
+  "ids": {
+    "anilist": 19831,
+    "mal": 19831,
+    "anidb": 7334,
+    "tmdb": 278990,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Ore wa Chokkaku",
+    "english": null,
+    "native": "おれは直角",
+    "synonyms": [],
+    "tmdb_title": "おれは直角"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 1991,
+  "episodes": 36,
+  "duration": 23,
+  "start_date": {
+    "year": 1991,
+    "month": 1,
+    "day": 5
+  },
+  "end_date": {
+    "year": 1991,
+    "month": 10,
+    "day": 12
+  },
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 60,
+  "popularity": 295,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19831.jpg",
+    "poster_color": "#ff436b",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/vKrexhWjN3MA8y50l825kkuLZbN.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19831.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T04:57:24.012Z",
+  "cache_version": 1
+}

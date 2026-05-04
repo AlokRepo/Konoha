@@ -1,0 +1,75 @@
+{
+  "ids": {
+    "anilist": 12897,
+    "mal": 12897,
+    "anidb": 1882,
+    "tmdb": 203814,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Uchuu Patrol Hopper",
+    "english": null,
+    "native": "宇宙パトロールホッパ",
+    "synonyms": [
+      "Space Patrol Hopper: Space Boy Jun",
+      "Uchuu Patrol Hopper Uchuukko Jun"
+    ],
+    "tmdb_title": "Space Patrol Hopper"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 1965,
+  "episodes": 44,
+  "duration": 25,
+  "start_date": {
+    "year": 1965,
+    "month": 2,
+    "day": 1
+  },
+  "end_date": {
+    "year": 1965,
+    "month": 11,
+    "day": 29
+  },
+  "description": "After an alien attack, a boy named Jun is rescued by aliens who give him super powers and recruit him into the Space Patrol. The series was renamed Patrol Hopper Uchukko Jun for the final 18 episodes. <br><br>\n(Source: AniDB) ",
+  "genres": [
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Space",
+    "Achromatic",
+    "Kids"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 42,
+  "popularity": 298,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12897-uZXF5WmBGUjR.png",
+    "poster_color": "#e44343",
+    "banner": "https://image.tmdb.org/t/p/original/3GyYsEuy4EweA8XVo16qFCPo93i.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/wvnOD0o1aY6q4KV7CPAjzi7zG3N.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/3GyYsEuy4EweA8XVo16qFCPo93i.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12897-uZXF5WmBGUjR.png"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 138,
+  "match_signals": [
+    "english_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T04:57:02.606Z",
+  "cache_version": 1
+}

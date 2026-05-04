@@ -1,0 +1,68 @@
+{
+  "ids": {
+    "anilist": 20147,
+    "mal": 20147,
+    "anidb": 2345,
+    "tmdb": 204671,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Robokko Beeton",
+    "english": null,
+    "native": "ろぼっ子ビートン",
+    "synonyms": [
+      "Robot Child Beeton"
+    ],
+    "tmdb_title": "ろぼっ子ビートン"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 1976,
+  "episodes": 50,
+  "duration": 25,
+  "start_date": {
+    "year": 1976,
+    "month": 10,
+    "day": 12
+  },
+  "end_date": {
+    "year": 1977,
+    "month": 9,
+    "day": 27
+  },
+  "description": "When a boy's uncle sends him confusing plans for a robot from America, the boy makes a mistake in the assembly which leads to unexpected results.",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Slice of Life"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "country": "JP",
+  "score_anilist": 51,
+  "popularity": 291,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20147.jpg",
+    "poster_color": "#d6931a",
+    "banner": "https://image.tmdb.org/t/p/original/98aUGLMejcFPfRsHkmV5OOCm6Sd.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/3FBFxDMV7RS83rRcEP2cxdcAcj1.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/98aUGLMejcFPfRsHkmV5OOCm6Sd.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20147.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T04:57:53.850Z",
+  "cache_version": 1
+}

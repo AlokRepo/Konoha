@@ -1,0 +1,74 @@
+{
+  "ids": {
+    "anilist": 16159,
+    "mal": 16159,
+    "anidb": 1776,
+    "tmdb": 203665,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Mirai Kara Kita Shounen Super Jetter",
+    "english": null,
+    "native": "未来から来た少年 スーパージェッター",
+    "synonyms": [],
+    "tmdb_title": "未来からきた少年 スーパージェッター"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 1965,
+  "episodes": 52,
+  "duration": 25,
+  "start_date": {
+    "year": 1965,
+    "month": 1,
+    "day": 7
+  },
+  "end_date": {
+    "year": 1966,
+    "month": 1,
+    "day": 20
+  },
+  "description": "A time patroller from the 30th century goes back to the 20th century to stop a meteor from destroying the world.<br><br>\nNote: The final 26 episodes are in color.",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Super Power",
+    "Achromatic",
+    "Time Manipulation"
+  ],
+  "studios": [],
+  "producers": [
+    "TBS",
+    "TCJ"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 47,
+  "popularity": 327,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b16159-EDXmZx1azpAj.jpg",
+    "poster_color": "#c95d28",
+    "banner": "https://image.tmdb.org/t/p/original/iC3EbDlEXegx8VXdNCmCbgn8Gsc.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/2f34S7gLqKCSXXjO82fa7e7KJ37.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/iC3EbDlEXegx8VXdNCmCbgn8Gsc.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b16159-EDXmZx1azpAj.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T04:54:16.492Z",
+  "cache_version": 1
+}
