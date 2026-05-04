@@ -1,0 +1,75 @@
+{
+  "ids": {
+    "anilist": 21347,
+    "mal": 31549,
+    "anidb": 11550,
+    "tmdb": 93073,
+    "tmdb_type": "tv",
+    "tmdb_season": 1
+  },
+  "titles": {
+    "romaji": "Peeping Life TV: Season 1??",
+    "english": "Peeping Life TV Season 1??",
+    "native": "Peeping Life TV シーズン1??",
+    "synonyms": [],
+    "tmdb_title": "Peeping Life TV"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2015,
+  "episodes": 12,
+  "duration": 24,
+  "start_date": {
+    "year": 2015,
+    "month": 10,
+    "day": 4
+  },
+  "end_date": {
+    "year": 2015,
+    "month": 12,
+    "day": 20
+  },
+  "description": "Slice of life comedy about pitfalls of Japanese society.",
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "tags": [
+    "CGI"
+  ],
+  "studios": [
+    "CoMix Wave"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 49,
+  "popularity": 989,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21347-k7YYaTrbJOG8.jpg",
+    "poster_color": "#e49386",
+    "banner": "https://image.tmdb.org/t/p/original/3sCBDoFalLCAIChuvQbl8OXvjHp.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/qQ2TwbA3uBqXuWOW6zaM7Abf9O4.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/3sCBDoFalLCAIChuvQbl8OXvjHp.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21347-k7YYaTrbJOG8.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/peeping-life-tv-season-1"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 114,
+  "match_signals": [
+    "english_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T04:00:28.425Z",
+  "cache_version": 1
+}
