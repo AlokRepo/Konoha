@@ -4,7 +4,8 @@
     "mal": 393,
     "anidb": 321,
     "tmdb": 16990,
-    "tmdb_type": "movie"
+    "tmdb_type": "movie",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Escaflowne",
@@ -69,7 +70,7 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 66,
-  "popularity": 15300,
+  "popularity": 15317,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx393-KAkauYiiSWGa.jpg",
@@ -79,7 +80,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/aCtOsEn8XwksH7njSSAXJABk7bl.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx393-KAkauYiiSWGa.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-275603"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 130,
@@ -89,6 +95,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T07:47:49.732Z",
+  "cached_at": "2026-05-04T17:50:51.220Z",
   "cache_version": 1
 }

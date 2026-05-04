@@ -4,7 +4,8 @@
     "mal": 46,
     "anidb": 422,
     "tmdb": 39977,
-    "tmdb_type": "movie"
+    "tmdb_type": "movie",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Rurouni Kenshin: Meiji Kenkaku Romantan - Ishinshishi e no Requiem",
@@ -62,8 +63,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 71,
-  "popularity": 8823,
-  "trending": 1,
+  "popularity": 8837,
+  "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx46-Steq4sQpA6fq.png",
     "poster_color": "#0d5078",
@@ -87,6 +88,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T09:04:44.183Z",
+  "cached_at": "2026-05-04T18:07:14.596Z",
   "cache_version": 1
 }

@@ -4,7 +4,8 @@
     "mal": 430,
     "anidb": 2359,
     "tmdb": 14003,
-    "tmdb_type": "movie"
+    "tmdb_type": "movie",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Hagane no Renkinjutsushi: Shamballa wo Yuku Mono",
@@ -65,8 +66,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 70,
-  "popularity": 53621,
-  "trending": 1,
+  "popularity": 53660,
+  "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx430-Fx7lVxpcwArH.jpg",
     "poster_color": "#e4bb5d",
@@ -94,6 +95,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T05:04:39.409Z",
+  "cached_at": "2026-05-04T17:04:53.793Z",
   "cache_version": 1
 }
