@@ -65,8 +65,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 66,
-  "popularity": 7177,
-  "trending": 0,
+  "popularity": 7187,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1760-PmH18u0MQNPB.jpg",
     "poster_color": "#e4a15d",
@@ -75,7 +75,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/yH36l9jTeeY69clGiPgtORQRZnG.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1760-PmH18u0MQNPB.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/golgo-13"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 130,
@@ -85,6 +90,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T09:33:51.970Z",
+  "cached_at": "2026-05-04T18:13:12.968Z",
   "cache_version": 1
 }
