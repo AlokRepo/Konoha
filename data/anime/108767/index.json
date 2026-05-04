@@ -1,0 +1,76 @@
+{
+  "ids": {
+    "anilist": 108767,
+    "mal": 39277,
+    "anidb": 14687,
+    "tmdb": 100019,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Youkai Watch!",
+    "english": null,
+    "native": "妖怪ウォッチ!",
+    "synonyms": [
+      "妖怪ウォッチ (2019)",
+      "Youkai Watch (2019)",
+      "YO-KAI WATCH!"
+    ],
+    "tmdb_title": "Yo-kai Watch!"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2019,
+  "episodes": 36,
+  "duration": 24,
+  "start_date": {
+    "year": 2019,
+    "month": 4,
+    "day": 5
+  },
+  "end_date": {
+    "year": 2019,
+    "month": 12,
+    "day": 20
+  },
+  "description": "A new season of Youkai Watch focusing on elementary schooler Keita Amano again. The events take place right after the original season; but still chronologically occur before the now complete Shadow Side events as they take place 30 years in the future.",
+  "genres": [
+    "Comedy",
+    "Supernatural"
+  ],
+  "tags": [
+    "Youkai"
+  ],
+  "studios": [
+    "OLM",
+    "Magic Bus"
+  ],
+  "producers": [],
+  "source": "VIDEO_GAME",
+  "country": "JP",
+  "score_anilist": 64,
+  "popularity": 2193,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108767-tv9Ue8vEhwc2.jpg",
+    "poster_color": "#f1bb5d",
+    "banner": "https://image.tmdb.org/t/p/original/nTG4hwa7PyJaQdFOlj4swjRc2MZ.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/7DG3cKqzdrEmdheVsMnICqVkRvd.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/nTG4hwa7PyJaQdFOlj4swjRc2MZ.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108767-tv9Ue8vEhwc2.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T03:08:27.138Z",
+  "cache_version": 1
+}
