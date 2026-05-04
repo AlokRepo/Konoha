@@ -4,7 +4,8 @@
     "mal": 59174,
     "anidb": 18720,
     "tmdb": 1310387,
-    "tmdb_type": "movie"
+    "tmdb_type": "movie",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Mahouka Koukou no Rettousei: Yotsuba Keishou-hen",
@@ -20,6 +21,8 @@
   "status": "NOT_YET_RELEASED",
   "season": "SPRING",
   "season_year": 2026,
+  "episodes": 1,
+  "duration": 103,
   "start_date": {
     "year": 2026,
     "month": 5,
@@ -53,8 +56,8 @@
   ],
   "source": "LIGHT_NOVEL",
   "country": "JP",
-  "popularity": 14184,
-  "trending": 0,
+  "popularity": 14248,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178707-Ys8zvR7BLECi.jpg",
     "poster_color": "#5086e4",
@@ -72,6 +75,6 @@
     "year_match",
     "format_match"
   ],
-  "cached_at": "2026-05-03T07:57:57.782Z",
+  "cached_at": "2026-05-04T17:53:33.705Z",
   "cache_version": 1
 }
