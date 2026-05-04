@@ -1,0 +1,80 @@
+{
+  "ids": {
+    "anilist": 2460,
+    "mal": 2460,
+    "anidb": 491,
+    "tmdb": 301515,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Maison Ikkoku: Kanketsu-hen",
+    "english": "Maison Ikkoku: Final Chapter",
+    "native": "めぞん一刻 完結篇",
+    "synonyms": [
+      "Maison Ikkoku: Kanketsuhen",
+      "相聚一刻 完结篇"
+    ],
+    "tmdb_title": "Maison Ikkoku: The Final Chapter"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 1988,
+  "episodes": 1,
+  "duration": 66,
+  "start_date": {
+    "year": 1988,
+    "month": 2,
+    "day": 6
+  },
+  "end_date": {
+    "year": 1988,
+    "month": 2,
+    "day": 6
+  },
+  "description": "Taking place after the tv-series, this movie tells the story of what happened with Godai, Kyoko and the tenants after the TV series ended (don't take the last episode in account, since that is a summary of what will come). <br>",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "tags": [
+    "Seinen",
+    "Male Protagonist"
+  ],
+  "studios": [
+    "Ajiado"
+  ],
+  "producers": [
+    "Kitty Film"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 67,
+  "popularity": 2775,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2460.jpg",
+    "poster_color": "#f1c928",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n2460-VxxCPZ6SmcqT.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/edSbuDyRTWy5UoH2XdL6ZMptiT3.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/okBpMxsF1UD77xsxymxZ8IDLCMV.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2460.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md2506"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 100,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T07:28:09.779Z",
+  "cache_version": 1
+}
