@@ -71,8 +71,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 83,
-  "popularity": 85780,
-  "trending": 4,
+  "popularity": 85848,
+  "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9617-Z2RA1TIkcNEg.png",
     "poster_color": "#a18628",
@@ -85,6 +85,10 @@
     {
       "site": "HIDIVE",
       "url": "https://www.hidive.com/movies/k-on-the-movie"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-280851"
     }
   ],
   "themes": [],
@@ -96,6 +100,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T10:38:12.844Z",
+  "cached_at": "2026-05-04T16:59:45.561Z",
   "cache_version": 1
 }
