@@ -1,0 +1,83 @@
+{
+  "ids": {
+    "anilist": 20700,
+    "mal": 22733,
+    "anidb": 10443,
+    "tmdb": 156331,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Dragon Collection",
+    "english": "DRAGON COLLECTION",
+    "native": "ドラゴンコレクション",
+    "synonyms": [],
+    "tmdb_title": "Dragon Collection"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2014,
+  "episodes": 51,
+  "duration": 12,
+  "start_date": {
+    "year": 2014,
+    "month": 4,
+    "day": 7
+  },
+  "end_date": {
+    "year": 2015,
+    "month": 3,
+    "day": 30
+  },
+  "description": "Arata was just your normal high-schooler, until one day when things started to move. He gets entangled in a phone game called \"Dragon Collection.\" With his only redeeming quality being lucky, what can he do about conquering the World?<br>\r\n<br>\r\n(Source: Shoujo-Sense)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [
+    "Card Battle",
+    "Kids",
+    "Male Protagonist",
+    "Dragons",
+    "Isekai"
+  ],
+  "studios": [
+    "OLM"
+  ],
+  "producers": [
+    "Konami"
+  ],
+  "source": "VIDEO_GAME",
+  "country": "JP",
+  "score_anilist": 57,
+  "popularity": 1411,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20700-Qih8DyAraert.jpg",
+    "poster_color": "#f19350",
+    "banner": "https://image.tmdb.org/t/p/original/cCk7YPiVRzJ6mw180xnZWf4xk96.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/sYdZfzTn0iG3XHIJpI8t7gD0ytK.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/cCk7YPiVRzJ6mw180xnZWf4xk96.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20700-Qih8DyAraert.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/dragon-collection"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T05:48:22.120Z",
+  "cache_version": 1
+}

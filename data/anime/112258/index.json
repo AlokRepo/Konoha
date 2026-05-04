@@ -1,0 +1,78 @@
+{
+  "ids": {
+    "anilist": 112258,
+    "mal": 40473,
+    "anidb": 15029,
+    "tmdb": 103180,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Chou Futsuu Toshi Kashiwa Densetsu R",
+    "english": null,
+    "native": "超普通都市カシワ伝説R",
+    "synonyms": [
+      "The Legend of Super Normal City Kashiwa R"
+    ],
+    "tmdb_title": "Chou Futsuu Toshi Kashiwa Densetsu"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 2020,
+  "episodes": 10,
+  "duration": 5,
+  "start_date": {
+    "year": 2020,
+    "month": 7,
+    "day": 6
+  },
+  "end_date": {
+    "year": 2020,
+    "month": 9,
+    "day": 28
+  },
+  "description": "A surreal gag anime about female junior high school students who along with mysterious creatures attend a junior high school set in the real Kashiwa town, together loosely conveying the charm of Kashiwa with contents related to the town and its events.",
+  "genres": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "tags": [
+    "Surreal Comedy",
+    "Parody",
+    "School"
+  ],
+  "studios": [
+    "Super Normal Studio"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 41,
+  "popularity": 1701,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112258-euCskvIy0fix.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/c2sJTqtYrJbQuXe7QNP4ohVExjl.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/ubVOOenxR4cNSKnEhDfumAZAE6Q.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/c2sJTqtYrJbQuXe7QNP4ohVExjl.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112258-euCskvIy0fix.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLjA4aVnZl7mgydj6ft4BgndDSdGCRYvsi"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 113,
+  "match_signals": [
+    "english_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T05:45:37.884Z",
+  "cache_version": 1
+}

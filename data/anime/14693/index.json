@@ -1,0 +1,86 @@
+{
+  "ids": {
+    "anilist": 14693,
+    "mal": 14693,
+    "anidb": 9260,
+    "tmdb": 45306,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Yurumates 3D PLUS",
+    "english": null,
+    "native": "ゆるめいつ3でぃPLUS",
+    "synonyms": [
+      "Yurumeitsu 3D+",
+      "Yurumate3Dei",
+      "Yurumates3Dei Plus"
+    ],
+    "tmdb_title": "Yurumates3Dei"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 2012,
+  "episodes": 13,
+  "duration": 3,
+  "start_date": {
+    "year": 2012,
+    "month": 7,
+    "day": 3
+  },
+  "end_date": {
+    "year": 2012,
+    "month": 9,
+    "day": 25
+  },
+  "description": "The continuation of Yurumates 3D right after the first season. ",
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Seinen",
+    "Female Protagonist",
+    "Primarily Adult Cast",
+    "Iyashikei"
+  ],
+  "studios": [
+    "C2C"
+  ],
+  "producers": [
+    "DAX Production",
+    "Right Gauge",
+    "Dwango Music Entertainment"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 58,
+  "popularity": 1556,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/14693.jpg",
+    "poster_color": "#7850e4",
+    "banner": "https://image.tmdb.org/t/p/original/ik7xX1ocO43SaqmfXnlqtabUd96.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/1C3mOVd3Ck1GpoQ86C3SRR1OjjT.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/ik7xX1ocO43SaqmfXnlqtabUd96.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/14693.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/yurumates3dei"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 110,
+  "match_signals": [
+    "english_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T05:46:43.501Z",
+  "cache_version": 1
+}

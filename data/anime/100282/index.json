@@ -1,0 +1,77 @@
+{
+  "ids": {
+    "anilist": 100282,
+    "mal": 36166,
+    "anidb": 13398,
+    "tmdb": 200932,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Fireball Humorous",
+    "english": "Fireball Humorous",
+    "native": "ファイアボール ユーモラス",
+    "synonyms": [
+      "파이어볼 유어러스"
+    ],
+    "tmdb_title": "Fireball Humorous"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2017,
+  "episodes": 3,
+  "duration": 3,
+  "start_date": {
+    "year": 2017,
+    "month": 10,
+    "day": 6
+  },
+  "end_date": {
+    "year": 2017,
+    "month": 12,
+    "day": 18
+  },
+  "description": "On an ordinary planet in the distant future. Humans have long been at war with the mechanical aristocrats called \"Hyperion.\" This is the story of Drossel, a Hyperion and the daughter of the Duke von Flügel, and her butler Gedächtnis in the Tower of Tempest, isolated from the outside world. Their daily tasks revolve around managing problems that occur in their high-rising castle-tower while awaiting the day the stars realign themselves.<br><br>\n(Source: Disney+)",
+  "genres": [
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "tags": [],
+  "studios": [
+    "Jinni's Animation Studio"
+  ],
+  "producers": [
+    "Walt Disney Studios"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 54,
+  "popularity": 1390,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/100282-vLo96yvYezTW.jpg",
+    "poster_color": "#e45d43",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/100282-BNO3i0ZfCNpi.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/vNmmT2iiSMc8YvoXTHvFFYeZsdD.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/fVefHBKRdOMCRE9xLecwErqHU0u.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/100282-vLo96yvYezTW.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Disney Plus",
+      "url": "https://www.disneyplus.com/en-jp/browse/entity-420d7888-b13c-4089-b48a-2705b2574178"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T05:48:29.996Z",
+  "cache_version": 1
+}
