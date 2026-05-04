@@ -4,7 +4,8 @@
     "mal": 1118,
     "anidb": 992,
     "tmdb": 10991,
-    "tmdb_type": "movie"
+    "tmdb_type": "movie",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Pocket Monsters: Kesshoutou no Teiou ENTEI",
@@ -59,8 +60,8 @@
   "source": "VIDEO_GAME",
   "country": "JP",
   "score_anilist": 68,
-  "popularity": 41221,
-  "trending": 0,
+  "popularity": 41248,
+  "trending": 3,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx1118-90hGoWgDV1k4.jpg",
     "poster_color": "#1aaed6",
@@ -79,6 +80,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T05:34:29.796Z",
+  "cached_at": "2026-05-04T17:10:55.453Z",
   "cache_version": 1
 }
