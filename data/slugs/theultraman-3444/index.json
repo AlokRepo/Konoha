@@ -1,0 +1,78 @@
+{
+  "ids": {
+    "anilist": 3444,
+    "mal": 3444,
+    "anidb": 2347,
+    "tmdb": 6218,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "The☆Ultraman",
+    "english": null,
+    "native": "ザ☆ウルトラマン",
+    "synonyms": [
+      "Ultraman Jonias",
+      "Ultraman Joe"
+    ],
+    "tmdb_title": "The Ultraman"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 1979,
+  "episodes": 50,
+  "duration": 25,
+  "start_date": {
+    "year": 1979,
+    "month": 4,
+    "day": 4
+  },
+  "end_date": {
+    "year": 1980,
+    "month": 3,
+    "day": 26
+  },
+  "description": "The first animated Ultraman series.",
+  "genres": [
+    "Action",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Super Power",
+    "Tokusatsu"
+  ],
+  "studios": [
+    "Tsuburaya Productions",
+    "Sunrise"
+  ],
+  "producers": [
+    "TBS"
+  ],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 60,
+  "popularity": 1406,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3444-8dXzcjNcyDpL.png",
+    "poster_color": "#e47828",
+    "banner": "https://image.tmdb.org/t/p/original/6lTTB1rvMZOMJAVgr5IKz3eke2i.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/w2S4zqlhxDepJ5yE7wTUKk3bXkW.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/6lTTB1rvMZOMJAVgr5IKz3eke2i.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3444-8dXzcjNcyDpL.png"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T03:40:50.487Z",
+  "cache_version": 1
+}

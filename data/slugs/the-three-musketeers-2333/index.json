@@ -1,0 +1,101 @@
+{
+  "ids": {
+    "anilist": 2333,
+    "mal": 2333,
+    "anidb": 1962,
+    "tmdb": 20784,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Anime Sanjuushi",
+    "english": "The Three Musketeers",
+    "native": "アニメ三銃士",
+    "synonyms": [
+      "Three Musketeers",
+      "Animated Three Musketeers",
+      "Anime San Jushi"
+    ],
+    "tmdb_title": "The Three Musketeers: Adventure of Aramis"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 1987,
+  "episodes": 52,
+  "duration": 25,
+  "start_date": {
+    "year": 1987,
+    "month": 10,
+    "day": 9
+  },
+  "end_date": {
+    "year": 1989,
+    "month": 2,
+    "day": 17
+  },
+  "description": "The Three Musketeers: The year is 1625. The young D'Artagnan arrives in Paris at the tender age of 18, and almost immediately offends three musketeers, Porthos, Aramis, and Athos. Instead of dueling, the four are attacked by five of the Cardinal's guards, and the courage of the youth is made apparent during the battle. The four become fast friends and embark upon an adventure that takes them across both France and England in order to thwart the plans of the Cardinal Richelieu. Along the way, they encounter a beautiful young spy, named simply Milady, who will stop at nothing to disgrace Queen Anne of Austria before her husband, Louis XIII, and take her revenge upon the four friends.<br><br>\n(Source: AniDB)",
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "Historical",
+    "Classic Literature",
+    "Foreign",
+    "Male Protagonist",
+    "Politics",
+    "Animals",
+    "Slapstick",
+    "Swordplay",
+    "Royal Affairs",
+    "Conspiracy",
+    "Estranged Family",
+    "Guns",
+    "Travel",
+    "Heterosexual"
+  ],
+  "studios": [
+    "Studio Gallop"
+  ],
+  "producers": [
+    "Gakken",
+    "NHK Enterprises",
+    "KORAD"
+  ],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 65,
+  "popularity": 1598,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2333.jpg",
+    "poster_color": "#e4865d",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2333-zljD8QAJsQAk.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/zKf8p6rEd51exXFwoE1sID9ItG6.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/oiWMc9dxHekyZ3WLQ8QtJcD1hbv.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2333.jpg"
+  },
+  "streaming": [
+    {
+      "site": "RetroCrush",
+      "url": "https://www.retrocrush.tv/series/014838s/the-three-musketeers"
+    },
+    {
+      "site": "AsianCrush",
+      "url": "https://www.asiancrush.com/details/DMR00015306/Three-Musketeers"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 100,
+  "match_signals": [
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T03:32:12.869Z",
+  "cache_version": 1
+}

@@ -1,0 +1,81 @@
+{
+  "ids": {
+    "anilist": 1769,
+    "mal": 1769,
+    "anidb": 544,
+    "tmdb": 34087,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "OH! Super Milk-Chan",
+    "english": "The Super Milk-Chan Show",
+    "native": "OH! スーパーミルクチャン",
+    "synonyms": [],
+    "tmdb_title": "The Super Milk-Chan Show"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2000,
+  "episodes": 12,
+  "duration": 21,
+  "start_date": {
+    "year": 2000,
+    "month": 1,
+    "day": 27
+  },
+  "end_date": {
+    "year": 2000,
+    "month": 4,
+    "day": 13
+  },
+  "description": "Milk-chan is a drooling, potty-mouthed baby who lives in an apartment with an obsolete robot named Tetsuko, a slug named Hanage, and an uncontrollable pet named Robodog. Whenever the President calls, Milk-chan and the gang rush to the scene to solve any type of problem - whether it's stopping a money counterfeiter hungry for Belgian waffles or counselling a school of drunk fish. At the same time, they have to avoid a nagging landlord, as they're six months behind their rent.\n<br><br>\n(Source: Anime News Network)",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Parody",
+    "Surreal Comedy",
+    "Robots",
+    "Female Protagonist"
+  ],
+  "studios": [
+    "Studio Pierrot"
+  ],
+  "producers": [
+    "Pioneer LDC"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 59,
+  "popularity": 1735,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1769-MGY3oe7BBpD0.jpg",
+    "poster_color": "#f15d6b",
+    "banner": "https://image.tmdb.org/t/p/original/9ogk7c4swE7jz6RkaHUFWA2zWkm.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/b0MLxN9GcmBelwvoPwFQnRyVTKj.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/9ogk7c4swE7jz6RkaHUFWA2zWkm.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1769-MGY3oe7BBpD0.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/super-milk-chan-flash"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 100,
+  "match_signals": [
+    "exact_title",
+    "season_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T03:24:48.018Z",
+  "cache_version": 1
+}
