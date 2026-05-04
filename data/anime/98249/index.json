@@ -4,7 +4,8 @@
     "mal": 34792,
     "anidb": 12738,
     "tmdb": 436120,
-    "tmdb_type": "movie"
+    "tmdb_type": "movie",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Yoake Tsugeru Lu no Uta",
@@ -59,8 +60,8 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 72,
-  "popularity": 21446,
-  "trending": 1,
+  "popularity": 21464,
+  "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98249-5NF3RwYZtc7h.jpg",
     "poster_color": "#f1a135",
@@ -81,6 +82,10 @@
     {
       "site": "Bilibili TV",
       "url": "https://www.bilibili.tv/en/media/35802"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-281241"
     }
   ],
   "themes": [],
@@ -92,6 +97,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T07:00:55.327Z",
+  "cached_at": "2026-05-04T17:43:20.299Z",
   "cache_version": 1
 }

@@ -4,7 +4,8 @@
     "mal": 34430,
     "anidb": 12564,
     "tmdb": 438058,
-    "tmdb_type": "movie"
+    "tmdb_type": "movie",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Meitantei Conan: Kara Kurenai Love Letter",
@@ -77,6 +78,10 @@
     {
       "site": "Netflix",
       "url": "https://www.netflix.com/title/81757605"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-281139"
     }
   ],
   "themes": [],
@@ -88,6 +93,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T09:00:49.256Z",
+  "cached_at": "2026-05-04T18:06:47.268Z",
   "cache_version": 1
 }

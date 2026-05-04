@@ -54,7 +54,7 @@
   "source": "OTHER",
   "country": "JP",
   "score_anilist": 61,
-  "popularity": 3416,
+  "popularity": 3420,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98776-St71l4PsKVX6.jpg",
@@ -64,7 +64,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/sOqM0VKGuhcvugBb78LaMbsmn37.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98776-St71l4PsKVX6.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "Animekey",
+      "url": "https://animekey.tv/apps/458/1555537-1595409/eff64fefc1dc4f07f4d3e85b048324f2-1592555-1635595?mode=details"
+    }
+  ],
   "themes": [],
   "confidence": "MEDIUM",
   "match_score": 105,
@@ -73,6 +78,6 @@
     "year_match",
     "format_match"
   ],
-  "cached_at": "2026-05-04T07:20:53.594Z",
+  "cached_at": "2026-05-04T18:38:27.476Z",
   "cache_version": 1
 }
