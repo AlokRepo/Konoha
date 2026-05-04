@@ -1,0 +1,68 @@
+{
+  "ids": {
+    "anilist": 139727,
+    "mal": 47218,
+    "tmdb": 158894,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Congming De Shunliu",
+    "english": null,
+    "native": "聪明的顺溜",
+    "synonyms": [
+      "Eagle Box"
+    ],
+    "tmdb_title": "聪明的顺溜"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "episodes": 52,
+  "duration": 13,
+  "start_date": {
+    "year": 2016,
+    "month": 3,
+    "day": 7
+  },
+  "end_date": {
+    "year": 2016,
+    "month": null,
+    "day": null
+  },
+  "genres": [
+    "Action"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [
+    "Global Digital Creations"
+  ],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 41,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139727-96nmXsNXf8aE.png",
+    "poster_color": "#e4bb5d",
+    "banner": "https://image.tmdb.org/t/p/original/8Ck5Y0tkLBwyCxVHRgUnp5qcttp.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/3bQio1OXQMeADSIq3egkC5FFczG.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/8Ck5Y0tkLBwyCxVHRgUnp5qcttp.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139727-96nmXsNXf8aE.png"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/t/of05nw1ng74tqtg.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 95,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T06:48:09.243Z",
+  "cache_version": 1
+}

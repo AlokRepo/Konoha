@@ -1,0 +1,65 @@
+{
+  "ids": {
+    "anilist": 129361,
+    "mal": 45359,
+    "tmdb": 195741,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Kuaile Xiao Dongxi",
+    "english": null,
+    "native": "快乐小东西",
+    "synonyms": [
+      "Happy Little Things"
+    ],
+    "tmdb_title": "快乐小东西"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "episodes": 60,
+  "duration": 10,
+  "start_date": {
+    "year": 2010,
+    "month": 4,
+    "day": 8
+  },
+  "end_date": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 47,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b129361-0sHOFhEBohAU.jpg",
+    "poster_color": "#50d6fe",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/ArDZrKo68UwLtFzKQcxLZKtXNxh.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b129361-0sHOFhEBohAU.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/9/9qdosg91vkvbx5z.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T06:47:01.682Z",
+  "cache_version": 1
+}

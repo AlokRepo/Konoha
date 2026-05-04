@@ -1,0 +1,73 @@
+{
+  "ids": {
+    "anilist": 150622,
+    "mal": 41494,
+    "anidb": 14893,
+    "tmdb": 115052,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Fengshen Bang Chuanqi",
+    "english": null,
+    "native": "封神榜传奇",
+    "synonyms": [
+      "金刚哪吒",
+      "Jingang Nezha"
+    ],
+    "tmdb_title": "The Legend of Chinese Gods"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "episodes": 100,
+  "duration": 11,
+  "start_date": {
+    "year": 1999,
+    "month": 7,
+    "day": 5
+  },
+  "end_date": {
+    "year": 2000,
+    "month": null,
+    "day": null
+  },
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Shanghai Animation Film Studio"
+  ],
+  "producers": [],
+  "source": "OTHER",
+  "country": "CN",
+  "popularity": 50,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b150622-okblEPRpSTxp.jpg",
+    "poster_color": "#f1c928",
+    "banner": "https://image.tmdb.org/t/p/original/qcA1RGDdkTkVDoGwtWMwhCPmxcA.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/7cbjoMPJ8gC7mxJW1kZ2Sj4b4gD.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/qcA1RGDdkTkVDoGwtWMwhCPmxcA.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b150622-okblEPRpSTxp.jpg"
+  },
+  "streaming": [
+    {
+      "site": "iQIYI",
+      "url": "https://www.iqiyi.com/a_19rrh7miwt.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 100,
+  "match_signals": [
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T06:46:39.580Z",
+  "cache_version": 1
+}
