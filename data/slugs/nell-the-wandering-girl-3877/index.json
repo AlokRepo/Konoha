@@ -1,0 +1,70 @@
+{
+  "ids": {
+    "anilist": 3877,
+    "mal": 3877,
+    "anidb": 2823,
+    "tmdb": 26399,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Sasurai no Shoujo Nell",
+    "english": "Nell the Wandering Girl",
+    "native": "さすらいの少女ネル",
+    "synonyms": [
+      "Little Nell",
+      "La piccola Nell"
+    ],
+    "tmdb_title": "Nell the Wandering Girl"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 1979,
+  "episodes": 26,
+  "duration": 24,
+  "start_date": {
+    "year": 1979,
+    "month": 10,
+    "day": 25
+  },
+  "end_date": {
+    "year": 1980,
+    "month": 5,
+    "day": 1
+  },
+  "description": "Nell is a young girl living with her grandfather, Mr Trent, the owner of a shop in London. As he couldn't payback a loan he made, he has to flee with Nell. They decide to search for Nell's mother, who is living somewhere in Great Britain...",
+  "genres": [
+    "Adventure"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [
+    "DAX Production"
+  ],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 64,
+  "popularity": 792,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3877.jpg",
+    "poster_color": "#5daee4",
+    "banner": "https://image.tmdb.org/t/p/original/sPpBCWTyQ02piODC5rXLII6us0B.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/oaknvOINdpm2aEDTnRJNpb8xaFe.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/sPpBCWTyQ02piODC5rXLII6us0B.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3877.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T04:14:51.387Z",
+  "cache_version": 1
+}

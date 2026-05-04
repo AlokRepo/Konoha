@@ -1,0 +1,86 @@
+{
+  "ids": {
+    "anilist": 5935,
+    "mal": 5935,
+    "anidb": 3090,
+    "tmdb": 28665,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Animation Kikou: Marco Polo no Bouken",
+    "english": null,
+    "native": "アニメーション紀行 マルコ・ポーロの冒険",
+    "synonyms": [
+      "Animation Kikou Marco Polo",
+      "Animated Travels: Marco Polo's Adventures.",
+      "Le avventure di Marco Polo",
+      "Marco Polo no Boken",
+      "Marco Polo's Adventures"
+    ],
+    "tmdb_title": "Animated Travels: Marco Polo's Adventures"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 1979,
+  "episodes": 43,
+  "duration": 20,
+  "start_date": {
+    "year": 1979,
+    "month": 4,
+    "day": 7
+  },
+  "end_date": {
+    "year": 1980,
+    "month": 4,
+    "day": 5
+  },
+  "description": "Story of Marco Polo.",
+  "genres": [
+    "Adventure"
+  ],
+  "tags": [
+    "Travel",
+    "Biographical",
+    "Classic Literature",
+    "Non-fiction",
+    "Mixed Media",
+    "Foreign",
+    "Coming of Age",
+    "Family Life",
+    "Historical",
+    "Shounen"
+  ],
+  "studios": [
+    "MADHOUSE"
+  ],
+  "producers": [
+    "NHK"
+  ],
+  "country": "JP",
+  "score_anilist": 65,
+  "popularity": 791,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5935-PIqW6fTb3PF1.png",
+    "poster_color": "#e4355d",
+    "banner": "https://image.tmdb.org/t/p/original/v4mNqDPp8pwoprAkoNV3Uop6QCi.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/7qyQhZqKjLmXDcNNn9vJ6pdboFu.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/v4mNqDPp8pwoprAkoNV3Uop6QCi.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5935-PIqW6fTb3PF1.png"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T04:15:02.195Z",
+  "cache_version": 1
+}
