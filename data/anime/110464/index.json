@@ -57,8 +57,8 @@
   "source": "OTHER",
   "country": "CN",
   "score_anilist": 75,
-  "popularity": 7291,
-  "trending": 0,
+  "popularity": 7306,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110464-gU0stanOBGIs.png",
     "poster_color": "#f1c935",
@@ -71,6 +71,10 @@
     {
       "site": "Tencent Video",
       "url": "https://v.qq.com/detail/t/zr5a67l333ehzu9.html"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/81191389"
     }
   ],
   "themes": [],
@@ -81,6 +85,6 @@
     "year_match",
     "format_match"
   ],
-  "cached_at": "2026-05-03T09:31:21.940Z",
+  "cached_at": "2026-05-04T18:12:35.109Z",
   "cache_version": 1
 }

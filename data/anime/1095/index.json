@@ -67,7 +67,7 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 76,
-  "popularity": 18067,
+  "popularity": 18080,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1095-uHF4BmIHLzbG.png",
@@ -77,7 +77,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/61bBOvu22NYbt1a1P6Y7IHdupn0.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1095-uHF4BmIHLzbG.png"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/movies/patlabor-the-mobile-police-the-movie"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 130,
@@ -87,6 +92,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T07:27:19.038Z",
+  "cached_at": "2026-05-04T17:46:54.037Z",
   "cache_version": 1
 }
