@@ -1,0 +1,81 @@
+{
+  "ids": {
+    "anilist": 119784,
+    "mal": 23617,
+    "anidb": 10581,
+    "tmdb": 587454,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Sore Ike! Anpanman: Ringo Bouya to Minna no Negai",
+    "english": "Anpanman: Apple Boy and Everyone’s Hope",
+    "native": "それいけ! アンパンマン りんごぼうやとみんなの願い",
+    "synonyms": [],
+    "tmdb_title": "Anpanman: Apple Boy and Everyone's Hope"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 2014,
+  "episodes": 1,
+  "duration": 46,
+  "start_date": {
+    "year": 2014,
+    "month": 7,
+    "day": 5
+  },
+  "end_date": {
+    "year": 2014,
+    "month": 7,
+    "day": 5
+  },
+  "description": "An aspiring super hero gets his chance for bravery when a witch transforms his village into an uninhabitable mess. Now, he must save the day!<br><br>\n(Source: Google Play)",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Fantasy"
+  ],
+  "tags": [
+    "Agriculture",
+    "Kids"
+  ],
+  "studios": [
+    "TMS Entertainment"
+  ],
+  "producers": [],
+  "source": "OTHER",
+  "country": "JP",
+  "score_mal": 6.13,
+  "popularity": 272,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx119784-TcLE5Yh51FLR.jpg",
+    "poster_color": "#f1bb43",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/119784-VtXyjof5vGX9.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/znfgDi46tmFtJHxfoz1yAzAVVWU.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/38sUvEX7bdE0mwH3dATk8UfDcPv.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx119784-TcLE5Yh51FLR.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Tubi TV",
+      "url": "https://tubitv.com/movies/592033/anpanman-apple-boy-and-everyone-s-hope"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/81719818"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T09:30:48.655Z",
+  "cache_version": 1
+}

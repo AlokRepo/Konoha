@@ -1,0 +1,64 @@
+{
+  "ids": {
+    "anilist": 120609,
+    "mal": 33342,
+    "anidb": 14282,
+    "tmdb": 1118456,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Ari to Kirigirisu",
+    "english": null,
+    "native": "ありときりぎりす",
+    "synonyms": [
+      "The Ant and the Grasshopper"
+    ],
+    "tmdb_title": "The Ant and the Grasshopper"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 15,
+  "start_date": {
+    "year": 1962,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 1962,
+    "month": null,
+    "day": null
+  },
+  "description": "Puppet animated film based on the Aesop fable of the same name.",
+  "genres": [
+    "Fantasy",
+    "Music"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [
+    "Gakken"
+  ],
+  "source": "OTHER",
+  "country": "JP",
+  "score_mal": 5.15,
+  "popularity": 142,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b120609-E7QuOkrs2hJp.png",
+    "poster_color": "#e49343",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b120609-E7QuOkrs2hJp.png"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T10:50:55.735Z",
+  "cache_version": 1
+}

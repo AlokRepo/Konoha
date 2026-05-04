@@ -1,0 +1,75 @@
+{
+  "ids": {
+    "anilist": 116039,
+    "mal": 21967,
+    "anidb": 6078,
+    "tmdb": 360599,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Sore Ike! Anpanman: Yousei Rinrin no Himitsu",
+    "english": "Anpanman: The Secret of Fairy Rin-Rin",
+    "native": "それいけ! アンパンマン 妖精リンリンのひみつ",
+    "synonyms": [],
+    "tmdb_title": "Anpanman: The Secret of Fairy Rin-Rin"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 2008,
+  "episodes": 1,
+  "duration": 50,
+  "start_date": {
+    "year": 2008,
+    "month": 7,
+    "day": 12
+  },
+  "end_date": {
+    "year": 2008,
+    "month": 7,
+    "day": 12
+  },
+  "genres": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "tags": [
+    "Fairy",
+    "Kids"
+  ],
+  "studios": [
+    "TMS Entertainment"
+  ],
+  "producers": [],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 46,
+  "popularity": 189,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116039-9QiYjTl7KDtP.png",
+    "poster_color": "#f1935d",
+    "banner": "https://image.tmdb.org/t/p/original/AqC8AzOGxwFz97ShECTm932u0Jh.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/vftiMr6GJOLl37xH9Pz7O39j5k6.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/AqC8AzOGxwFz97ShECTm932u0Jh.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116039-9QiYjTl7KDtP.png"
+  },
+  "streaming": [
+    {
+      "site": "Tubi TV",
+      "url": "https://tubitv.com/movies/618232/anpanman-the-secret-of-fairy-rin-rin"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T10:28:37.923Z",
+  "cache_version": 1
+}
