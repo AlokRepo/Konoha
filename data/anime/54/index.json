@@ -4,7 +4,8 @@
     "mal": 54,
     "anidb": 1312,
     "tmdb": 11633,
-    "tmdb_type": "movie"
+    "tmdb_type": "movie",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Appleseed (Movie)",
@@ -12,7 +13,8 @@
     "native": "アップルシード",
     "synonyms": [
       "Appleseed (2004)"
-    ]
+    ],
+    "tmdb_title": "Appleseed"
   },
   "format": "MOVIE",
   "status": "FINISHED",
@@ -68,11 +70,14 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 65,
-  "popularity": 10863,
+  "popularity": 10870,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx54-NRZifY4de4u4.jpg",
     "poster_color": "#0d786b",
+    "banner": "https://image.tmdb.org/t/p/original/z85BQhs5WIQDnRVZC62b6zLsGIZ.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/t116iq1AwKeCt5PXqIkMn6AJSNZ.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/z85BQhs5WIQDnRVZC62b6zLsGIZ.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx54-NRZifY4de4u4.jpg"
   },
   "streaming": [
@@ -98,6 +103,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T08:34:04.775Z",
+  "cached_at": "2026-05-04T18:00:25.695Z",
   "cache_version": 1
 }
