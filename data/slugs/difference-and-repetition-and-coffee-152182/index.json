@@ -1,0 +1,61 @@
+{
+  "ids": {
+    "anilist": 152182,
+    "tmdb": 818584,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Sai to Hanpuku to Coffee",
+    "english": "Difference and Repetition and Coffee",
+    "native": "差異と反復とコーヒ",
+    "synonyms": [],
+    "tmdb_title": "Difference and Repetition and Coffee"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 5,
+  "start_date": {
+    "year": 2020,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 2020,
+    "month": null,
+    "day": null
+  },
+  "description": "Short film by Masa Kudo.",
+  "genres": [],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "popularity": 46,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152182-r0ZpwPdCUZ7e.png",
+    "banner": "https://image.tmdb.org/t/p/original/lQ7xLB8097rS2WGhCMbqKMm2Kxv.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/lYdPVywp0FgWGu6y7dzYlnxq4eg.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/lQ7xLB8097rS2WGhCMbqKMm2Kxv.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx152182-r0ZpwPdCUZ7e.png"
+  },
+  "streaming": [
+    {
+      "site": "Vimeo",
+      "url": "https://vimeo.com/426665920"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 95,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T17:50:05.623Z",
+  "cache_version": 1
+}
