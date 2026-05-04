@@ -1,0 +1,74 @@
+{
+  "ids": {
+    "anilist": 8235,
+    "mal": 8235,
+    "anidb": 1008,
+    "tmdb": 68268,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Moomin (1972)",
+    "english": null,
+    "native": "ムーミン",
+    "synonyms": [
+      "Shin Muumin",
+      "New Moomin"
+    ],
+    "tmdb_title": "Moomin"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 1972,
+  "episodes": 52,
+  "duration": 25,
+  "start_date": {
+    "year": 1972,
+    "month": 1,
+    "day": 9
+  },
+  "end_date": {
+    "year": 1972,
+    "month": 12,
+    "day": 31
+  },
+  "description": "A remake of the 1969-70 Moomin series.  This version is more closely based on the books by the Finnish illustrator and writer Tove Jansson.",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Classic Literature"
+  ],
+  "studios": [
+    "Mushi Production"
+  ],
+  "producers": [],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 61,
+  "popularity": 1064,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8235.jpg",
+    "poster_color": "#e4bb5d",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/8235-03awrBQ2r4fB.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/1kEf1vblX2y5o8cBjMc28LqliQX.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8235.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 90,
+  "match_signals": [
+    "english_title",
+    "episode_close",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T03:55:33.201Z",
+  "cache_version": 1
+}
