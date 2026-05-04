@@ -1,0 +1,64 @@
+{
+  "ids": {
+    "anilist": 116789,
+    "mal": 41470,
+    "anidb": 15451,
+    "tmdb": 217582,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Micchiri Wanko! Animation",
+    "english": null,
+    "native": "みっちりわんこ！あにめ～しょん",
+    "synonyms": [],
+    "tmdb_title": "Micchiri Wanko! Animation"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2020,
+  "episodes": 24,
+  "duration": 5,
+  "start_date": {
+    "year": 2020,
+    "month": 4,
+    "day": 1
+  },
+  "end_date": {
+    "year": 2020,
+    "month": 9,
+    "day": 9
+  },
+  "description": "Spin-off of Micchiri Neko.",
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [
+    "Charaction"
+  ],
+  "source": "OTHER",
+  "country": "JP",
+  "popularity": 375,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116789-QCRGjlJzvLjl.jpg",
+    "poster_color": "#ffae35",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/1aQgy0Qe9q9PhYFPUFhcHdkeHzA.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116789-QCRGjlJzvLjl.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T06:09:57.758Z",
+  "cache_version": 1
+}

@@ -1,0 +1,81 @@
+{
+  "ids": {
+    "anilist": 186313,
+    "mal": 60947,
+    "anidb": 19197,
+    "tmdb": 282984,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Nmeneko",
+    "english": null,
+    "native": "ンめねこ",
+    "synonyms": [],
+    "tmdb_title": "Nmeneko"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2025,
+  "episodes": 48,
+  "duration": 2,
+  "start_date": {
+    "year": 2025,
+    "month": 4,
+    "day": 4
+  },
+  "end_date": {
+    "year": 2026,
+    "month": 3,
+    "day": 13
+  },
+  "description": "Follows the funny and amusing daily lives of two cats who want to live life doing only fun things.\n<br><br>\n(Source: Anime News Network)",
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [
+    "Animals",
+    "Primarily Animal Cast",
+    "Episodic"
+  ],
+  "studios": [
+    "Kumarba",
+    "Kumarba"
+  ],
+  "producers": [
+    "TBS",
+    "HUNET"
+  ],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 48,
+  "popularity": 381,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186313-29gCf3CWJu1n.jpg",
+    "poster_color": "#f1ae28",
+    "banner": "https://image.tmdb.org/t/p/original/mk1Qhh6k8DdumfWkGm9Hsb61IEz.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/H9yI80My7rO2ENXX777ebhrLNH.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/mk1Qhh6k8DdumfWkGm9Hsb61IEz.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186313-29gCf3CWJu1n.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLEo3kTfRhZSDioNBbwwb3RkAeiOZ_ifgv"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T06:09:23.308Z",
+  "cache_version": 1
+}

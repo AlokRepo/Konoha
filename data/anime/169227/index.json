@@ -1,0 +1,82 @@
+{
+  "ids": {
+    "anilist": 169227,
+    "mal": 56487,
+    "anidb": 18177,
+    "tmdb": 233785,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Matsuinu",
+    "english": null,
+    "native": "まついぬ",
+    "synonyms": [
+      "松犬"
+    ],
+    "tmdb_title": "Matsuinu"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2023,
+  "episodes": 12,
+  "duration": 3,
+  "start_date": {
+    "year": 2023,
+    "month": 10,
+    "day": 7
+  },
+  "end_date": {
+    "year": 2023,
+    "month": 12,
+    "day": 23
+  },
+  "description": "<i>Matsuinu</i> follows the everyday adventures of six round and cuddly pooches that lead peaceful and relaxing lives, encouraging the audience to share in their warm and fluffy feelings.<br><br>\n\n(Source: Crunchyroll News)",
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Animals",
+    "Twins",
+    "No Dialogue",
+    "Family Life",
+    "Iyashikei"
+  ],
+  "studios": [
+    "Point Pictures"
+  ],
+  "producers": [],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 45,
+  "popularity": 368,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169227-ez97csCzeejg.jpg",
+    "poster_color": "#e4ae50",
+    "banner": "https://image.tmdb.org/t/p/original/oz0kPD4pwSdEZq8cPgl3WIMr5nM.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/f9jdAOJy2uxEdefLJAPJxYt1ppR.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/oz0kPD4pwSdEZq8cPgl3WIMr5nM.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169227-ez97csCzeejg.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLIVtHEIFv2BnIGZPRyPN718ofsH72eD_n"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T06:10:08.814Z",
+  "cache_version": 1
+}
