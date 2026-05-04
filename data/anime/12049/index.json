@@ -56,8 +56,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 70,
-  "popularity": 43502,
-  "trending": 0,
+  "popularity": 43528,
+  "trending": 2,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12049-FIx0K2s81SPa.png",
     "poster_color": "#f1ae1a",
@@ -74,6 +74,10 @@
     {
       "site": "Tubi TV",
       "url": "https://tubitv.com/movies/414931/fairy_tail_the_movie_phoenix_priestess"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/"
     }
   ],
   "themes": [],
@@ -85,6 +89,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T05:28:11.241Z",
+  "cached_at": "2026-05-04T17:10:20.858Z",
   "cache_version": 1
 }
