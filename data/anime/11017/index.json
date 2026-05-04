@@ -1,0 +1,73 @@
+{
+  "ids": {
+    "anilist": 11017,
+    "mal": 11017,
+    "anidb": 8629,
+    "tmdb": 93988,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Battle Spirits: Heroes",
+    "english": null,
+    "native": "バトルスピリッツ 覇王（ヒーローズ）",
+    "synonyms": [
+      "Battle Spirits: Haou",
+      "Battlespirits Heroes"
+    ],
+    "tmdb_title": "Battle Spirits: Heroes"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2011,
+  "episodes": 50,
+  "duration": 24,
+  "start_date": {
+    "year": 2011,
+    "month": 9,
+    "day": 18
+  },
+  "end_date": {
+    "year": 2012,
+    "month": 9,
+    "day": 2
+  },
+  "description": "An anime project adapted from an original trading card game, in which cards represent dragons, demons, birds, insects, and other spirits that the players can control in battles.",
+  "genres": [
+    "Action"
+  ],
+  "tags": [
+    "Card Battle"
+  ],
+  "studios": [
+    "Sunrise"
+  ],
+  "producers": [],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 61,
+  "popularity": 849,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11017-DPHTLtFvyDeN.jpg",
+    "poster_color": "#fff11a",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/11017-dUFwTFYmcDcG.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/4Ma0bfl0ZuuwwcMyj7DMuy8Uofc.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/jrKkSeO6RHHnSoVgouwvUSy4k6p.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11017-DPHTLtFvyDeN.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T04:10:36.219Z",
+  "cache_version": 1
+}

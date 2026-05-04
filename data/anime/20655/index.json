@@ -1,0 +1,79 @@
+{
+  "ids": {
+    "anilist": 20655,
+    "mal": 22099,
+    "anidb": 10389,
+    "tmdb": 208466,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Hero Bank",
+    "english": null,
+    "native": "ヒーローバンク",
+    "synonyms": [],
+    "tmdb_title": "Hero Bank"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2014,
+  "episodes": 51,
+  "duration": 23,
+  "start_date": {
+    "year": 2014,
+    "month": 4,
+    "day": 7
+  },
+  "end_date": {
+    "year": 2015,
+    "month": 3,
+    "day": 30
+  },
+  "description": "The anime centers around Kaito, an elementary school boy who is suddenly burdened with 10 billion yen (about US$100 million) in debt one day. The only way he can pay off the debt is to master \"Hero-Gi\" (downloaded off the net) and win matches in \"Hero Battle,\" a new-generation cyber sport. The tagline of the game \"Change your money with justice!\"\n<br><br>\n(Source: Anime News Network)",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Henshin"
+  ],
+  "studios": [
+    "TMS Entertainment"
+  ],
+  "producers": [
+    "Sega Games"
+  ],
+  "source": "VIDEO_GAME",
+  "country": "JP",
+  "score_anilist": 50,
+  "popularity": 868,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20655.jpg",
+    "poster_color": "#e4bb50",
+    "banner": "https://image.tmdb.org/t/p/original/kxABqxjHcv68Jjyhh9wp8GPj5Lr.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/t3N6wlFLxl1xmXRjE3vUkKY0rpX.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/kxABqxjHcv68Jjyhh9wp8GPj5Lr.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20655.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/herobank"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T04:08:32.045Z",
+  "cache_version": 1
+}
