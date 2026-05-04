@@ -1,0 +1,67 @@
+{
+  "ids": {
+    "anilist": 123120,
+    "mal": 43612,
+    "anidb": 15236,
+    "tmdb": 342365,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Hulu Xiongdi (Movie)",
+    "english": null,
+    "native": "葫芦兄弟 (2008)",
+    "synonyms": [
+      "Calabash Brothers"
+    ],
+    "tmdb_title": "Calabash Brothers"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 83,
+  "start_date": {
+    "year": 2008,
+    "month": 5,
+    "day": 27
+  },
+  "end_date": {
+    "year": 2008,
+    "month": 5,
+    "day": 27
+  },
+  "description": "Summary movie of the original <i>Hulu Xiongdi</i> with remastered visuals and sound.",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [],
+  "studios": [
+    "Shanghai Animation Film Studio"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 77,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx123120-egfuXbtqOU07.png",
+    "poster_color": "#e4d643",
+    "banner": "https://image.tmdb.org/t/p/original/xBA1qhviJSohZMNz0rcSvpd6fI0.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/NAkjoR7tpKwQzsnYVYkKUGtUoA.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/xBA1qhviJSohZMNz0rcSvpd6fI0.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx123120-egfuXbtqOU07.png"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T17:09:37.677Z",
+  "cache_version": 1
+}

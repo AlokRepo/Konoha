@@ -1,0 +1,68 @@
+{
+  "ids": {
+    "anilist": 148933,
+    "mal": 22887,
+    "anidb": 2207,
+    "tmdb": 1263753,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Hyokkori Hyoutanjima",
+    "english": null,
+    "native": "ひょっこりひょうたん島",
+    "synonyms": [
+      "The Madcap Island"
+    ],
+    "tmdb_title": "The Madcap Island"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 1967,
+  "episodes": 1,
+  "duration": 61,
+  "start_date": {
+    "year": 1967,
+    "month": 7,
+    "day": 21
+  },
+  "end_date": {
+    "year": 1967,
+    "month": 7,
+    "day": 21
+  },
+  "description": "A group of kids are stranded on a volcanic deserted island.",
+  "genres": [
+    "Adventure"
+  ],
+  "tags": [
+    "Kids"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [],
+  "source": "OTHER",
+  "country": "JP",
+  "popularity": 99,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b148933-zNDcdOXMaWQC.jpg",
+    "poster_color": "#1aa1d6",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/9YfxrNUTxfLzY6BVisO4fj3M86X.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b148933-zNDcdOXMaWQC.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T16:54:10.668Z",
+  "cache_version": 1
+}
