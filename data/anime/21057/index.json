@@ -61,7 +61,7 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 72,
-  "popularity": 10920,
+  "popularity": 10930,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21057-qiJBybrqTUnq.png",
@@ -75,6 +75,10 @@
     {
       "site": "Crunchyroll",
       "url": "https://www.crunchyroll.com/ghost-in-the-shell-arise"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/"
     }
   ],
   "themes": [],
@@ -86,6 +90,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T08:33:23.018Z",
+  "cached_at": "2026-05-04T18:00:06.838Z",
   "cache_version": 1
 }
