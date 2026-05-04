@@ -1,0 +1,77 @@
+{
+  "ids": {
+    "anilist": 182772,
+    "mal": 59732,
+    "anidb": 18912,
+    "tmdb": 270660,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Pochars",
+    "english": null,
+    "native": "ぽちゃーズ",
+    "synonyms": [
+      "Pochaazu"
+    ],
+    "tmdb_title": "Pochars"
+  },
+  "format": "TV_SHORT",
+  "status": "RELEASING",
+  "season": "FALL",
+  "season_year": 2024,
+  "episodes": 60,
+  "duration": 2,
+  "start_date": {
+    "year": 2024,
+    "month": 10,
+    "day": 9
+  },
+  "end_date": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "tags": [],
+  "studios": [
+    "DLE"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "popularity": 134,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182772-eTZgs36WyIfF.png",
+    "poster_color": "#ffc935",
+    "banner": "https://image.tmdb.org/t/p/original/7bNUBrIArJ5oe94sqWjpjHoFNYL.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/9Lr1k4gWm6WsN6BltTbOqnJm7Yw.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/7bNUBrIArJ5oe94sqWjpjHoFNYL.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182772-eTZgs36WyIfF.png"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/@pochars_info"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLRTtrAGQNdldkgvjty7size2fv-U4qJd9"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T06:32:26.811Z",
+  "cache_version": 1
+}

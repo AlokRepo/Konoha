@@ -1,0 +1,76 @@
+{
+  "ids": {
+    "anilist": 114234,
+    "mal": 40368,
+    "anidb": 15076,
+    "tmdb": 245833,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Egg Car",
+    "english": null,
+    "native": "エッグカー",
+    "synonyms": [
+      "奔奔小飞车"
+    ],
+    "tmdb_title": "奔奔小飞车"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2019,
+  "episodes": 52,
+  "duration": 11,
+  "start_date": {
+    "year": 2019,
+    "month": 10,
+    "day": 3
+  },
+  "end_date": {
+    "year": 2020,
+    "month": 10,
+    "day": 1
+  },
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+  ],
+  "tags": [
+    "Kids",
+    "Cars",
+    "Henshin",
+    "Full CGI"
+  ],
+  "studios": [],
+  "producers": [
+    "Children's Playground Media",
+    "Children's Playground Creative",
+    "Cheer Digiart",
+    "TV Tokyo"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "popularity": 153,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114234-Rvgp9oF403dl.png",
+    "poster_color": "#f1bb50",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/114234-nMethBTzNDZt.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/f475TMY6ed4qIVtwHMI4riVesl3.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114234-Rvgp9oF403dl.png"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T06:30:27.617Z",
+  "cache_version": 1
+}
