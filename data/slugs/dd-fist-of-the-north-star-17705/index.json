@@ -1,0 +1,82 @@
+{
+  "ids": {
+    "anilist": 17705,
+    "mal": 17705,
+    "anidb": 9674,
+    "tmdb": 130728,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "DD Hokuto no Ken",
+    "english": "DD Fist of the North Star",
+    "native": "DD北斗の拳",
+    "synonyms": [],
+    "tmdb_title": "DD Fist of the North Star"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2013,
+  "episodes": 13,
+  "duration": 24,
+  "start_date": {
+    "year": 2013,
+    "month": 4,
+    "day": 2
+  },
+  "end_date": {
+    "year": 2015,
+    "month": 12,
+    "day": 22
+  },
+  "description": "It's a special project commemorating the 30th anniversary of Hokuto no Ken.",
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Parody",
+    "Chibi"
+  ],
+  "studios": [
+    "Ajiado"
+  ],
+  "producers": [
+    "TV Tokyo"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 57,
+  "popularity": 1231,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17705.jpg",
+    "poster_color": "#e4d635",
+    "banner": "https://image.tmdb.org/t/p/original/pk6KucyhLpvGnyd3Lkp7tNx9Y2b.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/8Lv6YKpP12AUalXkBzJb7Mg2sRd.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/pk6KucyhLpvGnyd3Lkp7tNx9Y2b.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17705.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/dd-fist-of-the-north-star"
+    },
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/dd-fist-of-the-north-star"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 120,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T03:48:13.413Z",
+  "cache_version": 1
+}
