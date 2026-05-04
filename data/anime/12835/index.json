@@ -1,0 +1,68 @@
+{
+  "ids": {
+    "anilist": 12835,
+    "mal": 12835,
+    "anidb": 4958,
+    "tmdb": 204058,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Umeboshi Denka",
+    "english": null,
+    "native": "ウメ星デンカ",
+    "synonyms": [],
+    "tmdb_title": "Umeboshi-denka"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 1969,
+  "episodes": 26,
+  "duration": 25,
+  "start_date": {
+    "year": 1969,
+    "month": 4,
+    "day": 1
+  },
+  "end_date": {
+    "year": 1969,
+    "month": 9,
+    "day": 23
+  },
+  "description": "The goofy tales of a king and his family who make their way to Earth after their planet explodes. <br><br>\nNote: Each episode features two stories. <br><br>\n(Source: AniDB)",
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [
+    "Tokyo Movie Shinsha"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 50,
+  "popularity": 304,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12835.jpg",
+    "poster_color": "#f1bb43",
+    "banner": "https://image.tmdb.org/t/p/original/3kELaXpuR4bpDlaqCDD94BqgBaw.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/n5rrSVIIjEnHJRGIDxZEnSC0ghN.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/3kELaXpuR4bpDlaqCDD94BqgBaw.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12835.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T04:56:48.861Z",
+  "cache_version": 1
+}

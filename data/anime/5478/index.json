@@ -1,0 +1,68 @@
+{
+  "ids": {
+    "anilist": 5478,
+    "mal": 5478,
+    "anidb": 4685,
+    "tmdb": 17118,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Bikkuriman 2000",
+    "english": null,
+    "native": "ビックリマン2000",
+    "synonyms": [],
+    "tmdb_title": "Bikkuriman 2000"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 1999,
+  "episodes": 68,
+  "duration": 24,
+  "start_date": {
+    "year": 1999,
+    "month": 11,
+    "day": 1
+  },
+  "end_date": {
+    "year": 2001,
+    "month": 2,
+    "day": 22
+  },
+  "description": "More adventures of Bikkuriman.",
+  "genres": [
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Studio Comet"
+  ],
+  "producers": [],
+  "country": "JP",
+  "score_anilist": 56,
+  "popularity": 309,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5478.jpg",
+    "poster_color": "#43aee4",
+    "banner": "https://image.tmdb.org/t/p/original/qaqUXVXxwqhikAmqPgCFur2XHzt.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/zyLIqt5esZ9bvBQSIZ1hgeLURV7.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/qaqUXVXxwqhikAmqPgCFur2XHzt.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5478.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T04:56:10.448Z",
+  "cache_version": 1
+}

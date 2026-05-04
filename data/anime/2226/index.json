@@ -1,0 +1,67 @@
+{
+  "ids": {
+    "anilist": 2226,
+    "mal": 2226,
+    "anidb": 3165,
+    "tmdb": 157122,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Mori no Tonto-tachi",
+    "english": null,
+    "native": "森のトントたち",
+    "synonyms": [
+      "Elves of the Forest",
+      "Noeli"
+    ],
+    "tmdb_title": "Elves of the Forest"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 1984,
+  "episodes": 23,
+  "duration": 20,
+  "start_date": {
+    "year": 1984,
+    "month": 10,
+    "day": 5
+  },
+  "end_date": {
+    "year": 1985,
+    "month": 3,
+    "day": 29
+  },
+  "description": "N/A",
+  "genres": [
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "country": "JP",
+  "score_anilist": 49,
+  "popularity": 321,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2226.jpg",
+    "poster_color": "#ff4335",
+    "banner": "https://image.tmdb.org/t/p/original/jQ5PX0tTjV6XjKgZAjUpRq8L9Wc.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/qUxejIvyVmMzn1KMSReCu74HU99.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/jQ5PX0tTjV6XjKgZAjUpRq8L9Wc.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2226.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T04:54:47.197Z",
+  "cache_version": 1
+}

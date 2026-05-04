@@ -1,0 +1,69 @@
+{
+  "ids": {
+    "anilist": 20231,
+    "mal": 20231,
+    "anidb": 6334,
+    "tmdb": 211015,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Manga Kodomo Bunko",
+    "english": null,
+    "native": "まんがこども文庫",
+    "synonyms": [
+      "Manga Children's Library"
+    ],
+    "tmdb_title": "Manga Kodomo Bunko"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 1978,
+  "episodes": 51,
+  "duration": 25,
+  "start_date": {
+    "year": 1978,
+    "month": 10,
+    "day": 6
+  },
+  "end_date": {
+    "year": 1979,
+    "month": 9,
+    "day": 28
+  },
+  "description": "A collection of children's stories and tales from traditional Japanese folklore.",
+  "genres": [
+    "Drama",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Group TAC"
+  ],
+  "producers": [
+    "Mainichi Broadcasting System"
+  ],
+  "country": "JP",
+  "popularity": 312,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20231.jpg",
+    "poster_color": "#4393e4",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/bXGPB1HipxbWAvKwmslVngIKkxE.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20231.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T04:56:02.045Z",
+  "cache_version": 1
+}

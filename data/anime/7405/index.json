@@ -1,0 +1,66 @@
+{
+  "ids": {
+    "anilist": 7405,
+    "mal": 7405,
+    "anidb": 6520,
+    "tmdb": 43991,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Jankenman",
+    "english": null,
+    "native": "ジャンケンマン",
+    "synonyms": [],
+    "tmdb_title": "Jankenman"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 1991,
+  "episodes": 51,
+  "duration": 25,
+  "start_date": {
+    "year": 1991,
+    "month": 4,
+    "day": 4
+  },
+  "end_date": {
+    "year": 1992,
+    "month": 3,
+    "day": 26
+  },
+  "genres": [
+    "Adventure"
+  ],
+  "tags": [],
+  "studios": [
+    "Ashi Productions"
+  ],
+  "producers": [
+    "TV Tokyo",
+    "Big West"
+  ],
+  "country": "JP",
+  "score_anilist": 60,
+  "popularity": 321,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7405.jpg",
+    "poster_color": "#d6ae1a",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/dEM4EWdaGEmRQ5GbuLYAtmuSVFV.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7405.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T04:54:52.586Z",
+  "cache_version": 1
+}
