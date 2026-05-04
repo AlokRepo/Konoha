@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "anilist": 109365,
+    "mal": 28049,
+    "anidb": 10899,
+    "tmdb": 754294,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Numa no Taishou",
+    "english": "General of the Swamp",
+    "native": "沼の大将",
+    "synonyms": [],
+    "tmdb_title": "General of the Swamp"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 8,
+  "start_date": {
+    "year": 1933,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 1933,
+    "month": null,
+    "day": null
+  },
+  "description": "A short film by Oofuji Noburou.",
+  "genres": [],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 39,
+  "popularity": 256,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109365-9HfBzwQ9VazO.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/fbqJrMAX1n1PAZ9LAF6QJtKQQgx.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109365-9HfBzwQ9VazO.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T09:36:15.725Z",
+  "cache_version": 1
+}
