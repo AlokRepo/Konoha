@@ -1,0 +1,59 @@
+{
+  "ids": {
+    "anilist": 103692,
+    "mal": 29629,
+    "anidb": 11305,
+    "tmdb": 381714,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Coffee Break",
+    "english": null,
+    "native": "コーヒーブレイク",
+    "synonyms": [],
+    "tmdb_title": "Coffee Break"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 3,
+  "start_date": {
+    "year": 1977,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 1977,
+    "month": null,
+    "day": null
+  },
+  "description": "A short film by Furukawa Taku.",
+  "genres": [
+    "Slice of Life"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 43,
+  "popularity": 584,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx103692-SpzXmPoEZZcF.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/u9b1Vufjb1qxUq8z6w1tiGcs0Ks.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx103692-SpzXmPoEZZcF.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T12:51:36.124Z",
+  "cache_version": 1
+}
