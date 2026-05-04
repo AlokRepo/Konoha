@@ -1,0 +1,91 @@
+{
+  "ids": {
+    "anilist": 3670,
+    "mal": 3670,
+    "anidb": 1370,
+    "tmdb": 13511,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Kikou Souseiki Mospeada",
+    "english": "Genesis Climber Mospeada",
+    "native": "機甲創世記モスピーダ",
+    "synonyms": [
+      "Armored Genesis Mospeada",
+      "Robotech: The New Generation"
+    ],
+    "tmdb_title": "Genesis Climber MOSPEADA"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 1983,
+  "episodes": 25,
+  "duration": 23,
+  "start_date": {
+    "year": 1983,
+    "month": 10,
+    "day": 2
+  },
+  "end_date": {
+    "year": 1984,
+    "month": 3,
+    "day": 25
+  },
+  "description": "The story takes place in the 21st century. Due to the fact that pollution was becoming a major problem, scientists had developed the use of hydrogen fuel called \"HBT\" as an alternative to fossil fuels. At this time humans have colonized Mars in search of new place to call home as a result of overpopulation. In the year 2050, a mysterious alien race called the Inbit invaded the Earth. Unable to fight the Inbits, Earth became desolate with only a few pockets of human beings scattered throughout the planet. Many of the refugees escape aboard a few remaining shuttles to seek shelter on the Moon. The Inbit set up their main base of operations in the Great Lakes area of North America called \"Reflex Point\".<br><br>\n(Source: Wikipedia)",
+  "genres": [
+    "Action",
+    "Mecha"
+  ],
+  "tags": [
+    "Military",
+    "Real Robot",
+    "Aliens",
+    "Aviation",
+    "Motorcycles",
+    "Idol"
+  ],
+  "studios": [
+    "Tatsunoko Production"
+  ],
+  "producers": [
+    "Artmic",
+    "ADV Films"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 65,
+  "popularity": 3165,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3670-gZaTpO3nsAMh.png",
+    "poster_color": "#43a1f1",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/3670-amBVGAOvKGm8.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/vME0YDUVcCHqFyVAaQTxrSiKKGs.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/ixDRE0aAJgSUAPH65xd4ijNckoK.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3670-gZaTpO3nsAMh.png"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/robotech"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/series/G24H1NW50/genesis-climber-mospeada"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T02:45:26.478Z",
+  "cache_version": 1
+}
