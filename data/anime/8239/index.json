@@ -1,0 +1,71 @@
+{
+  "ids": {
+    "anilist": 8239,
+    "mal": 8239,
+    "anidb": 3662,
+    "tmdb": 205745,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Anime Yasei no Sakebi",
+    "english": null,
+    "native": "アニメ野性のさけび ",
+    "synonyms": [
+      "Call of the Wild",
+      "Cari amici animali ",
+      "حياة البراري"
+    ],
+    "tmdb_title": "Call of the Wild"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 1982,
+  "episodes": 22,
+  "duration": 24,
+  "start_date": {
+    "year": 1982,
+    "month": 5,
+    "day": 5
+  },
+  "end_date": {
+    "year": 1982,
+    "month": 9,
+    "day": 24
+  },
+  "description": "This anime is loosely based on Jack London's novel \"Call of the wild\". ",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [
+    "Wako Production"
+  ],
+  "source": "OTHER",
+  "country": "JP",
+  "popularity": 214,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8239.jpg",
+    "poster_color": "#e45d35",
+    "banner": "https://image.tmdb.org/t/p/original/1mqYrevqMakAr1dzIkPdVHboWhr.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/8f6mUGKR99b7orCBImiMaW2aEP6.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/1mqYrevqMakAr1dzIkPdVHboWhr.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8239.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 115,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_close",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T05:03:49.620Z",
+  "cache_version": 1
+}
