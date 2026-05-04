@@ -1,0 +1,75 @@
+{
+  "ids": {
+    "anilist": 123119,
+    "mal": 41475,
+    "anidb": 8123,
+    "tmdb": 224659,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Hulu Xiao Jingang",
+    "english": null,
+    "native": "葫芦小金刚",
+    "synonyms": [
+      "ヒョウタン小金剛"
+    ],
+    "tmdb_title": "Calabash Brothers: Little Golden Steel"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "episodes": 6,
+  "duration": 18,
+  "start_date": {
+    "year": 1989,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 1991,
+    "month": null,
+    "day": null
+  },
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [],
+  "studios": [
+    "Shanghai Animation Film Studio"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 111,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx123119-NSCfsp6ojHDP.png",
+    "poster_color": "#f1bb5d",
+    "banner": "https://image.tmdb.org/t/p/original/kZeL2fuXGedZpXBKRGz7PQiBOic.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/4YgOeLCemF5Qiul9lrs3JF6tx4q.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/kZeL2fuXGedZpXBKRGz7PQiBOic.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx123119-NSCfsp6ojHDP.png"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md2520"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PL5X7W6vC47xXG4J02UBVsLigtjOfQ86Rr"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 100,
+  "match_signals": [
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T05:09:58.056Z",
+  "cache_version": 1
+}

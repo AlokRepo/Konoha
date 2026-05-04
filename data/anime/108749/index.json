@@ -1,0 +1,62 @@
+{
+  "ids": {
+    "anilist": 108749,
+    "mal": 36978,
+    "anidb": 13525,
+    "tmdb": 320327,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Annyeong Totobi",
+    "english": null,
+    "native": "안녕 토토비",
+    "synonyms": [
+      "Hello Totobi",
+      "Hi Totobi"
+    ],
+    "tmdb_title": "Hello Totobi"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "episodes": 104,
+  "duration": 20,
+  "start_date": {
+    "year": 2011,
+    "month": 7,
+    "day": 20
+  },
+  "end_date": {
+    "year": 2013,
+    "month": 9,
+    "day": 25
+  },
+  "genres": [],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "KR",
+  "popularity": 106,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b108749-76E2mvbmqybM.jpg",
+    "poster_color": "#93d61a",
+    "banner": "https://image.tmdb.org/t/p/original/c8tvQ1M2rxUIFvlFJ2MlvdavfXs.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/j1rleeA5R8acH0h6gzLC4x5pm27.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/c8tvQ1M2rxUIFvlFJ2MlvdavfXs.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b108749-76E2mvbmqybM.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T05:10:14.271Z",
+  "cache_version": 1
+}

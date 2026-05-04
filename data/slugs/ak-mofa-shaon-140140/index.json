@@ -1,0 +1,68 @@
+{
+  "ids": {
+    "anilist": 140140,
+    "mal": 44491,
+    "tmdb": 273496,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "AK Mofa Shaonü",
+    "english": null,
+    "native": "艾可魔法少女",
+    "synonyms": [
+      "AK Magical Girls"
+    ],
+    "tmdb_title": "艾可魔法少女"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "episodes": 52,
+  "start_date": {
+    "year": 2015,
+    "month": 5,
+    "day": 27
+  },
+  "end_date": {
+    "year": 2015,
+    "month": 7,
+    "day": 5
+  },
+  "genres": [
+    "Mahou Shoujo"
+  ],
+  "tags": [
+    "Magic"
+  ],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 132,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140140-i4gbrhhKbETN.jpg",
+    "poster_color": "#e4ae0d",
+    "banner": "https://image.tmdb.org/t/p/original/1exjEY5g2JwqGxLme6FRVQTnD9r.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/uWJysPLHxd1nDaOX9fTmOAUPCJm.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/1exjEY5g2JwqGxLme6FRVQTnD9r.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140140-i4gbrhhKbETN.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/t/akv3lniqxw9m7bi.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T05:09:01.111Z",
+  "cache_version": 1
+}
