@@ -1,0 +1,79 @@
+{
+  "ids": {
+    "anilist": 102755,
+    "mal": 36789,
+    "anidb": 13758,
+    "tmdb": 1495146,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Golden Time",
+    "english": "Golden Time",
+    "native": "ゴールデンタイム",
+    "synonyms": [],
+    "tmdb_title": "Golden Time"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 21,
+  "start_date": {
+    "year": 2013,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 2013,
+    "month": null,
+    "day": null
+  },
+  "description": "In Japan's economic bubble years during the 1980s, a long-serving furniture-style television set made in the 1960s is abandoned at a junkyard. It attempts to escape from its new surroundings.<br>\n<br>\n<b>Background:</b><br>\nA theatrically-released short film from production company ROBOT, makers of La Maison en Petits Cubes which won the Best Animated Short Film category at the 2009 Academy Awards. Winner of an Excellence Award in the animation division of the 2013 Japan Media Arts Festival.\n",
+  "genres": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "tags": [
+    "No Dialogue"
+  ],
+  "studios": [
+    "Robot",
+    "Studio 4°C"
+  ],
+  "producers": [
+    "Imagica"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 65,
+  "popularity": 4581,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102755-9YtWYbF83Uk8.jpg",
+    "poster_color": "#785028",
+    "banner": "https://image.tmdb.org/t/p/original/dJWBn0w97sqH7xA1ijMJXXh9FKP.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w500/o7vddvClErp7wLO7BZr2uHD05wQ.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/dJWBn0w97sqH7xA1ijMJXXh9FKP.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102755-9YtWYbF83Uk8.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/80205563"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://youtu.be/dvUyDfP0LuY"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T07:10:55.837Z",
+  "cache_version": 1
+}
