@@ -4,7 +4,8 @@
     "mal": 1117,
     "anidb": 1020,
     "tmdb": 12599,
-    "tmdb_type": "movie"
+    "tmdb_type": "movie",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Pocket Monsters: Maboroshi no Pokémon Lugia Bakutan",
@@ -69,8 +70,8 @@
   "source": "VIDEO_GAME",
   "country": "JP",
   "score_anilist": 71,
-  "popularity": 44045,
-  "trending": 0,
+  "popularity": 44076,
+  "trending": 2,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1117.jpg",
     "poster_color": "#ffe435",
@@ -89,8 +90,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T05:27:06.402Z",
-  "cache_version": 1
-}",
+  "cached_at": "2026-05-04T17:10:15.050Z",
   "cache_version": 1
 }

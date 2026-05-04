@@ -4,16 +4,76 @@
     "mal": 1122,
     "anidb": 2371,
     "tmdb": 34065,
-    "tmdb_type": "movie"
+    "tmdb_type": "movie",
+    "tmdb_season": null
   },
   "titles": {
-    "romaji": "1122"
+    "romaji": "Pocket Monsters Advanced Generation: Rekkuu no Houmonsha Deoxys",
+    "english": "Pokémon: Destiny Deoxys",
+    "native": "ポケットモンスター アドバンスジェネレーション 裂空の訪問者 デオキシス",
+    "synonyms": [
+      "Gekijouban Pocket Monsters Advanced Generation: The Visitor of the Space Fissure! Deoxys",
+      "Pokemon Movie 7",
+      "Pokémon: Skjebnens Deoxys",
+      "Pokémon: Cel Deoxys",
+      "Pokémon: Dagen D för Deoxys"
+    ],
+    "tmdb_title": "Pokémon: Destiny Deoxys"
   },
-  "genres": [],
-  "tags": [],
-  "studios": [],
-  "producers": [],
-  "images": {},
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 2004,
+  "episodes": 1,
+  "duration": 98,
+  "start_date": {
+    "year": 2004,
+    "month": 7,
+    "day": 17
+  },
+  "end_date": {
+    "year": 2004,
+    "month": 7,
+    "day": 17
+  },
+  "description": "Satoshi and his friends travel to LaRousse, where they meet a boy named Tooi who is afraid of Pokemon due to an incident that happened four years earlier. Meanwhile, Deoxys, a Pokemon from space, has reappeared, putting a barrier around the city and kidnapping people. Rayquaza, a Pokemon that lives in the atmosphere, comes to fight it.<br><br>\n(Source: Anime News Network)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Sci-Fi",
+    "Supernatural"
+  ],
+  "tags": [
+    "Aliens",
+    "Dragons",
+    "Animals",
+    "Ensemble Cast",
+    "Creature Taming",
+    "Kids",
+    "Proxy Battle"
+  ],
+  "studios": [
+    "OLM"
+  ],
+  "producers": [
+    "4Kids Entertainment",
+    "Miramax Films"
+  ],
+  "source": "VIDEO_GAME",
+  "country": "JP",
+  "score_anilist": 67,
+  "popularity": 29845,
+  "trending": 1,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1122-HCkAs0hqlJwK.jpg",
+    "poster_color": "#e47850",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1122-hGrRYfEr0Nrd.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/3UV4evNh70gvPZB9KJEoh3a9B6I.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/86qE9M3TL5sb6kBhPnrmeHlj1gY.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1122-HCkAs0hqlJwK.jpg"
+  },
   "streaming": [],
   "themes": [],
   "confidence": "HIGH",
@@ -24,6 +84,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T06:17:35.706Z",
+  "cached_at": "2026-05-04T17:35:40.041Z",
   "cache_version": 1
 }
