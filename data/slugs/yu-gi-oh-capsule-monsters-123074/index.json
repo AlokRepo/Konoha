@@ -1,0 +1,80 @@
+{
+  "ids": {
+    "anilist": 123074,
+    "tmdb": 11767,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Yu☆Gi☆Oh! Duel Monsters ALEX",
+    "english": "Yu-Gi-Oh! Capsule Monsters",
+    "native": "遊☆戯☆王デュエルモンスターズALEX",
+    "synonyms": [],
+    "tmdb_title": "Yu-Gi-Oh! Capsule Monsters"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2006,
+  "episodes": 12,
+  "duration": 23,
+  "start_date": {
+    "year": 2006,
+    "month": 9,
+    "day": 9
+  },
+  "end_date": {
+    "year": 2006,
+    "month": 11,
+    "day": 25
+  },
+  "description": "Yu-Gi-Oh! Capsule Monsters is a twelve-episode mini-series commissioned, produced, and edited by 4Kids Entertainment and animated by Studio Gallop. The miniseries is officially considered to be part of the fifth season of Yu-Gi-Oh! Duel Monsters, taking place between the events of the \"Grand Championship\" and \"Dawn of the Duel\" arcs (episodes 198 and 199).\n<br><br>\n(Source: Wikipedia)",
+  "genres": [
+    "Adventure"
+  ],
+  "tags": [
+    "Shounen",
+    "Male Protagonist"
+  ],
+  "studios": [
+    "Studio Gallop"
+  ],
+  "producers": [
+    "4Kids Entertainment"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 57,
+  "popularity": 2100,
+  "trending": 1,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx123074-KaVOArpjZr1B.jpg",
+    "poster_color": "#f13528",
+    "banner": "https://image.tmdb.org/t/p/original/u75I8b1fOjKJ401d8fVxgZT4VL8.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/9pbIbxJPUTf0JqEbq8cPFFISm9X.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/u75I8b1fOjKJ401d8fVxgZT4VL8.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx123074-KaVOArpjZr1B.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Hulu",
+      "url": "https://www.hulu.com/series/yu-gi-oh-7202b737-f575-4c3c-b89a-2f6f641a9f16"
+    },
+    {
+      "site": "Amazon Prime Video",
+      "url": "https://www.amazon.com/gp/video/detail/B079P7DNH2/ref=atv_dp_season_select_s5"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T03:12:23.196Z",
+  "cache_version": 1
+}

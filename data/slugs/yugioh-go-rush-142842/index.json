@@ -1,0 +1,78 @@
+{
+  "ids": {
+    "anilist": 142842,
+    "mal": 50607,
+    "anidb": 17062,
+    "tmdb": 196257,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Yu☆Gi☆Oh! Go Rush!!",
+    "english": null,
+    "native": "遊☆戯☆王ゴーラッシュ!!",
+    "synonyms": [],
+    "tmdb_title": "Yu-Gi-Oh! GO RUSH!!"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2022,
+  "episodes": 151,
+  "duration": 24,
+  "start_date": {
+    "year": 2022,
+    "month": 4,
+    "day": 3
+  },
+  "end_date": {
+    "year": 2025,
+    "month": 3,
+    "day": 30
+  },
+  "description": "The eighth anime series in the Yu-Gi-Oh! franchise.",
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Card Battle",
+    "Aliens"
+  ],
+  "studios": [
+    "Bridge"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 52,
+  "popularity": 2731,
+  "trending": 1,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142842-sz1cRActqBe3.jpg",
+    "poster_color": "#35bbff",
+    "banner": "https://image.tmdb.org/t/p/original/nbqLNw7zXUsAUlgpUbOclsVkAS8.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/7ZspxIIkkwG0HEkdokg2lejN2Wt.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/nbqLNw7zXUsAUlgpUbOclsVkAS8.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142842-sz1cRActqBe3.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Disney Plus",
+      "url": "https://disneynow.com/show/06e9ffe6-97bd-4610-9dcd-e8a5b9225ca0"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T02:54:42.808Z",
+  "cache_version": 1
+}

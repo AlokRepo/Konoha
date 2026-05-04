@@ -1,0 +1,77 @@
+{
+  "ids": {
+    "anilist": 101228,
+    "mal": 37395,
+    "anidb": 13845,
+    "tmdb": 80720,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Zoids Wild",
+    "english": null,
+    "native": "ゾイドワイルド",
+    "synonyms": [],
+    "tmdb_title": "Zoids Wild"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 2018,
+  "episodes": 50,
+  "duration": 25,
+  "start_date": {
+    "year": 2018,
+    "month": 7,
+    "day": 7
+  },
+  "end_date": {
+    "year": 2019,
+    "month": 6,
+    "day": 29
+  },
+  "description": "Zoids Wild is an anime series based on the Zoids model kits produced by Tomy.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Super Robot",
+    "CGI"
+  ],
+  "studios": [
+    "OLM"
+  ],
+  "producers": [
+    "Takara Tomy",
+    "Shogakukan-Shueisha Productions",
+    "Hasbro"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 58,
+  "popularity": 2072,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101228-OybMfjoSU07R.jpg",
+    "poster_color": "#43bbe4",
+    "banner": "https://image.tmdb.org/t/p/original/2OSLVfoQib8IbsThpR31kp9iA8k.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/nS8QZvvoJdLtnZbRptU9uiCVVqq.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/2OSLVfoQib8IbsThpR31kp9iA8k.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101228-OybMfjoSU07R.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T03:12:44.449Z",
+  "cache_version": 1
+}
