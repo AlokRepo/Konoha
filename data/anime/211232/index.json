@@ -1,0 +1,69 @@
+{
+  "ids": {
+    "anilist": 211232,
+    "tmdb": 1678066,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Majo no Tani no Yoru",
+    "english": null,
+    "native": "魔女の谷の夜",
+    "synonyms": [
+      "Night in the Valley of Witches"
+    ],
+    "tmdb_title": "Night in the Valley of Witches"
+  },
+  "format": "MOVIE",
+  "status": "NOT_YET_RELEASED",
+  "season": "SUMMER",
+  "season_year": 2026,
+  "episodes": 1,
+  "start_date": {
+    "year": 2026,
+    "month": 7,
+    "day": 8
+  },
+  "end_date": {
+    "year": 2026,
+    "month": 7,
+    "day": 8
+  },
+  "next_airing": {
+    "episode": 1,
+    "at": "2026-07-08T01:00:00.000Z"
+  },
+  "description": "A short film only screened at the Cinema Orion at Ghibli Park in Nagakute.<br><br>\n\nThe film is set in Ghibli Park's \"Valley of the Witches\" and is the first original animated short film created by Studio Ghibli for Ghibli Park.",
+  "genres": [
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Studio Ghibli"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "popularity": 145,
+  "trending": 1,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211232-Bthde3cpWCtq.png",
+    "poster_color": "#e4c943",
+    "banner": "https://image.tmdb.org/t/p/original/zSwlkDkFc7DOi2pnzQj1BICjdl6.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/tdrnWtjhFsWSlFCOkrSNhkkO43C.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/zSwlkDkFc7DOi2pnzQj1BICjdl6.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211232-Bthde3cpWCtq.png"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T10:49:20.439Z",
+  "cache_version": 1
+}

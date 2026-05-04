@@ -1,0 +1,65 @@
+{
+  "ids": {
+    "anilist": 18305,
+    "mal": 18305,
+    "anidb": 9629,
+    "tmdb": 519226,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "15 Sonyeon Uju Pyoryugi",
+    "english": null,
+    "native": "15소년 우주 표류기",
+    "synonyms": [
+      "15 Children Space Adventure",
+      "Fifteen Children Space Adventure"
+    ],
+    "tmdb_title": "15 Children Space Adventure"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 70,
+  "start_date": {
+    "year": 1980,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 1980,
+    "month": null,
+    "day": null
+  },
+  "description": "A 1980 film about a group of children saving the galaxy.",
+  "genres": [
+    "Action",
+    "Sci-Fi"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "country": "KR",
+  "score_anilist": 40,
+  "popularity": 199,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18305.jpg",
+    "poster_color": "#ae931a",
+    "banner": "https://image.tmdb.org/t/p/original/ajDgHJ8o6GYTifDDfpiWi46KVIU.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/2vIZtLZXR300rku0bqWEcei5ufC.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/ajDgHJ8o6GYTifDDfpiWi46KVIU.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/18305.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T10:22:06.979Z",
+  "cache_version": 1
+}

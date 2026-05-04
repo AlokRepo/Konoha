@@ -1,0 +1,65 @@
+{
+  "ids": {
+    "anilist": 2642,
+    "mal": 2642,
+    "anidb": 7771,
+    "tmdb": 326497,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Dorami-chan: Aoi Straw Hat",
+    "english": null,
+    "native": "ドラミちゃん 青いストローハット",
+    "synonyms": [
+      "Dorami-chan: A Blue Straw Hat"
+    ],
+    "tmdb_title": "Dorami-chan: A Blue Straw Hat"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 1994,
+  "episodes": 1,
+  "duration": 15,
+  "start_date": {
+    "year": 1994,
+    "month": 3,
+    "day": 12
+  },
+  "end_date": {
+    "year": 1994,
+    "month": 3,
+    "day": 12
+  },
+  "description": "N/A",
+  "genres": [
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "country": "JP",
+  "score_anilist": 49,
+  "popularity": 227,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2642.jpg",
+    "poster_color": "#e4bb50",
+    "banner": "https://image.tmdb.org/t/p/original/5oIUJSd1YM2O8bYri3BD4aU7dQI.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/3cQYAVOvhruMWMA3sEAKJ0amboq.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/5oIUJSd1YM2O8bYri3BD4aU7dQI.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2642.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T10:00:42.633Z",
+  "cache_version": 1
+}
