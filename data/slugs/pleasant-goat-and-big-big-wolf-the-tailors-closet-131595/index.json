@@ -1,0 +1,70 @@
+{
+  "ids": {
+    "anilist": 131595,
+    "mal": 43991,
+    "anidb": 16470,
+    "tmdb": 121085,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Xi Yangyang Yu Hui Tailang: Yichu Da Maoxian",
+    "english": "Pleasant Goat and Big Big Wolf: The Tailor's Closet",
+    "native": "喜羊羊与灰太狼之衣橱大冒险",
+    "synonyms": [
+      "喜羊羊与灰太狼 第十一季"
+    ],
+    "tmdb_title": "喜羊羊与灰太狼之衣橱大冒险"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "episodes": 60,
+  "duration": 15,
+  "start_date": {
+    "year": 2014,
+    "month": 9,
+    "day": 4
+  },
+  "end_date": {
+    "year": 2015,
+    "month": null,
+    "day": null
+  },
+  "description": "The eleventh season of <i>Xi Yangyang Yu Hui Tailang</i>.",
+  "genres": [
+    "Adventure",
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 68,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131595-oP3XgyADGG7b.png",
+    "poster_color": "#ffc935",
+    "banner": "https://image.tmdb.org/t/p/original/7yNnXnirsqlodOqugK2rcmRJV85.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/vSMFbvdYn3e0gjJjpSEMvSVdJ5j.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/7yNnXnirsqlodOqugK2rcmRJV85.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131595-oP3XgyADGG7b.png"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLCxAtDkpA3f850_MF5KbDGCDEI6zeZ7SE"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T06:43:49.082Z",
+  "cache_version": 1
+}

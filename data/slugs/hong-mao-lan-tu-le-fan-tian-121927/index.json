@@ -1,0 +1,68 @@
+{
+  "ids": {
+    "anilist": 121927,
+    "mal": 39124,
+    "anidb": 14139,
+    "tmdb": 302224,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Hong Mao Lan Tu: Le Fan Tian",
+    "english": null,
+    "native": "虹猫蓝兔乐翻天",
+    "synonyms": [
+      "Homer and Landau's Cartoon Happy World"
+    ],
+    "tmdb_title": "虹猫蓝兔乐翻天"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "episodes": 66,
+  "duration": 11,
+  "start_date": {
+    "year": 2005,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "genres": [
+    "Adventure",
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [
+    "Great Dreams Cartoon"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 60,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b121927-xFcsCNOQtWUW.jpg",
+    "poster_color": "#ffe400",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/eIeLzfg4hivtMWVvfVbuMrJyjJj.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b121927-xFcsCNOQtWUW.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Youku",
+      "url": "https://v.youku.com/v_nextstage/id_055e6bbcfd2b11e0a046.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 95,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T06:45:25.472Z",
+  "cache_version": 1
+}

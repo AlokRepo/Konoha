@@ -1,0 +1,73 @@
+{
+  "ids": {
+    "anilist": 121931,
+    "mal": 39125,
+    "anidb": 14142,
+    "tmdb": 235946,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Hong Mao Lan Tu: Maoyan Kan Yuzhou",
+    "english": null,
+    "native": "虹猫蓝兔猫眼看宇宙",
+    "synonyms": [
+      "Homer and Landau's Universe"
+    ],
+    "tmdb_title": "虹猫蓝兔猫眼看宇宙"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "episodes": 100,
+  "duration": 5,
+  "start_date": {
+    "year": 2005,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "genres": [
+    "Adventure",
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [
+    "Great Dreams Cartoon"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 64,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b121931-8fjq2PyvWEMF.jpg",
+    "poster_color": "#43a1e4",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/6ZA38N3A5x6HxHsSSCis3gQ4d6N.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b121931-8fjq2PyvWEMF.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Youku",
+      "url": "https://v.youku.com/v_show/id_XNDQxNTgyNjY5Mg==.html"
+    },
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/c/cih68opdasvd4us.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T06:44:29.125Z",
+  "cache_version": 1
+}

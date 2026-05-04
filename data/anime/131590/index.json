@@ -1,0 +1,70 @@
+{
+  "ids": {
+    "anilist": 131590,
+    "mal": 43986,
+    "anidb": 16462,
+    "tmdb": 121081,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Xi Yangyang Yu Hui Tailang: Jingji Da Lianmeng",
+    "english": "Pleasant Goat and Big Big Wolf: The Athletic Carousel",
+    "native": "喜羊羊与灰太狼之竞技大联盟",
+    "synonyms": [
+      "喜羊羊与灰太狼 第六季"
+    ],
+    "tmdb_title": "喜羊羊与灰太狼之竞技大联盟"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "episodes": 60,
+  "duration": 12,
+  "start_date": {
+    "year": 2012,
+    "month": 6,
+    "day": 30
+  },
+  "end_date": {
+    "year": 2012,
+    "month": null,
+    "day": null
+  },
+  "description": "The sixth season of <i>Xi Yangyang Yu Hui Tailang</i>.\n\n",
+  "genres": [
+    "Adventure",
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 64,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b131590-szrLLfaoXFaD.png",
+    "poster_color": "#50aee4",
+    "banner": "https://image.tmdb.org/t/p/original/c59nMn6AEtPaCcAXldEgt21wxu6.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/oeMB1xIJYprxFMd39DzBik34tm4.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/c59nMn6AEtPaCcAXldEgt21wxu6.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b131590-szrLLfaoXFaD.png"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLCxAtDkpA3f_3nAa_-ON-fDXz4vu5mcII"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T06:44:35.221Z",
+  "cache_version": 1
+}

@@ -1,0 +1,75 @@
+{
+  "ids": {
+    "anilist": 131599,
+    "mal": 43993,
+    "anidb": 16472,
+    "tmdb": 121087,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Xi Yangyang Yu Hui Tailang: Yuanshi Shijie Lixian Ji",
+    "english": "Pleasant Goat and Big Big Wolf: Adventures in the Primitive World",
+    "native": "喜羊羊与灰太狼之原始世界历险记",
+    "synonyms": [
+      "喜羊羊与灰太狼 第十三季",
+      "喜羊羊与灰太狼之原始新时代"
+    ],
+    "tmdb_title": "喜羊羊与灰太狼之原始世界历险记"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "episodes": 60,
+  "duration": 15,
+  "start_date": {
+    "year": 2015,
+    "month": 8,
+    "day": 17
+  },
+  "end_date": {
+    "year": 2016,
+    "month": null,
+    "day": null
+  },
+  "description": "The thirteenth season of <i>Xi Yangyang Yu Hui Tailang</i>.",
+  "genres": [
+    "Adventure",
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 64,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131599-iwgVgPIkiHOI.png",
+    "poster_color": "#e4ae0d",
+    "banner": "https://image.tmdb.org/t/p/original/bAQFiYHIQDIRZ74IJFrzCYANIRj.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/5OGAxNxnbmN3oE1R5ZWDfPXwVWK.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/bAQFiYHIQDIRZ74IJFrzCYANIRj.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131599-iwgVgPIkiHOI.png"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLCxAtDkpA3f9utqDxpbS4Oy-WzQn64V_x"
+    },
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/n/nbctc5nnsxqsx9z.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T06:44:41.291Z",
+  "cache_version": 1
+}

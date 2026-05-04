@@ -1,0 +1,70 @@
+{
+  "ids": {
+    "anilist": 131592,
+    "mal": 43988,
+    "anidb": 16467,
+    "tmdb": 121095,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Xi Yangyang Yu Hui Tailang: Kaixin Fangshenshi",
+    "english": "Pleasant Goat and Big Big Wolf: Happy Formula",
+    "native": "喜羊羊与灰太狼之开心方程式",
+    "synonyms": [
+      "喜羊羊与灰太狼 第八季"
+    ],
+    "tmdb_title": "Pleasant Goat and Big Big Wolf: Happy Formula"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "episodes": 60,
+  "duration": 14,
+  "start_date": {
+    "year": 2013,
+    "month": 7,
+    "day": 26
+  },
+  "end_date": {
+    "year": 2013,
+    "month": null,
+    "day": null
+  },
+  "description": "The eighth season of Xi Yangyang Yu Hui Tailang.",
+  "genres": [
+    "Adventure",
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 72,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131592-0omNc6pqwy9N.png",
+    "poster_color": "#f1bb35",
+    "banner": "https://image.tmdb.org/t/p/original/nbIqZd6illnvYEZmXG32dfscTrr.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/d2v5LnfQDbFIya48U2hpgmY4hC4.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/nbIqZd6illnvYEZmXG32dfscTrr.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131592-0omNc6pqwy9N.png"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLCxAtDkpA3f_xASnCUHBnnxUZ64EVdzKk"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T06:42:38.192Z",
+  "cache_version": 1
+}
