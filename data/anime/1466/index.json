@@ -1,0 +1,89 @@
+{
+  "ids": {
+    "anilist": 1466,
+    "mal": 1466,
+    "anidb": 3660,
+    "tmdb": 9651,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Hakugei Densetsu",
+    "english": "Hakugei: Legend of the Moby Dick",
+    "native": "白鯨伝説",
+    "synonyms": [
+      "Legend of Moby Dick"
+    ],
+    "tmdb_title": "Hakugei: Legend of the Moby Dick"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 1997,
+  "episodes": 26,
+  "duration": 23,
+  "start_date": {
+    "year": 1997,
+    "month": 4,
+    "day": 9
+  },
+  "end_date": {
+    "year": 1999,
+    "month": 5,
+    "day": 12
+  },
+  "description": "A courageous young man tries to find the only person who can save his planet from the most terrifying beast in the universe -- the great white whale Moby Dick -- in this futuristic anime adventure set in 4699. But locating the outlaw Captain Ahab and his elusory crew of whale hunters and persuading them to put an end to the leviathan's long reign of terror won't be easy. Will Ahab take up the challenge one more time? ",
+  "genres": [
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Space Opera",
+    "Classic Literature",
+    "Space"
+  ],
+  "studios": [
+    "Studio Junio",
+    "Annapuru",
+    "Tezuka Productions"
+  ],
+  "producers": [
+    "ADV Films",
+    "Sony Music Entertainment"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 66,
+  "popularity": 2380,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1466-W1JB1ud5Ix5V.png",
+    "poster_color": "#e4a143",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1466-A7vpXgIcYTTl.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/adA67GtEByZjhYMweZeF7ZPQ1fi.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/cOMvcIeDZsd1L2TQsddKgtpXZgi.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1466-W1JB1ud5Ix5V.png"
+  },
+  "streaming": [
+    {
+      "site": "RetroCrush",
+      "url": "https://www.retrocrush.tv/series/019745s/hakugei%3A-legend-of-the-moby-dick"
+    },
+    {
+      "site": "Amazon Prime Video",
+      "url": "https://www.amazon.com/gp/video/detail/B09K9HNWX2/ref=atv_wl_hom_7_c_unkc_1_1"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T03:03:19.892Z",
+  "cache_version": 1
+}

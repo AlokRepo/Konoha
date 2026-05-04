@@ -1,0 +1,71 @@
+{
+  "ids": {
+    "anilist": 5032,
+    "mal": 5032,
+    "anidb": 6494,
+    "tmdb": 35460,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "COBRA THE ANIMATION",
+    "english": null,
+    "native": "COBRA THE ANIMATION",
+    "synonyms": [
+      "Cobra The Animation: Rokunin no Yuushi"
+    ],
+    "tmdb_title": "Cobra the Animation"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2010,
+  "episodes": 13,
+  "duration": 24,
+  "start_date": {
+    "year": 2010,
+    "month": 1,
+    "day": 2
+  },
+  "end_date": {
+    "year": 2010,
+    "month": 3,
+    "day": 27
+  },
+  "description": "This Cobra adaptation features short arcs of Cobra saving the world, his friends or himself.",
+  "genres": [
+    "Action",
+    "Sci-Fi"
+  ],
+  "tags": [],
+  "studios": [
+    "Magic Bus"
+  ],
+  "producers": [],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 65,
+  "popularity": 2364,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5032.jpg",
+    "poster_color": "#0d7893",
+    "banner": "https://image.tmdb.org/t/p/original/eb2YQpJcqvirCt7iT23OsRl8MBM.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/pZvcc1PxU5TbwYAjCy4mmWl3SZx.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/eb2YQpJcqvirCt7iT23OsRl8MBM.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5032.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T03:03:41.716Z",
+  "cache_version": 1
+}
