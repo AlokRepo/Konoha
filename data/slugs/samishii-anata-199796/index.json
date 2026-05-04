@@ -1,0 +1,68 @@
+{
+  "ids": {
+    "anilist": 199796,
+    "tmdb": 286275,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Samishii Anata",
+    "english": null,
+    "native": "さみしいあなた",
+    "synonyms": [],
+    "tmdb_title": "Samishii Anata"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2023,
+  "episodes": 12,
+  "duration": 5,
+  "start_date": {
+    "year": 2023,
+    "month": 1,
+    "day": 14
+  },
+  "end_date": {
+    "year": 2023,
+    "month": 4,
+    "day": 1
+  },
+  "genres": [
+    "Horror"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [
+    "CHET Marketing"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "popularity": 90,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199796-W6loqhQGnFeE.png",
+    "poster_color": "#d61a78",
+    "banner": "https://image.tmdb.org/t/p/original/pEXV8MIFHptcTbBWQOzwkDgOFuU.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/azJAbjcWqUAEeMdNNz5wQWEberN.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/pEXV8MIFHptcTbBWQOzwkDgOFuU.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199796-W6loqhQGnFeE.png"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLnqUx0MOSlp-duM2SUls_e8WB1WIxWOZT"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T06:39:54.325Z",
+  "cache_version": 1
+}
