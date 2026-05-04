@@ -1,0 +1,66 @@
+{
+  "ids": {
+    "anilist": 149090,
+    "mal": 43867,
+    "tmdb": 998311,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Huixiang",
+    "english": null,
+    "native": "回想",
+    "synonyms": [
+      "Souvenir"
+    ],
+    "tmdb_title": "回想"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 3,
+  "start_date": {
+    "year": 2003,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 2003,
+    "month": null,
+    "day": null
+  },
+  "genres": [
+    "Romance"
+  ],
+  "tags": [],
+  "studios": [
+    "Shanghai Animation Film Studio"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 53,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx149090-AsmJ40z6fO34.png",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/hUnlOCjE6DgNiW6pXRxTkbYSv65.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx149090-AsmJ40z6fO34.png"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/watch?v=Bl875Z6LFdU"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 120,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T17:44:22.929Z",
+  "cache_version": 1
+}
