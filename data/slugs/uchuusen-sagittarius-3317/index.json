@@ -1,0 +1,75 @@
+{
+  "ids": {
+    "anilist": 3317,
+    "mal": 3317,
+    "anidb": 1833,
+    "tmdb": 44371,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Uchuusen Sagittarius",
+    "english": null,
+    "native": "宇宙船サジタリウス",
+    "synonyms": [
+      "Spaceship Sagittarius",
+      "The Space Sagittarius",
+      "Die Sternenjäger"
+    ],
+    "tmdb_title": "Spaceship Sagittarius"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 1986,
+  "episodes": 77,
+  "duration": 24,
+  "start_date": {
+    "year": 1986,
+    "month": 1,
+    "day": 10
+  },
+  "end_date": {
+    "year": 1987,
+    "month": 10,
+    "day": 9
+  },
+  "description": "Working for a multi-purpose space agency, Toppy and Rana make friends with Giraffe, a scientist, and go through various adventures in space. The three encounter danger at times, but their friendship always saves them just in the nick of time.<br><br>\n(Source: Official site)",
+  "genres": [
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Space"
+  ],
+  "studios": [
+    "Nippon Animation"
+  ],
+  "producers": [],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 64,
+  "popularity": 707,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3317.jpg",
+    "poster_color": "#f1bb5d",
+    "banner": "https://image.tmdb.org/t/p/original/bOiT83l2txv8oErjW3oae04Oq1G.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/pGlKqwpaqdig9208sgJQCi65YnB.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/bOiT83l2txv8oErjW3oae04Oq1G.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3317.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T04:21:13.365Z",
+  "cache_version": 1
+}

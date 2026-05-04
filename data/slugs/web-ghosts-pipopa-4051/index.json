@@ -1,0 +1,79 @@
+{
+  "ids": {
+    "anilist": 4051,
+    "mal": 4051,
+    "anidb": 5773,
+    "tmdb": 44321,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Net Ghost PIPOPA",
+    "english": "Web Ghosts PiPoPa",
+    "native": "ネットゴーストPIPOPA",
+    "synonyms": [],
+    "tmdb_title": "Web Ghosts Pipopa"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2008,
+  "episodes": 51,
+  "duration": 20,
+  "start_date": {
+    "year": 2008,
+    "month": 4,
+    "day": 6
+  },
+  "end_date": {
+    "year": 2009,
+    "month": 3,
+    "day": 29
+  },
+  "description": "About a young boy named Akigawa Yuta who gets sucked into a virtual world through his cell phone. He meets three strange creatures that travel with him on Yuta's adventure in this strange new world.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+  ],
+  "tags": [
+    "Kids",
+    "Primarily Child Cast",
+    "Virtual World",
+    "Isekai"
+  ],
+  "studios": [
+    "Studio Hibari"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 56,
+  "popularity": 723,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4051.jpg",
+    "poster_color": "#f1c95d",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/kvipPy7kldqGLzyWguRQkPBYRC5.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4051.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/web-ghosts-pipopa"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T04:20:03.721Z",
+  "cache_version": 1
+}
