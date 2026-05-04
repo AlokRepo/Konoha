@@ -1,0 +1,88 @@
+{
+  "ids": {
+    "anilist": 13239,
+    "mal": 13239,
+    "anidb": 8674,
+    "tmdb": 119685,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Mass Effect: Paragon Lost",
+    "english": "Mass Effect: Paragon Lost",
+    "native": "マスエフェクト～失われたパラゴン",
+    "synonyms": [
+      "Mass Effect Animation",
+      "Mass Effect: Ushinawareta Paragon"
+    ],
+    "tmdb_title": "Mass Effect: Paragon Lost"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2012,
+  "episodes": 1,
+  "duration": 95,
+  "start_date": {
+    "year": 2012,
+    "month": 11,
+    "day": 29
+  },
+  "end_date": {
+    "year": 2012,
+    "month": 11,
+    "day": 29
+  },
+  "description": "Mass Effect: Paragon Lost is the prequel to the highly-anticipated Mass Effect 3 and follows the early career of Alliance Marine, James Vega. Vega leads an elite Special Forces squad into battle against a mysterious alien threat known as The Collectors. Stationed at a colony in a remote star system, Vega and his soldiers must protect the civilians from a ruthless invasion determined to capture the population for unknown purposes. Learn more about the Mass Effect universe with an unprecedented glimpse into the haunted past of Mass Effect's newest hero! <br><br>\n(Source: masseffectparagonlost.com) ",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Military",
+    "CGI",
+    "Space",
+    "Aliens"
+  ],
+  "studios": [
+    "Production I.G"
+  ],
+  "producers": [
+    "Funimation"
+  ],
+  "source": "VIDEO_GAME",
+  "country": "JP",
+  "score_anilist": 55,
+  "popularity": 1977,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13239-1tLXQBgDTTae.jpg",
+    "poster_color": "#e4a143",
+    "banner": "https://image.tmdb.org/t/p/original/yCkqsDM2xHFNuh3eDU4huJBtruN.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/flfp6eKmSdwCcJEP9mlhh9UMmGi.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/yCkqsDM2xHFNuh3eDU4huJBtruN.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13239-1tLXQBgDTTae.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/mass-effect"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/mass-effect"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T07:40:15.062Z",
+  "cache_version": 1
+}

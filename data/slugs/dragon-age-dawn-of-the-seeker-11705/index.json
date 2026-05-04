@@ -1,0 +1,77 @@
+{
+  "ids": {
+    "anilist": 11705,
+    "mal": 11705,
+    "anidb": 8557,
+    "tmdb": 103173,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Dragon Age: Blood Mage no Seisen",
+    "english": "Dragon Age: Dawn of the Seeker",
+    "native": "ドラゴンエイジ ブラッドメイジの聖戦",
+    "synonyms": [],
+    "tmdb_title": "Dragon Age: Dawn of the Seeker"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2012,
+  "episodes": 1,
+  "duration": 90,
+  "start_date": {
+    "year": 2012,
+    "month": 2,
+    "day": 11
+  },
+  "end_date": {
+    "year": 2012,
+    "month": 2,
+    "day": 11
+  },
+  "description": "In a time of darkness and barbarism, the Chantry has arisen - a religious order seeking to bring stability to a world corrupted by sinister magic. Led by the Divine, the Chantry's Templar warriors ruthlessly restrain the Mages and their magical cabals. But when the Templars fail, the most elite order of the Chantry takes charge - the Seekers!<br><br>\n(Source: AniDB)",
+  "genres": [
+    "Action",
+    "Fantasy"
+  ],
+  "tags": [
+    "Full CGI"
+  ],
+  "studios": [
+    "Oxybot"
+  ],
+  "producers": [
+    "Funimation"
+  ],
+  "source": "VIDEO_GAME",
+  "country": "JP",
+  "score_anilist": 53,
+  "popularity": 2009,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11705.jpg",
+    "poster_color": "#e45d43",
+    "banner": "https://image.tmdb.org/t/p/original/iiEAEgrNS11aaYJwIi5GZc9ETBB.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/6R4gnQZp8MSaljsR8dl9R4ARByo.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/iiEAEgrNS11aaYJwIi5GZc9ETBB.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11705.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/dragon-age"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T07:39:54.847Z",
+  "cache_version": 1
+}
