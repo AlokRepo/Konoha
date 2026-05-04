@@ -1,0 +1,59 @@
+{
+  "ids": {
+    "anilist": 103701,
+    "mal": 30403,
+    "tmdb": 1087022,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Paper Film",
+    "english": null,
+    "native": "ペーパーフィルム",
+    "synonyms": [
+      "Paper Films"
+    ],
+    "tmdb_title": "Paper Films"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 6,
+  "start_date": {
+    "year": 2005,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 2005,
+    "month": null,
+    "day": null
+  },
+  "description": "A short animation by Taku Furukawa.",
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "country": "JP",
+  "score_anilist": 38,
+  "popularity": 139,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103701-SOVyoYotkjat.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/7ieVpbXTAelyKJ2kumxhuyQdlTB.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103701-SOVyoYotkjat.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T10:51:34.692Z",
+  "cache_version": 1
+}
