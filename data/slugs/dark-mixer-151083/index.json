@@ -1,0 +1,61 @@
+{
+  "ids": {
+    "anilist": 151083,
+    "mal": 53017,
+    "tmdb": 477370,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "DARK MIXER",
+    "english": null,
+    "native": "DARK MIXER",
+    "synonyms": [],
+    "tmdb_title": "Dark Mixer"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 5,
+  "start_date": {
+    "year": 2014,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 2014,
+    "month": null,
+    "day": null
+  },
+  "description": "DARK MIXER makes the rotoscoping function as \"Motion dépaysement\" that means to move a motion from a footage, combine, juxtapose, and transform into a new motion. The generated motion are not clear in meaning, but attempt to create new continuity.",
+  "genres": [],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_mal": 5.65,
+  "popularity": 93,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151083-KwuMJplGySlv.png",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/ez3TDQRO5s0F2FikDNElqtvSPA4.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151083-KwuMJplGySlv.png"
+  },
+  "streaming": [
+    {
+      "site": "Vimeo",
+      "url": "https://vimeo.com/210249753"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T16:57:15.392Z",
+  "cache_version": 1
+}
