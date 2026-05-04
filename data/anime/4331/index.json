@@ -1,0 +1,67 @@
+{
+  "ids": {
+    "anilist": 4331,
+    "mal": 4331,
+    "anidb": 5901,
+    "tmdb": 104398,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Penguin no Mondai",
+    "english": null,
+    "native": "ペンギンの問題",
+    "synonyms": [
+      "A Penguin's Troubles"
+    ],
+    "tmdb_title": "A Penguin's Troubles"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2008,
+  "episodes": 100,
+  "duration": 10,
+  "start_date": {
+    "year": 2008,
+    "month": 4,
+    "day": 5
+  },
+  "end_date": {
+    "year": 2009,
+    "month": 3,
+    "day": 20
+  },
+  "description": "About the daily lives of a boy and his talking penguin.",
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [
+    "Shogakukan Music & Digital Entertainment"
+  ],
+  "country": "JP",
+  "score_anilist": 49,
+  "popularity": 267,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4331.jpg",
+    "poster_color": "#d6c91a",
+    "banner": "https://image.tmdb.org/t/p/original/1U64IQBcCzdEIC4rc8lHsItnQoN.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/9GmmtRijuHAsT4tgkSz6pALQ2o8.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/1U64IQBcCzdEIC4rc8lHsItnQoN.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4331.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T06:16:30.678Z",
+  "cache_version": 1
+}

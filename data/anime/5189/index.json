@@ -1,0 +1,71 @@
+{
+  "ids": {
+    "anilist": 5189,
+    "mal": 5189,
+    "anidb": 6333,
+    "tmdb": 100536,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Chou Tokkyuu Hikarian",
+    "english": "Super Express Hikarian",
+    "native": "超特急ヒカリアン",
+    "synonyms": [
+      "Hikarian: Great Railroad Protector"
+    ],
+    "tmdb_title": "Hikarian"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 1997,
+  "episodes": 156,
+  "duration": 7,
+  "start_date": {
+    "year": 1997,
+    "month": 4,
+    "day": 2
+  },
+  "end_date": {
+    "year": 2000,
+    "month": 3,
+    "day": 29
+  },
+  "description": "Chou Tokkyuu Hikarian is about a series of bullet trains that are turned into robots. The robots, along with two humans named Tetsuyuki Shinbashi and Minayo Kanda, have to stop an alien invasion.<br><br>\n(Source: Wikipedia)",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [],
+  "studios": [
+    "Tokyo Kids"
+  ],
+  "producers": [
+    "TV Tokyo"
+  ],
+  "country": "JP",
+  "score_anilist": 44,
+  "popularity": 310,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5189-VNHvkIsz4arD.png",
+    "poster_color": "#e4bb35",
+    "banner": "https://image.tmdb.org/t/p/original/ikhY5S5EJwL3lIODBm3cajo6jIp.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/bBUfVZP9KPqVIE6IjhNJmRJgdo6.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/ikhY5S5EJwL3lIODBm3cajo6jIp.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5189-VNHvkIsz4arD.png"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 114,
+  "match_signals": [
+    "english_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T06:13:06.385Z",
+  "cache_version": 1
+}

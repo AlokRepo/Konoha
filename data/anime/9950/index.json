@@ -1,0 +1,77 @@
+{
+  "ids": {
+    "anilist": 9950,
+    "mal": 9950,
+    "anidb": 8122,
+    "tmdb": 1319,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Hulu Xiongdi",
+    "english": null,
+    "native": "葫芦兄弟",
+    "synonyms": [
+      "Bottle Gourd Brothers",
+      "Hulu Brothers",
+      "Seven Brothers",
+      "The Calabash Brothers",
+      "ひょうたん童子"
+    ],
+    "tmdb_title": "Calabash Brothers"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "episodes": 13,
+  "duration": 10,
+  "start_date": {
+    "year": 1986,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 1987,
+    "month": null,
+    "day": null
+  },
+  "description": "Legend has it that two demons were jailed in the Calabash Mountains, one a Scorpion spirit and the other a Snake spirit. One day, a pangolin happens to drill a hole on the slope and the two spirits escape from the cave, causing grave harm to the nearby residents. The pangolin hurries to an old man and says that only by growing calabashes in seven colours can they annihilate the spirits. So the old man spares no time in growing seven calabashes, each a different colour of the rainbow: red, orange, yellow, green, cyan, blue, and purple.\n<br><br>\n(Source: Wikipedia)",
+  "genres": [
+    "Action"
+  ],
+  "tags": [],
+  "studios": [
+    "Shanghai Animation Film Studio"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "score_anilist": 54,
+  "popularity": 278,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9950-hxP08MO2Jwck.png",
+    "poster_color": "#fed650",
+    "banner": "https://image.tmdb.org/t/p/original/eZ4AgEEQkj72tw2te6qpxKesyay.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/nvcazlLfe8jg27chKzISdCP0KWB.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/eZ4AgEEQkj72tw2te6qpxKesyay.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9950-hxP08MO2Jwck.png"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md2514"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 155,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T06:14:32.071Z",
+  "cache_version": 1
+}
