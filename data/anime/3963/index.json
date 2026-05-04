@@ -1,0 +1,69 @@
+{
+  "ids": {
+    "anilist": 3963,
+    "mal": 3963,
+    "anidb": 2813,
+    "tmdb": 75175,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Turn A Gundam I: Earth Light",
+    "english": "∀ Gundam I: Earth Light",
+    "native": "劇場版∀ガンダムI 地球光",
+    "synonyms": [],
+    "tmdb_title": "Turn A Gundam I: Earth Light"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2002,
+  "episodes": 1,
+  "duration": 120,
+  "start_date": {
+    "year": 2002,
+    "month": 2,
+    "day": 9
+  },
+  "end_date": {
+    "year": 2002,
+    "month": 2,
+    "day": 9
+  },
+  "description": "A movie retelling of the first half of the Turn A Gundam series. ",
+  "genres": [
+    "Action",
+    "Drama",
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "tags": [],
+  "studios": [
+    "Sunrise"
+  ],
+  "producers": [],
+  "country": "JP",
+  "score_anilist": 58,
+  "popularity": 1794,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3963.jpg",
+    "poster_color": "#e4bb43",
+    "banner": "https://image.tmdb.org/t/p/original/ufB3TfpzNpmkLvPgzdmnOsPFJ10.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/ghaJ05SzfGFhuPSaYVwcevO5kgr.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/ufB3TfpzNpmkLvPgzdmnOsPFJ10.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3963.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T07:44:22.490Z",
+  "cache_version": 1
+}

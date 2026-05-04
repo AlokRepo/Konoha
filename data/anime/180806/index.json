@@ -1,0 +1,70 @@
+{
+  "ids": {
+    "anilist": 180806,
+    "mal": 59710,
+    "anidb": 18849,
+    "tmdb": 1346726,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Inazuma Eleven: Aratanaru Eiyuutachi no Joshou",
+    "english": null,
+    "native": "イナズマイレブン 新たなる英雄たちの序章",
+    "synonyms": [
+      "Inazuma Eleven the Movie: Prologue of New Heroes",
+      "Gekijouban Inazuma Eleven: Aratanaru Eiyuutachi no Joshou"
+    ],
+    "tmdb_title": "Inazuma Eleven the Movie: Prologue of New Heroes"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2024,
+  "episodes": 1,
+  "start_date": {
+    "year": 2024,
+    "month": 12,
+    "day": 27
+  },
+  "end_date": {
+    "year": 2024,
+    "month": 12,
+    "day": 27
+  },
+  "description": "Adaptation of the prologue of \"Inazuma Eleven: Victory Road\" video game.",
+  "genres": [
+    "Action",
+    "Sports"
+  ],
+  "tags": [],
+  "studios": [
+    "MAPPA"
+  ],
+  "producers": [],
+  "source": "VIDEO_GAME",
+  "country": "JP",
+  "score_anilist": 70,
+  "popularity": 1724,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180806-K1PAxlhjN2TN.jpg",
+    "poster_color": "#f1e41a",
+    "banner": "https://image.tmdb.org/t/p/original/jvZhCQ5maM4VtoCgEd7AkQsAAkp.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/8vlRWVcz6D5EF73UZsgjuw0o9w1.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/jvZhCQ5maM4VtoCgEd7AkQsAAkp.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180806-K1PAxlhjN2TN.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T07:45:33.914Z",
+  "cache_version": 1
+}

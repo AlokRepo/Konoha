@@ -1,0 +1,78 @@
+{
+  "ids": {
+    "anilist": 3898,
+    "mal": 3898,
+    "anidb": 951,
+    "tmdb": 74619,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Mazinger Z vs. Devilman",
+    "english": "Mazinger Z vs. Devilman",
+    "native": "マジンガーＺ対デビルマン",
+    "synonyms": [
+      "Mazinger Z tai Devilman",
+      "Mazinger Z versus Devilman"
+    ],
+    "tmdb_title": "Mazinger Z vs. Devilman"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 1973,
+  "episodes": 1,
+  "duration": 43,
+  "start_date": {
+    "year": 1973,
+    "month": 7,
+    "day": 18
+  },
+  "end_date": {
+    "year": 1973,
+    "month": 7,
+    "day": 18
+  },
+  "description": "The heroes of the series Mazinger Z and Devilman fighting against the evil Demon Clan.",
+  "genres": [
+    "Adventure",
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Demons",
+    "Shounen",
+    "Super Robot",
+    "Crossover"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [
+    "Dynamic Planning"
+  ],
+  "country": "JP",
+  "score_anilist": 57,
+  "popularity": 1844,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3898.jpg",
+    "poster_color": "#f15d35",
+    "banner": "https://image.tmdb.org/t/p/original/oQWkW5AS7lZXw0YjI6WkK9tFA3v.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/g54ikhveHSb8KSI3CE0bwkYT0UR.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/oQWkW5AS7lZXw0YjI6WkK9tFA3v.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3898.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T07:42:50.789Z",
+  "cache_version": 1
+}
