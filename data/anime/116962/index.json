@@ -1,0 +1,74 @@
+{
+  "ids": {
+    "anilist": 116962,
+    "mal": 41519,
+    "anidb": 15470,
+    "tmdb": 690511,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Monster Strike THE MOVIE: Lucifer - Zetsubou no Yoake",
+    "english": "Monster Strike the Movie: Lucifer Dawn of Despair",
+    "native": "モンスターストライク THE MOVIE ルシファー 絶望の夜明け",
+    "synonyms": [],
+    "tmdb_title": "Monster Strike the Movie: Lucifer Dawn of Despair"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2020,
+  "episodes": 1,
+  "duration": 127,
+  "start_date": {
+    "year": 2020,
+    "month": 11,
+    "day": 6
+  },
+  "end_date": {
+    "year": 2020,
+    "month": 11,
+    "day": 6
+  },
+  "genres": [
+    "Action",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Studio Anima"
+  ],
+  "producers": [
+    "XFLAG",
+    "Dynamo Pictures"
+  ],
+  "source": "VIDEO_GAME",
+  "country": "JP",
+  "score_anilist": 61,
+  "popularity": 1221,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116962-t13ZFswm5iar.jpg",
+    "poster_color": "#e4ae35",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/116962-4O6MwQ4GxFcl.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/tE4rhN2KUk191HxZkDjdZk9UVd.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/f85XNO8UyVfAreXvWcjPCYI5SWH.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116962-t13ZFswm5iar.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/monster-strike-the-movie-lucifer-dawn-of-despair"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T07:57:43.381Z",
+  "cache_version": 1
+}

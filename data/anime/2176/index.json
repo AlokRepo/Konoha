@@ -1,0 +1,77 @@
+{
+  "ids": {
+    "anilist": 2176,
+    "mal": 2176,
+    "anidb": 5085,
+    "tmdb": 33469,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Kiddy Grade: Kakusei-hen",
+    "english": "Kiddy Grade: Ignition",
+    "native": "キディ・グレイド　劇場版　第一部: 覚醒篇",
+    "synonyms": [
+      "Kiddy Grade - Kakusei Hen",
+      "Kiddy Grade Movie 1"
+    ],
+    "tmdb_title": "Kiddy Grade I: Ignition"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2007,
+  "episodes": 1,
+  "duration": 84,
+  "start_date": {
+    "year": 2007,
+    "month": 4,
+    "day": 7
+  },
+  "end_date": {
+    "year": 2007,
+    "month": 4,
+    "day": 7
+  },
+  "description": "This Movie is a recap of the original anime's first quarter.",
+  "genres": [
+    "Action",
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Space"
+  ],
+  "studios": [
+    "GONZO",
+    "Asread"
+  ],
+  "producers": [
+    "gimik"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 65,
+  "popularity": 1256,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2176-sxQLlNqACt9Q.png",
+    "poster_color": "#e45d78",
+    "banner": "https://image.tmdb.org/t/p/original/9Iw1EuYNuPSDgXQ59jKUvshbCdV.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/WKHTyOQgdUxFpbbkTqWc0NGJtv.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/9Iw1EuYNuPSDgXQ59jKUvshbCdV.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2176-sxQLlNqACt9Q.png"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 85,
+  "match_signals": [
+    "synonyms_match",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T07:57:05.085Z",
+  "cache_version": 1
+}
