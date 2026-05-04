@@ -1,0 +1,81 @@
+{
+  "ids": {
+    "anilist": 103872,
+    "mal": 38089,
+    "anidb": 14241,
+    "tmdb": 84638,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Okoshiyasu, Chitose-chan",
+    "english": "Welcome, Chitose",
+    "native": "おこしやす、ちとせちゃん",
+    "synonyms": [
+      "Welcome, Chitose-chan"
+    ],
+    "tmdb_title": "Welcome, Chitose-chan"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2018,
+  "episodes": 24,
+  "duration": 3,
+  "start_date": {
+    "year": 2018,
+    "month": 10,
+    "day": 6
+  },
+  "end_date": {
+    "year": 2019,
+    "month": 3,
+    "day": 23
+  },
+  "description": "The \"soothing short\" manga follows Chitose, a fluffy Emperor penguin chick living in Kyoto. The stories depict such familiar Kyoto locales as Togetsu-kyo bridge, Arashiyama Bamboo Grove, Fushimi Inari-taisha shrine, and Kiyomizu-dera temple from a penguin's perspective, as well as Kyoto cuisine.\n<br><br>\n(Source: Anime News Network)",
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Episodic",
+    "Animals",
+    "Josei",
+    "Anthropomorphism",
+    "Female Protagonist"
+  ],
+  "studios": [],
+  "producers": [
+    "Gathering"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 60,
+  "popularity": 2538,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b103872-diW9WXYCIzrv.jpg",
+    "poster_color": "#35aeff",
+    "banner": "https://image.tmdb.org/t/p/original/IYTuMPTjyM6VshlkWZqpMIabQd.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/w18OKZq4jrirw2g1eVVDx0jSrRA.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/IYTuMPTjyM6VshlkWZqpMIabQd.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b103872-diW9WXYCIzrv.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/welcome-chitose"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T05:35:24.815Z",
+  "cache_version": 1
+}

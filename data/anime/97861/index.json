@@ -1,0 +1,72 @@
+{
+  "ids": {
+    "anilist": 97861,
+    "mal": 23539,
+    "anidb": 10577,
+    "tmdb": 106963,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Gudetama",
+    "english": null,
+    "native": "ぐでたま",
+    "synonyms": [],
+    "tmdb_title": "Gudetama"
+  },
+  "format": "TV_SHORT",
+  "status": "RELEASING",
+  "season": "SPRING",
+  "season_year": 2014,
+  "episodes": 610,
+  "duration": 1,
+  "start_date": {
+    "year": 2014,
+    "month": 3,
+    "day": 31
+  },
+  "end_date": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "description": "Gudetama, an egg that is dead to the world and completely lacks motivation. No matter what cooking method you use, Gudetama remains unmoved.",
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [
+    "Sanrio",
+    "Gathering"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 61,
+  "popularity": 2526,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/97861-IIUEKYDc3Kkv.jpg",
+    "poster_color": "#febb50",
+    "banner": "https://image.tmdb.org/t/p/original/2M04YgODDQ7XGxibBuimckCsmyd.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/8fj5hbt6sa7eMImMbIoSMa4e5BP.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/2M04YgODDQ7XGxibBuimckCsmyd.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/97861-IIUEKYDc3Kkv.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLS-7gvHvjh_CW6pL2lSHtu0CO_iUAj8E9"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T05:35:40.743Z",
+  "cache_version": 1
+}

@@ -1,0 +1,82 @@
+{
+  "ids": {
+    "anilist": 124028,
+    "mal": 42883,
+    "anidb": 15727,
+    "tmdb": 109786,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Sore dake ga Neck",
+    "english": "That is the Bottleneck",
+    "native": "それだけがネック",
+    "synonyms": [
+      "Ahí está el cuello de botella"
+    ],
+    "tmdb_title": "That is the Bottleneck"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2020,
+  "episodes": 12,
+  "duration": 4,
+  "start_date": {
+    "year": 2020,
+    "month": 10,
+    "day": 13
+  },
+  "end_date": {
+    "year": 2021,
+    "month": 1,
+    "day": 5
+  },
+  "description": "The employees at the Hot Hot Mart may seem a bit ordinary and mundane. From slightly unproductive chatter and everyone’s obsession with technology, to the laziness of the store manager, is everyone okay...? But everything isn’t as it seems—especially with Muto, the mysterious worker whose face is concealed and is followed by an ominous cat. Get ready to see what happens before the next shift!<br>\n<br>\n(Source: Funimation)",
+  "genres": [
+    "Comedy",
+    "Mystery"
+  ],
+  "tags": [
+    "Work",
+    "Food",
+    "Animals",
+    "Konbini",
+    "Primarily Adult Cast"
+  ],
+  "studios": [
+    "TIA"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 53,
+  "popularity": 2494,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124028-TQx8cy5DM2k4.png",
+    "poster_color": "#e44386",
+    "banner": "https://image.tmdb.org/t/p/original/8G6MVJcRJQX5QmdM98jf0jnFkRt.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/ylA3JsaXErXRRWGii3BxdsPchov.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/8G6MVJcRJQX5QmdM98jf0jnFkRt.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124028-TQx8cy5DM2k4.png"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/that-is-the-bottleneck"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T05:36:21.949Z",
+  "cache_version": 1
+}

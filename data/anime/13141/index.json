@@ -1,0 +1,74 @@
+{
+  "ids": {
+    "anilist": 13141,
+    "mal": 13141,
+    "anidb": 8986,
+    "tmdb": 55413,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Shiba Inuko-san",
+    "english": null,
+    "native": "しばいぬ子さん",
+    "synonyms": [
+      "Shibainuko-san"
+    ],
+    "tmdb_title": "Shiba Inuko-san"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2012,
+  "episodes": 26,
+  "duration": 2,
+  "start_date": {
+    "year": 2012,
+    "month": 4,
+    "day": 1
+  },
+  "end_date": {
+    "year": 2012,
+    "month": 9,
+    "day": 23
+  },
+  "description": "Shibainuko-san is a 14-year-old girl who looks exactly like a Shiba Inu dog. One of her classmates, Ishibashi Chako, wonders about her appearance, but no one else thinks it is strange.",
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [
+    "Animals",
+    "School"
+  ],
+  "studios": [
+    "Hotline"
+  ],
+  "producers": [
+    "DAX Production",
+    "Dream Creation"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 53,
+  "popularity": 2586,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13141.jpg",
+    "poster_color": "#e4ae50",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/7pmP6ZSuQ4QChD8EI5WugOYKoX.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13141.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T05:35:02.392Z",
+  "cache_version": 1
+}

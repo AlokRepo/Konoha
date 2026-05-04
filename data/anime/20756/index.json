@@ -1,0 +1,76 @@
+{
+  "ids": {
+    "anilist": 20756,
+    "mal": 24835,
+    "anidb": 10708,
+    "tmdb": 101358,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Kidou Senshi Gundam-san",
+    "english": "Mobile Suit Gundam-san",
+    "native": "機動戦士ガンダムさん",
+    "synonyms": [
+      "Gundam Sousei"
+    ],
+    "tmdb_title": "Mobile Suit Gundam-san"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 2014,
+  "episodes": 13,
+  "duration": 3,
+  "start_date": {
+    "year": 2014,
+    "month": 7,
+    "day": 6
+  },
+  "end_date": {
+    "year": 2014,
+    "month": 9,
+    "day": 28
+  },
+  "description": "Anime adaptation of the 4-coma manga Mobile Suit Gundam-san.",
+  "genres": [
+    "Comedy",
+    "Mecha"
+  ],
+  "tags": [
+    "Parody",
+    "Chibi",
+    "Space",
+    "Ensemble Cast"
+  ],
+  "studios": [
+    "Sunrise"
+  ],
+  "producers": [],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 57,
+  "popularity": 2944,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20756.jpg",
+    "poster_color": "#ffd600",
+    "banner": "https://image.tmdb.org/t/p/original/zt69hGDZzLm6GBwv45TxIdekSZV.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/w4PFrBj0Yjb3SEc8b5upJBhh1NA.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/zt69hGDZzLm6GBwv45TxIdekSZV.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20756.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T05:33:07.024Z",
+  "cache_version": 1
+}

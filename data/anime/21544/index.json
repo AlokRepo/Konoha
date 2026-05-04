@@ -1,0 +1,78 @@
+{
+  "ids": {
+    "anilist": 21544,
+    "mal": 32309,
+    "anidb": 11835,
+    "tmdb": 90401,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Tabimachi Late Show",
+    "english": "Tabimachi Lateshow",
+    "native": "旅街レイトショー",
+    "synonyms": [],
+    "tmdb_title": "Tabi Machi Late Show"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2016,
+  "episodes": 4,
+  "duration": 8,
+  "start_date": {
+    "year": 2016,
+    "month": 1,
+    "day": 8
+  },
+  "end_date": {
+    "year": 2016,
+    "month": 1,
+    "day": 29
+  },
+  "description": "Four episodes with the theme of “goodbyes and journeys.\"",
+  "genres": [
+    "Drama",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Coming of Age",
+    "Episodic",
+    "Anthology",
+    "Teacher"
+  ],
+  "studios": [
+    "CoMix Wave"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 58,
+  "popularity": 2992,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21544-qFG8EqG95Kue.jpg",
+    "poster_color": "#ff781a",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21544-aC3A2uTzPmmm.png",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/4w5Jft6hvjf7v3nO1LtRBH5pDV1.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/dIwV8FPNaKXPSixJazKyIAEJKTf.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21544-qFG8EqG95Kue.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/tabimachi-lateshow"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 91,
+  "match_signals": [
+    "synonyms_match",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T05:32:23.967Z",
+  "cache_version": 1
+}
