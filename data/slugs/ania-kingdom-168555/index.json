@@ -1,0 +1,75 @@
+{
+  "ids": {
+    "anilist": 168555,
+    "tmdb": 221646,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Bouken Tairiku Ania Kingdom",
+    "english": "ANIA KINGDOM",
+    "native": "冒険大陸 アニアキングダム",
+    "synonyms": [],
+    "tmdb_title": "Ania Kingdom"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2023,
+  "episodes": 39,
+  "duration": 10,
+  "start_date": {
+    "year": 2023,
+    "month": 4,
+    "day": 2
+  },
+  "end_date": {
+    "year": 2023,
+    "month": 12,
+    "day": 24
+  },
+  "description": "An anime based on Takara-Tomy's ANIA toyline.",
+  "genres": [
+    "Adventure"
+  ],
+  "tags": [
+    "Dinosaurs"
+  ],
+  "studios": [
+    "OLM",
+    "Infinity Vision"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "popularity": 101,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168555-N4NuTOAiyYsF.jpg",
+    "poster_color": "#e4ae1a",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/kDX1H8gb7mzauWscz73yitvou1i.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168555-N4NuTOAiyYsF.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLf6_TnbbWsrmNKRgbcdHDHHCBri11ORWI"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLhWipIfRhqz34m0ZbRs52MO2ML8mKoOcw"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 140,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_close",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T06:37:48.160Z",
+  "cache_version": 1
+}
