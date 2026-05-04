@@ -3,7 +3,8 @@
     "anilist": 20736,
     "mal": 21473,
     "tmdb": 297189,
-    "tmdb_type": "movie"
+    "tmdb_type": "movie",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "PERSONA 3 THE MOVIE: #2 Midsummer Knight's Dream",
@@ -67,7 +68,7 @@
   "source": "VIDEO_GAME",
   "country": "JP",
   "score_anilist": 74,
-  "popularity": 25128,
+  "popularity": 25150,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20736-jVcCYKzdrwA4.png",
@@ -77,7 +78,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/wUJduJu1LY0CFEJwyvrK7fEKCNk.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20736-jVcCYKzdrwA4.png"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 130,
@@ -87,6 +93,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T06:40:23.641Z",
+  "cached_at": "2026-05-04T17:39:25.784Z",
   "cache_version": 1
 }
