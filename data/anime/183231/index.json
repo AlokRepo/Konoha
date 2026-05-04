@@ -1,0 +1,83 @@
+{
+  "ids": {
+    "anilist": 183231,
+    "mal": 60153,
+    "anidb": 18936,
+    "tmdb": 299144,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Rilakkuma: Goyururi Yume no Tabi",
+    "english": "RILAKKUMA",
+    "native": "リラックマ ～ごゆるり夢の旅～",
+    "synonyms": [
+      "リラックマ アニメ",
+      "Rilakkuma Anime",
+      "RILAKKUMA: A Leisurely Dream Journey"
+    ],
+    "tmdb_title": "Rilakkuma"
+  },
+  "format": "TV_SHORT",
+  "status": "RELEASING",
+  "season": "SPRING",
+  "season_year": 2026,
+  "episodes": 5,
+  "duration": 1,
+  "start_date": {
+    "year": 2026,
+    "month": 4,
+    "day": 4
+  },
+  "end_date": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "next_airing": {
+    "episode": 6,
+    "at": "2026-05-09T00:26:00.000Z"
+  },
+  "description": "Everyday life gets a cozy twist with the laid-back Rilakkuma. Gentle moments of friendship, change, and small joys unfold, turning ordinary moments into something quietly magical—one soft, comforting day at a time.\n<br><br>\nIt's a moment that will make your heart feel lighter and lighter. No matter where you are or what you're doing, Rilakkuma will be by your side. An exciting new story begins! Experience the stress-free world of Rilakkuma, the relaxed bear who makes being lazy look effortless!<br><br>\n(Source: Crunchyroll, Rilakkuma Anime Site, translated)",
+  "genres": [
+    "Fantasy",
+    "Slice of Life"
+  ],
+  "tags": [],
+  "studios": [
+    "Production I.G"
+  ],
+  "producers": [
+    "Aniplex"
+  ],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 53,
+  "popularity": 1093,
+  "trending": 4,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b183231-z7SgjmXZBcoX.png",
+    "poster_color": "#28c9e4",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183231-JFjTqQe3rPCw.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/daHe9FgalV98dq9FyWpXNyF2ElN.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/lHIfDwuhQcLVI8bncg2gXATgINz.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b183231-z7SgjmXZBcoX.png"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/series/GT00374493/rilakkuma"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T05:51:43.392Z",
+  "cache_version": 1
+}

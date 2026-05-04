@@ -1,0 +1,77 @@
+{
+  "ids": {
+    "anilist": 7723,
+    "mal": 7723,
+    "anidb": 7247,
+    "tmdb": 85910,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Hipira-kun",
+    "english": null,
+    "native": "ヒピラくん",
+    "synonyms": [
+      "Hipira: The Little Vampire"
+    ],
+    "tmdb_title": "Hipira: The Little Vampire"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2009,
+  "episodes": 10,
+  "duration": 5,
+  "start_date": {
+    "year": 2009,
+    "month": 12,
+    "day": 21
+  },
+  "end_date": {
+    "year": 2009,
+    "month": 12,
+    "day": 25
+  },
+  "description": "In the city of Salta, a place where the sun never shines, a community of vampires lives. Hipira is a little vampire who lives the life of a typical boy, attending school and dealing with bullies along the way. However, he also has a soft spot for exploring, playing pranks on others and having grand adventures! Whether he's befriending a human soul, scaring his neighbours by pretending day has come or encountering giant frogs and aliens, Hipira is always getting himself into and out of trouble.",
+  "genres": [
+    "Comedy",
+    "Fantasy",
+    "Supernatural"
+  ],
+  "tags": [],
+  "studios": [
+    "Sunrise"
+  ],
+  "producers": [],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 54,
+  "popularity": 993,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b7723-Y2Kjg4YSv1bI.jpg",
+    "poster_color": "#f1d693",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/7723-vH1gW8DjmzrP.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/ftptVyDRjeHayi0pcw2NFXpjjaZ.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/hoEMt0fxDdBGeUYDj1DnPXXwuAf.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b7723-Y2Kjg4YSv1bI.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Tubi TV",
+      "url": "https://tubitv.com/series/2098/hipira"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 140,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_close",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T05:53:19.478Z",
+  "cache_version": 1
+}

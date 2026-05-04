@@ -1,0 +1,81 @@
+{
+  "ids": {
+    "anilist": 99884,
+    "mal": 38413,
+    "anidb": 14560,
+    "tmdb": 90911,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Arad: Suming Zhi Men",
+    "english": null,
+    "native": "阿拉德：宿命之门",
+    "synonyms": [
+      "阿拉徳 宿命之門",
+      "Arad De: Suming Zhi Men",
+      "アラド：運命の門",
+      "Arad: Shukumei no Mon",
+      "Dungeon Fighter Online: The Fate of Arad"
+    ],
+    "tmdb_title": "Dungeon & Fighter"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "episodes": 20,
+  "duration": 15,
+  "start_date": {
+    "year": 2017,
+    "month": 4,
+    "day": 28
+  },
+  "end_date": {
+    "year": 2017,
+    "month": 9,
+    "day": 8
+  },
+  "description": "",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Dangun Pictures"
+  ],
+  "producers": [
+    "Success",
+    "Tencent Animation & Comics"
+  ],
+  "source": "VIDEO_GAME",
+  "country": "CN",
+  "score_anilist": 47,
+  "popularity": 1185,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/99884-2T0g49MO5GPr.jpg",
+    "poster_color": "#e49350",
+    "banner": "https://image.tmdb.org/t/p/original/o3sN0DNN3MMaDvAAnc8u7pg7JyW.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/aXnmx82uzzjRdvTXn5NIbqfdTRX.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/o3sN0DNN3MMaDvAAnc8u7pg7JyW.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/99884-2T0g49MO5GPr.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md5855"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 97,
+  "match_signals": [
+    "english_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T05:50:43.380Z",
+  "cache_version": 1
+}

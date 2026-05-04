@@ -1,0 +1,83 @@
+{
+  "ids": {
+    "anilist": 5304,
+    "mal": 5304,
+    "anidb": 6111,
+    "tmdb": 43593,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Akiba-chan",
+    "english": "Maison de Castle",
+    "native": "アキバちゃん",
+    "synonyms": [],
+    "tmdb_title": "Maison de Castle"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 2008,
+  "episodes": 10,
+  "duration": 5,
+  "start_date": {
+    "year": 2008,
+    "month": 7,
+    "day": 25
+  },
+  "end_date": {
+    "year": 2008,
+    "month": 8,
+    "day": 1
+  },
+  "description": "Akiba-chan focuses on the daily life of Akiba-chan and four fellow TV and game fans in the Maison de Akiba apartments.",
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Stop Motion",
+    "Puppetry",
+    "Kids",
+    "Nekomimi",
+    "Primarily Female Cast"
+  ],
+  "studios": [],
+  "producers": [
+    "Kids Station"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 52,
+  "popularity": 1124,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5304.jpg",
+    "poster_color": "#e49328",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/5304-QWVzpFECsxYQ.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/dfCN7NuVMHaL6SyVFJJijsl1LB7.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/lTD8Xvyb869DFUSiR571Z9NpwLv.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5304.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PL2ResdTzMgwvwTAn4TzEaVlpcBOgIS6g4"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PL2ResdTzMgwvVaf6hc5mx-8aUgvK6G0gR"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T05:51:13.679Z",
+  "cache_version": 1
+}

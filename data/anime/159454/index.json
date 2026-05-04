@@ -1,0 +1,85 @@
+{
+  "ids": {
+    "anilist": 159454,
+    "mal": 53907,
+    "anidb": 19367,
+    "tmdb": 235973,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Tom to Jerry Gokko",
+    "english": "Tom and Jerry Gokko",
+    "native": "とむとじぇりーごっこ",
+    "synonyms": [
+      "Tom and Jerry (2022)",
+      "Tom to Jerry"
+    ],
+    "tmdb_title": "Tom & Jerry Gokko"
+  },
+  "format": "TV_SHORT",
+  "status": "RELEASING",
+  "season": "FALL",
+  "season_year": 2022,
+  "episodes": 29,
+  "duration": 1,
+  "start_date": {
+    "year": 2022,
+    "month": 11,
+    "day": 11
+  },
+  "end_date": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "description": "To celebrate \"Cheese Day,\" (November 11 in Japan), Cartoon Network Japan debuted an anime spin on Tom and Jerry that combines the fast-paced humor of the original with a cute, \"pop\" worldview. The pair are joined by the diaper-wearing Tuffy Mouse, another recurring character from the classic cartoon.<br><br>\n\n(Source: Crunchyroll)",
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [
+    "Animals",
+    "No Dialogue",
+    "Slapstick",
+    "Anti-Hero",
+    "Primarily Animal Cast",
+    "Episodic",
+    "Kids",
+    "Anthropomorphism"
+  ],
+  "studios": [
+    "Fanworks",
+    "Studio Nanahoshi"
+  ],
+  "producers": [],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 62,
+  "popularity": 955,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159454-I5i5E5kXDsEY.png",
+    "poster_color": "#e4a15d",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/159454-1ODdCzXUSyLK.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/84zlQkxP9BOWjnaAfomySTNAmzH.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/f4OtyKwExRaABAmtL6RKo1BZmsz.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159454-I5i5E5kXDsEY.png"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLizFMbnOjAaXZeJqs6cviNVn8CzMe8quk"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 84,
+  "match_signals": [
+    "synonyms_match",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T05:54:00.125Z",
+  "cache_version": 1
+}

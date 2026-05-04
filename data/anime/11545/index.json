@@ -1,0 +1,63 @@
+{
+  "ids": {
+    "anilist": 11545,
+    "mal": 11545,
+    "anidb": 4948,
+    "tmdb": 225790,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Happyakuya-chou Hyouri no Kewaishi",
+    "english": "108 Ward Inside and Out: Make-Up Artist",
+    "native": "八百八町表裏 化粧師",
+    "synonyms": [
+      "808 Chou Hyouri no Kewaishi"
+    ],
+    "tmdb_title": "Happyakuyachou Hyouri no Kewaishi"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 1990,
+  "episodes": 22,
+  "duration": 12,
+  "start_date": {
+    "year": 1990,
+    "month": 10,
+    "day": 9
+  },
+  "end_date": {
+    "year": 1991,
+    "month": 4,
+    "day": 30
+  },
+  "genres": [],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "country": "JP",
+  "score_anilist": 66,
+  "popularity": 1016,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11545-L1NFW3jUQmWa.jpg",
+    "poster_color": "#e4781a",
+    "banner": "https://image.tmdb.org/t/p/original/aR8QtFFG8lwmu91XyXGOC4trLlQ.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/70lSAsfJgSwkdsXwmy8p4rgSs1M.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/aR8QtFFG8lwmu91XyXGOC4trLlQ.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11545-L1NFW3jUQmWa.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 91,
+  "match_signals": [
+    "synonyms_match",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T05:52:40.342Z",
+  "cache_version": 1
+}

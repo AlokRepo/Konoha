@@ -1,0 +1,75 @@
+{
+  "ids": {
+    "anilist": 202419,
+    "mal": 62864,
+    "anidb": 19821,
+    "tmdb": 304126,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Omae wa Mada Gunma wo Shiranai: Reiwa-ban",
+    "english": "You don't know Gunma yet.: Reiwa version",
+    "native": "お前はまだグンマを知らない～令和版～ ",
+    "synonyms": [],
+    "tmdb_title": "You Don't Know Gunma Yet: Reiwa Version"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2026,
+  "episodes": 12,
+  "duration": 6,
+  "start_date": {
+    "year": 2026,
+    "month": 1,
+    "day": 10
+  },
+  "end_date": {
+    "year": 2026,
+    "month": 3,
+    "day": 14
+  },
+  "description": "Light anime for <i>Omae wa Mada Gunma wo Shiranai</i>.",
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [
+    "Imageworks Studio"
+  ],
+  "producers": [
+    "Imagica Infos"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 42,
+  "popularity": 1216,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202419-BmPPSzsegbcv.png",
+    "poster_color": "#e4505d",
+    "banner": "https://image.tmdb.org/t/p/original/kucKtc0WPwAjjubldK8vy4LJTq0.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/nICqph416VMkDYcdamYgZBeSwO2.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/kucKtc0WPwAjjubldK8vy4LJTq0.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202419-BmPPSzsegbcv.png"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T05:50:11.018Z",
+  "cache_version": 1
+}

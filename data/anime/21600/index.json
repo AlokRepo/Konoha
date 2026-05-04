@@ -1,0 +1,73 @@
+{
+  "ids": {
+    "anilist": 21600,
+    "mal": 32572,
+    "anidb": 11888,
+    "tmdb": 119251,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Neko Neko Nihonshi",
+    "english": "Meow Meow Japanese History",
+    "native": "ねこねこ日本史",
+    "synonyms": [],
+    "tmdb_title": "Neko Neko Nihonshi"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2016,
+  "episodes": 32,
+  "duration": 9,
+  "start_date": {
+    "year": 2016,
+    "month": 4,
+    "day": 6
+  },
+  "end_date": {
+    "year": 2017,
+    "month": 2,
+    "day": 22
+  },
+  "description": "The story imagines if Japanese historical figures such as Queen Himiko, the warlord Oda Nobunaga, and samurai Sakamoto Ryouma were cats.\n<br><br>\n(Source: Anime News Network)",
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [
+    "Historical"
+  ],
+  "studios": [],
+  "producers": [
+    "Joker Films"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 57,
+  "popularity": 1221,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21600-I9uNvjRBlrLB.jpg",
+    "poster_color": "#d65d1a",
+    "banner": "https://image.tmdb.org/t/p/original/yugXx9ITD5WUqXsV1lBr0SzG74u.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/vUWwnsZwmczmQiPtBBhLysmRP5r.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/yugXx9ITD5WUqXsV1lBr0SzG74u.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21600-I9uNvjRBlrLB.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/meow-meow-japanese-history"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 95,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T05:50:02.999Z",
+  "cache_version": 1
+}
