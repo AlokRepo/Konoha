@@ -1,0 +1,87 @@
+{
+  "ids": {
+    "anilist": 677,
+    "mal": 677,
+    "anidb": 1298,
+    "tmdb": 25004,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Sentimental Journey",
+    "english": null,
+    "native": "センチメンタルジャーニー",
+    "synonyms": [
+      "青涩宝贝"
+    ],
+    "tmdb_title": "Sentimental Journey"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 1998,
+  "episodes": 12,
+  "duration": 20,
+  "start_date": {
+    "year": 1998,
+    "month": 4,
+    "day": 8
+  },
+  "end_date": {
+    "year": 1998,
+    "month": 7,
+    "day": 1
+  },
+  "description": "Sentimental Journey is a collection of twelve short stories about twelve different girls. Though unrelated, there is one common theme that binds the episodes together: each girl's bittersweet experience of first love.\n<br><br>\n(Source: Anime News Network)",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "Primarily Female Cast",
+    "Coming of Age",
+    "Episodic",
+    "Urban",
+    "LGBTQ+ Themes"
+  ],
+  "studios": [
+    "Sunrise"
+  ],
+  "producers": [
+    "Media Blasters",
+    "TV Tokyo",
+    "Banpresto",
+    "Mitsubishi Corporation"
+  ],
+  "source": "VISUAL_NOVEL",
+  "country": "JP",
+  "score_anilist": 64,
+  "popularity": 2132,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx677-6OEaKiSZQ9vC.png",
+    "poster_color": "#e46b50",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/677-oLyr9zJkJ0u6.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/igB2u6nTyaFBamzKn8iTkOZ5tqs.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/iemof2LIR9rxcRscimplCa1ALNp.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx677-6OEaKiSZQ9vC.png"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md2257"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T03:11:26.141Z",
+  "cache_version": 1
+}

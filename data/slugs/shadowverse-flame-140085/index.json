@@ -1,0 +1,78 @@
+{
+  "ids": {
+    "anilist": 140085,
+    "mal": 50060,
+    "anidb": 16855,
+    "tmdb": 98823,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Shadowverse Flame",
+    "english": "Shadowverse Flame",
+    "native": "シャドウバースF（フレイム）",
+    "synonyms": [],
+    "tmdb_title": "Shadowverse"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2022,
+  "episodes": 50,
+  "duration": 24,
+  "start_date": {
+    "year": 2022,
+    "month": 4,
+    "day": 2
+  },
+  "end_date": {
+    "year": 2023,
+    "month": 3,
+    "day": 25
+  },
+  "description": "<i>Shadowverse Flame</i> features a new protagonist Light Tenryu and its story is set in Shadovar College, a facility that trains professional players of the Shadowverse game. Tenryu Light, a transfer student, decides to join \"Seventh Flame,\" one of the seven Shadovar clubs. However, Seventh Flame is on the verge of closure due to a lack of members! In order to avoid the club's demise, Light decides to look for new members. But what awaits him are powerful rivals who control a wide variety of cards...\n<br><br>\n(Source: Crunchyroll, edited)",
+  "genres": [
+    "Fantasy"
+  ],
+  "tags": [
+    "Card Battle",
+    "College"
+  ],
+  "studios": [
+    "ZEXCS"
+  ],
+  "producers": [
+    "Sonilude",
+    "TV Tokyo"
+  ],
+  "source": "VIDEO_GAME",
+  "country": "JP",
+  "score_anilist": 65,
+  "popularity": 2762,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140085-3VhIbUc8HKYi.jpg",
+    "poster_color": "#e48628",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140085-hLyuk7rMu1PG.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/5OaguSPlSrfE1JCSsymwDXsdbz6.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/qsL4S4Wfq3bhECdwRe5bhVYrTys.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140085-3VhIbUc8HKYi.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/shadowverse"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 80,
+  "match_signals": [
+    "english_title",
+    "season_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T02:53:36.980Z",
+  "cache_version": 1
+}

@@ -1,0 +1,73 @@
+{
+  "ids": {
+    "anilist": 10014,
+    "mal": 10014,
+    "anidb": 8136,
+    "tmdb": 44577,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Shouwa Monogatari",
+    "english": null,
+    "native": "昭和物語 TV",
+    "synonyms": [
+      "Showa Monogatari TV"
+    ],
+    "tmdb_title": "Showa Monogatari"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2011,
+  "episodes": 13,
+  "duration": 25,
+  "start_date": {
+    "year": 2011,
+    "month": 4,
+    "day": 4
+  },
+  "end_date": {
+    "year": 2011,
+    "month": 6,
+    "day": 26
+  },
+  "description": "Dramatic story of the Yamazaki family during the year Showa 39 (1964), the year that Tokyo hosted the Summer Olympics.",
+  "genres": [
+    "Drama"
+  ],
+  "tags": [
+    "Historical",
+    "Family Life"
+  ],
+  "studios": [
+    "WAO World"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 56,
+  "popularity": 1498,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10014.jpg",
+    "poster_color": "#f19343",
+    "banner": "https://image.tmdb.org/t/p/original/3zbDX1niS6sRvcLYCqRVDKgPenz.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/7T6XT9536fSeWJrVThamLwJOymq.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/3zbDX1niS6sRvcLYCqRVDKgPenz.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10014.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 139,
+  "match_signals": [
+    "english_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T03:37:58.968Z",
+  "cache_version": 1
+}

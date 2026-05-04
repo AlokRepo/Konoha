@@ -1,0 +1,76 @@
+{
+  "ids": {
+    "anilist": 2825,
+    "mal": 2825,
+    "anidb": 785,
+    "tmdb": 21174,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Arabian Nights: Sindbad no Bouken",
+    "english": "Sinbad the Sailor",
+    "native": "アラビアンナイト シンドバットの冒険",
+    "synonyms": [
+      "The Arabian Nights: Adventures of Sinbad",
+      "مغامرات سندباد"
+    ],
+    "tmdb_title": "Sindbad the Sailor"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 1975,
+  "episodes": 52,
+  "duration": 20,
+  "start_date": {
+    "year": 1975,
+    "month": 10,
+    "day": 1
+  },
+  "end_date": {
+    "year": 1976,
+    "month": 9,
+    "day": 29
+  },
+  "description": "Based on the famous tale from The Thousand and One Arabian Nights, this story takes place more than 1200 years ago. The story's hero is the impish Sindbad, a mischievous boy full of curiosity, who one night sneaks into the royal palace to watch the acrobatic performances and learns that a wide world awaits beyond Baghdad.<br>\nHearing of the travels of his uncle Captain Ali, Sindbad decides to become a sailor and travel around the world. Leaving behind a note to his father, young Sindbad boards Captain Ali`s ship and-accompanied by a myna called Sheila-sets out for the greatest adventure of his life.<br><br>\n(Source: AniDB)",
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Romance"
+  ],
+  "tags": [
+    "Classic Literature",
+    "Foreign"
+  ],
+  "studios": [
+    "Nippon Animation"
+  ],
+  "producers": [],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 65,
+  "popularity": 1801,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2825-c16jgjs9qzEE.png",
+    "poster_color": "#f1ae0d",
+    "banner": "https://image.tmdb.org/t/p/original/4Qlx42xIZ0Q3AVpP7xCZ5WM7QJD.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/60A2gjXPGD0yGKiYobqBQE2lq0q.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/4Qlx42xIZ0Q3AVpP7xCZ5WM7QJD.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2825-c16jgjs9qzEE.png"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 116,
+  "match_signals": [
+    "synonyms_match",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T03:22:08.003Z",
+  "cache_version": 1
+}
