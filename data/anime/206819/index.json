@@ -1,0 +1,75 @@
+{
+  "ids": {
+    "anilist": 206819,
+    "mal": 63366,
+    "anidb": 19857,
+    "tmdb": 1622621,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Kimi to Hanabi to Yakusoku to",
+    "english": null,
+    "native": "君と花火と約束と",
+    "synonyms": [
+      "KimiHana",
+      "You, Fireworks, and Our Promise"
+    ],
+    "tmdb_title": "You, Fireworks, and Our Promise"
+  },
+  "format": "MOVIE",
+  "status": "NOT_YET_RELEASED",
+  "season": "SUMMER",
+  "season_year": 2026,
+  "episodes": 1,
+  "start_date": {
+    "year": 2026,
+    "month": 7,
+    "day": 17
+  },
+  "end_date": {
+    "year": 2026,
+    "month": 7,
+    "day": 17
+  },
+  "next_airing": {
+    "episode": 1,
+    "at": "2026-07-16T15:00:00.000Z"
+  },
+  "description": "The story centers on two Tokyo high schoolers who connect over a painting of fireworks. They trace the painting to the Nagaoka Fireworks Festival in Niigata, one of Japan's three major fireworks festivals, and to a mysterious promise that connects the two to the past.<br><br>\n\n(Source: Crunchyroll News, edited) \n",
+  "genres": [
+    "Romance"
+  ],
+  "tags": [],
+  "studios": [
+    "SynergySP",
+    "The Answer Studio",
+    "Shin-Ei Animation"
+  ],
+  "producers": [
+    "Shouchiku",
+    "Showgate"
+  ],
+  "source": "LIGHT_NOVEL",
+  "country": "JP",
+  "popularity": 1389,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206819-9VJOdSC6yFET.jpg",
+    "poster_color": "#d6a178",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/fP2BlnOo7D8VZrKaldgQsji6QEV.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206819-9VJOdSC6yFET.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T07:53:11.274Z",
+  "cache_version": 1
+}

@@ -1,0 +1,63 @@
+{
+  "ids": {
+    "anilist": 2652,
+    "mal": 2652,
+    "anidb": 7014,
+    "tmdb": 326238,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Doraemon: Boku no Umareta Hi",
+    "english": "Doraemon: The Day When I Was Born",
+    "native": "ドラえもん ぼくの生まれた日",
+    "synonyms": [],
+    "tmdb_title": "Doraemon: The Day When I Was Born"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2002,
+  "episodes": 1,
+  "duration": 28,
+  "start_date": {
+    "year": 2002,
+    "month": 3,
+    "day": 9
+  },
+  "end_date": {
+    "year": 2002,
+    "month": 3,
+    "day": 9
+  },
+  "description": "Nobita believes that he was adopted. Nobita and Doraemon go back to the day that Nobita was born.",
+  "genres": [
+    "Fantasy"
+  ],
+  "tags": [
+    "Kids"
+  ],
+  "studios": [],
+  "producers": [],
+  "country": "JP",
+  "score_anilist": 68,
+  "popularity": 1402,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2652.jpg",
+    "poster_color": "#f1bb5d",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/rscJ5H4OrT9O7QpqiEVyMAPIrAn.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2652.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T07:52:35.572Z",
+  "cache_version": 1
+}
