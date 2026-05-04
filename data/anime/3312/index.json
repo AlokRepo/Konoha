@@ -1,0 +1,79 @@
+{
+  "ids": {
+    "anilist": 3312,
+    "mal": 3312,
+    "anidb": 532,
+    "tmdb": 113219,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Dr. Slump",
+    "english": null,
+    "native": "ドクタースランプ",
+    "synonyms": [
+      "Dr. Slump 2",
+      "Doctor Slump"
+    ],
+    "tmdb_title": "Dr. Slump"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 1997,
+  "episodes": 74,
+  "duration": 25,
+  "start_date": {
+    "year": 1997,
+    "month": 11,
+    "day": 26
+  },
+  "end_date": {
+    "year": 1999,
+    "month": 9,
+    "day": 22
+  },
+  "description": "Professor Senbe Norimaki, aka Doctor Slump, is a bumbling inventor living with his wife and his out-of-control robot daughter, Arale. The trio frequently get involved in surreal adventures with the other inhabitants of their strange land, which include sentient trees and mountains, a not-so-super superman, and alien invaders that just want to go home.<br>",
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Female Protagonist"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 67,
+  "popularity": 4489,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3312-TKaY87KYR301.jpg",
+    "poster_color": "#e4d650",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/3312-uJuwo1tmPf2G.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/yhsrHk2zBTcw6hhSfh0a3oTAoDG.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/itYm3qYY4uB4II0zd91puV0fs6P.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3312-TKaY87KYR301.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Tubi TV",
+      "url": "https://tubitv.com/series/300007051/dr-slump-subtitled"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T02:21:09.527Z",
+  "cache_version": 1
+}

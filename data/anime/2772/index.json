@@ -1,0 +1,87 @@
+{
+  "ids": {
+    "anilist": 2772,
+    "mal": 2772,
+    "anidb": 5314,
+    "tmdb": 29565,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Jyuushin Enbu: HERO TALES",
+    "english": "Hero Tales",
+    "native": "獣神演武 - HERO TALES -",
+    "synonyms": [
+      "Juushin Enbu",
+      "Juushin Enbu Hero Tales",
+      "Jushin Enbu",
+      "Seven Stars Will Shatter the Empire: Hero Tales"
+    ],
+    "tmdb_title": "Hero Tales"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2007,
+  "episodes": 26,
+  "duration": 24,
+  "start_date": {
+    "year": 2007,
+    "month": 10,
+    "day": 8
+  },
+  "end_date": {
+    "year": 2008,
+    "month": 3,
+    "day": 31
+  },
+  "description": "For citizens of the Ken Empire, justice is a myth. Lord Keiro, the deranged Shogun of the Imperial Army, blazes a trail of terror across the countryside in search of the sacred sword that will make him a god. Standing in his way is Taito, an omnipotent star reborn in human form - a young hero who vows to use his celestial strength to avenge those slaughtered by the villainous Shogun.<br><br>\nTaito's mystical powers steer him toward a violent showdown with Keiro, and if used recklessly, his newfound abilities could shred the very fabric of his being. To master the art of control and become a heroic martial artist, Taito must seek the guidance of others like him: the seven star-born warriors with the strength to shatter a corrupt empire.<br><br>\n(Source: RightStuff)",
+  "genres": [
+    "Action",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Studio Flag"
+  ],
+  "producers": [
+    "Square Enix",
+    "Genco",
+    "Funimation"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 62,
+  "popularity": 4784,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2772.jpg",
+    "poster_color": "#d6281a",
+    "banner": "https://image.tmdb.org/t/p/original/utHdCovMJxEnpSNfIuW5j9WdSiD.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/kXxIN3EHIVA120egKTWmggxvI8u.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/utHdCovMJxEnpSNfIuW5j9WdSiD.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2772.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/hero-tales"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/hero-tales"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T02:16:53.207Z",
+  "cache_version": 1
+}

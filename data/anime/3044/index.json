@@ -1,0 +1,94 @@
+{
+  "ids": {
+    "anilist": 3044,
+    "mal": 3044,
+    "anidb": 1446,
+    "tmdb": 12050,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Tetsuwan Atom (1980)",
+    "english": "Astro Boy (1980)",
+    "native": "鉄腕アトム",
+    "synonyms": [
+      "Tetsuwan Atom",
+      "Astroboy"
+    ],
+    "tmdb_title": "Astro Boy"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 1980,
+  "episodes": 52,
+  "duration": 24,
+  "start_date": {
+    "year": 1980,
+    "month": 10,
+    "day": 1
+  },
+  "end_date": {
+    "year": 1981,
+    "month": 12,
+    "day": 23
+  },
+  "description": "Creating a robotic boy in the image of his recently deceased son Tobio, Professor Tenma thought nothing could go wrong now that his beloved child had been \"reborn\"... that is, until he comes to realize that this invention could never replace his son. Before long, however, the robot is kidnapped and spirited away to a robot circus in America, where he is soon rescued by Dr. Ochanomizu, and taken into his care. Tobio is given the new name Tetsuwan Atom, and transforms into Japan's crime-fighting hero, although his anti-violent pacifist views and overall childlike naivety tend to clash with his battles often.<br><br>\n(Source: Anime News Network)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Robots",
+    "Episodic",
+    "Artificial Intelligence",
+    "Shounen",
+    "Tragedy",
+    "Aliens",
+    "Primarily Male Cast",
+    "Male Protagonist"
+  ],
+  "studios": [
+    "Tezuka Productions"
+  ],
+  "producers": [
+    "Manga Entertainment",
+    "Madman Entertainment"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 68,
+  "popularity": 4331,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx3044-SrS7Q0Y0v38J.png",
+    "poster_color": "#f1ae43",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n3044-oLvIoG7Y5oD0.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/vl2geBaVhcSEjzyk3WeL55ghd3i.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/nDvUaUCrAcfqdswRSRxOZMotS4V.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx3044-SrS7Q0Y0v38J.png"
+  },
+  "streaming": [
+    {
+      "site": "Amazon Prime Video",
+      "url": "https://www.amazon.com/dp/B07F172Q2P"
+    },
+    {
+      "site": "RetroCrush",
+      "url": "https://www.retrocrush.tv/series/016177s/astro-boy"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 99,
+  "match_signals": [
+    "english_title",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T02:24:22.385Z",
+  "cache_version": 1
+}

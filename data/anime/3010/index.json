@@ -1,0 +1,77 @@
+{
+  "ids": {
+    "anilist": 3010,
+    "mal": 3010,
+    "anidb": 2863,
+    "tmdb": 17017,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Kaiketsu Zorro",
+    "english": "The Legend of Zorro",
+    "native": "快傑ゾロ",
+    "synonyms": [
+      "The Magnificent Zorro",
+      "La Légende de Zorro",
+      "La leggenda di Zorro ",
+      "La Leyenda del Zorro",
+      "A Lenda de Zorro"
+    ],
+    "tmdb_title": "The Legend of Zorro"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 1996,
+  "episodes": 52,
+  "duration": 24,
+  "start_date": {
+    "year": 1996,
+    "month": 4,
+    "day": 5
+  },
+  "end_date": {
+    "year": 1997,
+    "month": 4,
+    "day": 14
+  },
+  "description": "Diego Vega returns from his study trip to discover his homeland is under the army's dictatorship. Diego, refusing to watch idly, disguises himself as Zorro to protect the weak and oppressed. Diego is not a coward but he is unable to win the affections of his sweetheart, Lolita, who is attracted to other more noble men. Diego serenades Lolita as Zorro and fights the evils of his homeland, hoping to capture her heart.",
+  "genres": [
+    "Adventure"
+  ],
+  "tags": [
+    "Historical",
+    "Superhero"
+  ],
+  "studios": [
+    "Ashi Productions"
+  ],
+  "producers": [],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 67,
+  "popularity": 2953,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3010.jpg",
+    "poster_color": "#e4d60d",
+    "banner": "https://image.tmdb.org/t/p/original/gbMFTSfDEeSJE1zCfyR6Ra4aJkN.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/gNxDr0pGaYqc1JllTAPXJTvTZUg.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/gbMFTSfDEeSJE1zCfyR6Ra4aJkN.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3010.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T02:49:54.798Z",
+  "cache_version": 1
+}

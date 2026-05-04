@@ -1,0 +1,108 @@
+{
+  "ids": {
+    "anilist": 2577,
+    "mal": 2577,
+    "anidb": 2303,
+    "tmdb": 43513,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Tom Sawyer no Bouken",
+    "english": "The Adventures of Tom Sawyer",
+    "native": "トム・ソーヤーの冒険",
+    "synonyms": [
+      "Sekai Meisaku Gekijou",
+      "World Masterpiece Theater",
+      "WMT"
+    ],
+    "tmdb_title": "The Adventures of Tom Sawyer"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 1980,
+  "episodes": 49,
+  "duration": 25,
+  "start_date": {
+    "year": 1980,
+    "month": 1,
+    "day": 6
+  },
+  "end_date": {
+    "year": 1980,
+    "month": 12,
+    "day": 28
+  },
+  "description": "Tom Sawyer is a young boy growing up along the Mississippi River in the mid 1800s. Along with his best friend Huckleberry Finn, he spends his days ditching school, fishing, climbing trees and having adventures.\n<br><br>\n(Source: Anime News Network)",
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Classic Literature",
+    "Outdoor Activities",
+    "Orphan",
+    "Homeless",
+    "Family Life",
+    "Heterosexual",
+    "Foreign",
+    "Historical",
+    "Primarily Child Cast",
+    "Rural",
+    "Slavery",
+    "Kids",
+    "Male Protagonist",
+    "Steampunk",
+    "Episodic",
+    "School",
+    "Ships",
+    "Crime"
+  ],
+  "studios": [
+    "Nippon Animation"
+  ],
+  "producers": [
+    "Fuji TV"
+  ],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 69,
+  "popularity": 3371,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2577-hQ3UqXtVoHn3.jpg",
+    "poster_color": "#c99335",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2577-PQudkN84UwP2.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/b08ZN0isUCr6WG5GvUbNaW8GpeL.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/hrrfBmMgIwq8bj1OKXrC7ekPedJ.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2577-hQ3UqXtVoHn3.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Tubi TV",
+      "url": "https://tubitv.com/series/2198/the_adventures_of_tom_sawyer"
+    },
+    {
+      "site": "Amazon Prime Video",
+      "url": "https://www.amazon.com/Toms-Wild-Pig-Chase/dp/B0743BXB7Y/ref=sr_1_4?crid=1OPZFZY5DA9W1&"
+    },
+    {
+      "site": "Hoopla",
+      "url": "https://www.hoopladigital.com/series/adventures-of-tom-sawyer/2631341901"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T02:38:18.281Z",
+  "cache_version": 1
+}
