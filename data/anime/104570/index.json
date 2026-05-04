@@ -1,0 +1,73 @@
+{
+  "ids": {
+    "anilist": 104570,
+    "mal": 35408,
+    "anidb": 12879,
+    "tmdb": 455488,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Futatsu no Sekai",
+    "english": null,
+    "native": "二つの世界",
+    "synonyms": [
+      "Two Worlds"
+    ],
+    "tmdb_title": "Two Worlds"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 15,
+  "start_date": {
+    "year": 1929,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 1929,
+    "month": null,
+    "day": null
+  },
+  "description": "\"Based on Aesop's fable The Ant and the Grasshopper (アリとキリギリス), this film contrasts diligent and easygoing lifestyles to emphasize the importance of hard work.\" \n<br><br>\n(Source: Japanese Animated Film Classics)",
+  "genres": [
+    "Fantasy"
+  ],
+  "tags": [
+    "Educational",
+    "Animals",
+    "Achromatic"
+  ],
+  "studios": [],
+  "producers": [],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 48,
+  "popularity": 490,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n104570-gtWlfuA83UXB.jpg",
+    "poster_color": "#d6a178",
+    "banner": "https://image.tmdb.org/t/p/original/10weCND4XVAY5pYl3WrxRbieiHM.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/1dPt6WsKl92gGnFtaCx4C7n0Hnp.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/10weCND4XVAY5pYl3WrxRbieiHM.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n104570-gtWlfuA83UXB.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Japanese Film Archives",
+      "url": "https://animation.filmarchives.jp/en/works/view/86947"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T12:53:55.910Z",
+  "cache_version": 1
+}
