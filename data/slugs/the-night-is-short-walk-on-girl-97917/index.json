@@ -55,8 +55,8 @@
   "source": "OTHER",
   "country": "JP",
   "score_anilist": 81,
-  "popularity": 50775,
-  "trending": 0,
+  "popularity": 50818,
+  "trending": 2,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97917-bHtHhWkIsdR5.jpg",
     "poster_color": "#86431a",
@@ -73,6 +73,14 @@
     {
       "site": "Max",
       "url": "https://www.max.com/movies/e8209360-7e8a-433d-b977-2f0761319980"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-281242"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/"
     }
   ],
   "themes": [],
@@ -84,6 +92,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T05:11:02.217Z",
+  "cached_at": "2026-05-04T17:07:11.800Z",
   "cache_version": 1
 }
