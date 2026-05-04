@@ -1,0 +1,64 @@
+{
+  "ids": {
+    "anilist": 117800,
+    "mal": 34815,
+    "anidb": 14266,
+    "tmdb": 1112626,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Ningyohime",
+    "english": "The Little Mermaid",
+    "native": "にんぎょひめ",
+    "synonyms": [
+      "Ningyo Hime"
+    ],
+    "tmdb_title": "The Little Mermaid"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 20,
+  "start_date": {
+    "year": 1974,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 1974,
+    "month": null,
+    "day": null
+  },
+  "description": "A stop motion film adaptation of Hans Christian Andersen's The Little Mermaid.",
+  "genres": [
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [
+    "Gakken"
+  ],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 50,
+  "popularity": 208,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b117800-yVQPCZ6kno4s.png",
+    "poster_color": "#ae5028",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/fPUjNOSdb1szJCboFvOCVysEGFC.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b117800-yVQPCZ6kno4s.png"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T10:12:44.419Z",
+  "cache_version": 1
+}
