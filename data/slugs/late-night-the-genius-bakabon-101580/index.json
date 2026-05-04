@@ -1,0 +1,79 @@
+{
+  "ids": {
+    "anilist": 101580,
+    "mal": 37662,
+    "anidb": 14002,
+    "tmdb": 80400,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Shinya! Tensai Bakabon",
+    "english": "Late night! The Genius Bakabon",
+    "native": "深夜! 天才バカボン",
+    "synonyms": [],
+    "tmdb_title": "Late Night! The Genius Bakabon"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 2018,
+  "episodes": 12,
+  "duration": 24,
+  "start_date": {
+    "year": 2018,
+    "month": 7,
+    "day": 11
+  },
+  "end_date": {
+    "year": 2018,
+    "month": 9,
+    "day": 26
+  },
+  "description": "New adaptation of <i>Tensai Bakabon</i>.<br><br>\n\nThe original family comedy manga centers on an idiotic boy and his father.",
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Meta",
+    "Satire",
+    "Parody",
+    "Surreal Comedy",
+    "Seinen"
+  ],
+  "studios": [
+    "Studio Signpost"
+  ],
+  "producers": [],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 55,
+  "popularity": 1494,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101580-5dYddOjA9r5U.jpg",
+    "poster_color": "#ffc900",
+    "banner": "https://image.tmdb.org/t/p/original/qRtsFxfwVTKGyrUVhPI4xpRHJ63.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/rT4Hw1oQFarMW0gKFImlEF1p45m.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/qRtsFxfwVTKGyrUVhPI4xpRHJ63.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101580-5dYddOjA9r5U.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/late-night-the-genius-bakabon"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T03:38:04.776Z",
+  "cache_version": 1
+}
