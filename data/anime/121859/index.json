@@ -1,0 +1,68 @@
+{
+  "ids": {
+    "anilist": 121859,
+    "mal": 39121,
+    "anidb": 14137,
+    "tmdb": 302209,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Hong Mao Lan Tu: Chuang Taikong",
+    "english": null,
+    "native": "虹猫蓝兔闯太空",
+    "synonyms": [
+      "Explore the Space with Homer and Landau"
+    ],
+    "tmdb_title": "虹猫蓝兔闯太空"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "episodes": 11,
+  "duration": 11,
+  "start_date": {
+    "year": 2005,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "genres": [
+    "Adventure",
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [
+    "Great Dreams Cartoon"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 68,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b121859-vMpNmiVU3H8d.png",
+    "poster_color": "#f1a11a",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/33od5r9UsjPmAuBm4PXNBMlkLVx.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b121859-vMpNmiVU3H8d.png"
+  },
+  "streaming": [
+    {
+      "site": "Youku",
+      "url": "https://v.youku.com/v_nextstage/id_155c1044bcaf11e0a046.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 110,
+  "match_signals": [
+    "exact_title",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T06:43:42.474Z",
+  "cache_version": 1
+}
