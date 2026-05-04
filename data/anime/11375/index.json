@@ -1,0 +1,78 @@
+{
+  "ids": {
+    "anilist": 11375,
+    "mal": 11375,
+    "anidb": 8606,
+    "tmdb": 128253,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": ".hack//The Movie: Sekai no Mukou ni",
+    "english": null,
+    "native": ".hack//The Movie セカイの向こうに",
+    "synonyms": [
+      ".hack//Beyond the World"
+    ],
+    "tmdb_title": ".hack//The Movie"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2012,
+  "episodes": 1,
+  "duration": 110,
+  "start_date": {
+    "year": 2012,
+    "month": 1,
+    "day": 21
+  },
+  "end_date": {
+    "year": 2012,
+    "month": 1,
+    "day": 21
+  },
+  "description": "In 2024, the computer network prevails throughout daily life. Sora Yuuki is a 14-year-old girl. One day, she is invited to an online game \"The World\". After an accident in the game, the real world begins to deform.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Mystery"
+  ],
+  "tags": [
+    "Virtual World",
+    "Video Games",
+    "Full CGI"
+  ],
+  "studios": [],
+  "producers": [
+    "Bandai",
+    "CyberConnect2",
+    "flying DOG",
+    "Asmik Ace"
+  ],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 67,
+  "popularity": 3957,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11375.jpg",
+    "poster_color": "#e4ae78",
+    "banner": "https://image.tmdb.org/t/p/original/28BHk7qzkjU3URuSYPSPyXffbuI.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/tW9FYOBX6pBWHfDtvwparLrXnag.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/28BHk7qzkjU3URuSYPSPyXffbuI.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11375.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T07:15:47.800Z",
+  "cache_version": 1
+}
