@@ -1,0 +1,82 @@
+{
+  "ids": {
+    "anilist": 121799,
+    "mal": 42514,
+    "anidb": 15755,
+    "tmdb": 114593,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Anime Kapibara-san",
+    "english": "Anime KAPIBARASAN",
+    "native": "アニメ カピバラさん",
+    "synonyms": [
+      "Kapibarasan",
+      "Capybara-san",
+      "Anime Capivara-san"
+    ],
+    "tmdb_title": "Anime Kapibara-san"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2020,
+  "episodes": 24,
+  "duration": 1,
+  "start_date": {
+    "year": 2020,
+    "month": 10,
+    "day": 9
+  },
+  "end_date": {
+    "year": 2021,
+    "month": 3,
+    "day": 26
+  },
+  "description": "The series follows the daily adventures of Kapibara-san and his animal friends as they chill out among the Midorino Grasslands.<br>\n<br>\n(Source: Crunchyroll)",
+  "genres": [
+    "Adventure",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Animals",
+    "Kids"
+  ],
+  "studios": [
+    "Shin-Ei Animation"
+  ],
+  "producers": [
+    "Lesprit"
+  ],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 61,
+  "popularity": 1739,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121799-32cdW6JKWb6Z.png",
+    "poster_color": "#e4ae0d",
+    "banner": "https://image.tmdb.org/t/p/original/6HeElYWqwqlYdzWI2xjCdy87VH.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/rr642M48353otpW1mkypyoAf2Qc.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/6HeElYWqwqlYdzWI2xjCdy87VH.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121799-32cdW6JKWb6Z.png"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/anime-kapibarasan"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T05:45:11.859Z",
+  "cache_version": 1
+}

@@ -1,0 +1,75 @@
+{
+  "ids": {
+    "anilist": 21228,
+    "mal": 30651,
+    "anidb": 11200,
+    "tmdb": 93078,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Itoshi no Muco",
+    "english": "Lovely Muuuuuuuco!",
+    "native": "いとしのムーコ",
+    "synonyms": [],
+    "tmdb_title": "Lovely Muuuuuuuco!"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2015,
+  "episodes": 25,
+  "duration": 13,
+  "start_date": {
+    "year": 2015,
+    "month": 10,
+    "day": 3
+  },
+  "end_date": {
+    "year": 2016,
+    "month": 3,
+    "day": 26
+  },
+  "description": "The happy daily life of Muco, a not-too-bright Akita dog, and his owner Komatsu-san the glass-blower.",
+  "genres": [
+    "Slice of Life"
+  ],
+  "tags": [
+    "Animals"
+  ],
+  "studios": [
+    "DLE"
+  ],
+  "producers": [],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 57,
+  "popularity": 1799,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21228-MjCN5xVPgigR.png",
+    "poster_color": "#e40d43",
+    "banner": "https://image.tmdb.org/t/p/original/kPAXYGdW1KRWSEx3RXUeLn66TTZ.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/1aUQy6GXqa0mPDdlqryUDXVE7FA.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/kPAXYGdW1KRWSEx3RXUeLn66TTZ.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21228-MjCN5xVPgigR.png"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/lovely-muuuuuuuco"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T05:44:07.447Z",
+  "cache_version": 1
+}
