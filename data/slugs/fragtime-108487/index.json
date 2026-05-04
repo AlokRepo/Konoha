@@ -58,8 +58,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 64,
-  "popularity": 22346,
-  "trending": 0,
+  "popularity": 22370,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108487-wflHu4wpG0Nd.jpg",
     "poster_color": "#50aee4",
@@ -72,6 +72,10 @@
     {
       "site": "HIDIVE",
       "url": "https://www.hidive.com/video/554578"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-281521"
     }
   ],
   "themes": [],
@@ -83,6 +87,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T06:56:07.292Z",
+  "cached_at": "2026-05-04T17:42:26.176Z",
   "cache_version": 1
 }

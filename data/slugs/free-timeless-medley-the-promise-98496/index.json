@@ -3,7 +3,8 @@
     "anilist": 98496,
     "mal": 35191,
     "tmdb": 460396,
-    "tmdb_type": "movie"
+    "tmdb_type": "movie",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Free!: Timeless Medley - Yakusoku",
@@ -46,7 +47,7 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 75,
-  "popularity": 12440,
+  "popularity": 12448,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98496-5t9VFhYHyhzA.jpg",
@@ -60,6 +61,10 @@
     {
       "site": "Crunchyroll",
       "url": "https://www.crunchyroll.com/free-iwatobi-swim-club"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/"
     }
   ],
   "themes": [],
@@ -71,8 +76,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T08:16:05.099Z",
-  "cache_version": 1
-}",
+  "cached_at": "2026-05-04T17:56:53.834Z",
   "cache_version": 1
 }
