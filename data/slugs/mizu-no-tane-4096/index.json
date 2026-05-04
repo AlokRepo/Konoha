@@ -1,0 +1,59 @@
+{
+  "ids": {
+    "anilist": 4096,
+    "mal": 4096,
+    "anidb": 4485,
+    "tmdb": 387143,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Mizu no Tane",
+    "english": null,
+    "native": "水のたね",
+    "synonyms": [
+      "The Water Seed"
+    ],
+    "tmdb_title": "The Water Seed"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 19,
+  "start_date": {
+    "year": 1975,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 1975,
+    "month": null,
+    "day": null
+  },
+  "description": "Typically brilliant OKAMOTO Tadanari short film, based on a traditional story retold by MATSUTANI Miyoko, with narration by KISHIDA Kyouko.<br><br>\n(Source: AnimeDB)",
+  "genres": [],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 43,
+  "popularity": 225,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4096.jpg",
+    "poster_color": "#d6936b",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4096.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T10:04:22.838Z",
+  "cache_version": 1
+}

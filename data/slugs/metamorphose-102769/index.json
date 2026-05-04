@@ -1,0 +1,61 @@
+{
+  "ids": {
+    "anilist": 102769,
+    "mal": 31833,
+    "anidb": 11701,
+    "tmdb": 1562439,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "METAMORPHOSE",
+    "english": null,
+    "native": "METAMORPHOSE",
+    "synonyms": [],
+    "tmdb_title": "Metamorphose"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 2,
+  "start_date": {
+    "year": 2013,
+    "month": 8,
+    "day": 2
+  },
+  "end_date": {
+    "year": 2013,
+    "month": 8,
+    "day": 2
+  },
+  "description": "Short animation by Komazaki Tomomi.\n",
+  "genres": [],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "country": "JP",
+  "score_anilist": 43,
+  "popularity": 230,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102769-sJLqv2ufJVVb.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/mGw12o8ax0KGZOPpcgq3LlMUoyI.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102769-sJLqv2ufJVVb.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/channel/UCkWKdX0gMny3JhQ1eSNl0JA"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T13:10:57.671Z",
+  "cache_version": 1
+}
