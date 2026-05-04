@@ -1,0 +1,72 @@
+{
+  "ids": {
+    "anilist": 7243,
+    "mal": 7243,
+    "anidb": 5154,
+    "tmdb": 226232,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Suisei",
+    "english": null,
+    "native": "水棲",
+    "synonyms": [
+      "Aquatic"
+    ],
+    "tmdb_title": "Aquatic"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 5,
+  "start_date": {
+    "year": 1987,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 1987,
+    "month": null,
+    "day": null
+  },
+  "description": "The stream of a mil, an apple flows down through the stream, where innumerable illusion of fish appears and disappears in the sky reflected in the water.",
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [
+    "Environmental",
+    "No Dialogue",
+    "Animals"
+  ],
+  "studios": [],
+  "producers": [
+    "TBS"
+  ],
+  "country": "JP",
+  "score_anilist": 45,
+  "popularity": 620,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7243.jpg",
+    "poster_color": "#d6f150",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/qbKLrcMLxSUBWLfJTTK9aXzEGvA.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7243.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/watch?v=bOaKCdyl6q4"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T08:30:57.928Z",
+  "cache_version": 1
+}
