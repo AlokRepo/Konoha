@@ -1,0 +1,72 @@
+{
+  "ids": {
+    "anilist": 17215,
+    "mal": 17215,
+    "anidb": 7561,
+    "tmdb": 437872,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Sore Ike! Anpanman: Happy no Daibouken",
+    "english": "Anpanman: the Adventure of Happie",
+    "native": "それいけ! アンパンマン ハピーの大冒険",
+    "synonyms": [],
+    "tmdb_title": "Anpanman: Adventure of Happie"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 2005,
+  "episodes": 1,
+  "duration": 70,
+  "start_date": {
+    "year": 2005,
+    "month": 7,
+    "day": 16
+  },
+  "end_date": {
+    "year": 2005,
+    "month": 7,
+    "day": 16
+  },
+  "description": "17th Anpanman movie.",
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [
+    "Kids"
+  ],
+  "studios": [
+    "TMS Entertainment"
+  ],
+  "producers": [],
+  "country": "JP",
+  "score_anilist": 49,
+  "popularity": 211,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17215.jpg",
+    "poster_color": "#e4935d",
+    "banner": "https://image.tmdb.org/t/p/original/reqhHDx7Bcub5NccuLusWbUoVb6.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/wMu7tJoi7kTmw7eQDf5cf7vv5gb.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/reqhHDx7Bcub5NccuLusWbUoVb6.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/17215.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Tubi TV",
+      "url": "https://tubitv.com/movies/618228/anpanman-the-adventure-of-happie"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 100,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T13:13:24.601Z",
+  "cache_version": 1
+}
