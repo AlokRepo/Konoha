@@ -1,0 +1,75 @@
+{
+  "ids": {
+    "anilist": 130561,
+    "mal": 32270,
+    "anidb": 12146,
+    "tmdb": 573566,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Xiyue Qi Tong (2006)",
+    "english": null,
+    "native": "西岳奇童",
+    "synonyms": [
+      "Saving Mother",
+      "新版西岳奇童",
+      "Xinban Xiyue Qi Tong"
+    ],
+    "tmdb_title": "Saving mother"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 80,
+  "start_date": {
+    "year": 2006,
+    "month": 7,
+    "day": 1
+  },
+  "end_date": {
+    "year": 2006,
+    "month": 7,
+    "day": 1
+  },
+  "description": "At the end of the 1984 film \"Part One End\" was shown. After 20 years Shanghai Animation Film Studio continued the story now aimed at the parents who grew up watching the original as children.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Shanghai Animation Film Studio"
+  ],
+  "producers": [],
+  "source": "OTHER",
+  "country": "CN",
+  "popularity": 50,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130561-FEPBwInmBeEG.jpg",
+    "poster_color": "#e4a15d",
+    "banner": "https://image.tmdb.org/t/p/original/3uGSUNjgcB3M7Z6i4I2ilcoabqJ.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/AapEk2qjNIPgG7IdGQnVIT2NIIJ.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/3uGSUNjgcB3M7Z6i4I2ilcoabqJ.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130561-FEPBwInmBeEG.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/x/cover/ingmf75pt2j4m3i.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T17:46:57.226Z",
+  "cache_version": 1
+}
