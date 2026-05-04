@@ -1,0 +1,91 @@
+{
+  "ids": {
+    "anilist": 16317,
+    "mal": 16317,
+    "anidb": 9507,
+    "tmdb": 53512,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Ishida to Asakura",
+    "english": "Ishida and Asakura",
+    "native": "石田とあさくら",
+    "synonyms": [
+      "Ishida & Asakura",
+      "Ishida y Asakura"
+    ],
+    "tmdb_title": "Ishida and Asakura"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2013,
+  "episodes": 12,
+  "duration": 2,
+  "start_date": {
+    "year": 2013,
+    "month": 1,
+    "day": 6
+  },
+  "end_date": {
+    "year": 2013,
+    "month": 3,
+    "day": 24
+  },
+  "description": "Anime adaptation of the surreal gag manga about two high school boys, Ishida and Asakura.",
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [
+    "School",
+    "Seinen",
+    "Surreal Comedy",
+    "Slapstick"
+  ],
+  "studios": [
+    "Hotline"
+  ],
+  "producers": [
+    "DAX Production"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 53,
+  "popularity": 3702,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16317.jpg",
+    "poster_color": "#e4ae1a",
+    "banner": "https://image.tmdb.org/t/p/original/skGsorT40BOSGmu2w9rFSNpJNfn.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/rOclEvVSneCW3xaRntNvHfWuOcB.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/skGsorT40BOSGmu2w9rFSNpJNfn.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16317.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Amazon Prime Video",
+      "url": "https://www.amazon.com/gp/video/detail/B099W25H1C/"
+    },
+    {
+      "site": "OceanVeil",
+      "url": "https://oceanveil.net/anime_titles/294"
+    },
+    {
+      "site": "OceanVeil",
+      "url": "https://oceanveil.net/anime_titles/295"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T05:26:50.128Z",
+  "cache_version": 1
+}

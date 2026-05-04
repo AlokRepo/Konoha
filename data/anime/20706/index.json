@@ -1,0 +1,82 @@
+{
+  "ids": {
+    "anilist": 20706,
+    "mal": 23433,
+    "anidb": 10610,
+    "tmdb": 72806,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Shin Strange+",
+    "english": null,
+    "native": "真　ストレンジ・プラス",
+    "synonyms": [
+      "Strange+ 2"
+    ],
+    "tmdb_title": "Strange+"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 2014,
+  "episodes": 12,
+  "duration": 4,
+  "start_date": {
+    "year": 2014,
+    "month": 7,
+    "day": 11
+  },
+  "end_date": {
+    "year": 2014,
+    "month": 9,
+    "day": 26
+  },
+  "description": "The second season of Strange+.",
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Detective",
+    "Parody",
+    "Crossdressing",
+    "Josei"
+  ],
+  "studios": [
+    "Seven"
+  ],
+  "producers": [
+    "Dream Creation",
+    "DAX Production"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 58,
+  "popularity": 3538,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20706.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/rY8wWO0uB5JJGHIfg8FhzCL4XL6.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/r6lkbv7XtD9e2vL366dHA7juIcv.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/rY8wWO0uB5JJGHIfg8FhzCL4XL6.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20706.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/strange"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 110,
+  "match_signals": [
+    "english_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T05:28:20.058Z",
+  "cache_version": 1
+}

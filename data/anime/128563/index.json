@@ -1,0 +1,89 @@
+{
+  "ids": {
+    "anilist": 128563,
+    "mal": 45782,
+    "anidb": 15981,
+    "tmdb": 120165,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "♪D4DJ Petit Mix",
+    "english": "D4DJ Petit Mix",
+    "native": "ぷっちみく♪D4DJ Petit Mix",
+    "synonyms": [
+      "D4DJミニアニメ",
+      "D4DJ Mini Anime"
+    ],
+    "tmdb_title": "D4DJ Petit Mix"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2021,
+  "episodes": 26,
+  "duration": 3,
+  "start_date": {
+    "year": 2021,
+    "month": 2,
+    "day": 5
+  },
+  "end_date": {
+    "year": 2021,
+    "month": 7,
+    "day": 30
+  },
+  "description": "Chibi-style mini animation for the D4DJ media franchise.",
+  "genres": [
+    "Comedy",
+    "Music",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Idol",
+    "Episodic",
+    "Primarily Female Cast",
+    "Chibi",
+    "Ensemble Cast",
+    "Female Protagonist",
+    "Cute Girls Doing Cute Things"
+  ],
+  "studios": [
+    "DMM.futureworks"
+  ],
+  "producers": [
+    "W-Toon Studio",
+    "Bushiroad"
+  ],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 67,
+  "popularity": 3497,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128563-5KhOY54B1Mpy.jpg",
+    "poster_color": "#ffe443",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/128563-gOCp70XTXLU0.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/e2efesBZoIvtCT5d8xF45I8ukDd.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/vuwkBgbUruA102M1nTOEtNWFuy2.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128563-5KhOY54B1Mpy.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PL58brFgdVYkoL_ADeArD9-jWyrIt8Rj9q"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T05:28:32.561Z",
+  "cache_version": 1
+}

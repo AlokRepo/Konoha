@@ -1,0 +1,91 @@
+{
+  "ids": {
+    "anilist": 4936,
+    "mal": 4936,
+    "anidb": 2607,
+    "tmdb": 80885,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Ninja Hattori-kun",
+    "english": null,
+    "native": "忍者ハットリくん",
+    "synonyms": [
+      "Hattori the Ninja",
+      "Hattori",
+      "The Little Ninja",
+      "Ninja Hattori",
+      "Hattori, el Ninja",
+      "นินจาฮัทโตริ",
+      "Nino, il mio amico ninja"
+    ],
+    "tmdb_title": "Ninja Hattori-kun"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 1981,
+  "episodes": 694,
+  "duration": 10,
+  "start_date": {
+    "year": 1981,
+    "month": 9,
+    "day": 28
+  },
+  "end_date": {
+    "year": 1987,
+    "month": 12,
+    "day": 25
+  },
+  "description": "Ninja Hattori-Kun and his brother are training to be great ninjas and constantly run into hilarious situations.",
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [
+    "Found Family",
+    "Family Life",
+    "School",
+    "Primarily Child Cast",
+    "Ninja",
+    "Kids",
+    "Male Protagonist",
+    "Bullying",
+    "Swordplay"
+  ],
+  "studios": [
+    "Shin-Ei Animation"
+  ],
+  "producers": [],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 67,
+  "popularity": 3575,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4936.jpg",
+    "poster_color": "#fed650",
+    "banner": "https://image.tmdb.org/t/p/original/tJF9M5niAnb4fm881PGc2GwS0e1.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/9PUkpvq0wJnJ2M00dtgxKn6LptB.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/tJF9M5niAnb4fm881PGc2GwS0e1.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4936.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Netflix",
+      "url": "http://www.netflix.com/title/80153226"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 150,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T05:27:43.366Z",
+  "cache_version": 1
+}
