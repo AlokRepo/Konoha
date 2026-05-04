@@ -3,7 +3,7 @@
     "anilist": 8149,
     "mal": 8149,
     "anidb": 7472,
-    "tmdb": 314225,
+    "tmdb": 603431,
     "tmdb_type": "movie",
     "tmdb_season": null
   },
@@ -53,21 +53,18 @@
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8149.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/gUy9JPVq6BzpN4KvYoQCT4kvK7m.jpg",
-    "poster_tmdb": "https://image.tmdb.org/t/p/w780/2hH8HAbQKzeh5s2hj78ZBqvwW1x.jpg",
-    "banner_tmdb": "https://image.tmdb.org/t/p/original/gUy9JPVq6BzpN4KvYoQCT4kvK7m.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/yg0o8na222dewYevbuksmHYJUb0.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8149.jpg"
   },
   "streaming": [],
   "themes": [],
-  "confidence": "HIGH",
-  "match_score": 130,
+  "confidence": "MEDIUM",
+  "match_score": 100,
   "match_signals": [
     "exact_title",
-    "year_match",
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-04T08:59:24.340Z",
+  "cached_at": "2026-05-04T15:10:50.213Z",
   "cache_version": 1
 }
