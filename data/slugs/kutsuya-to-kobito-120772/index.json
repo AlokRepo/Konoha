@@ -1,0 +1,65 @@
+{
+  "ids": {
+    "anilist": 120772,
+    "mal": 33115,
+    "anidb": 14285,
+    "tmdb": 594619,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Kutsuya to Kobito",
+    "english": null,
+    "native": "くつやとこびと",
+    "synonyms": [
+      "Elves and the Shoemaker",
+      "The Elves and the Shoemaker"
+    ],
+    "tmdb_title": "The Elves and the Shoemaker"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 14,
+  "start_date": {
+    "year": 1960,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 1960,
+    "month": null,
+    "day": null
+  },
+  "description": "A puppet animation adaptation of the Grimm fairy tale \"The Elves and the Shoemaker.\"",
+  "genres": [
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [
+    "Gakken"
+  ],
+  "source": "OTHER",
+  "country": "JP",
+  "score_mal": 5.95,
+  "popularity": 163,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b120772-6KI5uKUlv2WM.png",
+    "poster_color": "#e46b5d",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/nZIfwnqkfCGov4363rWmXdx4MUV.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b120772-6KI5uKUlv2WM.png"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 100,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T10:40:31.660Z",
+  "cache_version": 1
+}

@@ -1,0 +1,67 @@
+{
+  "ids": {
+    "anilist": 120759,
+    "mal": 32626,
+    "anidb": 7026,
+    "tmdb": 1094121,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Kozaru no Buranko",
+    "english": null,
+    "native": "こざるのぶらんこ",
+    "synonyms": [
+      "Little Monkey on a Swing"
+    ],
+    "tmdb_title": "Little Monkey on a Swing"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 12,
+  "start_date": {
+    "year": 1959,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 1959,
+    "month": null,
+    "day": null
+  },
+  "description": "A monkey helps rescue forest animals during a fire.",
+  "genres": [
+    "Adventure"
+  ],
+  "tags": [
+    "Stop Motion",
+    "Achromatic",
+    "Fairy Tale"
+  ],
+  "studios": [],
+  "producers": [
+    "Gakken"
+  ],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 40,
+  "popularity": 194,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b120759-VoNl2TjY1uFk.png",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/3mUMtUh0vciqS7RIBSaoXRNZD4t.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b120759-VoNl2TjY1uFk.png"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T10:25:35.163Z",
+  "cache_version": 1
+}

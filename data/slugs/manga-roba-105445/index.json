@@ -1,0 +1,66 @@
+{
+  "ids": {
+    "anilist": 105445,
+    "mal": 34982,
+    "anidb": 12853,
+    "tmdb": 455491,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Manga Roba",
+    "english": null,
+    "native": "漫画 驢馬",
+    "synonyms": [
+      "The Donkey"
+    ],
+    "tmdb_title": "The Donkey"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 14,
+  "start_date": {
+    "year": 1930,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 1930,
+    "month": null,
+    "day": null
+  },
+  "description": "This is an educational story based on Aesop's Fables, which was produced after A Frog is a Frog (1929) and Two Worlds (1929). It is faithfully adapted from Aesop's fable about a farmer and his son taking a donkey to an auction, in which the two are completely influenced by what others say without having their own way of thinking and end up losing the donkey.",
+  "genres": [],
+  "tags": [
+    "Satire"
+  ],
+  "studios": [],
+  "producers": [],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 44,
+  "popularity": 422,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n105445-lfMOgtzLcBlm.png",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/iqN6f4VJGgNlDzoZGVyIe9LP0bB.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n105445-lfMOgtzLcBlm.png"
+  },
+  "streaming": [
+    {
+      "site": "Japanese Film Archives",
+      "url": "https://animation.filmarchives.jp/en/works/playen/5432"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T08:56:52.796Z",
+  "cache_version": 1
+}
