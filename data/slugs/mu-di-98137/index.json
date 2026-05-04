@@ -1,0 +1,77 @@
+{
+  "ids": {
+    "anilist": 98137,
+    "mal": 30886,
+    "anidb": 11949,
+    "tmdb": 266700,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Mu Di",
+    "english": null,
+    "native": "牧笛",
+    "synonyms": [
+      "The Cowboy's Flute",
+      "The Cowherd's Flute",
+      "The Buffalo Boy and his Flute"
+    ],
+    "tmdb_title": "The Buffalo Boy and His Flute"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 20,
+  "start_date": {
+    "year": 1963,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 1963,
+    "month": null,
+    "day": null
+  },
+  "description": "The story is about a relationship between a cow herding boy with an extraordinary flute playing ability and his buffalo companion. The boy dreams that he loses the buffalo, and when the buffalo won't move from his hiding place, the boy uses a flute melody to bring him back.",
+  "genres": [
+    "Music"
+  ],
+  "tags": [
+    "Kids",
+    "Musical Theater",
+    "Rural"
+  ],
+  "studios": [
+    "Shanghai Animation Film Studio"
+  ],
+  "producers": [],
+  "country": "CN",
+  "score_anilist": 55,
+  "popularity": 600,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98137-IXFLJnrxx0vt.jpg",
+    "poster_color": "#d6bb6b",
+    "banner": "https://image.tmdb.org/t/p/original/15p3bGoZj1YHmU6JaPQ8KRVRPge.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w500/535DEhugZONmeYGfbKJ1rL55WLC.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/15p3bGoZj1YHmU6JaPQ8KRVRPge.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98137-IXFLJnrxx0vt.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/watch?v=5c7hS7nQziI"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T08:32:46.274Z",
+  "cache_version": 1
+}

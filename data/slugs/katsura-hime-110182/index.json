@@ -1,0 +1,68 @@
+{
+  "ids": {
+    "anilist": 110182,
+    "mal": 28419,
+    "anidb": 11183,
+    "tmdb": 798833,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Katsura-hime",
+    "english": null,
+    "native": "カツラ姫",
+    "synonyms": [
+      "Princess Katsura",
+      "Shikisaimanga no dekirumade",
+      "The Making of a Color Animation",
+      "色彩漫画の出來る迄"
+    ],
+    "tmdb_title": "Princess Katsura"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 5,
+  "start_date": {
+    "year": 1937,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 1937,
+    "month": null,
+    "day": null
+  },
+  "description": "Short film about a princess being kidnapped.",
+  "genres": [],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 45,
+  "popularity": 609,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110182-r3Dfo13MZAW0.png",
+    "poster_color": "#6b1a28",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/23JPGqFiUufNejggnWEQANNIGo6.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx110182-r3Dfo13MZAW0.png"
+  },
+  "streaming": [
+    {
+      "site": "Japanese Film Archives",
+      "url": "https://animation.filmarchives.jp/en/works/playen/71555"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T08:31:58.784Z",
+  "cache_version": 1
+}

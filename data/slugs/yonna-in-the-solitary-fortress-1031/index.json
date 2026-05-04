@@ -1,0 +1,79 @@
+{
+  "ids": {
+    "anilist": 1031,
+    "mal": 1031,
+    "anidb": 3974,
+    "tmdb": 59295,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Yonna in the Solitary Fortress",
+    "english": null,
+    "native": "はなれ砦のヨナ",
+    "synonyms": [
+      "Hanare Toride no Yonna"
+    ],
+    "tmdb_title": "Yonna in the Solitary Fortress"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2006,
+  "episodes": 1,
+  "duration": 33,
+  "start_date": {
+    "year": 2006,
+    "month": 4,
+    "day": 8
+  },
+  "end_date": {
+    "year": 2006,
+    "month": 4,
+    "day": 8
+  },
+  "description": "Yonna and Stan, brother and sister, live in isolation because of their special powers. There are enigmatic people who plot to use their power, in conflict with the king`s government, which is also planning to draw them onto their side. Intrigue surrounds Yonna, and now a new agent comes to see her.",
+  "genres": [
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [
+    "Full CGI"
+  ],
+  "studios": [
+    "CoMix Wave"
+  ],
+  "producers": [
+    "Horipro",
+    "Capcom"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 40,
+  "popularity": 613,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1031.jpg",
+    "poster_color": "#f1bb86",
+    "banner": "https://image.tmdb.org/t/p/original/4lvdfwna082UATGMLvwW4phZcsI.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/qlPVKF6KmZPRSDauO2bEeWc6RlB.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/4lvdfwna082UATGMLvwW4phZcsI.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1031.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/yonna-in-the-solitary-fortress"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T08:31:51.776Z",
+  "cache_version": 1
+}

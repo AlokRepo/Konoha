@@ -1,0 +1,71 @@
+{
+  "ids": {
+    "anilist": 101905,
+    "mal": 34595,
+    "anidb": 14586,
+    "tmdb": 406776,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "\"Parade\" de Satie",
+    "english": "\"Parade\" de Satie",
+    "native": "サティの「パラード」",
+    "synonyms": [
+      "Satie’s “Parade”"
+    ],
+    "tmdb_title": "Satie's \"Parade\""
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2016,
+  "episodes": 1,
+  "duration": 14,
+  "start_date": {
+    "year": 2016,
+    "month": 5,
+    "day": 1
+  },
+  "end_date": {
+    "year": 2016,
+    "month": 5,
+    "day": 1
+  },
+  "description": "A Parade by three managers and four performers. Koji Yamamura's new animation project, \"Parade\" de Satie (Satie's \"Parade\"). Erik Satie composed ballet music \"Parade\" in 1916 with 1917. Dutch indie jazz band, Willem Breuker Kollektief played this music and Koji Yamamura directs for Erik Satie's\"Parade\" as a surrealism animated ballet. It will be coming in 2016 that 150th anniversary Erik Satie and 100th-anniversary \"Parade\".\n<br><br>\n(Source: Yamamura Animation)",
+  "genres": [
+    "Music"
+  ],
+  "tags": [
+    "Surreal Comedy"
+  ],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 48,
+  "popularity": 609,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/101905-j7UJdMHBWtkN.jpg",
+    "poster_color": "#d61a43",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/ntA0BZW5oH5Nw2LulqdU1sbKJAJ.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/101905-j7UJdMHBWtkN.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Vimeo",
+      "url": "https://vimeo.com/ondemand/paradedesatiefr"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T08:32:06.334Z",
+  "cache_version": 1
+}
