@@ -1,0 +1,66 @@
+{
+  "ids": {
+    "anilist": 111128,
+    "mal": 35395,
+    "anidb": 12865,
+    "tmdb": 461709,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Manga Misemono kenbutsu",
+    "english": "At the Circus",
+    "native": "漫画 見世物見物",
+    "synonyms": [],
+    "tmdb_title": "At the Circus"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 3,
+  "start_date": {
+    "year": 1931,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 1931,
+    "month": null,
+    "day": null
+  },
+  "description": "Two girls were watching a street performer. The girls sang out loud and the performer brought them up front so that they could sing for the audience. Originally, this work was a record talkie (silent film with synchronized sound on disc). However, with the record now missing, the lyrics and tunes are unknown.",
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [
+    "Circus"
+  ],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 36,
+  "popularity": 407,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b111128-UPqINKu67tJr.png",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/fEg7mKcC1yCS2i33Peo6wiGug3.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b111128-UPqINKu67tJr.png"
+  },
+  "streaming": [
+    {
+      "site": "Japanese Film Archives",
+      "url": "https://animation.filmarchives.jp/en/works/view/43806"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T12:57:35.210Z",
+  "cache_version": 1
+}
