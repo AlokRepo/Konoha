@@ -1,0 +1,85 @@
+{
+  "ids": {
+    "anilist": 125867,
+    "mal": 43763,
+    "anidb": 15833,
+    "tmdb": 112615,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Cestvs: The Roman Fighter",
+    "english": "CESTVS -The Roman Fighter-",
+    "native": "セスタス -The Roman Fighter-",
+    "synonyms": [
+      "Cestus: The Roman Fighter"
+    ],
+    "tmdb_title": "CESTVS -The Roman Fighter-"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2021,
+  "episodes": 11,
+  "duration": 23,
+  "start_date": {
+    "year": 2021,
+    "month": 4,
+    "day": 15
+  },
+  "end_date": {
+    "year": 2021,
+    "month": 6,
+    "day": 24
+  },
+  "description": "54 AD. Cestus, a young boy orphaned by the Roman empire and made a slave, is placed into a training school for pugilists. It is here that he begins his journey to defy fate and fight for his own freedom.\n",
+  "genres": [
+    "Action",
+    "Drama",
+    "Sports"
+  ],
+  "tags": [
+    "Boxing",
+    "CGI",
+    "Slavery",
+    "Historical",
+    "Seinen"
+  ],
+  "studios": [
+    "Bandai Namco Pictures"
+  ],
+  "producers": [
+    "Fuji TV",
+    "Hakusensha"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 52,
+  "popularity": 5840,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx125867-M5PDaRNHN3T3.jpg",
+    "poster_color": "#d6ae6b",
+    "banner": "https://image.tmdb.org/t/p/original/6ZuekxpWPZBogIr5dIk9t6VWc56.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/2teSdenh9YQOaNGRlg7XCgKXwj2.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/6ZuekxpWPZBogIr5dIk9t6VWc56.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx125867-M5PDaRNHN3T3.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/cestvs-the-roman-fighter-"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T02:03:44.415Z",
+  "cache_version": 1
+}
