@@ -1,0 +1,73 @@
+{
+  "ids": {
+    "anilist": 5632,
+    "mal": 5632,
+    "anidb": 6699,
+    "tmdb": 189973,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Nihon-ichi Momotaro",
+    "english": "Momotaro the Undefeated",
+    "native": "日本一桃太郎",
+    "synonyms": [
+      "Nihonichi Momotarou",
+      "Momotaro, Japan's No.1"
+    ],
+    "tmdb_title": "Momotaro, Japan's No.1"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 15,
+  "start_date": {
+    "year": 1928,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 1928,
+    "month": null,
+    "day": null
+  },
+  "description": "An old couple finds a child in a fruit.\n",
+  "genres": [
+    "Fantasy"
+  ],
+  "tags": [
+    "Fairy Tale",
+    "Mythology",
+    "Swordplay"
+  ],
+  "studios": [],
+  "producers": [],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 47,
+  "popularity": 829,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5632-IcDhZDLTWrPi.png",
+    "banner": "https://image.tmdb.org/t/p/original/jVXQAVLr6zX5Y93dGuNotI29E6m.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/lfMEIcKciIyGDGA3Uu7ESS35G4t.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/jVXQAVLr6zX5Y93dGuNotI29E6m.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5632-IcDhZDLTWrPi.png"
+  },
+  "streaming": [
+    {
+      "site": "Japanese Film Archives",
+      "url": "https://animation.filmarchives.jp/en/works/view/41087"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T08:14:53.817Z",
+  "cache_version": 1
+}

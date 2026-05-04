@@ -1,0 +1,76 @@
+{
+  "ids": {
+    "anilist": 7491,
+    "mal": 7491,
+    "anidb": 2095,
+    "tmdb": 280825,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Dragon Quest Retsuden: Roto no Monshou",
+    "english": null,
+    "native": "ドラゴンクエスト列伝 ロトの紋章",
+    "synonyms": [
+      "Dragon Quest: Emblem of Roto"
+    ],
+    "tmdb_title": "Dragon Quest - Emblem of Roto"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 1996,
+  "episodes": 1,
+  "duration": 45,
+  "start_date": {
+    "year": 1996,
+    "month": 4,
+    "day": 20
+  },
+  "end_date": {
+    "year": 1996,
+    "month": 4,
+    "day": 20
+  },
+  "description": "The adventures of Arus's childhood.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [
+    "Male Protagonist",
+    "Rural"
+  ],
+  "studios": [
+    "Nippon Animation"
+  ],
+  "producers": [
+    "BS TV Tokyo"
+  ],
+  "source": "VIDEO_GAME",
+  "country": "JP",
+  "score_anilist": 56,
+  "popularity": 825,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7491-mXE23W8uwMpl.jpg",
+    "poster_color": "#ffc935",
+    "banner": "https://image.tmdb.org/t/p/original/qYQlWnwO2TaUFEQurq1WIeeyEeJ.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/sg030zMVLuBxhaT2IN62iDIKyZd.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/qYQlWnwO2TaUFEQurq1WIeeyEeJ.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7491-mXE23W8uwMpl.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T08:15:13.257Z",
+  "cache_version": 1
+}
