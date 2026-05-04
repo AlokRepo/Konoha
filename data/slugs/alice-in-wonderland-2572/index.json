@@ -1,0 +1,73 @@
+{
+  "ids": {
+    "anilist": 2572,
+    "mal": 2572,
+    "anidb": 2744,
+    "tmdb": 65305,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Fushigi no Kuni no Alice",
+    "english": "Alice in Wonderland",
+    "native": "ふしぎの国のアリス",
+    "synonyms": [
+      "Alice's Adventures In Wonderland",
+      "Alice im Wunderland",
+      "Alicia en el país de las maravillas"
+    ],
+    "tmdb_title": "Alice in Wonderland"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 1983,
+  "episodes": 52,
+  "duration": 26,
+  "start_date": {
+    "year": 1983,
+    "month": 10,
+    "day": 10
+  },
+  "end_date": {
+    "year": 1984,
+    "month": 3,
+    "day": 26
+  },
+  "description": "A retelling of Lewis Carroll's classic tale of the young girl Alice, who follows a white rabbit into a hole, only to find herself in Wonderland, where she meets many interesting characters, both the mysterious Cheshire Cat and the terrible Queen of Hearts.\n<br><br>\n(Source: Anime News Network)",
+  "genres": [
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Nippon Animation"
+  ],
+  "producers": [],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 56,
+  "popularity": 1110,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2572.jpg",
+    "poster_color": "#e4d61a",
+    "banner": "https://image.tmdb.org/t/p/original/q01bJ2II7TaBlxY2p7tcKu4UxxM.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/ipLBlkU7IXDS6bMgpG4cv92eHwG.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/q01bJ2II7TaBlxY2p7tcKu4UxxM.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2572.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T03:52:22.902Z",
+  "cache_version": 1
+}
