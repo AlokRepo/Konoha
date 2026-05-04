@@ -1,0 +1,83 @@
+{
+  "ids": {
+    "anilist": 6919,
+    "mal": 6919,
+    "anidb": 8058,
+    "tmdb": 43146,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "X-Men",
+    "english": null,
+    "native": "エックスメン",
+    "synonyms": [],
+    "tmdb_title": "X-Men"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2011,
+  "episodes": 12,
+  "duration": 23,
+  "start_date": {
+    "year": 2011,
+    "month": 4,
+    "day": 1
+  },
+  "end_date": {
+    "year": 2011,
+    "month": 6,
+    "day": 24
+  },
+  "description": "The X-Men are reunited following the death of a teammate, and are summoned by Charles Xavier to Japan following the abduction of Hisako Ichiki (Armor). There, they confront the U-Men, a lunatic cult that steals and transplants mutant organs to further strengthen their own army, and the battle for justice is on.<br><br>\n(Source: Marvel)",
+  "genres": [
+    "Action",
+    "Drama"
+  ],
+  "tags": [
+    "Super Power",
+    "Ensemble Cast",
+    "Travel",
+    "Primarily Adult Cast",
+    "Male Protagonist"
+  ],
+  "studios": [
+    "MADHOUSE"
+  ],
+  "producers": [
+    "Sony Pictures Entertainment",
+    "Marvel Entertainment"
+  ],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 56,
+  "popularity": 5613,
+  "trending": 1,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6919.jpg",
+    "poster_color": "#e4d65d",
+    "banner": "https://image.tmdb.org/t/p/original/sIHfG0rekRyVjKkUuskxAbLxCGM.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/rejrjbDafcjbdk0gCK6CWFXBQMr.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/sIHfG0rekRyVjKkUuskxAbLxCGM.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6919.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/70205688"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T02:06:00.595Z",
+  "cache_version": 1
+}
