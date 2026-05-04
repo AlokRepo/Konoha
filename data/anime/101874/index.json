@@ -1,0 +1,74 @@
+{
+  "ids": {
+    "anilist": 101874,
+    "mal": 34048,
+    "anidb": 12732,
+    "tmdb": 389868,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Seoul-yeok",
+    "english": "Seoul Station",
+    "native": "서울역",
+    "synonyms": [],
+    "tmdb_title": "Seoul Station"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 92,
+  "start_date": {
+    "year": 2016,
+    "month": 8,
+    "day": 18
+  },
+  "end_date": {
+    "year": 2016,
+    "month": 8,
+    "day": 18
+  },
+  "description": "Several groups of people try to survive a zombie pandemic that unleashes itself in downtown Seoul. \n<br>\n<br>\n(Source: IMDB)",
+  "genres": [
+    "Horror",
+    "Thriller"
+  ],
+  "tags": [
+    "Zombie",
+    "Survival",
+    "Primarily Adult Cast",
+    "Full CGI",
+    "Tragedy"
+  ],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "KR",
+  "score_anilist": 53,
+  "popularity": 2878,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/101874-qWkzMTotIxPl.jpg",
+    "poster_color": "#e4a150",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101874-GFYSyNCIg05i.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/vJgRo5EJMYPzBcljlIlUxBAlucL.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/x4Am9WtOSxEsfeBqU216n7ZA7G.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/101874-qWkzMTotIxPl.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Tubi TV",
+      "url": "https://tubitv.com/movies/513365/seoul-station?start=true"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T07:26:53.102Z",
+  "cache_version": 1
+}
