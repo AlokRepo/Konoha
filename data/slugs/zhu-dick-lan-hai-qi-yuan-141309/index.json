@@ -1,0 +1,70 @@
+{
+  "ids": {
+    "anilist": 141309,
+    "mal": 50321,
+    "anidb": 16941,
+    "tmdb": 920025,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Zhu Dick: Lan Hai Qi Yuan",
+    "english": null,
+    "native": "猪迪克之蓝海奇缘",
+    "synonyms": [
+      "DEZICO: Legend Of Blue Ocean",
+      "猪迪克大电影1"
+    ],
+    "tmdb_title": "Dezico Legend of the Blue Ocean"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 86,
+  "start_date": {
+    "year": 2021,
+    "month": 11,
+    "day": 6
+  },
+  "end_date": {
+    "year": 2021,
+    "month": 11,
+    "day": 6
+  },
+  "genres": [
+    "Adventure"
+  ],
+  "tags": [],
+  "studios": [
+    "Pass Media"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 42,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141309-Q4RIhoNF8buL.jpg",
+    "poster_color": "#e4c928",
+    "banner": "https://image.tmdb.org/t/p/original/b6e6uexblgu2IlfKOBU8bzZRiZA.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/gtnCGsgXTOyvmNUj6aPMHmPhY3Q.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/b6e6uexblgu2IlfKOBU8bzZRiZA.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141309-Q4RIhoNF8buL.jpg"
+  },
+  "streaming": [
+    {
+      "site": "iQ",
+      "url": "https://www.iq.com/album/111zf8h4a10"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 100,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T17:53:02.844Z",
+  "cache_version": 1
+}

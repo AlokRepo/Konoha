@@ -3,7 +3,8 @@
     "anilist": 10083,
     "mal": 10083,
     "tmdb": 36581,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Shiki Specials",
@@ -11,8 +12,7 @@
     "native": "屍鬼",
     "synonyms": [
       "Corpse Demon Specials"
-    ],
-    "tmdb_title": "Shiki"
+    ]
   },
   "format": "SPECIAL",
   "status": "FINISHED",
@@ -59,13 +59,10 @@
   "source": "OTHER",
   "country": "JP",
   "score_anilist": 75,
-  "popularity": 16086,
+  "popularity": 16108,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10083-IU7i4ISyY1WA.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/cxqRRYXiDPi6YRbCFbiJDAbbuxt.jpg",
-    "poster_tmdb": "https://image.tmdb.org/t/p/w780/zsWbTnNwNjqWvgZ9gqTcK9WLoWy.jpg",
-    "banner_tmdb": "https://image.tmdb.org/t/p/original/cxqRRYXiDPi6YRbCFbiJDAbbuxt.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10083-IU7i4ISyY1WA.jpg"
   },
   "streaming": [],
@@ -78,6 +75,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T07:42:40.462Z",
+  "cached_at": "2026-05-04T18:10:27.839Z",
   "cache_version": 1
 }
