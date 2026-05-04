@@ -1,0 +1,66 @@
+{
+  "ids": {
+    "anilist": 129292,
+    "mal": 45178,
+    "tmdb": 232932,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Fu Wu Shu: Sunzi Bingfa",
+    "english": null,
+    "native": "福五鼠之孙子兵法",
+    "synonyms": [
+      "福五鼠2：孙子兵法",
+      "福5鼠之孙子兵法"
+    ],
+    "tmdb_title": "福五鼠之孙子兵法"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "episodes": 26,
+  "duration": 16,
+  "start_date": {
+    "year": 2009,
+    "month": 11,
+    "day": null
+  },
+  "end_date": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 46,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b129292-Z91xLRKNBNOk.jpg",
+    "poster_color": "#e49335",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/ejoVBXBYFiQ38BbFwaXHRE3nook.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b129292-Z91xLRKNBNOk.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Youku",
+      "url": "https://v.youku.com/v_show/id_XNTU1NDQzMzEy.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 95,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T05:13:33.577Z",
+  "cache_version": 1
+}

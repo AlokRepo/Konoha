@@ -1,0 +1,64 @@
+{
+  "ids": {
+    "anilist": 129290,
+    "mal": 45177,
+    "tmdb": 197230,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Fu Wu Shu: 36 Ji",
+    "english": null,
+    "native": "福五鼠之三十六计",
+    "synonyms": [
+      "Fu Wu Shu: Sanshiliu Ji",
+      "福5鼠之三十六计",
+      "Five Lucky Mouse"
+    ],
+    "tmdb_title": "福五鼠之三十六计"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "episodes": 36,
+  "duration": 20,
+  "start_date": {
+    "year": 2008,
+    "month": 8,
+    "day": 20
+  },
+  "end_date": {
+    "year": 2008,
+    "month": null,
+    "day": null
+  },
+  "genres": [
+    "Adventure"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 40,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b129290-Ijg902cGrQYI.jpg",
+    "poster_color": "#f1c95d",
+    "banner": "https://image.tmdb.org/t/p/original/uJd50OWW1a2EvdCjEUWT7uOnJa8.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/exlT9BHH00iOawlneqO9aa7ktPV.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/uJd50OWW1a2EvdCjEUWT7uOnJa8.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b129290-Ijg902cGrQYI.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 125,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T05:14:16.515Z",
+  "cache_version": 1
+}

@@ -1,0 +1,72 @@
+{
+  "ids": {
+    "anilist": 129278,
+    "mal": 44370,
+    "tmdb": 103856,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Shen Chu Xiao Fugui",
+    "english": null,
+    "native": "神厨小福贵",
+    "synonyms": [
+      "Magic Box Kitchener"
+    ],
+    "tmdb_title": "Magic Boy Kitchener"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "episodes": 132,
+  "duration": 24,
+  "start_date": {
+    "year": 2007,
+    "month": 8,
+    "day": 1
+  },
+  "end_date": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [
+    "Food"
+  ],
+  "studios": [
+    "Great Dreams Cartoon"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 50,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129278-CsZB43ZWxhW5.jpg",
+    "poster_color": "#e4c935",
+    "banner": "https://image.tmdb.org/t/p/original/baLZCWqtGKSaMI0l4nNgFPVoBzu.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/kO2iVoX9lfRqVVO7Y3FH2VYfiav.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/baLZCWqtGKSaMI0l4nNgFPVoBzu.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129278-CsZB43ZWxhW5.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/g/g94n56kbfgw7jp8.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 116,
+  "match_signals": [
+    "synonyms_match",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T05:13:15.465Z",
+  "cache_version": 1
+}

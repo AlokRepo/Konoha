@@ -1,0 +1,69 @@
+{
+  "ids": {
+    "anilist": 207351,
+    "mal": 33599,
+    "tmdb": 280121,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Nasreddin",
+    "english": null,
+    "native": "那萨尔丁",
+    "synonyms": [
+      "Na Sa Er Ding",
+      "Nasaerdin"
+    ],
+    "tmdb_title": "那萨尔丁"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "episodes": 100,
+  "duration": 11,
+  "start_date": {
+    "year": 2014,
+    "month": 12,
+    "day": 22
+  },
+  "end_date": {
+    "year": 2015,
+    "month": 1,
+    "day": 15
+  },
+  "description": "Long ago, in the western regions of Gamma, the land split into two major factions: mages and sorcerers. Young Nasreddin and Louis grew up under the care of their grandfather Tokrak.<br><br>\n\nOne day, the Sand Demon King's forces attacked Nasreddin's home city, the fire continent, and Tokrak lost both hands in the process. From then on, Nasreddin made many companions and embarked on a journey to find the Jade Dragon Ring and save the western regions.<br><br>\n\n(Source: Bilibili, translated)\n",
+  "genres": [
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Ningbo Minhe Film And Television Animation"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 44,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207351-czeKqtdYxaAO.jpg",
+    "poster_color": "#e49343",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/q0wxgrrtJaWD3rC6AMKc6dIEpPe.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207351-czeKqtdYxaAO.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md28235499"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 90,
+  "match_signals": [
+    "exact_title",
+    "episode_close",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T05:13:55.464Z",
+  "cache_version": 1
+}

@@ -1,0 +1,67 @@
+{
+  "ids": {
+    "anilist": 203024,
+    "mal": 44350,
+    "tmdb": 132800,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Tianshang Diao Xia Ge Zhu Bajie",
+    "english": null,
+    "native": "天上掉下个猪八戒",
+    "synonyms": [
+      "Heaven Pig"
+    ],
+    "tmdb_title": "天上掉下个猪八戒"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "episodes": 104,
+  "duration": 12,
+  "start_date": {
+    "year": 2005,
+    "month": 2,
+    "day": 9
+  },
+  "end_date": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "CCTV Animation"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 23,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203024-qa3jRG1m9Ivk.jpg",
+    "poster_color": "#d69350",
+    "banner": "https://image.tmdb.org/t/p/original/siGGwjGaKmw2TJrl8NobEa6FZIW.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/nm8R6dM2gxiJSqACp3wlqWhIrGt.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/siGGwjGaKmw2TJrl8NobEa6FZIW.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203024-qa3jRG1m9Ivk.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T05:15:22.770Z",
+  "cache_version": 1
+}

@@ -1,0 +1,64 @@
+{
+  "ids": {
+    "anilist": 187061,
+    "mal": 44176,
+    "tmdb": 220483,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Mei Houwang",
+    "english": "Monkey King",
+    "native": "美猴王",
+    "synonyms": [
+      "Mei Hou Wang"
+    ],
+    "tmdb_title": "Monkey King"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "episodes": 52,
+  "duration": 22,
+  "start_date": {
+    "year": 2010,
+    "month": 1,
+    "day": 25
+  },
+  "end_date": {
+    "year": 2010,
+    "month": null,
+    "day": null
+  },
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "CCTV Animation"
+  ],
+  "producers": [],
+  "source": "OTHER",
+  "country": "CN",
+  "popularity": 32,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b187061-stzUqOO8Psws.jpg",
+    "poster_color": "#e47828",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/1MEmKXF9xEShy7UFblXZLVORj1n.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b187061-stzUqOO8Psws.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T05:14:53.901Z",
+  "cache_version": 1
+}
