@@ -1,0 +1,83 @@
+{
+  "ids": {
+    "anilist": 21897,
+    "mal": 33814,
+    "anidb": 12322,
+    "tmdb": 68137,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Ao Oni: The Animation",
+    "english": "Aooni The Blue Monster",
+    "native": "あおおに ～じ・あにめぇしょん～",
+    "synonyms": [],
+    "tmdb_title": "Ao Oni The Blue Monster"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2016,
+  "episodes": 13,
+  "duration": 4,
+  "start_date": {
+    "year": 2016,
+    "month": 10,
+    "day": 3
+  },
+  "end_date": {
+    "year": 2017,
+    "month": 1,
+    "day": 9
+  },
+  "description": "The Ao Oni ~The Animation~ television series will be a comedic take on the original story with the familiar characters drawn in super-deformed style.",
+  "genres": [
+    "Comedy",
+    "Horror"
+  ],
+  "tags": [
+    "Slapstick",
+    "Demons",
+    "Primarily Teen Cast",
+    "Primarily Male Cast",
+    "Chibi",
+    "Parody",
+    "Surreal Comedy",
+    "Meta"
+  ],
+  "studios": [
+    "Studio DEEN"
+  ],
+  "producers": [],
+  "source": "VIDEO_GAME",
+  "country": "JP",
+  "score_anilist": 46,
+  "popularity": 5641,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21897-6HCHc3qyAJtw.jpg",
+    "poster_color": "#fe5d28",
+    "banner": "https://image.tmdb.org/t/p/original/g75sIFKgkqog0XtsdHtuMwCnFAM.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/cKuDLJ1mHXn1ZFHPwAvYxO0h9Az.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/g75sIFKgkqog0XtsdHtuMwCnFAM.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b21897-6HCHc3qyAJtw.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/aooni-the-blue-monster"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 116,
+  "match_signals": [
+    "synonyms_match",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T05:18:47.790Z",
+  "cache_version": 1
+}

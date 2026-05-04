@@ -1,0 +1,87 @@
+{
+  "ids": {
+    "anilist": 130392,
+    "mal": 48252,
+    "anidb": 16071,
+    "tmdb": 119404,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Ore, Tsushima",
+    "english": "I, Tsushima",
+    "native": "俺、つしま",
+    "synonyms": [
+      "I'm Tsushima the Cat",
+      "เรียกข้าว่าสึชิมะ"
+    ],
+    "tmdb_title": "I, Tsushima"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 2021,
+  "episodes": 12,
+  "duration": 2,
+  "start_date": {
+    "year": 2021,
+    "month": 7,
+    "day": 3
+  },
+  "end_date": {
+    "year": 2021,
+    "month": 9,
+    "day": 18
+  },
+  "description": "The story centers on a woman who is getting on in years, but all her cats think she's a man so they call her Ojii-chan. One day a brazen cat named Tsushima appears in Ojii-chan's yard.",
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Animals",
+    "Surreal Comedy",
+    "Elderly Protagonist"
+  ],
+  "studios": [
+    "Fanworks",
+    "Space Neko Company"
+  ],
+  "producers": [
+    "Asmik Ace"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 64,
+  "popularity": 6378,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130392-4Wpdaq4W5XMB.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/130392-7wR8haFqhtqA.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/6sncQqNTUOhAFHen70SByBDEJ82.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/z6jYFQ7xrnmE4CxeNf6U2KvHE0p.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130392-4Wpdaq4W5XMB.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl31ypf0OGfmtqZ5upkdcrGt"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://youtube.com/playlist?list=PLl7reuZgwQ_TGFBlOPAm59WvVTXBPAufB"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T05:17:01.017Z",
+  "cache_version": 1
+}

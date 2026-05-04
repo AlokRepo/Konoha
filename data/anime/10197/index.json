@@ -1,0 +1,80 @@
+{
+  "ids": {
+    "anilist": 10197,
+    "mal": 10197,
+    "anidb": 8225,
+    "tmdb": 87364,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Nyanpire The Animation",
+    "english": "Nyanpire - The Vampire Cat",
+    "native": "にゃんぱいあ The Animation",
+    "synonyms": [],
+    "tmdb_title": "Nyanpire The Animation"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 2011,
+  "episodes": 12,
+  "duration": 4,
+  "start_date": {
+    "year": 2011,
+    "month": 7,
+    "day": 6
+  },
+  "end_date": {
+    "year": 2011,
+    "month": 9,
+    "day": 21
+  },
+  "description": "A heartwarming story about a stray black cat, who was given blood from a vampire. He was taken in by a girl Misaki and started live with her. Nyanpire's favorite phrase is \"Give me blood nya.\"",
+  "genres": [
+    "Comedy",
+    "Supernatural"
+  ],
+  "tags": [
+    "Animals",
+    "Vampire",
+    "Surreal Comedy",
+    "Chibi",
+    "Kids"
+  ],
+  "studios": [
+    "GONZO"
+  ],
+  "producers": [],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 61,
+  "popularity": 6029,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10197.jpg",
+    "poster_color": "#d61a86",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/10197-eztzQQHap8UU.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/hpEEfiDGCR2XWZP4pQNmtwDDoYC.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/eUJGKgF5iU5JUMcF3R5ARRCLPam.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10197.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/nyanpire-the-vampire-cat"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T05:18:06.684Z",
+  "cache_version": 1
+}

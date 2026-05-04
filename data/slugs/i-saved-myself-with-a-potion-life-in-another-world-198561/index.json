@@ -1,0 +1,85 @@
+{
+  "ids": {
+    "anilist": 198561,
+    "mal": 62144,
+    "anidb": 19633,
+    "tmdb": 297286,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Potion, Wagami wo Tasukeru",
+    "english": "I Saved Myself with a Potion!: Life in Another World",
+    "native": "ポーション、わが身を助ける",
+    "synonyms": [
+      "Potion, Waga mi wo Tasukeru"
+    ],
+    "tmdb_title": "I Saved Myself with a Potion!: Life in Another World"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2025,
+  "episodes": 12,
+  "duration": 13,
+  "start_date": {
+    "year": 2025,
+    "month": 10,
+    "day": 3
+  },
+  "end_date": {
+    "year": 2025,
+    "month": 12,
+    "day": 19
+  },
+  "description": "Kaede, an ordinary high school girl, suddenly wakes up in an unfamiliar alleyway—only to realize she's been transported to a mysterious world inhabited by beastmen, elves, and dragons. Among her belongings, she discovers a strange book that wasn't there before. To her surprise, it allows her to create potions simply by chanting the word \"create.\" Relying on these potions to survive, Kaede navigates the challenges of this fantastical world while clinging to the hope of one day returning to Japan. Her journey of struggle and discovery in this otherworldly realm is just beginning...",
+  "genres": [
+    "Fantasy"
+  ],
+  "tags": [
+    "Isekai",
+    "Alchemy",
+    "Magic"
+  ],
+  "studios": [
+    "Imageworks Studio"
+  ],
+  "producers": [
+    "Imagica Infos",
+    "Imagica Infos",
+    "Dai Nippon Printing",
+    "MAGNET",
+    "TOKYO MX"
+  ],
+  "source": "LIGHT_NOVEL",
+  "country": "JP",
+  "score_anilist": 57,
+  "popularity": 6030,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198561-ugYb3oLGGdbD.png",
+    "poster_color": "#5daef1",
+    "banner": "https://image.tmdb.org/t/p/original/ckQDcmK6yj1lHHC8p1J7mzeXxy0.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/aIQCS6AvTriYjsRzGxccCodNvH7.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/ckQDcmK6yj1lHHC8p1J7mzeXxy0.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198561-ugYb3oLGGdbD.png"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JikS8edJawSiM0R744Q9mpq"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T05:18:00.666Z",
+  "cache_version": 1
+}
