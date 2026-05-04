@@ -1,0 +1,65 @@
+{
+  "ids": {
+    "anilist": 117801,
+    "mal": 34227,
+    "anidb": 14265,
+    "tmdb": 1112665,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Belle to Kaijuu Ouji",
+    "english": null,
+    "native": "ベルとかいじゅう王子",
+    "synonyms": [
+      "Beauty and the Beast",
+      "La Belle et la Bête"
+    ],
+    "tmdb_title": "Beauty and the Beast"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 20,
+  "start_date": {
+    "year": 1976,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 1976,
+    "month": null,
+    "day": null
+  },
+  "description": "A stop motion puppet animation adaptation of the Beauty and the Beast fairy tale.",
+  "genres": [
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [
+    "Gakken"
+  ],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 47,
+  "popularity": 311,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b117801-AuCQU3ZdOUvW.png",
+    "poster_color": "#e4935d",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/oXeqO3nI8GmGtuGXhszT1iTCkLw.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b117801-AuCQU3ZdOUvW.png"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T13:02:53.905Z",
+  "cache_version": 1
+}
