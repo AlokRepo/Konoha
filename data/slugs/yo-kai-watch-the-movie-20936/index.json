@@ -1,0 +1,79 @@
+{
+  "ids": {
+    "anilist": 20936,
+    "mal": 24591,
+    "anidb": 10680,
+    "tmdb": 358651,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Youkai Watch Movie: Tanjou no Himitsu da Nyan!",
+    "english": "Yo-Kai Watch: The Movie",
+    "native": "映画 妖怪ウォッチ 誕生の秘密だニャン！",
+    "synonyms": [
+      "Yo-Kai Watch: La Película",
+      "Yo-kai Watch: Film"
+    ],
+    "tmdb_title": "Yo-kai Watch: The Movie"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2014,
+  "episodes": 1,
+  "duration": 97,
+  "start_date": {
+    "year": 2014,
+    "month": 12,
+    "day": 20
+  },
+  "end_date": {
+    "year": 2014,
+    "month": 12,
+    "day": 20
+  },
+  "description": "The movie will feature special guests such as popular familiar characters from the TV anime series and the latest Youkai from the upcoming Youkai Watch 2 sequel games.",
+  "genres": [
+    "Fantasy"
+  ],
+  "tags": [
+    "Youkai",
+    "Kids",
+    "Rural"
+  ],
+  "studios": [
+    "OLM"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 67,
+  "popularity": 2372,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20936-HL2RyIlxPErt.jpg",
+    "poster_color": "#f1c95d",
+    "banner": "https://image.tmdb.org/t/p/original/gFYplKdx1SjCUJAOojIqPCCCCzD.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/uAmi5MfzYrL4EGX6YJQIF9hjLqZ.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/gFYplKdx1SjCUJAOojIqPCCCCzD.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20936-HL2RyIlxPErt.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Netflix",
+      "url": "http://www.netflix.com/title/80154176"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T07:33:03.754Z",
+  "cache_version": 1
+}

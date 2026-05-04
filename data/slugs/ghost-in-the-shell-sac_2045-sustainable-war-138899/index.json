@@ -1,0 +1,96 @@
+{
+  "ids": {
+    "anilist": 138899,
+    "mal": 49402,
+    "anidb": 16427,
+    "tmdb": 965244,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Koukaku Kidoutai: SAC_2045 - Jizoku Kanou Sensou",
+    "english": "Ghost in the Shell: SAC_2045 Sustainable War",
+    "native": "攻殻機動隊 SAC_2045 持続可能戦争",
+    "synonyms": [
+      "Ghost in the Shell: SAC_2045 - Guerra Sostenible",
+      "Ghost in the Shell: SAC_2045 – Zrównoważona wojna"
+    ],
+    "tmdb_title": "Ghost in the Shell: SAC_2045 Sustainable War"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2021,
+  "episodes": 1,
+  "duration": 120,
+  "start_date": {
+    "year": 2021,
+    "month": 11,
+    "day": 12
+  },
+  "end_date": {
+    "year": 2021,
+    "month": 11,
+    "day": 12
+  },
+  "description": "Film compiling the first season of <i>Koukaku Kidoutai: SAC_2045</i> with the addition of new scenes and full re-color grading of all footage.",
+  "genres": [
+    "Action",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Cyberpunk",
+    "Artificial Intelligence",
+    "Cyborg",
+    "Robots",
+    "CGI",
+    "Full CGI",
+    "Female Protagonist",
+    "Police",
+    "Politics",
+    "Dystopian",
+    "Primarily Adult Cast",
+    "War",
+    "Seinen"
+  ],
+  "studios": [
+    "Production I.G"
+  ],
+  "producers": [
+    "Sola Digital Arts",
+    "Bandai Namco Arts",
+    "flying DOG",
+    "Kodansha"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 60,
+  "popularity": 2495,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138899-mtjPqyGw7Yxf.jpg",
+    "poster_color": "#e45d86",
+    "banner": "https://image.tmdb.org/t/p/original/htLu9YpLJCXk56GAHuFDnj8oadV.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/mcooYBr6bI7z5q6c6d5WwWUJ3xU.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/htLu9YpLJCXk56GAHuFDnj8oadV.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138899-mtjPqyGw7Yxf.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/81513128"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T07:31:40.709Z",
+  "cache_version": 1
+}
