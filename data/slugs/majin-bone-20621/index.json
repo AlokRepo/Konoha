@@ -1,0 +1,78 @@
+{
+  "ids": {
+    "anilist": 20621,
+    "mal": 21835,
+    "anidb": 10354,
+    "tmdb": 79057,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Majin Bone",
+    "english": null,
+    "native": "マジンボーン",
+    "synonyms": [],
+    "tmdb_title": "Majin Bone"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2014,
+  "episodes": 52,
+  "duration": 22,
+  "start_date": {
+    "year": 2014,
+    "month": 4,
+    "day": 1
+  },
+  "end_date": {
+    "year": 2015,
+    "month": 3,
+    "day": 31
+  },
+  "description": "An anime adaptation of Bandai's digital card game \"Majin Bone\".",
+  "genres": [],
+  "tags": [],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [
+    "TV Tokyo",
+    "Dentsu"
+  ],
+  "source": "VIDEO_GAME",
+  "country": "JP",
+  "score_anilist": 57,
+  "popularity": 2324,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20621-zV3JcVAMqVK8.jpg",
+    "poster_color": "#e48635",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n20621-wpf3UxyL8BQX.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/jujBRKWhHfTmxgtP207CChEJCnD.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/l9bFrcGYsLlBgrrBhtYrDaUlkbJ.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20621-zV3JcVAMqVK8.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/majin-bone"
+    },
+    {
+      "site": "Tubi TV",
+      "url": "https://tubitv.com/series/1836/majin_bone"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T03:04:59.227Z",
+  "cache_version": 1
+}

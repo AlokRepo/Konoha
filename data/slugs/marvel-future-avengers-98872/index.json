@@ -1,0 +1,88 @@
+{
+  "ids": {
+    "anilist": 98872,
+    "mal": 34975,
+    "anidb": 12899,
+    "tmdb": 91278,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Marvel Future Avengers",
+    "english": "Marvel Future Avengers",
+    "native": "マーベル フューチャー・アベンジャーズ",
+    "synonyms": [
+      "Marvel Fremtidige Avengers",
+      "Avengers Przyszłości"
+    ],
+    "tmdb_title": "Marvel's Future Avengers"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 2017,
+  "episodes": 26,
+  "duration": 22,
+  "start_date": {
+    "year": 2017,
+    "month": 7,
+    "day": 22
+  },
+  "end_date": {
+    "year": 2018,
+    "month": 1,
+    "day": 20
+  },
+  "description": "The anime follows Makoto, a young boy who gains superpowers due to an evil gene manipulation experiment. Makoto and other youths join the Avengers as apprentices named \"Future Avengers.\" The anime shows Makoto and others as they train, fight villains and grow, under Avengers members Iron Man, Captain America, Hulk, Thor, and Wasp. <br></br> \n<br><br>\n(Source: Anime News Network)",
+  "genres": [
+    "Action"
+  ],
+  "tags": [
+    "Superhero",
+    "Cyborg",
+    "Male Protagonist",
+    "Super Power",
+    "Kids"
+  ],
+  "studios": [
+    "MADHOUSE"
+  ],
+  "producers": [
+    "Walt Disney Studios",
+    "Marvel Entertainment"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 51,
+  "popularity": 1825,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98872-OYzOqXGfOYuG.jpg",
+    "poster_color": "#35a1f1",
+    "banner": "https://image.tmdb.org/t/p/original/y9FhwCVyIqonm2XqwGrFtmalnkv.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/buxBvftqx3g57FTYtdrfGSHlWfQ.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/y9FhwCVyIqonm2XqwGrFtmalnkv.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx98872-OYzOqXGfOYuG.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLNw_hEO5pK1qElXyBB34ScxPExlOBAgHP"
+    },
+    {
+      "site": "Disney Plus",
+      "url": "https://www.disneyplus.com/series/future-avengers/4chIo0amCXOO"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 85,
+  "match_signals": [
+    "synonyms_match",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T03:21:18.361Z",
+  "cache_version": 1
+}
