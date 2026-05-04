@@ -1,0 +1,61 @@
+{
+  "ids": {
+    "anilist": 169012,
+    "tmdb": 1081792,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "ash time",
+    "english": "ash time",
+    "native": "ash time",
+    "synonyms": [],
+    "tmdb_title": "ash time"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 5,
+  "start_date": {
+    "year": 2005,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 2005,
+    "month": null,
+    "day": null
+  },
+  "description": "The short film is Hirotoshi Iwasaki's first animated work. The motif is memories of his dog, which lived 17 years.",
+  "genres": [
+    "Psychological"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "popularity": 47,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169012-5Qpi1DRyVhN3.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/1DvwOuu6r4VQcpoBNKH2RpY8YBg.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169012-5Qpi1DRyVhN3.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Vimeo",
+      "url": "https://vimeo.com/86237499"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T17:49:46.865Z",
+  "cache_version": 1
+}

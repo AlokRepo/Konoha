@@ -1,0 +1,63 @@
+{
+  "ids": {
+    "anilist": 119533,
+    "mal": 53080,
+    "tmdb": 612856,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Yoru ni Natta Yuki noHanashi",
+    "english": "A Snowflake into the Night",
+    "native": "夜になった雪のはなし",
+    "synonyms": [],
+    "tmdb_title": "A Snowflake into the Night"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 6,
+  "start_date": {
+    "year": 2018,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 2018,
+    "month": null,
+    "day": null
+  },
+  "description": "One day,\nthe snow metamorphosed into an earthworm, when it sensed danger for melting.\nThe earthworm, who longed for aboveground, metamorphosed into a tree.\nIt continues metamorphosing and....\nSomeday, it will remember her old self.",
+  "genres": [],
+  "tags": [
+    "Stop Motion"
+  ],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "popularity": 84,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119533-zX4K5L3J2eTC.jpg",
+    "poster_color": "#f1865d",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/mxd3ima2u7kNqoXLQDKcLlD40qa.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b119533-zX4K5L3J2eTC.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Vimeo",
+      "url": "https://vimeo.com/424511580"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T17:02:59.162Z",
+  "cache_version": 1
+}
