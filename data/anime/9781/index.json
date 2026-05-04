@@ -1,0 +1,80 @@
+{
+  "ids": {
+    "anilist": 9781,
+    "mal": 9781,
+    "anidb": 4036,
+    "tmdb": 155363,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Hyouga Senshi Gaislugger",
+    "english": null,
+    "native": "氷河戦士ガイスラッガー",
+    "synonyms": [
+      "Glacier Warrior Gaislugger",
+      "Guy Slugger"
+    ],
+    "tmdb_title": "Glacier Warrior Gaislugger"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 1977,
+  "episodes": 20,
+  "duration": 24,
+  "start_date": {
+    "year": 1977,
+    "month": 4,
+    "day": 12
+  },
+  "end_date": {
+    "year": 1977,
+    "month": 8,
+    "day": 30
+  },
+  "description": "A cyborg warrior from an ancient Antarctic kingdom awakes 30000 years later from an accidental hibernation to find the Earth changed and an old alien enemy on the verge of invasion. It's up to Guyslugger to use his ancient technology to defeat the aliens.",
+  "genres": [
+    "Action",
+    "Sci-Fi"
+  ],
+  "tags": [],
+  "studios": [
+    "Toei Animation",
+    "Tokyo Movie Shinsha"
+  ],
+  "producers": [
+    "TV Asahi"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 64,
+  "popularity": 552,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9781.jpg",
+    "poster_color": "#e47835",
+    "banner": "https://image.tmdb.org/t/p/original/acYpiXY4GGIPey7L4qdBEbDADE2.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/zyitT4sGzsXwV9U8mc5m8B3onOi.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/acYpiXY4GGIPey7L4qdBEbDADE2.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9781.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PL4rzcHfrDGhm85DcQ4cOQZMspupJdWr_N"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T04:32:41.884Z",
+  "cache_version": 1
+}

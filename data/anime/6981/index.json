@@ -1,0 +1,67 @@
+{
+  "ids": {
+    "anilist": 6981,
+    "mal": 6981,
+    "anidb": 3547,
+    "tmdb": 212914,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Super Zugan",
+    "english": null,
+    "native": "スーパーヅガン",
+    "synonyms": [],
+    "tmdb_title": "Super Zugan"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 1992,
+  "episodes": 21,
+  "duration": 25,
+  "start_date": {
+    "year": 1992,
+    "month": 10,
+    "day": 9
+  },
+  "end_date": {
+    "year": 1993,
+    "month": 3,
+    "day": 13
+  },
+  "description": "A story about mahjong.",
+  "genres": [],
+  "tags": [
+    "Mahjong"
+  ],
+  "studios": [],
+  "producers": [
+    "Kitty Film",
+    "Fuji TV"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 56,
+  "popularity": 535,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6981-RLlTsId5JkVd.png",
+    "poster_color": "#f1bb5d",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/6981-IXomqVNO5BpO.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/4lKVnZgUSuoah0aym8YR1K3dLuZ.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b6981-RLlTsId5JkVd.png"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T04:33:37.044Z",
+  "cache_version": 1
+}

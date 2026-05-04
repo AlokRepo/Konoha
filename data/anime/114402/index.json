@@ -1,0 +1,79 @@
+{
+  "ids": {
+    "anilist": 114402,
+    "mal": 40983,
+    "anidb": 15344,
+    "tmdb": 105225,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Hakushon Daimaou 2020",
+    "english": "Genie Family 2020",
+    "native": "ハクション大魔王2020",
+    "synonyms": [
+      "The Genie Family 2020",
+      "Genie Family - Il ritorno del mago pancione"
+    ],
+    "tmdb_title": "Genie Family 2020"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2020,
+  "episodes": 20,
+  "duration": 24,
+  "start_date": {
+    "year": 2020,
+    "month": 4,
+    "day": 11
+  },
+  "end_date": {
+    "year": 2020,
+    "month": 9,
+    "day": 26
+  },
+  "description": "The story is set 50 years after the 1969 anime, with Kan-chan's grandchild Kantarou Yodayama meeting Akubi as she goes on a journey to prepare to be queen. In the human world, Kantarou and Akubi go on various adventures, getting jobs, and learn the importance of having dreams.<br>\n<br>\n(Source: Anime News Network)",
+  "genres": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Tatsunoko Production",
+    "Nippon Animation"
+  ],
+  "producers": [
+    "Yomiuri TV"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 50,
+  "popularity": 515,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114402-1PtmZciRzBqD.png",
+    "banner": "https://image.tmdb.org/t/p/original/cps6xozQKTUWLcFcc01nAEIeDPt.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/i54ChnxS1mmMNf1SVNyKnmmFVP9.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/cps6xozQKTUWLcFcc01nAEIeDPt.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114402-1PtmZciRzBqD.png"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/genie-family-2020"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T04:35:51.658Z",
+  "cache_version": 1
+}

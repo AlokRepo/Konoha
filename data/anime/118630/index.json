@@ -1,0 +1,74 @@
+{
+  "ids": {
+    "anilist": 118630,
+    "mal": 41529,
+    "anidb": 15471,
+    "tmdb": 240179,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Duel Masters King",
+    "english": null,
+    "native": "デュエル・マスターズキング",
+    "synonyms": [],
+    "tmdb_title": "デュエル・マスターズ キング"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2020,
+  "episodes": 47,
+  "duration": 24,
+  "start_date": {
+    "year": 2020,
+    "month": 4,
+    "day": 5
+  },
+  "end_date": {
+    "year": 2021,
+    "month": 3,
+    "day": 28
+  },
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "tags": [
+    "Card Battle",
+    "Kids"
+  ],
+  "studios": [
+    "Brain's Base"
+  ],
+  "producers": [
+    "Shogakukan Music & Digital Entertainment",
+    "TV Tokyo"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 47,
+  "popularity": 528,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx118630-tSFqf4Qlgv1m.png",
+    "poster_color": "#f1a15d",
+    "banner": "https://image.tmdb.org/t/p/original/4tCISH7eRDDvkXIo0H1k2AaHJIP.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/q1v2rahBj4nwafItJl99SFBRkdu.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/4tCISH7eRDDvkXIo0H1k2AaHJIP.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx118630-tSFqf4Qlgv1m.png"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 120,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T04:34:09.401Z",
+  "cache_version": 1
+}
