@@ -4,7 +4,8 @@
     "mal": 30778,
     "anidb": 11247,
     "tmdb": 433422,
-    "tmdb_type": "movie"
+    "tmdb_type": "movie",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "FAIRY TAIL: DRAGON CRY",
@@ -55,8 +56,8 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 73,
-  "popularity": 45452,
-  "trending": 0,
+  "popularity": 45483,
+  "trending": 2,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21191-btDjdLVHzVQp.jpg",
     "poster_color": "#285093",
@@ -69,6 +70,10 @@
     {
       "site": "Crunchyroll",
       "url": "https://www.crunchyroll.com/fairy-tail-movies"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/"
     }
   ],
   "themes": [],
@@ -80,8 +85,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T05:24:29.622Z",
-  "cache_version": 1
-}",
+  "cached_at": "2026-05-04T17:09:56.671Z",
   "cache_version": 1
 }
