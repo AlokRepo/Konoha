@@ -1,0 +1,65 @@
+{
+  "ids": {
+    "anilist": 20093,
+    "mal": 20093,
+    "anidb": 7708,
+    "tmdb": 1448783,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Furiten-kun",
+    "english": null,
+    "native": "フリテンくん",
+    "synonyms": [],
+    "tmdb_title": "Furiten-kun"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 1981,
+  "episodes": 1,
+  "duration": 75,
+  "start_date": {
+    "year": 1981,
+    "month": 4,
+    "day": 11
+  },
+  "end_date": {
+    "year": 1981,
+    "month": 4,
+    "day": 11
+  },
+  "description": "Based on the yonkoma manga by Ueda Masashi.",
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Mahjong"
+  ],
+  "studios": [],
+  "producers": [],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 45,
+  "popularity": 268,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20093.jpg",
+    "poster_color": "#f1bb50",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/psdnR8NAAptekuBz58RobSPN5Z3.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20093.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T09:33:30.550Z",
+  "cache_version": 1
+}

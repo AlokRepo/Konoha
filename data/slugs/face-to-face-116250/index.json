@@ -1,0 +1,66 @@
+{
+  "ids": {
+    "anilist": 116250,
+    "mal": 41796,
+    "tmdb": 872046,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Omukaisan",
+    "english": "Face to Face",
+    "native": "お向かいさん",
+    "synonyms": [],
+    "tmdb_title": "Face to Face"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 8,
+  "start_date": {
+    "year": 2007,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 2007,
+    "month": null,
+    "day": null
+  },
+  "description": "A short animation from Mika Seike from 2007. She uses scanned objects and photographs of her actors (in this case Natsuko Miyata and Yoshiro Togami) for the basic forms of her animation, which she manipulates, colors, and animates on her computer.",
+  "genres": [
+    "Psychological"
+  ],
+  "tags": [
+    "Rotoscoping"
+  ],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 46,
+  "popularity": 206,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b116250-AESOrN5kYwVl.jpg",
+    "poster_color": "#bb350d",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/7OCeSEGauzN26glhkajCHuuDSlH.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b116250-AESOrN5kYwVl.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Vimeo",
+      "url": "https://vimeo.com/165442007"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T10:13:16.544Z",
+  "cache_version": 1
+}
