@@ -1,0 +1,70 @@
+{
+  "ids": {
+    "anilist": 131591,
+    "mal": 43987,
+    "anidb": 16466,
+    "tmdb": 121082,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Xi Yangyang Yu Hui Tailang: Kaixin Riji",
+    "english": "Pleasant Goat and Big Big Wolf: The Happy Diary",
+    "native": "喜羊羊与灰太狼之开心日记",
+    "synonyms": [
+      "喜羊羊与灰太狼 第七季"
+    ],
+    "tmdb_title": "喜羊羊与灰太狼之开心日记"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "episodes": 60,
+  "duration": 14,
+  "start_date": {
+    "year": 2012,
+    "month": 12,
+    "day": 8
+  },
+  "end_date": {
+    "year": 2013,
+    "month": null,
+    "day": null
+  },
+  "description": "The seventh season of <i>Xi Yangyang Yu Hui Tailang</i>.",
+  "genres": [
+    "Adventure",
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 78,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b131591-qxQvbBOTngWn.jpg",
+    "poster_color": "#f1c95d",
+    "banner": "https://image.tmdb.org/t/p/original/ejoJI0u9Wxzl8xTkVWTdYUJv7GY.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/904MKHBBEGpyhBVuQnFgxGM9nyT.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/ejoJI0u9Wxzl8xTkVWTdYUJv7GY.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b131591-qxQvbBOTngWn.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/p/p3e3dwswpawvdnr.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T06:41:10.214Z",
+  "cache_version": 1
+}

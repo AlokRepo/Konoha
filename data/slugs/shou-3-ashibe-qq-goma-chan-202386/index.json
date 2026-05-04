@@ -1,0 +1,69 @@
+{
+  "ids": {
+    "anilist": 202386,
+    "mal": 62933,
+    "anidb": 19930,
+    "tmdb": 319455,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Shou 3 Ashibe QQ Goma-chan",
+    "english": null,
+    "native": "小3アシベ QQゴマちゃん",
+    "synonyms": [],
+    "tmdb_title": "Shou 3 Ashibe QQ Goma-chan"
+  },
+  "format": "TV_SHORT",
+  "status": "RELEASING",
+  "season": "SPRING",
+  "season_year": 2026,
+  "episodes": 1,
+  "start_date": {
+    "year": 2026,
+    "month": 4,
+    "day": 12
+  },
+  "end_date": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "next_airing": {
+    "episode": 5,
+    "at": "2026-05-09T22:00:00.000Z"
+  },
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "tags": [],
+  "studios": [
+    "DLE"
+  ],
+  "producers": [],
+  "source": "MANGA",
+  "country": "JP",
+  "popularity": 85,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202386-wjFf8ubM1XZR.png",
+    "poster_color": "#f1bb1a",
+    "banner": "https://image.tmdb.org/t/p/original/6xFW6WBy6dcn1OlNpGCsoAxyoYK.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/tKPqTEdJ1UL1G8zqbkc8RALlJZ6.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/6xFW6WBy6dcn1OlNpGCsoAxyoYK.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202386-wjFf8ubM1XZR.png"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T06:40:46.248Z",
+  "cache_version": 1
+}
