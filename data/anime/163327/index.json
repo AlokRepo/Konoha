@@ -3,8 +3,8 @@
     "anilist": 163327,
     "mal": 54915,
     "anidb": 17968,
-    "tmdb": 1153706,
-    "tmdb_type": "movie",
+    "tmdb": 321539,
+    "tmdb_type": "tv",
     "tmdb_season": null
   },
   "titles": {
@@ -16,7 +16,7 @@
       "5-Toubun no Hanayome∽",
       "The Quintessential Quintuplets: No Coincidences in This Summer Break"
     ],
-    "tmdb_title": "The Quintessential Quintuplets∽"
+    "tmdb_title": "五等分的新娘∽ 五等分の花嫁∽"
   },
   "format": "SPECIAL",
   "status": "FINISHED",
@@ -61,15 +61,14 @@
   ],
   "source": "MANGA",
   "country": "JP",
-  "score_anilist": 78,
-  "popularity": 38854,
-  "trending": 5,
+  "score_anilist": 79,
+  "popularity": 39028,
+  "trending": 2,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163327-xBQznOwq6emq.jpg",
     "poster_color": "#35c9ff",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/163327-FadQfp1iiP6P.jpg",
-    "poster_tmdb": "https://image.tmdb.org/t/p/w780/piAsKbSj0mW5a8ZY08ogUNWMYsV.jpg",
-    "banner_tmdb": "https://image.tmdb.org/t/p/original/rRA5Q43UL4ZB0lHPRB44JCBhoUW.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/rlyjziKHTFlNg9NDnZM7sf3R7wv.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163327-xBQznOwq6emq.jpg"
   },
   "streaming": [
@@ -79,13 +78,14 @@
     }
   ],
   "themes": [],
-  "confidence": "MEDIUM",
-  "match_score": 100,
+  "confidence": "HIGH",
+  "match_score": 135,
   "match_signals": [
     "exact_title",
     "year_match",
-    "studio_match"
+    "episode_exact",
+    "format_match"
   ],
-  "cached_at": "2026-05-03T05:40:55.228Z",
+  "cached_at": "2026-05-04T18:05:06.845Z",
   "cache_version": 1
 }
