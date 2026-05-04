@@ -4,7 +4,8 @@
     "mal": 34549,
     "anidb": 12359,
     "tmdb": 70468,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Ryuu no Haisha",
@@ -53,7 +54,7 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 71,
-  "popularity": 15402,
+  "popularity": 15415,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx87539-TF4agdQizKrh.jpg",
@@ -63,7 +64,20 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/7pZZEXgjfIzy6iPNJkJeXVvgmDN.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx87539-TF4agdQizKrh.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-272659"
+    },
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/movies/the-dragon-dentist"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 160,
@@ -74,6 +88,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T07:47:10.866Z",
+  "cached_at": "2026-05-04T18:11:16.012Z",
   "cache_version": 1
 }
