@@ -1,0 +1,75 @@
+{
+  "ids": {
+    "anilist": 8436,
+    "mal": 8436,
+    "anidb": 5484,
+    "tmdb": 124144,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Ketsudan",
+    "english": null,
+    "native": "アニメンタリー 決断",
+    "synonyms": [
+      "Animentary: Ketsudan",
+      "Animentary: The Decision"
+    ],
+    "tmdb_title": "Decision"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 1971,
+  "episodes": 26,
+  "duration": 25,
+  "start_date": {
+    "year": 1971,
+    "month": 4,
+    "day": 3
+  },
+  "end_date": {
+    "year": 1971,
+    "month": 9,
+    "day": 25
+  },
+  "description": "A strict retelling of the Pacific side of WW2.<br><br>\n\n<i>Note: Episode 26 is unrelated to the story, and instead is a live-action episode that focuses on the production and background of the anime. It was never included in the VHS/LD/DVD releases.</i>",
+  "genres": [
+    "Drama"
+  ],
+  "tags": [
+    "Military",
+    "Historical",
+    "War",
+    "Ships"
+  ],
+  "studios": [
+    "Tatsunoko Production"
+  ],
+  "producers": [],
+  "country": "JP",
+  "score_anilist": 55,
+  "popularity": 825,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8436-bZ9fpaqc1tEv.png",
+    "poster_color": "#f16b50",
+    "banner": "https://image.tmdb.org/t/p/original/uCVJSl0o2fprhTJIrlpS4akB2ld.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/5FkyzPe14lQxoVlIWH3ey5tL9Vr.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/uCVJSl0o2fprhTJIrlpS4akB2ld.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8436-bZ9fpaqc1tEv.png"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 106,
+  "match_signals": [
+    "synonyms_match",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T04:12:40.207Z",
+  "cache_version": 1
+}
