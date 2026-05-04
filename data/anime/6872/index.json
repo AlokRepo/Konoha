@@ -1,0 +1,74 @@
+{
+  "ids": {
+    "anilist": 6872,
+    "mal": 6872,
+    "anidb": 2204,
+    "tmdb": 314090,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Cyborg 009 (Movie)",
+    "english": "Cyborg 009",
+    "native": "サイボーグ009",
+    "synonyms": [],
+    "tmdb_title": "Cyborg 009"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 1966,
+  "episodes": 1,
+  "duration": 65,
+  "start_date": {
+    "year": 1966,
+    "month": 7,
+    "day": 21
+  },
+  "end_date": {
+    "year": 1966,
+    "month": 7,
+    "day": 21
+  },
+  "description": "Original Cyborg 009 1966 movie based on the manga. Features 009's origin and an epic battle against Black Ghost and their evil robot forces.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Robots",
+    "Ensemble Cast",
+    "Shounen",
+    "Superhero",
+    "Cyborg",
+    "Slapstick"
+  ],
+  "studios": [],
+  "producers": [],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 54,
+  "popularity": 1398,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6872-yvxqZqLuVOZh.jpg",
+    "poster_color": "#50a1f1",
+    "banner": "https://image.tmdb.org/t/p/original/ekqaUsbVoGf3POxLMs8W33aw03i.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/f38o5SKsgSlBaoOMejq4fIcBzsB.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/ekqaUsbVoGf3POxLMs8W33aw03i.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6872-yvxqZqLuVOZh.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T07:52:51.048Z",
+  "cache_version": 1
+}
