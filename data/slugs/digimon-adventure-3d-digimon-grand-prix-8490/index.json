@@ -1,0 +1,80 @@
+{
+  "ids": {
+    "anilist": 8490,
+    "mal": 8490,
+    "anidb": 7444,
+    "tmdb": 459926,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Digimon Adventure 3D: Digimon Grand Prix!",
+    "english": null,
+    "native": "デジモンアドベンチャー3D デジモングランプリ!",
+    "synonyms": [
+      "Digimon - Grand Prix - CG Toei Animation Festival"
+    ],
+    "tmdb_title": "Digimon Adventure 3D: Digimon Grand Prix!"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 2000,
+  "episodes": 1,
+  "duration": 7,
+  "start_date": {
+    "year": 2000,
+    "month": 7,
+    "day": 16
+  },
+  "end_date": {
+    "year": 2000,
+    "month": 7,
+    "day": 16
+  },
+  "description": "Digimon special, Mario Kart style racing.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Sci-Fi",
+    "Sports"
+  ],
+  "tags": [
+    "Parody",
+    "Cars",
+    "Artificial Intelligence",
+    "Virtual World",
+    "Full CGI"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 50,
+  "popularity": 2146,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8490.jpg",
+    "poster_color": "#e4c90d",
+    "banner": "https://image.tmdb.org/t/p/original/oQzzvyFaQu05lD8iMfgOe5TozZU.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/gl8XgSM9c8d0tgdhkuw7zv7QUxW.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/oQzzvyFaQu05lD8iMfgOe5TozZU.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8490.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T07:37:00.114Z",
+  "cache_version": 1
+}
