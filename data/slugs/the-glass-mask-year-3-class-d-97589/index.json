@@ -1,0 +1,77 @@
+{
+  "ids": {
+    "anilist": 97589,
+    "mal": 33975,
+    "anidb": 12366,
+    "tmdb": 68453,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "3-nen D-gumi Glass no Kamen",
+    "english": "The Glass Mask Year 3 Class D",
+    "native": "３ねんＤぐみガラスの仮面",
+    "synonyms": [
+      "3rd Year Class D Glass Mask"
+    ],
+    "tmdb_title": "The Glass Mask Year 3 Class D"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2016,
+  "episodes": 13,
+  "duration": 4,
+  "start_date": {
+    "year": 2016,
+    "month": 10,
+    "day": 3
+  },
+  "end_date": {
+    "year": 2016,
+    "month": 12,
+    "day": 26
+  },
+  "description": "The series re-imagines the Glass Mask manga and its characters in a school gag comedy focused on satirizing modern society.\n<br><br>\n(Source: Anime News Network)",
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [
+    "Full CGI"
+  ],
+  "studios": [
+    "DLE"
+  ],
+  "producers": [],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 40,
+  "popularity": 871,
+  "trending": 1,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/97589-REUlrPFEJIvn.jpg",
+    "poster_color": "#2828fe",
+    "banner": "https://image.tmdb.org/t/p/original/hMpjfENgfMj3vToXuqhRSgN6HuT.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/5Ho4AtPp59GKM7qQ4UMON1Pm1h9.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/hMpjfENgfMj3vToXuqhRSgN6HuT.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/97589-REUlrPFEJIvn.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/the-glass-mask-year-3-class-d"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T05:55:50.775Z",
+  "cache_version": 1
+}
