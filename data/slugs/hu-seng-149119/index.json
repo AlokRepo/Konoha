@@ -1,0 +1,63 @@
+{
+  "ids": {
+    "anilist": 149119,
+    "mal": 43829,
+    "tmdb": 998732,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Hu Seng",
+    "english": null,
+    "native": "胡僧",
+    "synonyms": [],
+    "tmdb_title": "胡僧"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 10,
+  "start_date": {
+    "year": 1994,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 1994,
+    "month": null,
+    "day": null
+  },
+  "genres": [],
+  "tags": [],
+  "studios": [
+    "Shanghai Animation Film Studio"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 44,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx149119-wyJ9VQDPE7Jt.jpg",
+    "poster_color": "#5093e4",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/zAzMQqSlXHo3Ay1IBWvgtK7yn6Z.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx149119-wyJ9VQDPE7Jt.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/watch?v=r0OL8MPghGE"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T17:51:36.998Z",
+  "cache_version": 1
+}

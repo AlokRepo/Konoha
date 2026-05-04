@@ -1,0 +1,69 @@
+{
+  "ids": {
+    "anilist": 169021,
+    "mal": 53158,
+    "tmdb": 522668,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Kudamono",
+    "english": "fruits",
+    "native": "くだもの",
+    "synonyms": [],
+    "tmdb_title": "fruits"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 3,
+  "start_date": {
+    "year": 2018,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 2018,
+    "month": null,
+    "day": null
+  },
+  "description": "At some point, children diverge from the ideal path set forth for them by adults. The trigger is usually a trivial incident. \n<br><br>\n (Source: Geidai Animation)",
+  "genres": [
+    "Psychological",
+    "Slice of Life"
+  ],
+  "tags": [],
+  "studios": [
+    "Geidai Animation"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_mal": 5.5,
+  "popularity": 84,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169021-eonh1Ygyuj6U.jpg",
+    "poster_color": "#e4bbae",
+    "banner": "https://image.tmdb.org/t/p/original/xEHAplFoThoZnNew3Lxectjfm8V.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/2lYzwI6WCfX7uV1jBMEOn7vmtx6.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/xEHAplFoThoZnNew3Lxectjfm8V.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169021-eonh1Ygyuj6U.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Vimeo",
+      "url": "https://vimeo.com/466436872"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T17:03:29.981Z",
+  "cache_version": 1
+}
