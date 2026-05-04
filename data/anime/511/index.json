@@ -1,0 +1,84 @@
+{
+  "ids": {
+    "anilist": 511,
+    "mal": 511,
+    "anidb": 3381,
+    "tmdb": 43290,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Kidou Shinsengumi Moeyo Ken TV",
+    "english": "Moeyo Ken",
+    "native": "機動新撰組 萌えよ剣 TV",
+    "synonyms": [],
+    "tmdb_title": "Moeyo Ken TV"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 2005,
+  "episodes": 13,
+  "duration": 25,
+  "start_date": {
+    "year": 2005,
+    "month": 7,
+    "day": 1
+  },
+  "end_date": {
+    "year": 2005,
+    "month": 9,
+    "day": 23
+  },
+  "description": "Set in an alternate version of the Meiji Era, a boy named Sakamoto Ryunosuke returns to Kyoto from Shanghai with his monster (youkai) Nekomaru. The law states that in order to live freely with humans, a youkai must be liscensed. The Kidou Shinsengumi Co. Ltd. is responsible for the capture of unliscensed youkais but must fight with the Tsubamegumi, who resents the new law. It turns out that Ryunosuke is the son of the owner of the Shinsengumis.",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+  ],
+  "tags": [
+    "Youkai"
+  ],
+  "studios": [
+    "Picture Magic"
+  ],
+  "producers": [
+    "Trinet Entertainment",
+    "ADV Films",
+    "Funimation"
+  ],
+  "source": "VIDEO_GAME",
+  "country": "JP",
+  "score_anilist": 57,
+  "popularity": 1576,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx511-43ox4BGQCBoh.png",
+    "poster_color": "#e45d93",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/511-mQwZG6mdoPxy.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/yAHCklJUG3pQkQJhjDIe6cOdRiI.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/8HppGTnUQFEuMte65FYeUzXe2kz.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx511-43ox4BGQCBoh.png"
+  },
+  "streaming": [
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/moeyo-ken"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/moeyo-ken"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 100,
+  "match_signals": [
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T03:34:34.676Z",
+  "cache_version": 1
+}

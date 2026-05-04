@@ -1,0 +1,89 @@
+{
+  "ids": {
+    "anilist": 1899,
+    "mal": 1899,
+    "anidb": 2725,
+    "tmdb": 45076,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Masou Kishin Cybuster",
+    "english": "Cybuster",
+    "native": "魔装機神サイバスター",
+    "synonyms": [],
+    "tmdb_title": "Cybuster"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 1999,
+  "episodes": 26,
+  "duration": 24,
+  "start_date": {
+    "year": 1999,
+    "month": 5,
+    "day": 3
+  },
+  "end_date": {
+    "year": 1999,
+    "month": 10,
+    "day": 25
+  },
+  "description": "In an enviromentally wrecked future Tokyo, a young man named Ken Ando joins an organization called DC. Little does he realize that his fate and that of Earth will be linked to a mysterious mecha from another world.<br><br>\n(Source: Anime News Network)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Super Robot",
+    "Dystopian",
+    "Robots",
+    "Real Robot"
+  ],
+  "studios": [
+    "Ashi Productions"
+  ],
+  "producers": [
+    "NBCUniversal Entertainment Japan",
+    "NAS"
+  ],
+  "source": "VIDEO_GAME",
+  "country": "JP",
+  "score_anilist": 56,
+  "popularity": 1513,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1899-QAB9uVSHIlld.png",
+    "poster_color": "#f17850",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/2Ca5V1xFaO85xdU9bNXdhi1OcNh.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1899-QAB9uVSHIlld.png"
+  },
+  "streaming": [
+    {
+      "site": "Amazon Prime Video",
+      "url": "https://www.amazon.com/gp/video/detail/B07Y2FPMJ7/"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/psybuster"
+    },
+    {
+      "site": "RetroCrush",
+      "url": "https://www.retrocrush.tv/series/011248s/cybuster"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 125,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T03:37:39.107Z",
+  "cache_version": 1
+}
