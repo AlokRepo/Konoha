@@ -1,0 +1,67 @@
+{
+  "ids": {
+    "anilist": 112823,
+    "mal": 35398,
+    "anidb": 12869,
+    "tmdb": 491013,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Manga no Rekkoku Rikugun",
+    "english": null,
+    "native": "漫画の列国陸軍",
+    "synonyms": [
+      "Armies of the World"
+    ],
+    "tmdb_title": "Armies of the World"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 28,
+  "start_date": {
+    "year": 1932,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 1932,
+    "month": null,
+    "day": null
+  },
+  "description": "Maru-san and Kaku-san have grown complacent in the long peace. They go to view a military parade, but it turns into a comparison of the military strength of countries around the world. In the end, they listen in on an arms control conference to find out what each country is really thinking.\n<br><br>\n(Source: Japanese Animated Film Classics)",
+  "genres": [],
+  "tags": [
+    "Educational",
+    "Military"
+  ],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 36,
+  "popularity": 366,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b112823-XedkZQjZ3fot.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/sR9sLKKJH3HResXKMsIGG7IseDg.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b112823-XedkZQjZ3fot.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Japanese Film Archives",
+      "url": "https://animation.filmarchives.jp/en/works/view/44414"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T09:11:18.856Z",
+  "cache_version": 1
+}

@@ -1,0 +1,65 @@
+{
+  "ids": {
+    "anilist": 114467,
+    "mal": 51757,
+    "tmdb": 392993,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "QUAILS",
+    "english": null,
+    "native": "QUAILS",
+    "synonyms": [
+      "うずら",
+      "Uzura"
+    ],
+    "tmdb_title": "QUAILS"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 6,
+  "start_date": {
+    "year": 2013,
+    "month": 4,
+    "day": 15
+  },
+  "end_date": {
+    "year": 2013,
+    "month": 4,
+    "day": 15
+  },
+  "description": "Short animation by Mirai Mizue made with an iPad and McLaren's Workshop. Dedicated to Norman McLaren.",
+  "genres": [
+    "Psychological"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_mal": 5.14,
+  "popularity": 113,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b114467-81HsVIGZdf7r.png",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b114467-81HsVIGZdf7r.png"
+  },
+  "streaming": [
+    {
+      "site": "Vimeo",
+      "url": "https://vimeo.com/68523468"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T11:06:58.424Z",
+  "cache_version": 1
+}

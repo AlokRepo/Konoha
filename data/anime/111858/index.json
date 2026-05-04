@@ -1,0 +1,63 @@
+{
+  "ids": {
+    "anilist": 111858,
+    "mal": 39279,
+    "tmdb": 386573,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Human Orchestra",
+    "english": null,
+    "native": null,
+    "synonyms": [],
+    "tmdb_title": "Human Orchestra"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 3,
+  "start_date": {
+    "year": 2010,
+    "month": 9,
+    "day": 16
+  },
+  "end_date": {
+    "year": 2010,
+    "month": 9,
+    "day": 16
+  },
+  "description": "Short film by Takashi Ohashi, visually syncopating music by Onishi Yoshito.",
+  "genres": [
+    "Music"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 42,
+  "popularity": 140,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b111858-esuTSTXbSrJR.jpg",
+    "poster_color": "#f1f1a1",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b111858-esuTSTXbSrJR.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Vimeo",
+      "url": "https://vimeo.com/15042988"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T10:51:13.568Z",
+  "cache_version": 1
+}
