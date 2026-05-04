@@ -1,0 +1,59 @@
+{
+  "ids": {
+    "anilist": 121045,
+    "mal": 42234,
+    "tmdb": 601645,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Ringo to Shoujo",
+    "english": null,
+    "native": "リンゴと少女",
+    "synonyms": [
+      "The apple and the girl"
+    ],
+    "tmdb_title": "The apple and the girl"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 7,
+  "start_date": {
+    "year": 1982,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 1982,
+    "month": null,
+    "day": null
+  },
+  "description": "Project an abstract animation with an apple motif on various places of an old rural house and re-shoot it.",
+  "genres": [],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 39,
+  "popularity": 177,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121045-0Hho3Mpy4Red.jpg",
+    "poster_color": "#a13535",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/oYWYrFShJAU172nob5w0m7pwIhE.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121045-0Hho3Mpy4Red.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T10:33:26.727Z",
+  "cache_version": 1
+}

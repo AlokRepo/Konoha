@@ -1,0 +1,57 @@
+{
+  "ids": {
+    "anilist": 102364,
+    "mal": 22181,
+    "tmdb": 369441,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "SHUNGA",
+    "english": null,
+    "native": "SHUNGA",
+    "synonyms": [],
+    "tmdb_title": "Shunga"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 4,
+  "start_date": {
+    "year": 2009,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 2009,
+    "month": null,
+    "day": null
+  },
+  "description": "Short Movie by Keiichi Tanaami",
+  "genres": [],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 30,
+  "popularity": 366,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102364-uw3rqsuo2cBw.jpg",
+    "poster_color": "#863528",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/nyGihOn3IYY22nTbKtXfRdmi272.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102364-uw3rqsuo2cBw.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T09:11:28.515Z",
+  "cache_version": 1
+}
