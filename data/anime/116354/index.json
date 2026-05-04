@@ -1,0 +1,80 @@
+{
+  "ids": {
+    "anilist": 116354,
+    "mal": 48992,
+    "anidb": 16051,
+    "tmdb": 602927,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Aru Nihon no Ekaki Shounen",
+    "english": "A Japanese Boy Who Draws",
+    "native": "ある日本の絵描き少年",
+    "synonyms": [],
+    "tmdb_title": "A Japanese Boy Who Draws"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2019,
+  "episodes": 1,
+  "duration": 21,
+  "start_date": {
+    "year": 2019,
+    "month": 3,
+    "day": 2
+  },
+  "end_date": {
+    "year": 2019,
+    "month": 3,
+    "day": 2
+  },
+  "description": "An experimental animation and documentary about the life of a boy who wants to become a manga artist.",
+  "genres": [
+    "Drama"
+  ],
+  "tags": [
+    "Drawing",
+    "Autobiographical",
+    "Meta",
+    "Coming of Age",
+    "Work",
+    "Otaku Culture",
+    "Mixed Media"
+  ],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 68,
+  "popularity": 957,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116354-cv2EZzYUK40o.jpg",
+    "poster_color": "#e4a128",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/116354-dbNiP9nNBLgD.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/tWV2Tn2SsDHr2suf835xB7tr5Vz.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116354-cv2EZzYUK40o.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/watch?v=6xpP_tisfm0"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/watch?v=3g3wcwQWXZY"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 95,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T08:07:51.795Z",
+  "cache_version": 1
+}
