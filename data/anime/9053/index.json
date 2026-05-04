@@ -1,0 +1,72 @@
+{
+  "ids": {
+    "anilist": 9053,
+    "mal": 9053,
+    "tmdb": 72135,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "ICE (Movie)",
+    "english": null,
+    "native": "ICE",
+    "synonyms": [
+      "Ice Gekijouban",
+      "ICE - The last Generation Movie",
+      "Project Ice Movie"
+    ],
+    "tmdb_title": "Ice"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2008,
+  "episodes": 1,
+  "duration": 102,
+  "start_date": {
+    "year": 2008,
+    "month": 11,
+    "day": 29
+  },
+  "end_date": {
+    "year": 2008,
+    "month": 11,
+    "day": 29
+  },
+  "description": "Compilation movie of the previously released OVA.",
+  "genres": [
+    "Action",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Military",
+    "Post-Apocalyptic",
+    "Conspiracy",
+    "War"
+  ],
+  "studios": [],
+  "producers": [
+    "PPM"
+  ],
+  "country": "JP",
+  "score_anilist": 44,
+  "popularity": 484,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9053.jpg",
+    "poster_color": "#5dc9f1",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/saL1ALjTndRIQNNXY8X1RTvGDZF.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9053.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T08:46:40.374Z",
+  "cache_version": 1
+}

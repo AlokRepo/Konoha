@@ -1,0 +1,65 @@
+{
+  "ids": {
+    "anilist": 10313,
+    "mal": 10313,
+    "anidb": 4805,
+    "tmdb": 978622,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Dallos Special",
+    "english": null,
+    "native": "ダロス Special",
+    "synonyms": [],
+    "tmdb_title": "Dallos Special"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 1985,
+  "episodes": 1,
+  "duration": 85,
+  "start_date": {
+    "year": 1985,
+    "month": 5,
+    "day": 8
+  },
+  "end_date": {
+    "year": 1985,
+    "month": 5,
+    "day": 8
+  },
+  "description": "Summary film of the original series.",
+  "genres": [
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Studio Pierrot"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 46,
+  "popularity": 466,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b10313-hSVoi1doYKFx.jpg",
+    "poster_color": "#d6861a",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/3wcyFIhvXbpB92O65MwNZYT92J6.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b10313-hSVoi1doYKFx.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T08:49:39.462Z",
+  "cache_version": 1
+}

@@ -1,0 +1,68 @@
+{
+  "ids": {
+    "anilist": 5098,
+    "mal": 5098,
+    "anidb": 2208,
+    "tmdb": 314223,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Andersen Monogatari",
+    "english": "The World of Hans Christian Andersen",
+    "native": "アンデルセン物語",
+    "synonyms": [],
+    "tmdb_title": "The World of Hans Christian Andersen"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 1968,
+  "episodes": 1,
+  "duration": 80,
+  "start_date": {
+    "year": 1968,
+    "month": 3,
+    "day": 19
+  },
+  "end_date": {
+    "year": 1968,
+    "month": 3,
+    "day": 19
+  },
+  "description": "Hans Christian Andersen is a little boy with a talent for making up stories. With his skill, his friends of all species, and his positive attitude, he helps brighten the lives of the people around him.<br><br>\nThis movie contains elements of many of Andersen's tales, most prominently <em>The Red Shoes</em> and <em>The Little Match Girl</em>.",
+  "genres": [
+    "Drama"
+  ],
+  "tags": [
+    "Foreign",
+    "Kids",
+    "Classic Literature"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [],
+  "country": "JP",
+  "score_anilist": 52,
+  "popularity": 488,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5098-QLeMCe13hMKC.jpg",
+    "poster_color": "#e46b35",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/4eT42OcsCcFcCEZ4yFQD752kfCT.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5098-QLeMCe13hMKC.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T08:46:26.671Z",
+  "cache_version": 1
+}

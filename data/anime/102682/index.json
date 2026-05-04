@@ -1,0 +1,63 @@
+{
+  "ids": {
+    "anilist": 102682,
+    "mal": 28657,
+    "anidb": 11427,
+    "tmdb": 381965,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Red Colored Bridge",
+    "english": null,
+    "native": "赤い太鼓橋",
+    "synonyms": [
+      "Red-Colored Bridge"
+    ],
+    "tmdb_title": "Red Colored Bridge"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 5,
+  "start_date": {
+    "year": 2012,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 2012,
+    "month": null,
+    "day": null
+  },
+  "description": "Experimental animation by Keiichi Tanaami",
+  "genres": [
+    "Psychological"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 32,
+  "popularity": 482,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102682-OiuXINpKdbae.jpg",
+    "poster_color": "#d6781a",
+    "banner": "https://image.tmdb.org/t/p/original/cUoXgDN4GbJiCD1enh46CJfFyaM.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/cUoXgDN4GbJiCD1enh46CJfFyaM.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/102682-OiuXINpKdbae.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T08:47:06.750Z",
+  "cache_version": 1
+}

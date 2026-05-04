@@ -1,0 +1,71 @@
+{
+  "ids": {
+    "anilist": 111796,
+    "mal": 35410,
+    "anidb": 12881,
+    "tmdb": 519625,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Ahiru no Ko",
+    "english": null,
+    "native": "あひるの子",
+    "synonyms": [
+      "The Ugly Duckling"
+    ],
+    "tmdb_title": "Ugly Duckling"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 15,
+  "start_date": {
+    "year": 1932,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 1932,
+    "month": null,
+    "day": null
+  },
+  "description": "An adaptation of the book The Ugly Duckling.",
+  "genres": [
+    "Fantasy"
+  ],
+  "tags": [
+    "Fairy Tale",
+    "Achromatic",
+    "Animals",
+    "No Dialogue"
+  ],
+  "studios": [],
+  "producers": [],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 48,
+  "popularity": 473,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b111796-Y7i6UUbKZsjX.png",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/18P7GSPdVOfVbEwiqMcYZXvzwuA.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b111796-Y7i6UUbKZsjX.png"
+  },
+  "streaming": [
+    {
+      "site": "Japanese Film Archives",
+      "url": "http://animation.filmarchives.jp/en/works/view/91173"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 100,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T08:48:33.898Z",
+  "cache_version": 1
+}
