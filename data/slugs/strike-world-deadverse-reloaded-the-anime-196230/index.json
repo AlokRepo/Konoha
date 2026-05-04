@@ -1,0 +1,78 @@
+{
+  "ids": {
+    "anilist": 196230,
+    "mal": 62066,
+    "anidb": 19466,
+    "tmdb": 300323,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Monster Strike: Deadverse Reloaded",
+    "english": "Strike World: Deadverse Reloaded the Anime",
+    "native": "モンスターストライク　デッドバースリローデッド",
+    "synonyms": [],
+    "tmdb_title": "Strike World: Deadverse Reloaded the Anime"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2025,
+  "episodes": 10,
+  "duration": 24,
+  "start_date": {
+    "year": 2025,
+    "month": 10,
+    "day": 21
+  },
+  "end_date": {
+    "year": 2025,
+    "month": 12,
+    "day": 23
+  },
+  "description": "Rinne is a girl who cannot see other people's faces. Born into a family whose job it is to exorcise supernatural beings, she sets out on her first mission, but encounters an enemy of a different nature than she expected, and finds herself in peril.<br><br>After being saved by a mysterious man named Jugemu, Rinne learns that all worlds, including the one she lives in, known as \"Strike Worlds,\" are under threat.<br><br>As she travels through a number of ending worlds with Jugemu, the girl forms a bond with him...",
+  "genres": [
+    "Action",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Yumeta Company"
+  ],
+  "producers": [],
+  "source": "VIDEO_GAME",
+  "country": "JP",
+  "score_anilist": 48,
+  "popularity": 1769,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b196230-Ldqd9onRZhix.png",
+    "poster_color": "#50a1e4",
+    "banner": "https://image.tmdb.org/t/p/original/pcKRFtVBTihchKnREeJlpR3G47J.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/cPmRxg9Ww0TUr9O89Nu3ZoldTZk.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/pcKRFtVBTihchKnREeJlpR3G47J.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b196230-Ldqd9onRZhix.png"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/@monst_animation"
+    },
+    {
+      "site": "Amazon Prime Video",
+      "url": "https://www.amazon.com/dp/B0G3GXN2LS"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T03:23:51.485Z",
+  "cache_version": 1
+}

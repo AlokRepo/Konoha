@@ -1,0 +1,82 @@
+{
+  "ids": {
+    "anilist": 1005,
+    "mal": 1005,
+    "anidb": 85,
+    "tmdb": 34734,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Star Ocean EX",
+    "english": "Star Ocean EX",
+    "native": "スターオーシャンEX",
+    "synonyms": [],
+    "tmdb_title": "Star Ocean EX"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2001,
+  "episodes": 26,
+  "duration": 22,
+  "start_date": {
+    "year": 2001,
+    "month": 4,
+    "day": 3
+  },
+  "end_date": {
+    "year": 2001,
+    "month": 9,
+    "day": 25
+  },
+  "description": "Claude C. Kenni, a crewmember on the spaceship Calnus and son of the commander of the ship, is transported to Expel, a backwards planet with swords and magic. He teams up with Rena Lanford, who thinks he is the legendary Warrior of Light, and other characters to investigate the Sorcery Globe, a meteorite that has been causing problems all over the world. <br><br>\n(Source: Anime News Network)",
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Male Protagonist",
+    "Swordplay",
+    "Magic"
+  ],
+  "studios": [
+    "Studio DEEN"
+  ],
+  "producers": [
+    "TV Tokyo",
+    "Discotek",
+    "Dentsu"
+  ],
+  "source": "VIDEO_GAME",
+  "country": "JP",
+  "score_anilist": 61,
+  "popularity": 2490,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1005-89XftvNxA3rU.jpg",
+    "poster_color": "#283586",
+    "banner": "https://image.tmdb.org/t/p/original/rGkCyXhbZCtzrRvdwvfeXw3D1hz.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/kt4tWny4T7vLlDwLxmZ34tW90nQ.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/rGkCyXhbZCtzrRvdwvfeXw3D1hz.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1005-89XftvNxA3rU.jpg"
+  },
+  "streaming": [
+    {
+      "site": "RetroCrush",
+      "url": "https://www.retrocrush.tv/series/020865s/star-ocean-ex"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T03:00:29.856Z",
+  "cache_version": 1
+}
