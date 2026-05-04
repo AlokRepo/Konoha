@@ -1,0 +1,74 @@
+{
+  "ids": {
+    "anilist": 3723,
+    "mal": 3723,
+    "anidb": 5747,
+    "tmdb": 9770,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Koala Boy Kokki",
+    "english": "The Adventures of the Little Koala",
+    "native": "コアラボーイコッキィ",
+    "synonyms": [
+      "Koala Boy Kocky"
+    ],
+    "tmdb_title": "Adventures of the Little Koala"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 1984,
+  "episodes": 51,
+  "duration": 10,
+  "start_date": {
+    "year": 1984,
+    "month": 4,
+    "day": 11
+  },
+  "end_date": {
+    "year": 1985,
+    "month": 3,
+    "day": 28
+  },
+  "description": "A little koala and his friends have adventures together and learn lessons about the world while having a lot of fun.",
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [
+    "Animals"
+  ],
+  "studios": [
+    "Topcraft"
+  ],
+  "producers": [
+    "Tohokushinsha Film Corporation"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 46,
+  "popularity": 281,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3723.jpg",
+    "poster_color": "#5d93f1",
+    "banner": "https://image.tmdb.org/t/p/original/izCiX2BoOhki6kU2aUKiUKTD5ya.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/oBs9swpdStk0hXTvggtYNgQlX1.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/izCiX2BoOhki6kU2aUKiUKTD5ya.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3723.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 145,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T06:14:19.880Z",
+  "cache_version": 1
+}

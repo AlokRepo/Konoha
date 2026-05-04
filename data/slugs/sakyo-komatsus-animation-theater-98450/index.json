@@ -1,0 +1,68 @@
+{
+  "ids": {
+    "anilist": 98450,
+    "mal": 23829,
+    "anidb": 6059,
+    "tmdb": 25550,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Komatsu Sakyo Anime Gekijou",
+    "english": "Sakyo Komatsu's Animation Theater",
+    "native": "小松左京アニメ劇場",
+    "synonyms": [],
+    "tmdb_title": "Sakyou Komatsu's Animation Theater"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 1989,
+  "episodes": 24,
+  "duration": 5,
+  "start_date": {
+    "year": 1989,
+    "month": 10,
+    "day": 19
+  },
+  "end_date": {
+    "year": 1999,
+    "month": 3,
+    "day": 29
+  },
+  "description": "A collection of short sci-fi series.",
+  "genres": [
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "tags": [],
+  "studios": [
+    "Gainax"
+  ],
+  "producers": [
+    "Bandai"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 46,
+  "popularity": 232,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98450-aKQ9XM6zj1wi.jpg",
+    "poster_color": "#d6861a",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/98450-aKQ9XM6zj1wi.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 116,
+  "match_signals": [
+    "synonyms_match",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T06:20:40.757Z",
+  "cache_version": 1
+}
