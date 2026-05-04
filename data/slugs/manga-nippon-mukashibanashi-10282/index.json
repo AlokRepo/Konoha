@@ -1,0 +1,68 @@
+{
+  "ids": {
+    "anilist": 10282,
+    "mal": 10282,
+    "anidb": 3587,
+    "tmdb": 125525,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Manga Nippon Mukashibanashi",
+    "english": null,
+    "native": "まんが日本昔ばなし",
+    "synonyms": [
+      "Japanese Folklore Tales"
+    ],
+    "tmdb_title": "Japanese Folklore Tales"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 1975,
+  "episodes": 12,
+  "duration": 25,
+  "start_date": {
+    "year": 1975,
+    "month": 1,
+    "day": 7
+  },
+  "end_date": {
+    "year": 1975,
+    "month": 3,
+    "day": 25
+  },
+  "description": "This series is an anthology of old Japanese tales.<br><br>\n(Source: AniDB)",
+  "genres": [],
+  "tags": [],
+  "studios": [
+    "Group TAC"
+  ],
+  "producers": [
+    "Mainichi Broadcasting System"
+  ],
+  "country": "JP",
+  "score_anilist": 60,
+  "popularity": 430,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10282-goyF5sRe0LGZ.jpg",
+    "poster_color": "#0dbbe4",
+    "banner": "https://image.tmdb.org/t/p/original/tcwBfLxzh9ZppxWaBvnmKgmD4cK.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/zVN6kwwmqHCA1rQNrzzSasus2lc.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/tcwBfLxzh9ZppxWaBvnmKgmD4cK.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10282-goyF5sRe0LGZ.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 120,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T04:43:54.791Z",
+  "cache_version": 1
+}

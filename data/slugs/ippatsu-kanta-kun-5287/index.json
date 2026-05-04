@@ -1,0 +1,74 @@
+{
+  "ids": {
+    "anilist": 5287,
+    "mal": 5287,
+    "anidb": 3094,
+    "tmdb": 44769,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Ippatsu Kanta-kun",
+    "english": null,
+    "native": "一発貫太くん",
+    "synonyms": [
+      "Homerun Kanta"
+    ],
+    "tmdb_title": "Homerun Kanta"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 1977,
+  "episodes": 53,
+  "duration": 30,
+  "start_date": {
+    "year": 1977,
+    "month": 9,
+    "day": 18
+  },
+  "end_date": {
+    "year": 1978,
+    "month": 9,
+    "day": 24
+  },
+  "description": "Kanta lives with his mother, brothers, sisters, and dog named Judeth. He likes baseball, but his mom doesn't like him mentioning baseball, because his mother believes this was the cause of her husband's death. <br><br>\nInfo from ANN",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Sports"
+  ],
+  "tags": [
+    "Baseball"
+  ],
+  "studios": [
+    "Tatsunoko Production"
+  ],
+  "producers": [],
+  "country": "JP",
+  "score_anilist": 53,
+  "popularity": 388,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5287-7eG0obfZaDxg.jpg",
+    "poster_color": "#f1f150",
+    "banner": "https://image.tmdb.org/t/p/original/ypJFKmC2vDFUacHCvwjeDTnyzTi.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/w5mnP2iSgZ2o6MGzlxmcXP2Zims.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/ypJFKmC2vDFUacHCvwjeDTnyzTi.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5287-7eG0obfZaDxg.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T04:48:36.393Z",
+  "cache_version": 1
+}

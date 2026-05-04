@@ -1,0 +1,77 @@
+{
+  "ids": {
+    "anilist": 4511,
+    "mal": 4511,
+    "anidb": 3304,
+    "tmdb": 83660,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Hoero Bunbun",
+    "english": null,
+    "native": "ほえろブンブン",
+    "synonyms": [
+      "Hoero BunBun",
+      "Bark! Bun Bun",
+      "Tchaou et Grodo",
+      "Bobo Go Bun Bun"
+    ],
+    "tmdb_title": "Bark! Bun Bun"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 1980,
+  "episodes": 39,
+  "duration": 23,
+  "start_date": {
+    "year": 1980,
+    "month": 10,
+    "day": 9
+  },
+  "end_date": {
+    "year": 1981,
+    "month": 7,
+    "day": 9
+  },
+  "description": "Bunbun, an abandoned puppy meets the old Big, also a stray dog. Bunbun will learn to survive in an hostile and strange world. <br><br>\n(Source: manga-distribution.fr)",
+  "genres": [
+    "Adventure",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Animals",
+    "Kids"
+  ],
+  "studios": [],
+  "producers": [
+    "TV Tokyo",
+    "Wako Production"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 59,
+  "popularity": 433,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4511.jpg",
+    "poster_color": "#00aef1",
+    "banner": "https://image.tmdb.org/t/p/original/16FTbPlYMFA9Qojfx64VUWs6QTc.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/arDDCU5RkazKi01QewbePtklwRy.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/16FTbPlYMFA9Qojfx64VUWs6QTc.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4511.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T04:43:35.360Z",
+  "cache_version": 1
+}

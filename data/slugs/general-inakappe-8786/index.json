@@ -1,0 +1,71 @@
+{
+  "ids": {
+    "anilist": 8786,
+    "mal": 8786,
+    "anidb": 3095,
+    "tmdb": 44663,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Inakappe Taishou",
+    "english": "General Inakappe",
+    "native": "いなかっぺ大将",
+    "synonyms": [
+      "The Funny Judo Champion",
+      "The Young Countryman Leader"
+    ],
+    "tmdb_title": "General Inakappe"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 1970,
+  "episodes": 104,
+  "duration": 24,
+  "start_date": {
+    "year": 1970,
+    "month": 10,
+    "day": 4
+  },
+  "end_date": {
+    "year": 1972,
+    "month": 9,
+    "day": 24
+  },
+  "description": "A comedy about a country boy that travels to the city to study judo. He ends up meeting the daughter of a prominent dojo and her judo skilled cat. Each episode features 2 stories. <br><br>\n(Source: AniDB)",
+  "genres": [
+    "Comedy",
+    "Sports"
+  ],
+  "tags": [],
+  "studios": [
+    "Tatsunoko Production"
+  ],
+  "producers": [],
+  "country": "JP",
+  "score_anilist": 62,
+  "popularity": 440,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8786.jpg",
+    "poster_color": "#e45d6b",
+    "banner": "https://image.tmdb.org/t/p/original/qF1KzXiGJ4gX3ICgd0WKJk7EMY.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/9ZUvy3OKCPpS7EJNtKUIPMRcGFq.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/qF1KzXiGJ4gX3ICgd0WKJk7EMY.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8786.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T04:42:41.169Z",
+  "cache_version": 1
+}

@@ -1,0 +1,77 @@
+{
+  "ids": {
+    "anilist": 9438,
+    "mal": 9438,
+    "anidb": 1885,
+    "tmdb": 203918,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Rainbow Sentai Robin",
+    "english": null,
+    "native": "レインボー戦隊ロビン",
+    "synonyms": [
+      "Rainbow Battle Team Robin",
+      "Rainbow Squadron Robin",
+      "Robin in the Rainbow Troops"
+    ],
+    "tmdb_title": "Rainbow Sentai Robin"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 1966,
+  "episodes": 48,
+  "duration": 26,
+  "start_date": {
+    "year": 1966,
+    "month": 4,
+    "day": 23
+  },
+  "end_date": {
+    "year": 1967,
+    "month": 3,
+    "day": 24
+  },
+  "description": "A squadron of robots defends the planet against alien invaders. <br><br>\n(Source: AniDB)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Robots",
+    "Achromatic",
+    "Aliens"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [],
+  "country": "JP",
+  "score_anilist": 44,
+  "popularity": 437,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9438.jpg",
+    "poster_color": "#005da1",
+    "banner": "https://image.tmdb.org/t/p/original/rKcg0O3AKc7UvsagROI3cBPpx5e.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/7W0GL5WnVJrMQq1u3YOsuFkhoRW.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/rKcg0O3AKc7UvsagROI3cBPpx5e.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9438.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T04:43:03.002Z",
+  "cache_version": 1
+}

@@ -1,0 +1,70 @@
+{
+  "ids": {
+    "anilist": 2568,
+    "mal": 2568,
+    "anidb": 3664,
+    "tmdb": 23021,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Kojika Monogatari: THE YEARLING",
+    "english": "Fortunate Fawn",
+    "native": "子鹿物語 THE YEARLING",
+    "synonyms": [
+      "The Yearling",
+      "Story of a Fawn"
+    ],
+    "tmdb_title": "Kojika Monogatari"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 1983,
+  "episodes": 52,
+  "duration": 23,
+  "start_date": {
+    "year": 1983,
+    "month": 11,
+    "day": 8
+  },
+  "end_date": {
+    "year": 1985,
+    "month": 1,
+    "day": 29
+  },
+  "description": "Set in Hokkaido, Japan's outback, a young boy discovers a fawn whose mother has been hit by a car and attempts to raise it himself.\n<br><br>\n(Source: Anime News Network)",
+  "genres": [
+    "Drama"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [
+    "Kodansha"
+  ],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 55,
+  "popularity": 425,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2568-gRa2Y8M7BPIe.jpg",
+    "poster_color": "#2886e4",
+    "banner": "https://image.tmdb.org/t/p/original/ue0wnuGyl1W3ydYAZRuXWuk1qu6.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/pVV3ZgNa5AnxfABXxXxfrYVdwyn.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/ue0wnuGyl1W3ydYAZRuXWuk1qu6.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2568-gRa2Y8M7BPIe.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 114,
+  "match_signals": [
+    "english_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T04:44:19.618Z",
+  "cache_version": 1
+}

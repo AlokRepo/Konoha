@@ -1,0 +1,68 @@
+{
+  "ids": {
+    "anilist": 20223,
+    "mal": 20223,
+    "anidb": 1909,
+    "tmdb": 22929,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Shounen Tokugawa Ieyasu",
+    "english": null,
+    "native": "少年徳川家康",
+    "synonyms": [
+      "Young Tokugawa Ieyasu"
+    ],
+    "tmdb_title": "Shonen Tokugawa Ieyasu"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 1975,
+  "episodes": 20,
+  "duration": 25,
+  "start_date": {
+    "year": 1975,
+    "month": 4,
+    "day": 9
+  },
+  "end_date": {
+    "year": 1975,
+    "month": 9,
+    "day": 17
+  },
+  "description": "A historical tale of the early life of Tokugawa Ieyasu, who would eventually become shogun and establish the Edo Period in Japan.<br><br>\n(Source: AniDB)",
+  "genres": [
+    "Drama"
+  ],
+  "tags": [
+    "Historical"
+  ],
+  "studios": [],
+  "producers": [],
+  "country": "JP",
+  "score_anilist": 64,
+  "popularity": 384,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20223.jpg",
+    "poster_color": "#ffe41a",
+    "banner": "https://image.tmdb.org/t/p/original/1hoJnNNk6LElPRQfk3wBpkG4Ct0.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/9oUJ10vlCuNI9sjGJaNNIOuGGgh.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/1hoJnNNk6LElPRQfk3wBpkG4Ct0.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20223.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 92,
+  "match_signals": [
+    "synonyms_match",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-04T04:48:46.885Z",
+  "cache_version": 1
+}

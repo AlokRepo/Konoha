@@ -1,0 +1,73 @@
+{
+  "ids": {
+    "anilist": 11873,
+    "mal": 11873,
+    "anidb": 5717,
+    "tmdb": 208301,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Oraa Guzura Dado (1987)",
+    "english": null,
+    "native": "おらぁグズラだど (1987)",
+    "synonyms": [
+      "Guzura",
+      "Gozula",
+      "Hey I'm Guzura!"
+    ],
+    "tmdb_title": "Oraa Guzura Dado"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 1987,
+  "episodes": 44,
+  "duration": 30,
+  "start_date": {
+    "year": 1987,
+    "month": 10,
+    "day": 2
+  },
+  "end_date": {
+    "year": 1988,
+    "month": 9,
+    "day": 20
+  },
+  "description": "When Mt. Bikkura erupts a huge egg one day, a chubby little dinosaur name Guzura hatches out of it. The series follows his misadventures as he interacts with humans as well as other animals and creatures",
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [
+    "Kids"
+  ],
+  "studios": [
+    "Tatsunoko Production"
+  ],
+  "producers": [],
+  "country": "JP",
+  "score_anilist": 57,
+  "popularity": 413,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11873.jpg",
+    "poster_color": "#6b5d1a",
+    "banner": "https://image.tmdb.org/t/p/original/gc9EEHaHI6uA0PMIaOKExYQlMlR.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/j2JNRisTAcZmXD1nUEdtaQfrSHs.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/gc9EEHaHI6uA0PMIaOKExYQlMlR.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11873.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 139,
+  "match_signals": [
+    "english_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T04:46:43.093Z",
+  "cache_version": 1
+}
