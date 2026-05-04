@@ -1,0 +1,80 @@
+{
+  "ids": {
+    "anilist": 5688,
+    "mal": 5688,
+    "anidb": 1451,
+    "tmdb": 68236,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Gegege no Kitarou (1968)",
+    "english": null,
+    "native": "ゲゲゲの鬼太郎",
+    "synonyms": [
+      "Cackling Kitarou",
+      "Spooky Kitarou"
+    ],
+    "tmdb_title": "Cackling Kitarou"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 1968,
+  "episodes": 65,
+  "duration": 25,
+  "start_date": {
+    "year": 1968,
+    "month": 1,
+    "day": 3
+  },
+  "end_date": {
+    "year": 1969,
+    "month": 3,
+    "day": 30
+  },
+  "description": "Kitarou, a ghost, spends his afterlife helping humans in need of his skills. He thwarts the plans of evil spirits who live to torment humanity.",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Horror",
+    "Supernatural"
+  ],
+  "tags": [
+    "Youkai",
+    "Ghost",
+    "Episodic",
+    "Achromatic"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 64,
+  "popularity": 1795,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5688.jpg",
+    "poster_color": "#d61a1a",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/5688-fLWmh2odslhU.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/rGPp9T881oULGpQHVjtKFmgGvzi.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/q0gdMNzBZroau4Dz9ciWN1g7MVO.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5688.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T03:22:42.846Z",
+  "cache_version": 1
+}

@@ -1,0 +1,82 @@
+{
+  "ids": {
+    "anilist": 714,
+    "mal": 714,
+    "anidb": 1356,
+    "tmdb": 63265,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "High School! Kimengumi",
+    "english": "High School! Kimengumi",
+    "native": "ハイスクール！奇面組",
+    "synonyms": [
+      "Funny Faces in High School",
+      "High School! Weird Looking Bunch",
+      "Le Collège fou, fou, fou"
+    ],
+    "tmdb_title": "High School! Kimengumi"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 1985,
+  "episodes": 86,
+  "duration": 25,
+  "start_date": {
+    "year": 1985,
+    "month": 10,
+    "day": 20
+  },
+  "end_date": {
+    "year": 1987,
+    "month": 10,
+    "day": 3
+  },
+  "description": "A group of 5 male high school students that call themselves the funny-face group cause trouble at school with their crazy antics. <br><br>\r\n(Source: AniDB)",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "tags": [
+    "Parody",
+    "School",
+    "Shounen"
+  ],
+  "studios": [
+    "Studio Comet",
+    "Tsuchida Productions"
+  ],
+  "producers": [],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 69,
+  "popularity": 1761,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b714-J770J3curufA.jpg",
+    "poster_color": "#35c9f1",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/714-sGTnNvhT8wmf.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/uoJhoZhZQyBRfHpbDOlURI4vBpB.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/hgX7jnZ1o43uiYDQAMauv91QN9m.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b714-J770J3curufA.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLhGamQZtJ7K8YgHGXIBnvJfeyNtJRU_ms"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-04T03:24:06.528Z",
+  "cache_version": 1
+}
