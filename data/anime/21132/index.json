@@ -55,8 +55,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 70,
-  "popularity": 57537,
-  "trending": 1,
+  "popularity": 57583,
+  "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21132-nY3Ifx1GYQ6f.jpg",
     "poster_color": "#1a93d6",
@@ -69,6 +69,10 @@
     {
       "site": "Crunchyroll",
       "url": "https://www.crunchyroll.com/tokyo-ghoul"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/"
     }
   ],
   "themes": [],
@@ -79,6 +83,6 @@
     "year_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T04:58:25.174Z",
+  "cached_at": "2026-05-05T02:40:22.573Z",
   "cache_version": 1
 }
