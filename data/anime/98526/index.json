@@ -1,0 +1,86 @@
+{
+  "ids": {
+    "anilist": 98526,
+    "mal": 34903,
+    "anidb": 12815,
+    "tmdb": 77509,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "ROBOMASTERS THE ANIMATED SERIES",
+    "english": null,
+    "native": "ROBOMASTERS THE ANIMATED SERIES",
+    "synonyms": [
+      "ロボマスターズ",
+      "机甲大师",
+      "Ji Jia Dashi",
+      "RoboMas"
+    ],
+    "tmdb_title": "ROBOMASTERS THE ANIMATED SERIES"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2017,
+  "episodes": 6,
+  "duration": 25,
+  "start_date": {
+    "year": 2017,
+    "month": 10,
+    "day": 13
+  },
+  "end_date": {
+    "year": 2017,
+    "month": 11,
+    "day": 17
+  },
+  "description": "Anime based on the DJI-hosted RoboMasters competition, which is the world's biggest student robotics competition.",
+  "genres": [
+    "Action",
+    "Drama"
+  ],
+  "tags": [
+    "Robots",
+    "School Club",
+    "Software Development",
+    "Primarily Male Cast",
+    "Male Protagonist",
+    "CGI",
+    "Real Robot",
+    "College"
+  ],
+  "studios": [
+    "GONZO"
+  ],
+  "producers": [
+    "Dandelion Animation Studio",
+    "DJI"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 58,
+  "popularity": 3279,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98526-VKJSGv2walfo.jpg",
+    "poster_color": "#43a1f1",
+    "banner": "https://image.tmdb.org/t/p/original/2s4cSwO5tkL6JzFheVcmoamEKoR.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/qsUGJA1COLLzMDBuyaRv2xdDjxb.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/2s4cSwO5tkL6JzFheVcmoamEKoR.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98526-VKJSGv2walfo.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T14:30:19.891Z",
+  "cache_version": 1
+}

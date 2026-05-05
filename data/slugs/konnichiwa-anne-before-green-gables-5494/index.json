@@ -1,0 +1,89 @@
+{
+  "ids": {
+    "anilist": 5494,
+    "mal": 5494,
+    "anidb": 6046,
+    "tmdb": 26815,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Konnichiwa Anne: Before Green Gables",
+    "english": null,
+    "native": "こんにちは アン 〜Before Green Gables",
+    "synonyms": [
+      "Anne of Green Gables Prequel",
+      "Akage no Anne Prequel",
+      "Before Green Gables",
+      "Sorridi, piccola Anna"
+    ],
+    "tmdb_title": "Hello Anne: Before Green Gables"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2009,
+  "episodes": 39,
+  "duration": 24,
+  "start_date": {
+    "year": 2009,
+    "month": 4,
+    "day": 5
+  },
+  "end_date": {
+    "year": 2009,
+    "month": 12,
+    "day": 27
+  },
+  "description": "The story of what happened to Anne Shirley before she was adopted.",
+  "genres": [
+    "Drama",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Classic Literature",
+    "Historical",
+    "Coming of Age",
+    "Family Life",
+    "Travel",
+    "Kids",
+    "Bullying",
+    "Primarily Child Cast",
+    "Female Protagonist",
+    "Orphan"
+  ],
+  "studios": [
+    "Nippon Animation"
+  ],
+  "producers": [],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 72,
+  "popularity": 3292,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5494-CX9QBD5wWNRX.jpg",
+    "poster_color": "#e4a150",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/5494-8FWxYgxEwI2P.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/lv5Wvw316Nh2PJr2tvbuoIcBnWv.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/2DKAV3xGKM3q6mZteeixZcbT34Z.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5494-CX9QBD5wWNRX.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLbfBE23aoVrvA3XfDUEa2X1znZLEtJWdE"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 100,
+  "match_signals": [
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T15:44:51.645Z",
+  "cache_version": 1
+}

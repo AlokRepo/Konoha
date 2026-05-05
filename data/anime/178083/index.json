@@ -1,0 +1,80 @@
+{
+  "ids": {
+    "anilist": 178083,
+    "mal": 59088,
+    "anidb": 18693,
+    "tmdb": 302682,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Tokyo Revengers: Santen Sensou-hen",
+    "english": null,
+    "native": "東京リベンジャーズ 三天戦争編",
+    "synonyms": [
+      "Tokyo Revengers (Sequel)",
+      "Tokyo Revengers: War of the Three Titans Arc"
+    ],
+    "tmdb_title": "東京リベンジャーズ"
+  },
+  "format": "TV",
+  "status": "NOT_YET_RELEASED",
+  "season": "FALL",
+  "season_year": 2026,
+  "episodes": 51,
+  "start_date": {
+    "year": 2026,
+    "month": 10,
+    "day": null
+  },
+  "end_date": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "description": "Sequel to <i>Tokyo Revengers: Tenjiku-hen</i>.",
+  "genres": [
+    "Action",
+    "Drama",
+    "Romance",
+    "Supernatural"
+  ],
+  "tags": [
+    "Delinquents",
+    "Gangs",
+    "Shounen"
+  ],
+  "studios": [
+    "LIDENFILMS"
+  ],
+  "producers": [
+    "Pony Canyon"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "popularity": 15676,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178083-ORQ5BtwQsTbY.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/sC2zeNj4cVEXlUItyVkYd4P8Oyu.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/9mydxO0Ic2IrgZrmwny35JQ8HJz.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/sC2zeNj4cVEXlUItyVkYd4P8Oyu.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178083-ORQ5BtwQsTbY.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/@animetoman"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 100,
+  "match_signals": [
+    "exact_title",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T12:06:37.421Z",
+  "cache_version": 1
+}

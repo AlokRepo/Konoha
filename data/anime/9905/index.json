@@ -1,0 +1,78 @@
+{
+  "ids": {
+    "anilist": 9905,
+    "mal": 9905,
+    "anidb": 7085,
+    "tmdb": 125138,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Captain (TV)",
+    "english": null,
+    "native": "キャプテン",
+    "synonyms": [
+      "Captain (1983)",
+      "青少棒揚威記"
+    ],
+    "tmdb_title": "Captain"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 1983,
+  "episodes": 26,
+  "duration": 25,
+  "start_date": {
+    "year": 1983,
+    "month": 1,
+    "day": 10
+  },
+  "end_date": {
+    "year": 1983,
+    "month": 7,
+    "day": 4
+  },
+  "description": "The original is an impressive sports manga featuring not heroes, but common boys, and the story depicts the growth of Sumiya 2 junior high school baseball team (the successive captains and players) in downtown Tokyo. Takao Taniguchi, who was a substitute player of the second team of Aoba Gakuin, a prestigious junior high school in the baseball world, but he transferred to Sumiya 2 and he became the captain of the baseball club. After steady training, the team try to do a final game in the regional preliminaries, against Aoba Gakuin.",
+  "genres": [
+    "Sports"
+  ],
+  "tags": [
+    "Baseball"
+  ],
+  "studios": [],
+  "producers": [
+    "Eiken",
+    "Nippon Television Network"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 65,
+  "popularity": 501,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b9905-OuancermINlz.png",
+    "poster_color": "#e4e435",
+    "banner": "https://image.tmdb.org/t/p/original/5H9KQNtVwZMrV5OHzL4XyMJ8CMs.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/nOW3Bwqygz3qpxHTcFEUJJPxRWs.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/5H9KQNtVwZMrV5OHzL4XyMJ8CMs.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b9905-OuancermINlz.png"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JjowK2IpVzgVtv4K4k6kvZ5"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 115,
+  "match_signals": [
+    "english_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T17:38:16.833Z",
+  "cache_version": 1
+}
