@@ -4,7 +4,8 @@
     "mal": 937,
     "anidb": 166,
     "tmdb": 45295,
-    "tmdb_type": "movie"
+    "tmdb_type": "movie",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Appleseed",
@@ -68,8 +69,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 59,
-  "popularity": 8829,
-  "trending": 0,
+  "popularity": 8844,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx937-2SYiMKI3qPkp.jpg",
     "poster_color": "#e49350",
@@ -96,6 +97,6 @@
     "year_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T09:04:32.808Z",
+  "cached_at": "2026-05-05T03:01:49.194Z",
   "cache_version": 1
 }
