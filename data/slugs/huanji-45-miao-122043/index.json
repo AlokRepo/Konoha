@@ -1,0 +1,73 @@
+{
+  "ids": {
+    "anilist": 122043,
+    "mal": 42550,
+    "anidb": 16724,
+    "tmdb": 240123,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Huanji 45 Miao",
+    "english": null,
+    "native": "还击45秒",
+    "synonyms": [
+      "Payback 45\"",
+      "还击45\""
+    ],
+    "tmdb_title": "还击45秒"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 13,
+  "duration": 20,
+  "start_date": {
+    "year": 2021,
+    "month": 3,
+    "day": 25
+  },
+  "end_date": {
+    "year": 2021,
+    "month": 3,
+    "day": 25
+  },
+  "genres": [
+    "Action",
+    "Music",
+    "Sci-Fi"
+  ],
+  "tags": [],
+  "studios": [
+    "Visual Persistence"
+  ],
+  "producers": [
+    "Youku"
+  ],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 110,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx122043-BOSW3u2epZNd.jpg",
+    "poster_color": "#5050e4",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/GuZkd7Jwk9MdNFDWhgzDQAt0NF.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx122043-BOSW3u2epZNd.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Youku",
+      "url": "https://v.youku.com/v_nextstage/id_cddee39702874457ba82.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T08:46:54.304Z",
+  "cache_version": 1
+}

@@ -1,0 +1,71 @@
+{
+  "ids": {
+    "anilist": 129227,
+    "mal": 42835,
+    "anidb": 16773,
+    "tmdb": 108143,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Renwu Dashi",
+    "english": null,
+    "native": "任务大师",
+    "synonyms": [
+      "Master of Task"
+    ],
+    "tmdb_title": "Master of Task"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 6,
+  "duration": 13,
+  "start_date": {
+    "year": 2020,
+    "month": 8,
+    "day": 3
+  },
+  "end_date": {
+    "year": 2020,
+    "month": 9,
+    "day": 12
+  },
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "1IN"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 109,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129227-8J2CP9IzS8uL.png",
+    "banner": "https://image.tmdb.org/t/p/original/ogLlsCN6bf3YZrdeUkx7OhJY13D.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/5XfvHjDxa6GMVgeeVbQZu92HbMy.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/ogLlsCN6bf3YZrdeUkx7OhJY13D.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129227-8J2CP9IzS8uL.png"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md28229564/"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T08:47:20.590Z",
+  "cache_version": 1
+}

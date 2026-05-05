@@ -1,0 +1,76 @@
+{
+  "ids": {
+    "anilist": 102688,
+    "mal": 33764,
+    "anidb": 15859,
+    "tmdb": 240206,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Yingxiong Bie Nao",
+    "english": null,
+    "native": "英雄别闹",
+    "synonyms": [
+      "Heroes don't Bi-Bi"
+    ],
+    "tmdb_title": "英雄别闹"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 13,
+  "duration": 12,
+  "start_date": {
+    "year": 2015,
+    "month": 7,
+    "day": 1
+  },
+  "end_date": {
+    "year": 2015,
+    "month": 11,
+    "day": 4
+  },
+  "description": "The series takes place on a parallel world filled with superhumans. Allegiances are formed between heroes and villains.\n",
+  "genres": [
+    "Action",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Vasoon Animation",
+    "Crius Animation"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "score_mal": 6.1,
+  "popularity": 110,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102688-HepNu2iao8H7.png",
+    "poster_color": "#e4ae1a",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/kyWQbhsgxnGhn5xLqVsJYbHRrim.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102688-HepNu2iao8H7.png"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/6/6ihzgqv2wg53bou.html"
+    },
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md2596/?from=search&seid=8934347169797231211"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T08:46:47.768Z",
+  "cache_version": 1
+}
