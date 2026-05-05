@@ -1,0 +1,74 @@
+{
+  "ids": {
+    "anilist": 115853,
+    "mal": 49277,
+    "tmdb": 128209,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Jiu Jiu Ba Shi Yi",
+    "english": null,
+    "native": "九九八十一",
+    "synonyms": [
+      "9-9-81",
+      "Nine-Nine Eighty-One"
+    ],
+    "tmdb_title": "九九八十一"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 4,
+  "duration": 14,
+  "start_date": {
+    "year": 2021,
+    "month": 7,
+    "day": 31
+  },
+  "end_date": {
+    "year": 2021,
+    "month": 8,
+    "day": 14
+  },
+  "genres": [
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "TWR Entertainment"
+  ],
+  "producers": [
+    "bilibili",
+    "Children's Playground Media"
+  ],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 146,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx115853-5WVh8BIN4h1a.png",
+    "poster_color": "#f1ae43",
+    "banner": "https://image.tmdb.org/t/p/original/iEOtxlMjgr0nl3ovQu6qNFTnmFf.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/nN6koKkcoobfiEnT5EZhHyZB7jQ.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/iEOtxlMjgr0nl3ovQu6qNFTnmFf.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx115853-5WVh8BIN4h1a.png"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md28223049/"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T08:35:53.404Z",
+  "cache_version": 1
+}

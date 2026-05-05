@@ -1,0 +1,82 @@
+{
+  "ids": {
+    "anilist": 193240,
+    "mal": 61704,
+    "anidb": 19342,
+    "tmdb": 291542,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Tun Tian Ji",
+    "english": null,
+    "native": "吞天记",
+    "synonyms": [
+      "Swallowing the Heavens",
+      "ศึกพิชิตสวรรค์"
+    ],
+    "tmdb_title": "Swallowing the Heavens"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 40,
+  "duration": 10,
+  "start_date": {
+    "year": 2025,
+    "month": 5,
+    "day": 19
+  },
+  "end_date": {
+    "year": 2025,
+    "month": 9,
+    "day": 3
+  },
+  "description": "Adapted from the novel of the same name by Feng Qingyang, it chronicles the legendary metamorphosis of Wu Yu - from an ordinary mortal to an immortal Buddha.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Soyep"
+  ],
+  "producers": [
+    "Tencent Penguin Pictures"
+  ],
+  "source": "OTHER",
+  "country": "CN",
+  "score_mal": 6.59,
+  "popularity": 145,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx193240-x31vEsMSk5Ab.jpg",
+    "poster_color": "#f1a143",
+    "banner": "https://image.tmdb.org/t/p/original/oM5Wg5IAnhpYR7rZF6zmovkRyW6.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/cyfcRTQYLMBhJ4Qrb1xpLK4CAwD.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/oM5Wg5IAnhpYR7rZF6zmovkRyW6.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx193240-x31vEsMSk5Ab.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/x/cover/mzc00200t39giu5/s41014emsmj.html"
+    },
+    {
+      "site": "WeTV",
+      "url": "https://wetv.vip/en/album/hxbo2n9ddthgr29"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T08:36:08.510Z",
+  "cache_version": 1
+}
