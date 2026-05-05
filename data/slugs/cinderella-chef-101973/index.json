@@ -3,8 +3,9 @@
     "anilist": 101973,
     "mal": 37618,
     "anidb": 14663,
-    "tmdb": 87978,
-    "tmdb_type": "tv"
+    "tmdb": 79574,
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Meng Qi Shi Shen",
@@ -54,14 +55,14 @@
   "source": "OTHER",
   "country": "CN",
   "score_anilist": 71,
-  "popularity": 9847,
+  "popularity": 9863,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101973-phinH9pL2wV8.png",
     "poster_color": "#f1a15d",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101973-KUKUPSLYnPPO.jpg",
-    "poster_tmdb": "https://image.tmdb.org/t/p/w780/vtWskIdQIpXX9Mv826MIJn9F73b.jpg",
-    "banner_tmdb": "https://image.tmdb.org/t/p/original/jNkMUHWByszBDIjVCABrHTufGxt.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/dGqk4dNCipfcq4Lo2Bq78nvq5mJ.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/sX7RchatIQsbkCRbxqIbCmb6l3i.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101973-phinH9pL2wV8.png"
   },
   "streaming": [
@@ -88,16 +89,20 @@
     {
       "site": "Viki",
       "url": "https://www.viki.com/tv/39839c-cinderella-chef"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-282946"
     }
   ],
   "themes": [],
   "confidence": "MEDIUM",
-  "match_score": 105,
+  "match_score": 95,
   "match_signals": [
     "exact_title",
     "year_match",
     "format_match"
   ],
-  "cached_at": "2026-05-03T08:50:02.864Z",
+  "cached_at": "2026-05-05T06:06:58.673Z",
   "cache_version": 1
 }
