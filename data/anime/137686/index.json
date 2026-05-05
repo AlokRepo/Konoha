@@ -1,0 +1,76 @@
+{
+  "ids": {
+    "anilist": 137686,
+    "mal": 49794,
+    "anidb": 16628,
+    "tmdb": 139517,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Yan Wang",
+    "english": null,
+    "native": "颜王",
+    "synonyms": [
+      "怪画廊颜王",
+      "Guai Hualang Yan Wang",
+      "颜王怪画廊",
+      "Yan Wang Guai Hualang"
+    ],
+    "tmdb_title": "颜王"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 12,
+  "duration": 7,
+  "start_date": {
+    "year": 2021,
+    "month": 9,
+    "day": 19
+  },
+  "end_date": {
+    "year": 2021,
+    "month": 11,
+    "day": 21
+  },
+  "description": "In an absurd world where your beauty rating dictates everything, who will be the one to break free of these shackles?",
+  "genres": [
+    "Drama"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [
+    "Tencent Penguin Pictures",
+    "Nice Boat Animation"
+  ],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "score_anilist": 52,
+  "popularity": 658,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137686-YQkLsQi3iy0j.jpg",
+    "poster_color": "#5daee4",
+    "banner": "https://image.tmdb.org/t/p/original/Adbxi6n8zG08ktPq6Gryzz5zuFl.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/5hfBCGjIhMSG1koSNnaInlP6OK4.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/Adbxi6n8zG08ktPq6Gryzz5zuFl.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137686-YQkLsQi3iy0j.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/t/mzc0020083kbf16.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T07:19:32.751Z",
+  "cache_version": 1
+}

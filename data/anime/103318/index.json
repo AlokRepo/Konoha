@@ -1,0 +1,70 @@
+{
+  "ids": {
+    "anilist": 103318,
+    "mal": 30367,
+    "anidb": 11961,
+    "tmdb": 78937,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Lemon Home Animation Gekijou",
+    "english": null,
+    "native": "レモンホームアニメ劇場",
+    "synonyms": [
+      "Lemon Home Animation Theater"
+    ],
+    "tmdb_title": "Lemon Home Animation Theater"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 3,
+  "duration": 2,
+  "start_date": {
+    "year": 2013,
+    "month": 7,
+    "day": 31
+  },
+  "end_date": {
+    "year": 2017,
+    "month": 10,
+    "day": 31
+  },
+  "description": "A scientist brings a lemon to life to fight crime.",
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [
+    "Stop Motion"
+  ],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 46,
+  "popularity": 662,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx103318-7Ail2IDAYTdC.jpg",
+    "poster_color": "#e4930d",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/71c0BDk6whLic2Wl9wjR8vkM1bj.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx103318-7Ail2IDAYTdC.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/watch?v=li4oWDJJKEU&list=PLdRvAixoSjiiX8lgL48sNxW49XIAZhPsn&index=3"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T07:19:14.031Z",
+  "cache_version": 1
+}

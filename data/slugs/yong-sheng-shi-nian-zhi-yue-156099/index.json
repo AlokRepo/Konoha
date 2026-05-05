@@ -1,0 +1,82 @@
+{
+  "ids": {
+    "anilist": 156099,
+    "mal": 55684,
+    "anidb": 18122,
+    "tmdb": 156571,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Yong Sheng: Shi Nian Zhi Yue",
+    "english": null,
+    "native": "永生之十年之约",
+    "synonyms": [
+      "永生 第二季",
+      "Yong Sheng 2",
+      "IMMORTALITY 2"
+    ],
+    "tmdb_title": "Immortality"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 12,
+  "duration": 20,
+  "start_date": {
+    "year": 2023,
+    "month": 7,
+    "day": 8
+  },
+  "end_date": {
+    "year": 2023,
+    "month": 9,
+    "day": 16
+  },
+  "description": "The second seasons of <i>Yong Sheng</i>.",
+  "genres": [
+    "Action",
+    "Drama",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Oriental Creative Color"
+  ],
+  "producers": [
+    "bilibili"
+  ],
+  "source": "OTHER",
+  "country": "CN",
+  "score_anilist": 67,
+  "popularity": 657,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156099-6CGOYaAFKvLF.jpg",
+    "poster_color": "#e4780d",
+    "banner": "https://image.tmdb.org/t/p/original/rdN2CW2SuTEPZ7i6RqpZUpRQQ5X.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/lMxWgt0r92s30MajKj6mmA1UwLQ.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/rdN2CW2SuTEPZ7i6RqpZUpRQQ5X.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156099-6CGOYaAFKvLF.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md28230735"
+    },
+    {
+      "site": "Bilibili Global",
+      "url": "https://www.bilibili.tv/en/index"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 90,
+  "match_signals": [
+    "english_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T07:19:45.888Z",
+  "cache_version": 1
+}
