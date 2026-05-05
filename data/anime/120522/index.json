@@ -1,0 +1,68 @@
+{
+  "ids": {
+    "anilist": 120522,
+    "mal": 42332,
+    "anidb": 16880,
+    "tmdb": 197983,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Mengyou Dunhuang",
+    "english": null,
+    "native": "梦游敦煌 ",
+    "synonyms": [],
+    "tmdb_title": "梦游敦煌"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 5,
+  "duration": 3,
+  "start_date": {
+    "year": 2020,
+    "month": 7,
+    "day": 6
+  },
+  "end_date": {
+    "year": 2020,
+    "month": 8,
+    "day": 3
+  },
+  "genres": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Painting Dream"
+  ],
+  "producers": [
+    "NetEase"
+  ],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 66,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120522-Njl0GYnzIbpM.png",
+    "poster_color": "#e4bb0d",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/ox0JGE5sQZAHmMQiAmbYdAjSFAV.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120522-Njl0GYnzIbpM.png"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md28229272/?from=search&seid=16433754586781953568"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 95,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T09:02:12.796Z",
+  "cache_version": 1
+}
