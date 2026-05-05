@@ -1,0 +1,80 @@
+{
+  "ids": {
+    "anilist": 115107,
+    "mal": 41206,
+    "anidb": 15393,
+    "tmdb": 99042,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Digimon Adventure: 20th Memorial Story",
+    "english": "DIGIMON ADVENTURE 20th memorial story",
+    "native": "デジモンアドベンチャー20th メモリアルストーリー",
+    "synonyms": [],
+    "tmdb_title": "Digimon Adventure 20th Memorial Story"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2020,
+  "episodes": 5,
+  "duration": 6,
+  "start_date": {
+    "year": 2020,
+    "month": 2,
+    "day": 1
+  },
+  "end_date": {
+    "year": 2020,
+    "month": 12,
+    "day": 25
+  },
+  "description": "A series of prequel anime shorts that will tell side stories not shown in <i>Digimon Adventure: Last Evolution Kizuna</i>.<br>\n<br>\nOver ten years have passed since that initial adventure. Sora worries over what she should do with her future. What choice has she ultimately arrived at?<br>\n<br>\n(Source: Toei Animation)",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Sci-Fi",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Animals",
+    "Artificial Intelligence"
+  ],
+  "studios": [
+    "Toei Animation",
+    "Yumeta Company"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 64,
+  "popularity": 2770,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx115107-GUXZ5XoMfNYW.jpg",
+    "poster_color": "#e4a128",
+    "banner": "https://image.tmdb.org/t/p/original/gKj4eSnVXITKoGJDm5mTX8OmuRc.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/gsKlxSkuiLGCL9tq6SE7q1IAaxM.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/gKj4eSnVXITKoGJDm5mTX8OmuRc.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx115107-GUXZ5XoMfNYW.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLGLzhXoyF5rLqhNCbHawkJRuBnShf66bk"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 150,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T06:30:45.115Z",
+  "cache_version": 1
+}
