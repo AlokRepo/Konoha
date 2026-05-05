@@ -1,0 +1,83 @@
+{
+  "ids": {
+    "anilist": 131009,
+    "mal": 49841,
+    "anidb": 16431,
+    "tmdb": 128797,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Chunqiu Feng Shen",
+    "english": null,
+    "native": "春秋封神",
+    "synonyms": [
+      "Immortals of the Godless Age"
+    ],
+    "tmdb_title": "Immortals of the Godless age"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 24,
+  "duration": 17,
+  "start_date": {
+    "year": 2021,
+    "month": 7,
+    "day": 8
+  },
+  "end_date": {
+    "year": 2021,
+    "month": 11,
+    "day": 25
+  },
+  "genres": [
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Youliao Studio",
+    "LX Animation Studio"
+  ],
+  "producers": [
+    "iQIYI"
+  ],
+  "source": "MANGA",
+  "country": "CN",
+  "score_anilist": 53,
+  "popularity": 261,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131009-QeowXU7g3Jzp.png",
+    "poster_color": "#e4ae28",
+    "banner": "https://image.tmdb.org/t/p/original/5XcmgFJhMkHavCIjRWjSmndjgiI.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/7sHo00ocSbogN8oiqZyX39SLnfW.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/5XcmgFJhMkHavCIjRWjSmndjgiI.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131009-QeowXU7g3Jzp.png"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLTndXYWs2JgF-KzrqVDYCfDbhnBmP9hop"
+    },
+    {
+      "site": "iQIYI",
+      "url": "https://www.iqiyi.com/a_19rrhlutzl.html"
+    },
+    {
+      "site": "iQ",
+      "url": "https://www.iq.com/album/immortals-of-the-godless-age-2021-2124da7t7xp"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T08:07:44.284Z",
+  "cache_version": 1
+}

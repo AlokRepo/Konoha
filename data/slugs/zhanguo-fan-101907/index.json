@@ -1,0 +1,73 @@
+{
+  "ids": {
+    "anilist": 101907,
+    "mal": 36428,
+    "anidb": 14867,
+    "tmdb": 218649,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Zhanguo FAN",
+    "english": null,
+    "native": "战国FAN",
+    "synonyms": [
+      "The Seven Warring States Fan"
+    ],
+    "tmdb_title": "The Seven Warring States Fan"
+  },
+  "format": "ONA",
+  "status": "CANCELLED",
+  "episodes": 15,
+  "duration": 13,
+  "start_date": {
+    "year": 2016,
+    "month": 7,
+    "day": 20
+  },
+  "end_date": {
+    "year": 2016,
+    "month": 11,
+    "day": 2
+  },
+  "genres": [
+    "Action",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [
+    "2:10 Animation"
+  ],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 264,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101907-rzi3narcqec2.jpg",
+    "poster_color": "#f1a143",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/uDCjT0RX3xU4eb3r4jwtqiOMmq.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101907-rzi3narcqec2.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLAXKdNw_1eGFw_Qb-WqBNxACHBOztRCBn"
+    },
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/k/kuv9j4tj1rq73pr.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T08:06:53.101Z",
+  "cache_version": 1
+}

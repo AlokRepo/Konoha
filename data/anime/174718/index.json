@@ -1,0 +1,80 @@
+{
+  "ids": {
+    "anilist": 174718,
+    "mal": 57865,
+    "anidb": 18449,
+    "tmdb": 244553,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Taigu Xing Shen Jue",
+    "english": "The Secrets of Star Divine Arts",
+    "native": "太古星神诀",
+    "synonyms": [
+      "The Secrets of Star Divine Arts"
+    ],
+    "tmdb_title": "The Secrets of Star Divine Arts"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 40,
+  "duration": 10,
+  "start_date": {
+    "year": 2024,
+    "month": 1,
+    "day": 25
+  },
+  "end_date": {
+    "year": 2024,
+    "month": 6,
+    "day": 6
+  },
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Ruo Hong Culture"
+  ],
+  "producers": [
+    "Youku"
+  ],
+  "source": "OTHER",
+  "country": "CN",
+  "score_anilist": 53,
+  "popularity": 260,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b174718-bVtmkxWLxV4y.jpg",
+    "poster_color": "#e4e4a1",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/174718-GjD46cftZOmq.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/bSPRx4cTDezc0B2nqMbrOGOyMqc.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/AusZLxTsMjTTEDTZ5e0VGtbcRaR.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b174718-bVtmkxWLxV4y.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLOUUm4xsoaeCh2QfzycLMIbhNELut49Tg"
+    },
+    {
+      "site": "Youku",
+      "url": "https://v.youku.com/v_show/id_XNjAzNTczNTU5Mg"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T08:07:55.195Z",
+  "cache_version": 1
+}
