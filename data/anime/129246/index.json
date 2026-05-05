@@ -1,0 +1,73 @@
+{
+  "ids": {
+    "anilist": 129246,
+    "mal": 54997,
+    "anidb": 18503,
+    "tmdb": 224911,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Bu Mie Shen Wang",
+    "english": "The Rich God",
+    "native": "不灭神王",
+    "synonyms": [],
+    "tmdb_title": "The Rich God"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 19,
+  "start_date": {
+    "year": 2023,
+    "month": 4,
+    "day": 20
+  },
+  "end_date": {
+    "year": 2023,
+    "month": 10,
+    "day": 5
+  },
+  "genres": [
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Djinn Power"
+  ],
+  "producers": [
+    "Youku"
+  ],
+  "source": "OTHER",
+  "country": "CN",
+  "score_anilist": 53,
+  "popularity": 317,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129246-kkmwKUoEwTRh.png",
+    "poster_color": "#e4781a",
+    "banner": "https://image.tmdb.org/t/p/original/fPql66TeqrPrbJTuXhNA8WVwHyZ.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/69oZvxvOcCeW2cGwCC5rpLs7vJ5.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/fPql66TeqrPrbJTuXhNA8WVwHyZ.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129246-kkmwKUoEwTRh.png"
+  },
+  "streaming": [
+    {
+      "site": "Youku",
+      "url": "https://list.youku.com/show/id_ffcef5f715464f64bab8"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLOUUm4xsoaeAWaERkzcaGoXL7n2WRGzJ4"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T07:55:35.587Z",
+  "cache_version": 1
+}

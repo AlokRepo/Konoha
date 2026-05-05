@@ -1,0 +1,77 @@
+{
+  "ids": {
+    "anilist": 130707,
+    "mal": 41250,
+    "anidb": 15385,
+    "tmdb": 112795,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Oshiete Hokusai! THE ANIMATION",
+    "english": null,
+    "native": "おしえて北斎！-THE ANIMATION-",
+    "synonyms": [
+      "教教我吧 北斋！",
+      "สอนฉันที โฮคุไซ!"
+    ],
+    "tmdb_title": "Oshiete Hokusai! The Animation"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2021,
+  "episodes": 10,
+  "duration": 10,
+  "start_date": {
+    "year": 2021,
+    "month": 3,
+    "day": 7
+  },
+  "end_date": {
+    "year": 2021,
+    "month": 3,
+    "day": 14
+  },
+  "description": "The story follows Tenkorin Okakura, a high school slacker girl. While dreaming of a painter god, she makes a wish that her dreams can come true without practice or effort. The god Raijin hears her wish, summons real-life historical artists, and tells Tenkorin to have these artists teach her so that she can fulfill her dreams. Guided by their teachings, Tenkorin aims to become a real painter with a promising future.",
+  "genres": [
+    "Comedy",
+    "Fantasy",
+    "Slice of Life"
+  ],
+  "tags": [],
+  "studios": [
+    "CoMix Wave"
+  ],
+  "producers": [],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 49,
+  "popularity": 318,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130707-2Yu3UQLGiXDj.jpg",
+    "poster_color": "#e4bb50",
+    "banner": "https://image.tmdb.org/t/p/original/uwYNzQgAJqrPTMhiHzFRMart3Y7.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/kYIoYr5ZNsXOXp2OglGaDm0Fm2n.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/uwYNzQgAJqrPTMhiHzFRMart3Y7.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130707-2Yu3UQLGiXDj.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md28233862/"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T07:55:25.991Z",
+  "cache_version": 1
+}
