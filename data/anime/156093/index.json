@@ -1,0 +1,84 @@
+{
+  "ids": {
+    "anilist": 156093,
+    "mal": 56981,
+    "anidb": 18386,
+    "tmdb": 238975,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Shi Fang Wu Sheng",
+    "english": "The Invincible",
+    "native": "十方武圣",
+    "synonyms": [
+      "Master Bela Diri Sepuluh Penjuru"
+    ],
+    "tmdb_title": "The Invincible"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 16,
+  "duration": 19,
+  "start_date": {
+    "year": 2023,
+    "month": 11,
+    "day": 10
+  },
+  "end_date": {
+    "year": 2024,
+    "month": 2,
+    "day": 16
+  },
+  "description": "In the third year of the reign of Emperor Shizong, the world is in chaos and it’s so hard for the people to make a living. The central royal government collapses, triggering the division of regions and the establishment of independent powerful groups. Demonic sects and groups mess around secretly and different gangs fight each other. Besides, there’re repeated natural disasters, and the people struggle for hopes and salvation. Various sects and schools have been established and they fight for resources and territory and the establishment of their own rules. People with ambitions strive to control the entire world and establish a dynasty of their own. There’re also righteous men who try to save the ordinary people. Wei He has a pearl that can break through different realms and help him travel through the chaotic world and create his own legend step by step.\n<br><br>\n(Source: bilibili Youtube)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Foch"
+  ],
+  "producers": [
+    "bilibili"
+  ],
+  "source": "OTHER",
+  "country": "CN",
+  "score_anilist": 57,
+  "popularity": 603,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156093-MOApKiQucV5Y.jpg",
+    "poster_color": "#35c9f1",
+    "banner": "https://image.tmdb.org/t/p/original/JrUcHRKYL0IgUvx6KeNLPbbJiz.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/mROojWv1lf673VraI84lcj9PQrC.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/JrUcHRKYL0IgUvx6KeNLPbbJiz.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156093-MOApKiQucV5Y.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md28339928/"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLBakWosU0sfhE58qiT6w3TN1p03yh_dHW"
+    },
+    {
+      "site": "Bilibili TV",
+      "url": "https://www.bilibili.tv/en/play/2091834/13013459?bstar_from=bstar-web.pgc-video-detail.episode.all"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T07:23:21.179Z",
+  "cache_version": 1
+}

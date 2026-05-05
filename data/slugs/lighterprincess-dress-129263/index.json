@@ -1,0 +1,82 @@
+{
+  "ids": {
+    "anilist": 129263,
+    "mal": 48875,
+    "anidb": 17434,
+    "tmdb": 286574,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Dahouji Yu Gongzhu Qun",
+    "english": "Lighter&Princess Dress",
+    "native": "打火机与公主裙",
+    "synonyms": [
+      "Lighter & Skirt",
+      "打火机和公主裙"
+    ],
+    "tmdb_title": "Lighter & Skirt"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 13,
+  "duration": 14,
+  "start_date": {
+    "year": 2021,
+    "month": 8,
+    "day": 8
+  },
+  "end_date": {
+    "year": 2021,
+    "month": 10,
+    "day": 24
+  },
+  "description": "Zhu Yun is a serious student. Now at the university and far from the influence of her parents, she meets Li Yu, a rebellious boy. The conscientious young woman will gradually change under his influence...",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "Software Development",
+    "College"
+  ],
+  "studios": [],
+  "producers": [
+    "2:10 Animation",
+    "Youku"
+  ],
+  "source": "OTHER",
+  "country": "CN",
+  "score_anilist": 57,
+  "popularity": 605,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129263-fZ4vTslAvCXs.jpg",
+    "poster_color": "#aed6f1",
+    "banner": "https://image.tmdb.org/t/p/original/wxTk3LKcuvJ0eOrFl97xOHDw0Eu.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/7mNDvzEcBlxj9AkkCIyu3l8Exuf.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/wxTk3LKcuvJ0eOrFl97xOHDw0Eu.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129263-fZ4vTslAvCXs.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Youku",
+      "url": "https://list.youku.com/show/id_zdecc0e2f935f461f84b1.html"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLOUUm4xsoaeAUJ75H8vBio4kXMtxxBviZ"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T07:23:12.873Z",
+  "cache_version": 1
+}

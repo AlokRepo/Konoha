@@ -1,0 +1,91 @@
+{
+  "ids": {
+    "anilist": 102570,
+    "mal": 36762,
+    "anidb": 13801,
+    "tmdb": 86490,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Xuese Cangqiong",
+    "english": null,
+    "native": "血色苍穹",
+    "synonyms": [
+      "Bloody Code",
+      "The Red Sky"
+    ],
+    "tmdb_title": "Blood Code"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 26,
+  "duration": 22,
+  "start_date": {
+    "year": 2017,
+    "month": 8,
+    "day": 18
+  },
+  "end_date": {
+    "year": 2018,
+    "month": 1,
+    "day": 26
+  },
+  "description": "Li Mingyang was originally an ordinary office worker. Because of a strange QR code, he was trapped in a killing city. Here everyone is forced to participate in a survival game that is going to kill or be killed. In the process of finding a way out of the city, the mastermind behind the whole incident surfaced step by step.\n",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "tags": [
+    "Survival"
+  ],
+  "studios": [
+    "CG Year"
+  ],
+  "producers": [
+    "iQIYI"
+  ],
+  "source": "MANGA",
+  "country": "CN",
+  "score_anilist": 50,
+  "popularity": 610,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102570-eCsuQ5LERV3P.png",
+    "poster_color": "#5d93f1",
+    "banner": "https://image.tmdb.org/t/p/original/75GHlrF61K6jzLQRqtrr6OkBzxx.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/5dZJVrzO6SQbgMLDIu1v4tES1FM.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/75GHlrF61K6jzLQRqtrr6OkBzxx.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102570-eCsuQ5LERV3P.png"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md5844/"
+    },
+    {
+      "site": "iQ",
+      "url": "https://www.iq.com/play/19rrhdr0r1"
+    },
+    {
+      "site": "iQIYI",
+      "url": "https://www.iqiyi.com/a_19rrhdr0r1.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 116,
+  "match_signals": [
+    "synonyms_match",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T07:22:53.169Z",
+  "cache_version": 1
+}

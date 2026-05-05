@@ -1,0 +1,74 @@
+{
+  "ids": {
+    "anilist": 137718,
+    "mal": 59753,
+    "anidb": 17888,
+    "tmdb": 1374121,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "TAISU PROJECT",
+    "english": null,
+    "native": "TAISU PROJECT",
+    "synonyms": [
+      "太素传奇TAISU project",
+      "海洋之言",
+      "弦之舞",
+      "再见，小欧",
+      "《男孩、女孩、机器人》"
+    ],
+    "tmdb_title": "TAISU PROJECT"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 4,
+  "duration": 24,
+  "start_date": {
+    "year": 2024,
+    "month": 8,
+    "day": 10
+  },
+  "end_date": {
+    "year": 2024,
+    "month": 8,
+    "day": 18
+  },
+  "description": "A collection of 4 short films:<br>\n1) A Girl meets a Boy and a Robot (男孩、女孩、机器人) — Watanabe Shinichirou<br>\n2) Zaijian, Xiaoou (再见,小欧) — Li Wei<br>\n3) Dance of Strings (弦之舞) — Morita Shuuhei<br>\n4) Haiyang Zhi Yan (海洋之言) — Richard Taylor, Weng Ming<br>",
+  "genres": [],
+  "tags": [],
+  "studios": [
+    "Chirying Culture",
+    "MAPPA",
+    "YAMATOWORKS"
+  ],
+  "producers": [
+    "Tencent Penguin Pictures"
+  ],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 633,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137718-SD9tFLjpHvo8.jpg",
+    "poster_color": "#78281a",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/zX8TeCNalyKP6c0eFaB47LEEOje.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137718-SD9tFLjpHvo8.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/t/mzc002002cq4ljz.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 100,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T07:21:34.960Z",
+  "cache_version": 1
+}

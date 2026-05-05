@@ -1,0 +1,76 @@
+{
+  "ids": {
+    "anilist": 142178,
+    "mal": 50501,
+    "anidb": 17582,
+    "tmdb": 147054,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Jian Yu Chuanqi",
+    "english": "The Legend of Sword Domain",
+    "native": "剑域风云",
+    "synonyms": [],
+    "tmdb_title": "The Legend of Sword Domain"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 40,
+  "duration": 10,
+  "start_date": {
+    "year": 2021,
+    "month": 11,
+    "day": 28
+  },
+  "end_date": {
+    "year": 2022,
+    "month": 4,
+    "day": 6
+  },
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Ruo Hong Culture"
+  ],
+  "producers": [
+    "Youku"
+  ],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "score_anilist": 61,
+  "popularity": 610,
+  "trending": 1,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142178-XI7zI4h9QU2H.png",
+    "poster_color": "#e49350",
+    "banner": "https://image.tmdb.org/t/p/original/nbGZBiZUiP4CqyLLpiyhhSOCvx4.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/tbisNKz2AnVi0SvzrVlnvr0vORb.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/nbGZBiZUiP4CqyLLpiyhhSOCvx4.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142178-XI7zI4h9QU2H.png"
+  },
+  "streaming": [
+    {
+      "site": "Youku",
+      "url": "https://v.youku.com/v_nextstage/id_eacdafb09f604595bcb6.html"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLOUUm4xsoaeA8BMJ5tVELTJnLBq_6pcZl"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 95,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T07:22:46.771Z",
+  "cache_version": 1
+}

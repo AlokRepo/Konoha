@@ -1,0 +1,80 @@
+{
+  "ids": {
+    "anilist": 114123,
+    "mal": 50445,
+    "anidb": 17778,
+    "tmdb": 97113,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "San Ti",
+    "english": null,
+    "native": "三体",
+    "synonyms": [
+      "The Three-Body Problem"
+    ],
+    "tmdb_title": "The Three-Body Problem"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 15,
+  "start_date": {
+    "year": 2022,
+    "month": 12,
+    "day": 10
+  },
+  "end_date": {
+    "year": 2023,
+    "month": 3,
+    "day": 25
+  },
+  "description": "Adaptation of the 2015 Hugo Award winner novel by Cixin Liu.<br><br>\n1967: Ye Wenjie witnesses Red Guards beat her father to death during China's Cultural Revolution. This singular event will shape not only the rest of her life but also the future of mankind.<br><br>Four decades later, Beijing police ask nanotech engineer Wang Miao to infiltrate a secretive cabal of scientists after a spate of inexplicable suicides. Wang's investigation will lead him to a mysterious online game and immerse him in a virtual world ruled by the intractable and unpredictable interaction of its three suns.<br><br>This is the Three-Body Problem and it is the key to everything: the key to the scientists' deaths, the key to a conspiracy that spans light-years and the key to the extinction-level threat humanity now faces.<br><br>(Source: Amazon)",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "tags": [
+    "Full CGI",
+    "Terrorism"
+  ],
+  "studios": [
+    "YHKT Entertainment"
+  ],
+  "producers": [
+    "bilibili"
+  ],
+  "source": "OTHER",
+  "country": "CN",
+  "score_anilist": 54,
+  "popularity": 620,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114123-YiWboUM2MRIv.png",
+    "poster_color": "#d61a1a",
+    "banner": "https://image.tmdb.org/t/p/original/Ap6qkRyJWJl7QCKRuLUleDybnBn.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/2IpjdDLbvDZg2EO3DDqqa01QknQ.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/Ap6qkRyJWJl7QCKRuLUleDybnBn.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114123-YiWboUM2MRIv.png"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md4315402"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T07:22:12.049Z",
+  "cache_version": 1
+}

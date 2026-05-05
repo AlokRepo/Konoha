@@ -1,0 +1,83 @@
+{
+  "ids": {
+    "anilist": 120270,
+    "mal": 42947,
+    "anidb": 15784,
+    "tmdb": 111629,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Qin Xia",
+    "english": "The Warrior From Qin",
+    "native": "秦侠",
+    "synonyms": [],
+    "tmdb_title": "The Warrior from Qin"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 12,
+  "duration": 20,
+  "start_date": {
+    "year": 2020,
+    "month": 10,
+    "day": 16
+  },
+  "end_date": {
+    "year": 2020,
+    "month": 12,
+    "day": 25
+  },
+  "description": "Across thousands of years, a terracotta warrior comes back to life! With a girl who looks exactly like his sister-in-law, they fight cirmes and become heroes to bring back justice!\n<br><br>\n(Source: WeComics)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Qiyuan Yinghua"
+  ],
+  "producers": [
+    "Tencent Animation & Comics",
+    "bilibili"
+  ],
+  "source": "MANGA",
+  "country": "CN",
+  "score_anilist": 56,
+  "popularity": 635,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120270-L4gMCJxrm8hG.png",
+    "poster_color": "#865de4",
+    "banner": "https://image.tmdb.org/t/p/original/AaolNSUPD5QsYx6lwpNGBLSsHg8.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/rn1MKaHVgpJ3hkuxLsENeZ4DqUT.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/AaolNSUPD5QsYx6lwpNGBLSsHg8.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120270-L4gMCJxrm8hG.png"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md28229691/"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLBakWosU0sfjTBl-vsV69NC1hmbmnUau7"
+    },
+    {
+      "site": "Bilibili TV",
+      "url": "https://www.bilibili.tv/media/35298"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T07:21:19.198Z",
+  "cache_version": 1
+}
