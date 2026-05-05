@@ -1,0 +1,71 @@
+{
+  "ids": {
+    "anilist": 120208,
+    "mal": 49433,
+    "anidb": 16638,
+    "tmdb": 129912,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Youxia Zhanji",
+    "english": null,
+    "native": "游侠战纪",
+    "synonyms": [],
+    "tmdb_title": "The Ranger Wars"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 20,
+  "start_date": {
+    "year": 2021,
+    "month": 7,
+    "day": 27
+  },
+  "end_date": {
+    "year": 2021,
+    "month": 11,
+    "day": 23
+  },
+  "genres": [
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "TMX Art",
+    "Zhongce Picture"
+  ],
+  "producers": [
+    "Tencent Penguin Pictures"
+  ],
+  "source": "OTHER",
+  "country": "CN",
+  "score_mal": 6.1,
+  "popularity": 199,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120208-e3foWUeCAzPS.jpg",
+    "poster_color": "#28786b",
+    "banner": "https://image.tmdb.org/t/p/original/bs4uSTjU5DQN4AjK4F7CFtRh6C3.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/4GDba4qSKLCAy61nzQb2D91G9zf.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/bs4uSTjU5DQN4AjK4F7CFtRh6C3.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120208-e3foWUeCAzPS.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/v/vxmw7zexnlinymz.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 100,
+  "match_signals": [
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T08:21:23.030Z",
+  "cache_version": 1
+}

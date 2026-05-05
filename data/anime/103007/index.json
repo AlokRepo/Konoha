@@ -1,0 +1,76 @@
+{
+  "ids": {
+    "anilist": 103007,
+    "mal": 38689,
+    "anidb": 14159,
+    "tmdb": 105910,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Guan Hai Ce",
+    "english": "Watch the Sea Strategy",
+    "native": "观海策",
+    "synonyms": [
+      "Strategies of Sea Observation",
+      "禹相龙图",
+      "观海策之北地风烟"
+    ],
+    "tmdb_title": "Watch the Sea Strategy"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 16,
+  "duration": 20,
+  "start_date": {
+    "year": 2018,
+    "month": 6,
+    "day": 17
+  },
+  "end_date": {
+    "year": 2018,
+    "month": 6,
+    "day": 17
+  },
+  "genres": [
+    "Action",
+    "Drama"
+  ],
+  "tags": [],
+  "studios": [
+    "Bright Studio"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "score_mal": 5.82,
+  "popularity": 196,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103007-uPvkZyoWTDr3.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/38GrK5X5Hf1IyQ0135TXY1Mkspp.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/i73e1hrYZHf1RxSmKVsv8bwzMYm.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/38GrK5X5Hf1IyQ0135TXY1Mkspp.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103007-uPvkZyoWTDr3.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/4/4lox1hdysyvfv30.html"
+    },
+    {
+      "site": "WeTV",
+      "url": "https://wetv.vip/play/po1hsnl7pc0ujx5"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T08:21:39.246Z",
+  "cache_version": 1
+}

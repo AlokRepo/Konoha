@@ -1,0 +1,77 @@
+{
+  "ids": {
+    "anilist": 122527,
+    "mal": 46630,
+    "anidb": 16610,
+    "tmdb": 118654,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Jueding",
+    "english": null,
+    "native": "绝顶",
+    "synonyms": [],
+    "tmdb_title": "Jueding"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 26,
+  "start_date": {
+    "year": 2021,
+    "month": 2,
+    "day": 6
+  },
+  "end_date": {
+    "year": 2021,
+    "month": 7,
+    "day": 24
+  },
+  "description": "Jia Fugui, the leader of the Muye School, has crushed the martial world in terms of force, but he is still extremely insecure about his bald head. In order to find a formula for hair growth, he and his second in command traverse the world.",
+  "genres": [
+    "Action",
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [
+    "Seven Stone Entertainment",
+    "Xiron Animation"
+  ],
+  "producers": [
+    "Tencent Penguin Pictures",
+    "Yofox Culture"
+  ],
+  "source": "MANGA",
+  "country": "CN",
+  "popularity": 203,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx122527-3XhnISJ08SeP.png",
+    "poster_color": "#93281a",
+    "banner": "https://image.tmdb.org/t/p/original/gmDiQm2Pp7LloApYUWhtXHO4KG.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/toVPeZYoehZ243Y4QlS2N1Yznjb.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/gmDiQm2Pp7LloApYUWhtXHO4KG.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx122527-3XhnISJ08SeP.png"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/m/mzc00200egk2zsh.html"
+    },
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md28339263/"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T08:20:27.968Z",
+  "cache_version": 1
+}

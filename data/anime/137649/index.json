@@ -1,0 +1,79 @@
+{
+  "ids": {
+    "anilist": 137649,
+    "mal": 51274,
+    "anidb": 18645,
+    "tmdb": 254723,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Fengyun Bian",
+    "english": null,
+    "native": "风云变",
+    "synonyms": [
+      "Nirvana of Storm Rider",
+      "เมฆาวายุ"
+    ],
+    "tmdb_title": "Nirvana of Storm Rider"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 30,
+  "duration": 20,
+  "start_date": {
+    "year": 2024,
+    "month": 5,
+    "day": 17
+  },
+  "end_date": {
+    "year": 2024,
+    "month": 8,
+    "day": 30
+  },
+  "genres": [
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "BlueArc Animation Studio"
+  ],
+  "producers": [
+    "Tencent Penguin Pictures",
+    "Hyper Dimension Interactive Entertainment"
+  ],
+  "source": "MANGA",
+  "country": "CN",
+  "popularity": 195,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137649-eGZSHQTem0Md.png",
+    "poster_color": "#d6781a",
+    "banner": "https://image.tmdb.org/t/p/original/lahua2R5nyB0eQydlN3oaTt8GbK.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/AoEKP5SkgMWSglgcFeugM6ho7Fk.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/lahua2R5nyB0eQydlN3oaTt8GbK.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137649-eGZSHQTem0Md.png"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/t/mzc002005sp2ycb.html"
+    },
+    {
+      "site": "WeTV",
+      "url": "https://wetv.vip/en/album/fh87vocwl97ccqz"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T08:22:05.299Z",
+  "cache_version": 1
+}
