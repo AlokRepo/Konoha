@@ -1,0 +1,83 @@
+{
+  "ids": {
+    "anilist": 201151,
+    "anidb": 19694,
+    "tmdb": 304577,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "THE LENTICULARS",
+    "english": "THE LENTICULARS",
+    "native": "ザ・レンチキュラーズ",
+    "synonyms": [
+      "THE LENTICULARS a/"
+    ],
+    "tmdb_title": "The Lenticulars"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2025,
+  "episodes": 8,
+  "duration": 6,
+  "start_date": {
+    "year": 2025,
+    "month": 10,
+    "day": 31
+  },
+  "end_date": {
+    "year": 2025,
+    "month": 12,
+    "day": 19
+  },
+  "genres": [
+    "Comedy",
+    "Romance",
+    "Slice of Life"
+  ],
+  "tags": [
+    "School",
+    "Heterosexual",
+    "Male Protagonist",
+    "Mixed Media",
+    "Urban",
+    "Primarily Teen Cast",
+    "Primarily Male Cast",
+    "Female Protagonist"
+  ],
+  "studios": [
+    "TRIGGER"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 59,
+  "popularity": 1146,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201151-DA2N96rmqFsS.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/um2sJUlo1a2581BiV5rEs6sYElG.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/lWl2JaPTYeHMMQeTDqZ0gXyVsZ6.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/um2sJUlo1a2581BiV5rEs6sYElG.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201151-DA2N96rmqFsS.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLylWpI-o9raXsnGg6ONA5CY--sI-wl9ez"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T06:56:47.660Z",
+  "cache_version": 1
+}

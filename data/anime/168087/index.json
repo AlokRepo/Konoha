@@ -1,0 +1,81 @@
+{
+  "ids": {
+    "anilist": 168087,
+    "mal": 62216,
+    "anidb": 19660,
+    "tmdb": 297092,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Gu Wei Nan Ting",
+    "english": "The Chosen One",
+    "native": "谷围南亭",
+    "synonyms": [
+      "The Last Dynasty"
+    ],
+    "tmdb_title": "The Chosen One"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 16,
+  "duration": 20,
+  "start_date": {
+    "year": 2025,
+    "month": 9,
+    "day": 30
+  },
+  "end_date": {
+    "year": 2026,
+    "month": 1,
+    "day": 2
+  },
+  "description": "The story is about a university student named Gao Ying, who happened to be staying at a hotel in an old town with many mysteries and suddenly got caught up in a conflict, a disaster from hundred of years ago. Here, for the first time ever, the truth of the world will be revealed to his eyes. A mysterious story filled with spiritual elements and humor.",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Mystery",
+    "Supernatural"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [
+    "Kuaikan Manhua",
+    "2:10 Animation",
+    "Tencent Penguin Pictures"
+  ],
+  "source": "MANGA",
+  "country": "CN",
+  "score_anilist": 61,
+  "popularity": 1160,
+  "trending": 1,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168087-Xp8bIjULlNd4.jpg",
+    "poster_color": "#e4bb5d",
+    "banner": "https://image.tmdb.org/t/p/original/ArT7KVK1J1wbGmYBX0xafjlUnEQ.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/fUQvdCiCYFjenaZ6N9g4dErENdK.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/ArT7KVK1J1wbGmYBX0xafjlUnEQ.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168087-Xp8bIjULlNd4.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/x/cover/mzc00200r2dizl5.html"
+    },
+    {
+      "site": "WeTV",
+      "url": "https://wetv.vip/en/album/j5ygsbp73vk24k5"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T06:56:14.009Z",
+  "cache_version": 1
+}

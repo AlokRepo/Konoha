@@ -1,0 +1,83 @@
+{
+  "ids": {
+    "anilist": 109148,
+    "mal": 39736,
+    "anidb": 14959,
+    "tmdb": 103356,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Li Shi",
+    "english": null,
+    "native": "历师",
+    "synonyms": [
+      "Chinese Almanac Master",
+      "Almanac Interpreter",
+      "Secret Archives of Unscientific Materialism",
+      "Huang Li Shi",
+      "Huangli Shi",
+      "不科学唯物主义秘密档案",
+      "黄历师"
+    ],
+    "tmdb_title": "Chinese Almanac Master"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 16,
+  "duration": 24,
+  "start_date": {
+    "year": 2020,
+    "month": 5,
+    "day": 7
+  },
+  "end_date": {
+    "year": 2020,
+    "month": 8,
+    "day": 13
+  },
+  "description": "Huangli Shi, according to legends, refers to a Fangshi who can alter the effects of seasonal solstices, solar terms, and festivals, and is able to predict each day’s fortune.\n<br><br>\nXiao Nanzhu, an unemployed young man, decided to take on his usual job that has been passed down for generations, after being inspired by his childhood friend. Now he just wants to call 110.\n",
+  "genres": [
+    "Action",
+    "Mystery",
+    "Supernatural"
+  ],
+  "tags": [],
+  "studios": [
+    "B.CMAY PICTURES"
+  ],
+  "producers": [
+    "Tencent Penguin Pictures"
+  ],
+  "source": "OTHER",
+  "country": "CN",
+  "score_anilist": 52,
+  "popularity": 1129,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109148-7h8yK3wYAZtQ.jpg",
+    "poster_color": "#e4a15d",
+    "banner": "https://image.tmdb.org/t/p/original/wrhV4L52rdhjTx65W7hcn4b5OYA.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/ciPuWSvjFJFzqdirnNfVWaULBjX.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/wrhV4L52rdhjTx65W7hcn4b5OYA.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109148-7h8yK3wYAZtQ.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/m/mtc2r2yum4j837e.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T06:57:22.978Z",
+  "cache_version": 1
+}

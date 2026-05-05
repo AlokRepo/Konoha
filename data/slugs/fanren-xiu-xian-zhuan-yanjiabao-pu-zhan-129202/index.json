@@ -1,0 +1,90 @@
+{
+  "ids": {
+    "anilist": 129202,
+    "mal": 45558,
+    "anidb": 16039,
+    "tmdb": 106449,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Fanren Xiu Xian Zhuan: Yanjiabao Pu Zhan",
+    "english": null,
+    "native": "凡人修仙传 燕家堡之战",
+    "synonyms": [
+      "凡人修仙传 特别篇",
+      "Fanren Xiu Xian Zhuan: Tebie Pian",
+      "Fanren Xiu Xian Zhuan Specials",
+      "A Record of A Mortal's Journey to Immortality Specials",
+      "A Record of A Mortal's Journey: The Battle of Yanjiabao"
+    ],
+    "tmdb_title": "A Record of a Mortal's Journey to Immortality"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 4,
+  "duration": 19,
+  "start_date": {
+    "year": 2021,
+    "month": 1,
+    "day": 30
+  },
+  "end_date": {
+    "year": 2021,
+    "month": 2,
+    "day": 13
+  },
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Romance"
+  ],
+  "tags": [
+    "Full CGI",
+    "Cultivation"
+  ],
+  "studios": [
+    "Original Force",
+    "Wonder Cat Animation"
+  ],
+  "producers": [
+    "China Literature",
+    "bilibili",
+    "Mopi"
+  ],
+  "source": "OTHER",
+  "country": "CN",
+  "score_anilist": 71,
+  "popularity": 1083,
+  "trending": 1,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129202-DReOdlgQ13D0.png",
+    "poster_color": "#50d6e4",
+    "banner": "https://image.tmdb.org/t/p/original/8NIvQY34tNPc4txNeym2zEYk9ek.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/a4sdl6OA9edHq5kKc4JbUXDP7uw.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/8NIvQY34tNPc4txNeym2zEYk9ek.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129202-DReOdlgQ13D0.png"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md28223043/"
+    },
+    {
+      "site": "Bilibili TV",
+      "url": "https://www.bilibili.tv/media/36571"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 85,
+  "match_signals": [
+    "english_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T06:58:46.726Z",
+  "cache_version": 1
+}
