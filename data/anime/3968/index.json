@@ -1,0 +1,80 @@
+{
+  "ids": {
+    "anilist": 3968,
+    "mal": 3968,
+    "anidb": 614,
+    "tmdb": 45153,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Ryuuki Denshou",
+    "english": "Dragoon",
+    "native": "竜機伝承",
+    "synonyms": [
+      "Ryuki Denshou",
+      "Dragoon"
+    ],
+    "tmdb_title": "Dragoon"
+  },
+  "format": "OVA",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 1997,
+  "episodes": 3,
+  "duration": 30,
+  "start_date": {
+    "year": 1997,
+    "month": 7,
+    "day": 25
+  },
+  "end_date": {
+    "year": 1997,
+    "month": 11,
+    "day": 28
+  },
+  "description": "In the great Garubado Empire, a lethal weapon is in the process of being manufactured, but is stolen and subsequently lost in battle. Now the Empire is looking for this weapon: a girl that can call forth the \"Dragoon\" power. She has amnesia and is found by a wandering swordsman in training by who vows to help her find out who she is and why she has such a strange power. ",
+  "genres": [
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [
+    "Magic",
+    "Fugitive"
+  ],
+  "studios": [
+    "Magic Bus"
+  ],
+  "producers": [
+    "ADV Films"
+  ],
+  "source": "VIDEO_GAME",
+  "country": "JP",
+  "score_anilist": 56,
+  "popularity": 972,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3968.jpg",
+    "poster_color": "#d66b1a",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/7dhOKSvf1sIMEckVPcpBRUHqfti.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3968.jpg"
+  },
+  "streaming": [
+    {
+      "site": "OceanVeil",
+      "url": "https://oceanveil.net/anime_titles/387"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T04:43:01.324Z",
+  "cache_version": 1
+}
