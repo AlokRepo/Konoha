@@ -1,0 +1,75 @@
+{
+  "ids": {
+    "anilist": 6293,
+    "mal": 6293,
+    "anidb": 9345,
+    "tmdb": 61436,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Koukou Butouden Crows",
+    "english": null,
+    "native": "高校武闘伝 クローズ",
+    "synonyms": [
+      "Crows"
+    ],
+    "tmdb_title": "Crows"
+  },
+  "format": "OVA",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 1994,
+  "episodes": 2,
+  "duration": 45,
+  "start_date": {
+    "year": 1994,
+    "month": 1,
+    "day": 28
+  },
+  "end_date": {
+    "year": 1994,
+    "month": 6,
+    "day": 24
+  },
+  "description": "Anime adaptation of Crows manga series.",
+  "genres": [
+    "Action",
+    "Comedy"
+  ],
+  "tags": [
+    "Shounen",
+    "School",
+    "Delinquents"
+  ],
+  "studios": [
+    "Wolf Smoke"
+  ],
+  "producers": [
+    "Knack Productions",
+    "KSS"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 63,
+  "popularity": 1739,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6293.jpg",
+    "poster_color": "#e49350",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/tn9zGlBxmMUTOQ62punuIxgqWRm.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6293.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T04:03:58.050Z",
+  "cache_version": 1
+}

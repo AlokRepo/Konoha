@@ -1,0 +1,103 @@
+{
+  "ids": {
+    "anilist": 999,
+    "mal": 999,
+    "anidb": 385,
+    "tmdb": 123332,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "BLUE SEED 2",
+    "english": "Blue Seed Beyond",
+    "native": "BLUE SEED 2",
+    "synonyms": [
+      "ブルーシード 2",
+      "Blue Seed 2: Operation Mitama",
+      "Blue Seed OVA"
+    ],
+    "tmdb_title": "Blue Seed Beyond"
+  },
+  "format": "OVA",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 1996,
+  "episodes": 3,
+  "duration": 28,
+  "start_date": {
+    "year": 1996,
+    "month": 7,
+    "day": 24
+  },
+  "end_date": {
+    "year": 1998,
+    "month": 2,
+    "day": 4
+  },
+  "description": "A renegade scientist in San Francisco has found a way to create a new creature called a Neo-Aragami without the power of Susanoo. When these monsters start to terrorize California, the U.S. turns to the old members of the Terrestrial Administration Center (TAC) for help.\n<br><br>\n(Source: Anime News Network)\n<br>",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Drama",
+    "Horror",
+    "Sci-Fi",
+    "Supernatural"
+  ],
+  "tags": [
+    "Body Horror"
+  ],
+  "studios": [
+    "Production I.G",
+    "Xebec"
+  ],
+  "producers": [
+    "Movic",
+    "Discotek"
+  ],
+  "country": "JP",
+  "score_anilist": 60,
+  "popularity": 1730,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/999.jpg",
+    "poster_color": "#d6781a",
+    "banner": "https://image.tmdb.org/t/p/original/tJWo90nnVxdsI4cn6EXBQ93dhfG.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/tqSeKGFGsLv7YEYcg75H7vcDMnB.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/tJWo90nnVxdsI4cn6EXBQ93dhfG.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/999.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/blue-seed"
+    },
+    {
+      "site": "Tubi TV",
+      "url": "https://tubitv.com/series/300005557/blue-seed-2"
+    },
+    {
+      "site": "RetroCrush",
+      "url": "https://www.retrocrush.tv/details/DMR00000053/Blue-Seed-(Original-Japanese)"
+    },
+    {
+      "site": "RetroCrush",
+      "url": "https://www.retrocrush.tv/details/DMR00020781/Blue-Seed-(English-Dubbed)"
+    },
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/movies/blue-seed-beyond"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T04:04:08.396Z",
+  "cache_version": 1
+}
