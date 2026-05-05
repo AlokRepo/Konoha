@@ -1,0 +1,79 @@
+{
+  "ids": {
+    "anilist": 20563,
+    "mal": 5652,
+    "tmdb": 26383,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Glass no Kantai: La legende du vent de l'univers Specials",
+    "english": "Glass Fleet: The Legend of the Wind of the Universe Specials",
+    "native": "ガラスの艦隊～La legende du vent de l'univers～",
+    "synonyms": [
+      "Garasu no Kantai Special",
+      "Fleet of Glass Specials",
+      "Glass no Kantai 16.5",
+      "Garasu no Kantai 16.5"
+    ],
+    "tmdb_title": "Glass Fleet"
+  },
+  "format": "SPECIAL",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2007,
+  "episodes": 2,
+  "duration": 24,
+  "start_date": {
+    "year": 2007,
+    "month": 1,
+    "day": 24
+  },
+  "end_date": {
+    "year": 2007,
+    "month": 3,
+    "day": 28
+  },
+  "description": "Episodes 16.5 and 20.5.\r\n\r\nGlass no Kantai Special episodes focus on the history behind the Imperial Royal Family, recounting the events that happened before the TV Series.",
+  "genres": [
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Space Opera"
+  ],
+  "studios": [
+    "GONZO"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 51,
+  "popularity": 468,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20563.jpg",
+    "poster_color": "#355da1",
+    "banner": "https://image.tmdb.org/t/p/original/vAbV29zhI5NU2ttWkRqREgtP21n.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/nCFu0RGVKC0IRSkOTE8zNqv9rSe.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/vAbV29zhI5NU2ttWkRqREgtP21n.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20563.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/glass-fleet"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 85,
+  "match_signals": [
+    "english_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T02:19:04.060Z",
+  "cache_version": 1
+}
