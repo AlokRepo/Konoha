@@ -1,0 +1,84 @@
+{
+  "ids": {
+    "anilist": 126389,
+    "mal": 51549,
+    "anidb": 17714,
+    "tmdb": 204992,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Xue Yu Xin",
+    "english": "Blood and heart: The legendary life of a Japanese youth in China",
+    "native": "血与心",
+    "synonyms": [
+      "Blood & Heart"
+    ],
+    "tmdb_title": "Blood & Heart"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 12,
+  "duration": 18,
+  "start_date": {
+    "year": 2022,
+    "month": 11,
+    "day": 2
+  },
+  "end_date": {
+    "year": 2023,
+    "month": 1,
+    "day": 11
+  },
+  "description": "This work tells the legendary life of Megumi Sunahara, a soldier of the Japanese People’s Liberation Army, and shows the true history of the little-known special group of the Japanese People’s Liberation Army. Sabara Megumi was born in the Kyushu region of Japan in 1933 and came to Northeast China with his parents when he was a child. After Japan's defeat and surrender, he was unable to return to Japan, and lived at a landlord’s house in Liaoning to herd cattle. In 1948, he joined the People’s Liberation Army under the name of “Zhang Rongqing”, where he experienced the battles of Liaoshen and Pingjin and devoted himself to the cause of the proletarian revolution.\n<br><br>\n(Source: Bilibili, translated)",
+  "genres": [
+    "Drama"
+  ],
+  "tags": [
+    "Historical",
+    "Class Struggle",
+    "Biographical"
+  ],
+  "studios": [
+    "Unity of Knowledge and Action Animation"
+  ],
+  "producers": [
+    "bilibili",
+    "People's China",
+    "New Star Press"
+  ],
+  "source": "MANGA",
+  "country": "CN",
+  "score_anilist": 56,
+  "popularity": 583,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126389-UFLsgIehlscv.png",
+    "poster_color": "#f1860d",
+    "banner": "https://image.tmdb.org/t/p/original/tYg4VCwaaWJIsMjjnuKnfWHJLx1.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/fGVlnmrZhopUQrQrX0BdCkHORvV.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/tYg4VCwaaWJIsMjjnuKnfWHJLx1.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126389-UFLsgIehlscv.png"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md28230733/"
+    },
+    {
+      "site": "Bilibili TV",
+      "url": "https://www.bilibili.tv/media/1063023"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T07:25:28.922Z",
+  "cache_version": 1
+}

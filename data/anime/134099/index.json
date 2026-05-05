@@ -1,0 +1,77 @@
+{
+  "ids": {
+    "anilist": 134099,
+    "mal": 55186,
+    "anidb": 18197,
+    "tmdb": 229073,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Shu Tian Fu Mo Lu",
+    "english": "The Guardian Legend",
+    "native": "戍天伏魔录",
+    "synonyms": [
+      "西行默示录1·降世篇",
+      "Xixing Moshi Lu 1: Jianshi Pian",
+      "The Guardian Legend",
+      "一路向西游"
+    ],
+    "tmdb_title": "The Guardian Legend"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 16,
+  "start_date": {
+    "year": 2023,
+    "month": 5,
+    "day": 26
+  },
+  "end_date": {
+    "year": 2023,
+    "month": 9,
+    "day": 15
+  },
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [
+    "Big Firebird Cultural Media",
+    "iQIYI",
+    "Energy Studio"
+  ],
+  "source": "MANGA",
+  "country": "CN",
+  "score_anilist": 50,
+  "popularity": 577,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx134099-6Km3gEVmVoYj.jpg",
+    "poster_color": "#d66b1a",
+    "banner": "https://image.tmdb.org/t/p/original/fvloKrOweCTie1GR3BL67fwX8ei.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/gji1NE7piGwjqgtyNWnySxut7uK.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/fvloKrOweCTie1GR3BL67fwX8ei.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx134099-6Km3gEVmVoYj.jpg"
+  },
+  "streaming": [
+    {
+      "site": "iQIYI",
+      "url": "https://www.iqiyi.com/a_22hp3xy69dl.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T07:26:26.078Z",
+  "cache_version": 1
+}

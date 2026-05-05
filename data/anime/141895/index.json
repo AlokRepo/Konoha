@@ -1,0 +1,85 @@
+{
+  "ids": {
+    "anilist": 141895,
+    "mal": 53919,
+    "anidb": 17885,
+    "tmdb": 139162,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Zhongguo Qitan",
+    "english": null,
+    "native": "中国奇谭",
+    "synonyms": [
+      "Yao-Chinese Folktales",
+      "小妖怪的夏天",
+      "鹅鹅鹅",
+      "林林",
+      "乡村巴士带走了王孩儿和神仙",
+      "小满",
+      "玉兔",
+      "小卖部",
+      "飞鸟与鱼"
+    ],
+    "tmdb_title": "Yao-Chinese Folktales"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 8,
+  "duration": 15,
+  "start_date": {
+    "year": 2023,
+    "month": 1,
+    "day": 1
+  },
+  "end_date": {
+    "year": 2023,
+    "month": 2,
+    "day": 12
+  },
+  "description": "A collection of 8 short movies about Chinese folklore \"monsters\".",
+  "genres": [
+    "Fantasy"
+  ],
+  "tags": [
+    "Anthology",
+    "Mythology"
+  ],
+  "studios": [
+    "Shanghai Animation Film Studio"
+  ],
+  "producers": [
+    "bilibili"
+  ],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "score_anilist": 58,
+  "popularity": 579,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141895-kVq5UIGF65ze.jpg",
+    "poster_color": "#e47843",
+    "banner": "https://image.tmdb.org/t/p/original/lb1I9lDR3uYwbAZgLxHMiriMKUH.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/lyDRtY01krTcs1JP74XL2XxqUb4.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/lb1I9lDR3uYwbAZgLxHMiriMKUH.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141895-kVq5UIGF65ze.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md28235401/"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 120,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T07:25:55.521Z",
+  "cache_version": 1
+}

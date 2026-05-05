@@ -1,0 +1,76 @@
+{
+  "ids": {
+    "anilist": 120203,
+    "mal": 44513,
+    "anidb": 15860,
+    "tmdb": 113035,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Wo Shi Da Shenxian",
+    "english": null,
+    "native": "我是大神仙",
+    "synonyms": [
+      "I Am A Great God"
+    ],
+    "tmdb_title": "I Am a Great God"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 16,
+  "duration": 20,
+  "start_date": {
+    "year": 2020,
+    "month": 11,
+    "day": 12
+  },
+  "end_date": {
+    "year": 2021,
+    "month": 2,
+    "day": 18
+  },
+  "genres": [
+    "Action",
+    "Fantasy"
+  ],
+  "tags": [
+    "Full CGI"
+  ],
+  "studios": [
+    "IDREAM Entertainment"
+  ],
+  "producers": [
+    "Tencent Penguin Pictures",
+    "Tencent Animation & Comics"
+  ],
+  "source": "MANGA",
+  "country": "CN",
+  "score_anilist": 60,
+  "popularity": 587,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120203-i2kkh2joRb3b.jpg",
+    "poster_color": "#e44350",
+    "banner": "https://image.tmdb.org/t/p/original/cZC0KLGz7TxBWYyDJ4d372Q7dZT.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/dp3MsrfSQFFVCDaH3OqHxlgsi9c.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/cZC0KLGz7TxBWYyDJ4d372Q7dZT.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120203-i2kkh2joRb3b.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/m/mzc002009u3yfca.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 95,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T07:25:06.615Z",
+  "cache_version": 1
+}

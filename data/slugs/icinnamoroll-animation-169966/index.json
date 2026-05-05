@@ -1,0 +1,85 @@
+{
+  "ids": {
+    "anilist": 169966,
+    "mal": 56853,
+    "tmdb": 237224,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "I.CINNAMOROLL Animation",
+    "english": "I.CINNAMOROLL Animation",
+    "native": "I.CINNAMOROLL Animation",
+    "synonyms": [
+      "アイシナモロール アニメーション",
+      "I CINNAMOROLL Animation"
+    ],
+    "tmdb_title": "I.CINNAMOROLL Animation"
+  },
+  "format": "ONA",
+  "status": "RELEASING",
+  "season": "FALL",
+  "season_year": 2023,
+  "episodes": 108,
+  "duration": 3,
+  "start_date": {
+    "year": 2023,
+    "month": 10,
+    "day": 5
+  },
+  "end_date": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "genres": [
+    "Slice of Life"
+  ],
+  "tags": [
+    "Animals",
+    "Chibi",
+    "Kids"
+  ],
+  "studios": [
+    "J.C.STAFF"
+  ],
+  "producers": [
+    "TBS",
+    "Dentsu",
+    "Sanrio"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 55,
+  "popularity": 586,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169966-elyLBCoBAJxx.jpg",
+    "poster_color": "#1a6b50",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169966-dysUtZi16eNg.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/y0fj1pYPxAj0Lv9RcrWhga1hmye.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/nOusfoRmiLoCN9RDjA1eE6wx92m.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169966-elyLBCoBAJxx.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLe-UftTUsMbk7fMwURgLZ6_kz71DGssQw"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLN9X97LDR0Xs1gPhS-7ayOFdBBhIN6IKd"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T07:25:15.187Z",
+  "cache_version": 1
+}

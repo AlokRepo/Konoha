@@ -1,0 +1,65 @@
+{
+  "ids": {
+    "anilist": 112453,
+    "mal": 33225,
+    "tmdb": 101358,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Kidou Senshi Gundam-san (ONA)",
+    "english": null,
+    "native": "機動戦士ガンダムさん",
+    "synonyms": [],
+    "tmdb_title": "Mobile Suit Gundam-san"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 15,
+  "duration": 1,
+  "start_date": {
+    "year": 2014,
+    "month": 9,
+    "day": 17
+  },
+  "end_date": {
+    "year": 2014,
+    "month": 12,
+    "day": 24
+  },
+  "description": "Unbroadcast episodes of Kidou Senshi Gundam-san distributed on the smartphone app \"Gundam Channel\".",
+  "genres": [
+    "Comedy",
+    "Mecha"
+  ],
+  "tags": [],
+  "studios": [
+    "Sunrise"
+  ],
+  "producers": [],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 52,
+  "popularity": 595,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b112453-9c6XxLax5wwQ.jpg",
+    "poster_color": "#c9ae43",
+    "banner": "https://image.tmdb.org/t/p/original/zt69hGDZzLm6GBwv45TxIdekSZV.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/w4PFrBj0Yjb3SEc8b5upJBhh1NA.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/zt69hGDZzLm6GBwv45TxIdekSZV.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b112453-9c6XxLax5wwQ.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 80,
+  "match_signals": [
+    "year_match",
+    "episode_close",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T07:23:59.363Z",
+  "cache_version": 1
+}
