@@ -60,7 +60,7 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 72,
-  "popularity": 19541,
+  "popularity": 19561,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1288-5XFOZjW78BbM.png",
@@ -70,7 +70,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/adn3fJ4aGGB2vwS6dNaOLZEg7Fi.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1288-5XFOZjW78BbM.png"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/movies/patlabor-the-mobile-police-the-original-ovas"
+    }
+  ],
   "themes": [],
   "confidence": "MEDIUM",
   "match_score": 100,
@@ -80,6 +85,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T07:15:25.377Z",
+  "cached_at": "2026-05-05T02:49:32.499Z",
   "cache_version": 1
 }

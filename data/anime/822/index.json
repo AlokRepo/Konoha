@@ -4,7 +4,8 @@
     "mal": 822,
     "anidb": 631,
     "tmdb": 256028,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Initial D EXTRA STAGE",
@@ -57,7 +58,7 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 71,
-  "popularity": 16051,
+  "popularity": 16063,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx822-JgdEklwoIOxm.jpg",
@@ -73,6 +74,10 @@
     {
       "site": "Crunchyroll",
       "url": "https://www.crunchyroll.com/initial-d"
+    },
+    {
+      "site": "Shahid",
+      "url": "https://shahid.mbc.net/en/series/Initial-D:-Extra-Stage/series-908439"
     }
   ],
   "themes": [],
@@ -84,8 +89,6 @@
     "episode_exact",
     "format_match"
   ],
-  "cached_at": "2026-05-03T07:42:53.802Z",
-  "cache_version": 1
-}",
+  "cached_at": "2026-05-05T02:52:00.360Z",
   "cache_version": 1
 }
