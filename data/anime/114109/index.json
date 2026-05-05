@@ -1,0 +1,88 @@
+{
+  "ids": {
+    "anilist": 114109,
+    "mal": 41286,
+    "anidb": 15495,
+    "tmdb": 99138,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Dawang Bu Gaoxing",
+    "english": null,
+    "native": "大王不高兴",
+    "synonyms": [
+      "The Furious Yama"
+    ],
+    "tmdb_title": "The Furious Yama"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 12,
+  "duration": 7,
+  "start_date": {
+    "year": 2020,
+    "month": 1,
+    "day": 1
+  },
+  "end_date": {
+    "year": 2020,
+    "month": 3,
+    "day": 11
+  },
+  "description": "The story follows the daily life of Xiao Luo, a young yama (god and judge of the dead) who is scared of ghosts. In order to reign properly in the Underworld, she will try to face her fears.",
+  "genres": [
+    "Comedy",
+    "Fantasy",
+    "Supernatural"
+  ],
+  "tags": [
+    "Demons",
+    "Magic",
+    "Gods"
+  ],
+  "studios": [
+    "Haoliners Animation"
+  ],
+  "producers": [
+    "bilibili"
+  ],
+  "source": "MANGA",
+  "country": "CN",
+  "score_anilist": 56,
+  "popularity": 1844,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114109-IAZ7tdbxIL5g.png",
+    "poster_color": "#5df1f1",
+    "banner": "https://image.tmdb.org/t/p/original/cYaEkdjDFsKvI8iJfNo7Tku83QY.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/nuBVhig9DIVQRswJOz5bZYp3oYI.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/cYaEkdjDFsKvI8iJfNo7Tku83QY.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114109-IAZ7tdbxIL5g.png"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md4314342/"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLBakWosU0sfhwkwlpiCqrbM8NXS0OBwuQ"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLBakWosU0sfh0YfV7s5VcYUbwWab7gGgb"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T06:41:33.092Z",
+  "cache_version": 1
+}
