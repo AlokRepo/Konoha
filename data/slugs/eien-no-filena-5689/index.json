@@ -1,0 +1,80 @@
+{
+  "ids": {
+    "anilist": 5689,
+    "mal": 5689,
+    "anidb": 5943,
+    "tmdb": 116332,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Eien no Filena",
+    "english": null,
+    "native": "永遠のフィレーナ",
+    "synonyms": [
+      "Eternal Filena",
+      "Eien no Filerna",
+      "Filena"
+    ],
+    "tmdb_title": "Eternal Filena"
+  },
+  "format": "OVA",
+  "status": "FINISHED",
+  "episodes": 6,
+  "duration": 30,
+  "start_date": {
+    "year": 1992,
+    "month": 12,
+    "day": 21
+  },
+  "end_date": {
+    "year": 1993,
+    "month": 2,
+    "day": 25
+  },
+  "description": "The story is centered around Filena, a princess who was raised as a boy after her kingdom was conquered.",
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Fantasy"
+  ],
+  "tags": [
+    "Battle Royale",
+    "Crossdressing",
+    "Swordplay",
+    "Female Protagonist",
+    "Slavery",
+    "Anachronism",
+    "Marriage"
+  ],
+  "studios": [
+    "Studio Pierrot"
+  ],
+  "producers": [],
+  "source": "LIGHT_NOVEL",
+  "country": "JP",
+  "score_anilist": 55,
+  "popularity": 1043,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5689.jpg",
+    "poster_color": "#d6e41a",
+    "banner": "https://image.tmdb.org/t/p/original/A3WJUnpoSM1dMjGqVZPRi0B1vag.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/kVgjBRE8T7usfk38GZ7Sewd2aXB.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/A3WJUnpoSM1dMjGqVZPRi0B1vag.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5689.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T04:38:02.140Z",
+  "cache_version": 1
+}
