@@ -1,0 +1,88 @@
+{
+  "ids": {
+    "anilist": 101169,
+    "mal": 36963,
+    "anidb": 14543,
+    "tmdb": 117534,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "IDOLiSH7 Vibrato",
+    "english": "IDOLiSH7 Vibrato",
+    "native": "アイドリッシュセブンVibrato",
+    "synonyms": [],
+    "tmdb_title": "IDOLiSH7 Vibrato"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2018,
+  "episodes": 8,
+  "duration": 14,
+  "start_date": {
+    "year": 2018,
+    "month": 2,
+    "day": 17
+  },
+  "end_date": {
+    "year": 2019,
+    "month": 3,
+    "day": 7
+  },
+  "description": "A spin-off series of the IDOLiSH7 TV series streamed exclusively on YouTube.",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Music",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Ensemble Cast",
+    "Idol",
+    "Primarily Male Cast",
+    "Cute Boys Doing Cute Things",
+    "Time Skip",
+    "Twins",
+    "Dancing",
+    "CGI"
+  ],
+  "studios": [
+    "TROYCA"
+  ],
+  "producers": [
+    "Bandai Visual",
+    "Bandai Namco Online",
+    "Lantis"
+  ],
+  "source": "VIDEO_GAME",
+  "country": "JP",
+  "score_anilist": 78,
+  "popularity": 5161,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101169-t5TB7NleAkKr.jpg",
+    "poster_color": "#e4bb86",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101169-yHNUIrnpbzvt.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/wJ1IVgi5cZeycHvQ45oprpl2hKP.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/w3fC0LPgdHv6NXVLpzWl6S9YeYO.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101169-t5TB7NleAkKr.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLKPsuBIKuejPW5LhKsMO287VuM-p11lPM"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T06:18:33.088Z",
+  "cache_version": 1
+}

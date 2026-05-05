@@ -1,0 +1,78 @@
+{
+  "ids": {
+    "anilist": 132821,
+    "mal": 49202,
+    "anidb": 17135,
+    "tmdb": 197383,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Semantic Error Special",
+    "english": null,
+    "native": "시맨틱 에러 스페셜",
+    "synonyms": [],
+    "tmdb_title": "Semantic Error Special"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 4,
+  "duration": 3,
+  "start_date": {
+    "year": 2021,
+    "month": 3,
+    "day": 12
+  },
+  "end_date": {
+    "year": 2021,
+    "month": 4,
+    "day": 1
+  },
+  "description": "Short ONA animating sweet moments from the novel and a new side story.",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "tags": [
+    "Boys' Love",
+    "Episodic",
+    "Primarily Adult Cast",
+    "Primarily Male Cast",
+    "Male Protagonist",
+    "College"
+  ],
+  "studios": [],
+  "producers": [
+    "Laftel"
+  ],
+  "source": "OTHER",
+  "country": "KR",
+  "score_anilist": 72,
+  "popularity": 5438,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132821-jiU4WyEoy7kh.jpg",
+    "poster_color": "#e4351a",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/132821-ZxPlNDQhrjxC.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/sUbXdq0SLPS06J24g6X2DbkhHD0.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/9CMc04fohngrJRJcIRvr25t17Yp.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132821-jiU4WyEoy7kh.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Laftel",
+      "url": "https://laftel.net/item/40221/"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T06:17:16.479Z",
+  "cache_version": 1
+}

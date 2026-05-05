@@ -1,0 +1,85 @@
+{
+  "ids": {
+    "anilist": 168092,
+    "mal": 56218,
+    "anidb": 18152,
+    "tmdb": 232214,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Houkago no Breath",
+    "english": "Pokémon: Paldean Winds",
+    "native": "放課後のブレス ",
+    "synonyms": [
+      "Pokémon Scarlet & Pokémon Violet Original Web Anime",
+      "Pokémon: Ventos de Paldea"
+    ],
+    "tmdb_title": "Pokémon: Paldean Winds"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 2023,
+  "episodes": 4,
+  "duration": 11,
+  "start_date": {
+    "year": 2023,
+    "month": 9,
+    "day": 6
+  },
+  "end_date": {
+    "year": 2023,
+    "month": 12,
+    "day": 13
+  },
+  "description": "A limited original series based in the Paldea region, the setting of the Pokémon Scarlet and Pokémon Violet games.\n<br><br>\n<i/>Houkago no Breath</i> follows three academy students—Ohara, Aliquis, and Houma—on their journey of growth and learning while attending school.\n<br><br>\n(Source: The Pokémon Company International, edited)",
+  "genres": [
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [
+    "Animals",
+    "School",
+    "Ensemble Cast"
+  ],
+  "studios": [
+    "WIT STUDIO"
+  ],
+  "producers": [],
+  "source": "VIDEO_GAME",
+  "country": "JP",
+  "score_anilist": 70,
+  "popularity": 5175,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168092-PS3WhYgF42p0.png",
+    "poster_color": "#e46b43",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/168092-exo18Qssb1zu.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/80Toc1KomrtYFzy9idOVWGkJ0b9.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/eQ7fWpSrE0xJd5sCgFUEEsr5sB6.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168092-PS3WhYgF42p0.png"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLQWzKIaERirzLZWMu3M89ZEpsDt9YtDBM"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLBE2D9BnJJUow-mIh2KU0FtQBVbY-Lwlu"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T06:18:20.770Z",
+  "cache_version": 1
+}
