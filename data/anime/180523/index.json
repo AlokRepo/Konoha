@@ -4,7 +4,8 @@
     "mal": 59644,
     "anidb": 18831,
     "tmdb": 280042,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Yasei no Last Boss ga Arawareta!",
@@ -69,7 +70,7 @@
   "source": "LIGHT_NOVEL",
   "country": "JP",
   "score_anilist": 74,
-  "popularity": 38576,
+  "popularity": 38745,
   "trending": 2,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180523-FjvW1XByUNMK.jpg",
@@ -87,6 +88,10 @@
     {
       "site": "YouTube",
       "url": "https://www.youtube.com/playlist?list=PLbuF5Onrcu9fs9Jo_IR9nZ7WrulQuDup-"
+    },
+    {
+      "site": "CatchPlay",
+      "url": "https://www.catchplay.com/"
     }
   ],
   "themes": [],
@@ -99,6 +104,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T05:41:48.508Z",
+  "cached_at": "2026-05-05T05:49:39.412Z",
   "cache_version": 1
 }

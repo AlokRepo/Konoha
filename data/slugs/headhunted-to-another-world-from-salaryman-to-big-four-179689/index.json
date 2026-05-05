@@ -4,7 +4,8 @@
     "mal": 59349,
     "anidb": 18768,
     "tmdb": 259559,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi",
@@ -70,7 +71,7 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 65,
-  "popularity": 40866,
+  "popularity": 40984,
   "trending": 2,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179689-kmlqdU3IbxeM.jpg",
@@ -92,6 +93,26 @@
     {
       "site": "Bilibili TV",
       "url": "https://www.bilibili.tv/en/media/2122339"
+    },
+    {
+      "site": "Ani-One Asia",
+      "url": "https://www.youtube.com/channel/UC0wNSTMWIL3qaorLx0jie6A"
+    },
+    {
+      "site": "Aniplus TV",
+      "url": "http://www.aniplustv.com/"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "site": "Bilibili Global",
+      "url": "https://www.bilibili.tv/en/index"
+    },
+    {
+      "site": "Laftel",
+      "url": "https://laftel.net/"
     }
   ],
   "themes": [],
@@ -104,6 +125,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T05:35:17.618Z",
+  "cached_at": "2026-05-05T05:49:14.963Z",
   "cache_version": 1
 }
