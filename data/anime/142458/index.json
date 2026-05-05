@@ -1,0 +1,64 @@
+{
+  "ids": {
+    "anilist": 142458,
+    "mal": 55104,
+    "tmdb": 224884,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "SOS! Chao Wei Zhichang Ren",
+    "english": null,
+    "native": "SOS！超危职场人",
+    "synonyms": [],
+    "tmdb_title": "SOS! Chao Wei Zhichang Ren"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 7,
+  "start_date": {
+    "year": 2021,
+    "month": 12,
+    "day": 10
+  },
+  "end_date": {
+    "year": 2021,
+    "month": 12,
+    "day": 31
+  },
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [
+    "Sheng Guang Qishi Tuan"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 42,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142458-0stZqbigVPtN.jpg",
+    "poster_color": "#e48650",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/ecs3TP4JjW0FHwlVl6AuJXQqOUi.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142458-0stZqbigVPtN.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md28235834/"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T09:11:15.184Z",
+  "cache_version": 1
+}

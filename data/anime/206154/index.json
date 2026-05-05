@@ -1,0 +1,71 @@
+{
+  "ids": {
+    "anilist": 206154,
+    "mal": 62526,
+    "anidb": 19653,
+    "tmdb": 301606,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Qiyun Dantian: Kaiju Qiandao Zhizun Dantian",
+    "english": null,
+    "native": "启运丹田：开局签到至尊丹田",
+    "synonyms": [
+      "The Supreme Dantian"
+    ],
+    "tmdb_title": "The Supreme Dantian"
+  },
+  "format": "ONA",
+  "status": "RELEASING",
+  "episodes": 60,
+  "duration": 9,
+  "start_date": {
+    "year": 2025,
+    "month": 10,
+    "day": 4
+  },
+  "end_date": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [
+    "iQIYI"
+  ],
+  "source": "MANGA",
+  "country": "CN",
+  "popularity": 43,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206154-6pJv6KrFs4i3.jpg",
+    "poster_color": "#e4bb43",
+    "banner": "https://image.tmdb.org/t/p/original/8uF5wX9KEqNkZMxrfJp1m9Z8o3Z.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/mUuYE6OH98JcqtCVTmsuSo3badJ.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/8uF5wX9KEqNkZMxrfJp1m9Z8o3Z.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206154-6pJv6KrFs4i3.jpg"
+  },
+  "streaming": [
+    {
+      "site": "iQIYI",
+      "url": "https://www.iqiyi.com/v_jffq15wwxs.html?vfrm=pcw_album_auto"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T09:10:59.332Z",
+  "cache_version": 1
+}
