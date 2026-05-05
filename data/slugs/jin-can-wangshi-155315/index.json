@@ -1,0 +1,76 @@
+{
+  "ids": {
+    "anilist": 155315,
+    "mal": 59084,
+    "anidb": 18679,
+    "tmdb": 256526,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Jin Can Wangshi",
+    "english": null,
+    "native": "金蚕往事",
+    "synonyms": [
+      "The Golden Wug"
+    ],
+    "tmdb_title": "The Golden Wug"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 24,
+  "duration": 18,
+  "start_date": {
+    "year": 2024,
+    "month": 6,
+    "day": 10
+  },
+  "end_date": {
+    "year": 2024,
+    "month": 11,
+    "day": 11
+  },
+  "genres": [
+    "Action",
+    "Adventure",
+    "Mystery",
+    "Supernatural"
+  ],
+  "tags": [],
+  "studios": [
+    "Xiron Animation"
+  ],
+  "producers": [
+    "Yofox Culture",
+    "Youku"
+  ],
+  "source": "OTHER",
+  "country": "CN",
+  "popularity": 190,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155315-ok2f4vFZ033C.png",
+    "poster_color": "#e4d65d",
+    "banner": "https://image.tmdb.org/t/p/original/ax6unGj6bcI9GDo4eFz0Wac9MnO.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/qDcZQxdDJwYF0V8JE0CZcOAmtoH.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/ax6unGj6bcI9GDo4eFz0Wac9MnO.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155315-ok2f4vFZ033C.png"
+  },
+  "streaming": [
+    {
+      "site": "Youku",
+      "url": "https://list.youku.com/show/id_efbfc77401a94c96a19e"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T08:24:28.911Z",
+  "cache_version": 1
+}

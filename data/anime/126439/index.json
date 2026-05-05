@@ -1,0 +1,79 @@
+{
+  "ids": {
+    "anilist": 126439,
+    "mal": 51558,
+    "anidb": 17598,
+    "tmdb": 208703,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Shan Hai Juelun",
+    "english": "Fairy Mountain",
+    "native": "山海绝伦",
+    "synonyms": [
+      "仙山缭乱之山海绝伦",
+      "Shan Hai Juelun: Xian Shan Liaoluan"
+    ],
+    "tmdb_title": "Fairy Mountain"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 17,
+  "duration": 18,
+  "start_date": {
+    "year": 2022,
+    "month": 8,
+    "day": 23
+  },
+  "end_date": {
+    "year": 2022,
+    "month": 12,
+    "day": 6
+  },
+  "genres": [
+    "Action",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "KIO STUDIO"
+  ],
+  "producers": [
+    "bilibili"
+  ],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 184,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126439-nTeadaJACObX.jpg",
+    "poster_color": "#e4bb50",
+    "banner": "https://image.tmdb.org/t/p/original/fMtk4lHIc6HHCHYjT2F0TudsimN.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/pgsjopbPk3Ps8lfcm4jOfcg28f2.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/fMtk4lHIc6HHCHYjT2F0TudsimN.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126439-nTeadaJACObX.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md28230747/"
+    },
+    {
+      "site": "Bilibili TV",
+      "url": "https://www.bilibili.tv/media/1064017"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T08:25:45.265Z",
+  "cache_version": 1
+}

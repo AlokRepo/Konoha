@@ -1,0 +1,64 @@
+{
+  "ids": {
+    "anilist": 130930,
+    "tmdb": 291045,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Shanliang de Adai",
+    "english": null,
+    "native": "善良的阿呆",
+    "synonyms": [],
+    "tmdb_title": "善良的阿呆  动态漫"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 42,
+  "duration": 8,
+  "start_date": {
+    "year": 2021,
+    "month": 1,
+    "day": 1
+  },
+  "end_date": {
+    "year": 2021,
+    "month": 6,
+    "day": 11
+  },
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "OTHER",
+  "country": "CN",
+  "popularity": 187,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130930-i9A3FqZ5ti5t.png",
+    "poster_color": "#ff9335",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/7zynj5lToPNSKq4DOHmgNo5HsnR.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130930-i9A3FqZ5ti5t.png"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/m/mzc0020000wsq2m.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 125,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T08:25:05.234Z",
+  "cache_version": 1
+}

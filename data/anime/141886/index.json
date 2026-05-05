@@ -1,0 +1,71 @@
+{
+  "ids": {
+    "anilist": 141886,
+    "tmdb": 139176,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Jifeng Jingsu",
+    "english": null,
+    "native": "疾风竞速",
+    "synonyms": [],
+    "tmdb_title": "疾风竞速"
+  },
+  "format": "ONA",
+  "status": "NOT_YET_RELEASED",
+  "episodes": 1,
+  "start_date": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "genres": [
+    "Action",
+    "Sports"
+  ],
+  "tags": [
+    "Cars"
+  ],
+  "studios": [
+    "Studio Mindo",
+    "APEX VISION"
+  ],
+  "producers": [
+    "bilibili",
+    "Shi Meng Mao"
+  ],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 189,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141886-LP1HywSy21fJ.png",
+    "poster_color": "#e4a15d",
+    "banner": "https://image.tmdb.org/t/p/original/4zjlmgdAu2Gju8xsu1U13uGUcDC.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/6ZrTmulKOU5J0wsAAVPOSIkDBeN.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/4zjlmgdAu2Gju8xsu1U13uGUcDC.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141886-LP1HywSy21fJ.png"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md28235394/"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T08:24:33.649Z",
+  "cache_version": 1
+}

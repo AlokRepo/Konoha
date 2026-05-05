@@ -1,0 +1,71 @@
+{
+  "ids": {
+    "anilist": 185728,
+    "mal": 60137,
+    "anidb": 18948,
+    "tmdb": 275377,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Tudi Ge Ge Shi Da Lao",
+    "english": null,
+    "native": "徒弟个个是大佬",
+    "synonyms": [
+      "Over Goddess"
+    ],
+    "tmdb_title": "Over Goddess"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 40,
+  "duration": 12,
+  "start_date": {
+    "year": 2024,
+    "month": 10,
+    "day": 28
+  },
+  "end_date": {
+    "year": 2025,
+    "month": 3,
+    "day": 5
+  },
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "score_mal": 6.95,
+  "popularity": 185,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185728-mV6b0I391rQe.jpg",
+    "poster_color": "#1a93d6",
+    "banner": "https://image.tmdb.org/t/p/original/cgHVFA5Pu10c3pVzdd1xiBMRGo1.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/wBcyOduoPnuupJhnPH3mU9XsOCq.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/cgHVFA5Pu10c3pVzdd1xiBMRGo1.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185728-mV6b0I391rQe.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Youku",
+      "url": "https://v.youku.com/v_show/id_XNjQzNzc0ODYzMg==.html?s=affb559b5bad4ab2a5aa&spm=a2hje.13141534.1_5.d_1_2&scm=20140719.apircmd.239065.video_XNjQzNzc0ODYzMg=="
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T08:25:35.452Z",
+  "cache_version": 1
+}

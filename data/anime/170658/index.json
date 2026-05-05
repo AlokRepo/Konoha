@@ -1,0 +1,77 @@
+{
+  "ids": {
+    "anilist": 170658,
+    "mal": 56771,
+    "tmdb": 243844,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Waluolan Xiao Zhen",
+    "english": null,
+    "native": "瓦洛兰小镇",
+    "synonyms": [
+      "Valoran Town"
+    ],
+    "tmdb_title": "Valoran Town"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 12,
+  "duration": 4,
+  "start_date": {
+    "year": 2023,
+    "month": 9,
+    "day": 28
+  },
+  "end_date": {
+    "year": 2023,
+    "month": 10,
+    "day": 8
+  },
+  "genres": [
+    "Comedy",
+    "Fantasy",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Female Protagonist",
+    "Primarily Female Cast",
+    "Super Power",
+    "Urban Fantasy",
+    "Magic"
+  ],
+  "studios": [
+    "FENZ"
+  ],
+  "producers": [],
+  "source": "VIDEO_GAME",
+  "country": "CN",
+  "score_anilist": 54,
+  "popularity": 190,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170658-l8DJGSXMrUuU.jpg",
+    "poster_color": "#e4ae35",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/qEdUwMloqhej1HM2zDt10EOApUK.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170658-l8DJGSXMrUuU.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/x/cover/mzc00200f36vmpy/x0047mdla5c.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T08:24:04.828Z",
+  "cache_version": 1
+}
