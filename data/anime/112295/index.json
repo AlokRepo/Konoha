@@ -1,0 +1,68 @@
+{
+  "ids": {
+    "anilist": 112295,
+    "tmdb": 284494,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Zhe Shijie You Shou",
+    "english": null,
+    "native": "这世界有兽",
+    "synonyms": [
+      "Beast Haunting"
+    ],
+    "tmdb_title": "Beast Haunting"
+  },
+  "format": "ONA",
+  "status": "NOT_YET_RELEASED",
+  "episodes": 18,
+  "duration": 15,
+  "start_date": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "tags": [],
+  "studios": [
+    "BigBigSun"
+  ],
+  "producers": [],
+  "source": "OTHER",
+  "country": "CN",
+  "popularity": 233,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112295-99c4nhRzCjSe.jpg",
+    "poster_color": "#a128f1",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/112295-J7zfXyz50QGh.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112295-99c4nhRzCjSe.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://space.bilibili.com/153817852"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 95,
+  "match_signals": [
+    "exact_title",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T08:12:32.711Z",
+  "cache_version": 1
+}

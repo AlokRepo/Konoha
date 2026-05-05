@@ -1,0 +1,73 @@
+{
+  "ids": {
+    "anilist": 166221,
+    "mal": 55015,
+    "anidb": 18413,
+    "tmdb": 225733,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Qing Lian Jian Xian Zhuan",
+    "english": null,
+    "native": "青莲剑仙传",
+    "synonyms": [
+      "Legend of Lotus Sword Fairy"
+    ],
+    "tmdb_title": "Legend of Lotus Sword Fairy"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 54,
+  "duration": 10,
+  "start_date": {
+    "year": 2023,
+    "month": 4,
+    "day": 23
+  },
+  "end_date": {
+    "year": 2023,
+    "month": 10,
+    "day": 12
+  },
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Ruo Hong Culture"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "score_mal": 6.57,
+  "popularity": 236,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166221-xMRNvZTiX6Bb.jpg",
+    "poster_color": "#e48635",
+    "banner": "https://image.tmdb.org/t/p/original/pZwKygR9E474vEIQR4LVKrOy9Bp.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/e5joqR267BHG0V2TluaJOEssvdT.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/pZwKygR9E474vEIQR4LVKrOy9Bp.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166221-xMRNvZTiX6Bb.jpg"
+  },
+  "streaming": [
+    {
+      "site": "iQIYI",
+      "url": "https://www.iqiyi.com/a_ld3g2ahc5h.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T08:12:05.995Z",
+  "cache_version": 1
+}

@@ -1,0 +1,73 @@
+{
+  "ids": {
+    "anilist": 151511,
+    "mal": 52221,
+    "anidb": 18682,
+    "tmdb": 205939,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Xianwu Cangqiong",
+    "english": "Xianwu Heaven",
+    "native": "仙武苍穹",
+    "synonyms": [],
+    "tmdb_title": "Xianwu Heaven"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 48,
+  "duration": 8,
+  "start_date": {
+    "year": 2022,
+    "month": 7,
+    "day": 3
+  },
+  "end_date": {
+    "year": 2022,
+    "month": 11,
+    "day": 20
+  },
+  "genres": [
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Ruo Hong Culture"
+  ],
+  "producers": [
+    "iQIYI"
+  ],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "score_anilist": 52,
+  "popularity": 229,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b151511-3qJ4DBqpal0H.png",
+    "poster_color": "#5daee4",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/zcIyfl7w6hvnP60tTJrHM41Fj4p.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b151511-3qJ4DBqpal0H.png"
+  },
+  "streaming": [
+    {
+      "site": "iQIYI",
+      "url": "https://www.iqiyi.com/a_226h3g03ye9.html"
+    },
+    {
+      "site": "iQ",
+      "url": "https://www.iq.com/album/226h3g03ye9"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T08:13:57.121Z",
+  "cache_version": 1
+}

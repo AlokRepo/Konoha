@@ -1,0 +1,77 @@
+{
+  "ids": {
+    "anilist": 141917,
+    "mal": 59977,
+    "anidb": 18905,
+    "tmdb": 272930,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Hu x He Yao Shi Lu",
+    "english": null,
+    "native": "虎x鹤 妖师录",
+    "synonyms": [
+      "Tiger x Crane Record of the Demon Master"
+    ],
+    "tmdb_title": "Tiger Crane"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 24,
+  "duration": 15,
+  "start_date": {
+    "year": 2024,
+    "month": 10,
+    "day": 5
+  },
+  "end_date": {
+    "year": 2025,
+    "month": 3,
+    "day": 8
+  },
+  "description": "Ghosts and demons, mystical demon arts, rare treasures. A fantasy world where demons are tamed and tradition is protected.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Supernatural"
+  ],
+  "tags": [],
+  "studios": [
+    "Motion Magic"
+  ],
+  "producers": [
+    "bilibili"
+  ],
+  "source": "MANGA",
+  "country": "CN",
+  "score_mal": 7.24,
+  "popularity": 230,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b141917-ZgKG6xguurtP.png",
+    "poster_color": "#e44328",
+    "banner": "https://image.tmdb.org/t/p/original/lWPhvPlwRrGkpmpEi60x1grDcT.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/gZqpg3wDqFgt7NYMC9DrTjmTFtA.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/lWPhvPlwRrGkpmpEi60x1grDcT.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b141917-ZgKG6xguurtP.png"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md21082052"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 100,
+  "match_signals": [
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T08:13:43.808Z",
+  "cache_version": 1
+}

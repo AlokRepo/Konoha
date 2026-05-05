@@ -1,0 +1,76 @@
+{
+  "ids": {
+    "anilist": 168240,
+    "mal": 58493,
+    "anidb": 18585,
+    "tmdb": 250827,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "San Xiu Zhi Wang",
+    "english": null,
+    "native": "散修之王",
+    "synonyms": [
+      "The King of Wandering Cultivators"
+    ],
+    "tmdb_title": "The King of Wandering Cultivators"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 52,
+  "duration": 10,
+  "start_date": {
+    "year": 2024,
+    "month": 4,
+    "day": 1
+  },
+  "end_date": {
+    "year": 2025,
+    "month": 2,
+    "day": 3
+  },
+  "genres": [
+    "Action",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Xing Yi Kai Chen",
+    "KUAIYING"
+  ],
+  "producers": [
+    "Tencent Penguin Pictures"
+  ],
+  "source": "OTHER",
+  "country": "CN",
+  "score_mal": 6.65,
+  "popularity": 236,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168240-tfl4b3BAwny9.png",
+    "poster_color": "#e4a143",
+    "banner": "https://image.tmdb.org/t/p/original/pSFynq6PqKT3pEITdlJunYqAjV9.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/mmBqXcWkVwzBURGxfs68QJ738zg.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/pSFynq6PqKT3pEITdlJunYqAjV9.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168240-tfl4b3BAwny9.png"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/x/cover/mzc002005w509ht.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T08:11:52.486Z",
+  "cache_version": 1
+}
