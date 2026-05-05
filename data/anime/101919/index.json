@@ -1,0 +1,84 @@
+{
+  "ids": {
+    "anilist": 101919,
+    "mal": 37564,
+    "anidb": 14029,
+    "tmdb": 79486,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Wo De Nitian Shenqi",
+    "english": null,
+    "native": "我的逆天神器",
+    "synonyms": [
+      "My Holy Weapon"
+    ],
+    "tmdb_title": "My Holy Weapon"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 16,
+  "duration": 17,
+  "start_date": {
+    "year": 2018,
+    "month": 4,
+    "day": 26
+  },
+  "end_date": {
+    "year": 2018,
+    "month": 8,
+    "day": 9
+  },
+  "description": "One day, while being attacked, Chang Tian unintentionally invokes an artifact called Xiao Bai that protects him from a terrible fate. After this, he finds himself on a battlefield, where he will fight alongside several other people like him, able to invoke artifacts...",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Romance",
+    "Supernatural"
+  ],
+  "tags": [],
+  "studios": [
+    "Haoliners Animation",
+    "Pb Animation"
+  ],
+  "producers": [
+    "Tencent Animation & Comics"
+  ],
+  "source": "MANGA",
+  "country": "CN",
+  "score_anilist": 59,
+  "popularity": 3667,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101919-SttrqYcaXYGQ.jpg",
+    "poster_color": "#1a93d6",
+    "banner": "https://image.tmdb.org/t/p/original/uAkWMTEi2DFvljB9JhZqjVvVtvZ.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/7YC6dOklfC2e8ixr2XkdoXaWXsQ.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/uAkWMTEi2DFvljB9JhZqjVvVtvZ.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101919-SttrqYcaXYGQ.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md78032"
+    },
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/f/fqtckz7db8g3rtp.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T06:24:44.227Z",
+  "cache_version": 1
+}

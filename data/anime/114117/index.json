@@ -1,0 +1,91 @@
+{
+  "ids": {
+    "anilist": 114117,
+    "mal": 41223,
+    "anidb": 15786,
+    "tmdb": 112416,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Shi Yi Chang'an: Mingyue Ji Shi You",
+    "english": "Memory of Chang'an",
+    "native": "拾忆长安·明月几时有",
+    "synonyms": [
+      "Prince, Don't Do This!",
+      "The Love By Hypnotic",
+      "Shi Yi Chang'an: Ming Yue Ji Shi You"
+    ],
+    "tmdb_title": "Memory of Chang'an"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 12,
+  "duration": 16,
+  "start_date": {
+    "year": 2020,
+    "month": 10,
+    "day": 28
+  },
+  "end_date": {
+    "year": 2021,
+    "month": 1,
+    "day": 6
+  },
+  "description": "Princess Mingyue and Li Qiang, the emperor's ninth prince, are forced to marry in order to keep the peace in their kingdoms. As the princess finally seems to be getting used to her new life in Chang'an (an ancient Chinese capital), there are plots hovering against her and the royal family.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "tags": [
+    "Historical",
+    "Politics",
+    "Swordplay"
+  ],
+  "studios": [
+    "Lingsanwu Animation"
+  ],
+  "producers": [
+    "bilibili",
+    "Tencent Animation & Comics",
+    "Comic Studio"
+  ],
+  "source": "MANGA",
+  "country": "CN",
+  "score_anilist": 67,
+  "popularity": 3697,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114117-B5kJyQUnW5iO.png",
+    "poster_color": "#e4c9f1",
+    "banner": "https://image.tmdb.org/t/p/original/4CGUlBmUpFjmOYePTBeSQP5WA3y.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/rM6Sn4sqVMlRtpkrEAuk9E4i7zu.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/4CGUlBmUpFjmOYePTBeSQP5WA3y.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114117-B5kJyQUnW5iO.png"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md28223058"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLBakWosU0sfhh64QoHmfkhdpJA_A03fSi"
+    },
+    {
+      "site": "Amazon Prime Video",
+      "url": "https://www.amazon.com/dp/B08RHGGFJZ"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 120,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T06:24:24.014Z",
+  "cache_version": 1
+}

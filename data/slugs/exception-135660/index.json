@@ -1,0 +1,98 @@
+{
+  "ids": {
+    "anilist": 135660,
+    "mal": 49163,
+    "anidb": 16377,
+    "tmdb": 127325,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "exception",
+    "english": "exception",
+    "native": "exception",
+    "synonyms": [
+      "エクセプション",
+      "الاستثناء",
+      "Excepción",
+      "Wyjątek"
+    ],
+    "tmdb_title": "exception"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2022,
+  "episodes": 8,
+  "duration": 29,
+  "start_date": {
+    "year": 2022,
+    "month": 10,
+    "day": 13
+  },
+  "end_date": {
+    "year": 2022,
+    "month": 10,
+    "day": 13
+  },
+  "description": "In the distant future, human beings have been forced to leave earth and migrate to another galaxy. An advanced team of spacecraft arrives at a planet that is to be terraformed. Each member of the team is output by a biological 3D printer. <br>\n<br>\n(Source: Netflix)",
+  "genres": [
+    "Horror",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "tags": [
+    "Philosophy",
+    "Travel",
+    "Clone",
+    "Body Horror",
+    "Space",
+    "CGI",
+    "Environmental",
+    "Full CGI",
+    "Cosmic Horror",
+    "Ensemble Cast",
+    "Primarily Adult Cast",
+    "Female Protagonist",
+    "Male Protagonist"
+  ],
+  "studios": [
+    "Tatsunoko Production",
+    "5 Inc.",
+    "BAKKEN RECORD"
+  ],
+  "producers": [
+    "Netflix"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 57,
+  "popularity": 3924,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx135660-tpZ1LUb1dIe9.png",
+    "poster_color": "#e40d0d",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/135660-zl7QDlvagiJh.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/5NnrjWKuHnsgKZMAdXeBOLq6CbW.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/4sMLQ0EdAthgggrg8Rvy1drd4jn.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx135660-tpZ1LUb1dIe9.png"
+  },
+  "streaming": [
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/exception"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T06:23:28.758Z",
+  "cache_version": 1
+}
