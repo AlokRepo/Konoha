@@ -1,0 +1,91 @@
+{
+  "ids": {
+    "anilist": 205905,
+    "mal": 62340,
+    "anidb": 19835,
+    "tmdb": 281233,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Guangyin Zhi Wai",
+    "english": "Beyond Time's Gaze",
+    "native": "光阴之外",
+    "synonyms": [
+      "เหนือกาลเวลา",
+      "Más allá de la Mirada del Tiempo",
+      "Beyond the Timescape"
+    ],
+    "tmdb_title": "Beyond Time's Gaze"
+  },
+  "format": "ONA",
+  "status": "RELEASING",
+  "episodes": 26,
+  "start_date": {
+    "year": 2025,
+    "month": 12,
+    "day": 28
+  },
+  "end_date": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "next_airing": {
+    "episode": 20,
+    "at": "2026-05-10T02:00:00.000Z"
+  },
+  "description": "The world was a temporary dwelling for all beings, and time flowed like passing travelers. Where the shattered sky opened its eerie eye, life perished and zones became forbidden. In the apocalypse, consequences followed, and life arose from death.\n<br><br>\n(Source: Youku)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Pure Arts",
+    "Passion Paint Animation"
+  ],
+  "producers": [
+    "Youku"
+  ],
+  "source": "OTHER",
+  "country": "CN",
+  "score_anilist": 65,
+  "popularity": 458,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205905-lbDVh7foIfjt.jpg",
+    "poster_color": "#50a1e4",
+    "banner": "https://image.tmdb.org/t/p/original/4p0eH4F2jGnN5N4CwiIQeWTkaOR.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/vF5RXqbpLTPHwwJWywxx5nZ6nTs.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/4p0eH4F2jGnN5N4CwiIQeWTkaOR.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205905-lbDVh7foIfjt.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Youku TV",
+      "url": "https://www.youku.tv/v/v_show/id_XNjUxNTYwOTM4NA==.html"
+    },
+    {
+      "site": "Youku",
+      "url": "https://v.youku.com/v_show/id_XNjUxNjI2NTI4NA==.html"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLOUUm4xsoaeAB3tKBtGbv2WL7RoPv7mur"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T07:35:51.961Z",
+  "cache_version": 1
+}

@@ -1,0 +1,77 @@
+{
+  "ids": {
+    "anilist": 102002,
+    "mal": 37643,
+    "anidb": 13802,
+    "tmdb": 84516,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Xiong Bing Lian",
+    "english": null,
+    "native": "雄兵连",
+    "synonyms": [
+      "Transcend the Gods: The Black Troop",
+      " 超神学院之雄兵连",
+      "Chao Shen Xueyuan: Xiong Bing Lian"
+    ],
+    "tmdb_title": "Transcend the Gods: The Black Troop"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 33,
+  "duration": 15,
+  "start_date": {
+    "year": 2017,
+    "month": 6,
+    "day": 1
+  },
+  "end_date": {
+    "year": 2018,
+    "month": 4,
+    "day": 19
+  },
+  "genres": [
+    "Action",
+    "Mecha",
+    "Mystery",
+    "Sci-Fi",
+    "Supernatural"
+  ],
+  "tags": [],
+  "studios": [
+    "Transcendence Picture"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "score_anilist": 51,
+  "popularity": 468,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102002-ENmjaDNVrFkA.jpg",
+    "poster_color": "#78aed6",
+    "banner": "https://image.tmdb.org/t/p/original/yyquRGE6ED5wDnaEM0BwfAbJYfa.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/mrUkL98MqX54YrJ6GxBtalAvRel.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/yyquRGE6ED5wDnaEM0BwfAbJYfa.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102002-ENmjaDNVrFkA.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/p/p0pcfbdk318ry3m.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 120,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T07:34:36.789Z",
+  "cache_version": 1
+}

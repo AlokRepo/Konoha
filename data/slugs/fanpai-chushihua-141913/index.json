@@ -1,0 +1,85 @@
+{
+  "ids": {
+    "anilist": 141913,
+    "mal": 58476,
+    "anidb": 18594,
+    "tmdb": 250391,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Fanpai Chushihua",
+    "english": null,
+    "native": "反派初始化",
+    "synonyms": [
+      "Villain Initialization",
+      "The Reversal"
+    ],
+    "tmdb_title": "Villain Initialization"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 16,
+  "duration": 17,
+  "start_date": {
+    "year": 2024,
+    "month": 4,
+    "day": 16
+  },
+  "end_date": {
+    "year": 2024,
+    "month": 7,
+    "day": 16
+  },
+  "description": "The villain Ling Chen has a history of hate and violence with the hero, Ye Zimu. Out of nowhere, a reset triggered Ling Chen to return to when he was 17 years old! He has a chance to stop the hero in his path, before Ye Zimu grows to become his worst enemy...\n<br><br>\n(Source: Bilibili Comics)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+  ],
+  "tags": [
+    "Time Manipulation"
+  ],
+  "studios": [
+    "CHOSEN"
+  ],
+  "producers": [
+    "bilibili"
+  ],
+  "source": "MANGA",
+  "country": "CN",
+  "score_anilist": 58,
+  "popularity": 462,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141913-pLkhRAMBr9zU.jpg",
+    "poster_color": "#9350e4",
+    "banner": "https://image.tmdb.org/t/p/original/d4qKTfnczTA3yCp4zntbys2HUe8.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/6uXmuow9Qj5XZFPi9ZrvoBITo4q.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/d4qKTfnczTA3yCp4zntbys2HUe8.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141913-pLkhRAMBr9zU.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md28339922/"
+    },
+    {
+      "site": "Bilibili TV",
+      "url": "https://www.bilibili.tv/th/play/2105512?bstar_from=bstar-web.category-anime.0.0"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T07:35:40.742Z",
+  "cache_version": 1
+}

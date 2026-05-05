@@ -1,0 +1,80 @@
+{
+  "ids": {
+    "anilist": 156086,
+    "mal": 59179,
+    "anidb": 18813,
+    "tmdb": 260840,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Guai Xiang Shou",
+    "english": "Whimsical Wish",
+    "native": "怪想售",
+    "synonyms": [
+      "แมวพิศวงคนอลเวง",
+      "Toko Siluman Pengabul Keinginan",
+      "Quái Tưởng Thụ"
+    ],
+    "tmdb_title": "Whimsical Wish"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 8,
+  "duration": 12,
+  "start_date": {
+    "year": 2024,
+    "month": 8,
+    "day": 5
+  },
+  "end_date": {
+    "year": 2024,
+    "month": 9,
+    "day": 16
+  },
+  "description": "College graduate Yueran is unexpectedly brought into the fantasy world of Dongji State by a cat and temporarily stays at the shop run by the cat Yaya—Weird Idea Shop.\nWhat kind of completely different strange effects will a human trigger?",
+  "genres": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [
+    "Smart Dragon",
+    "bilibili"
+  ],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "score_anilist": 51,
+  "popularity": 482,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156086-V2mkmY4gSUAE.png",
+    "poster_color": "#d6a150",
+    "banner": "https://image.tmdb.org/t/p/original/lAb89J8nMtTDo7i0PqaL0berkfn.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/g36M9ags04P7eNm9lx31x7oKBeO.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/lAb89J8nMtTDo7i0PqaL0berkfn.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156086-V2mkmY4gSUAE.png"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md28339948/"
+    },
+    {
+      "site": "Bilibili TV",
+      "url": "https://www.bilibili.tv/en/media/2110510"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T07:33:34.031Z",
+  "cache_version": 1
+}

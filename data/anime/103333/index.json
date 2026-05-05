@@ -1,0 +1,68 @@
+{
+  "ids": {
+    "anilist": 103333,
+    "mal": 37620,
+    "anidb": 13808,
+    "tmdb": 240061,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "CMFU Xueyuan: Shenshi Ji Jijian",
+    "english": null,
+    "native": "CMFU学院：绅士击击剑",
+    "synonyms": [
+      "CMFU Academy: Gentlemen Fencing"
+    ],
+    "tmdb_title": "CMFU学院-绅士击击剑"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 24,
+  "duration": 12,
+  "start_date": {
+    "year": 2017,
+    "month": 11,
+    "day": 21
+  },
+  "end_date": {
+    "year": 2018,
+    "month": 5,
+    "day": 2
+  },
+  "genres": [
+    "Romance",
+    "Sports"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "OTHER",
+  "country": "CN",
+  "score_anilist": 44,
+  "popularity": 479,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103333-zq1uR28nk6ux.jpg",
+    "poster_color": "#4393ff",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/pWcD6hQWfr8GFjcuGhJwusO6iO5.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103333-zq1uR28nk6ux.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/s/s7exllmk1tmcxfm.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T07:33:45.129Z",
+  "cache_version": 1
+}
