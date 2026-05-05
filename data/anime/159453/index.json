@@ -1,0 +1,75 @@
+{
+  "ids": {
+    "anilist": 159453,
+    "mal": 54021,
+    "anidb": 19281,
+    "tmdb": 217149,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Fangyu Quan Kai",
+    "english": null,
+    "native": "防御全开",
+    "synonyms": [
+      " Defense fully open"
+    ],
+    "tmdb_title": "Defense Fully Open"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 60,
+  "start_date": {
+    "year": 2022,
+    "month": 12,
+    "day": 28
+  },
+  "end_date": {
+    "year": 2023,
+    "month": 7,
+    "day": 12
+  },
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [
+    "Full CGI"
+  ],
+  "studios": [
+    "Soyep"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "score_mal": 6.32,
+  "popularity": 205,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159453-bbwQuWXkn25l.png",
+    "poster_color": "#937828",
+    "banner": "https://image.tmdb.org/t/p/original/xgGQorFzWPC2rmbfkT3crYRaEBs.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/b2Y47mmeMhm94g5f8HCdTTW7OtN.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/xgGQorFzWPC2rmbfkT3crYRaEBs.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159453-bbwQuWXkn25l.png"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/x/cover/mzc00200pxnd76x/z0045nlfif0.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T08:19:42.457Z",
+  "cache_version": 1
+}

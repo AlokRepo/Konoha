@@ -1,0 +1,78 @@
+{
+  "ids": {
+    "anilist": 110404,
+    "mal": 39754,
+    "anidb": 13660,
+    "tmdb": 101879,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Di Ling Qu",
+    "english": null,
+    "native": "地灵曲",
+    "synonyms": [
+      "Earthly Song",
+      "The Immortal Legend"
+    ],
+    "tmdb_title": "The Immortal Legend"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 18,
+  "duration": 17,
+  "start_date": {
+    "year": 2017,
+    "month": 9,
+    "day": 19
+  },
+  "end_date": {
+    "year": 2018,
+    "month": 1,
+    "day": 29
+  },
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Mystery",
+    "Thriller"
+  ],
+  "tags": [],
+  "studios": [
+    "Zhuo Hua Network"
+  ],
+  "producers": [
+    "Tencent Penguin Pictures"
+  ],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "score_anilist": 44,
+  "popularity": 206,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b110404-NDqjtDxd6V3Y.jpg",
+    "poster_color": "#ffd6bb",
+    "banner": "https://image.tmdb.org/t/p/original/uyG8nF7Uh2rBCmfCdNevbmZWXqZ.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/h3IwPHbmXimnv7d5d0ZfM1erhZi.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/uyG8nF7Uh2rBCmfCdNevbmZWXqZ.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b110404-NDqjtDxd6V3Y.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/t/lsyk1y2j27fhs9h.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 120,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T08:19:29.812Z",
+  "cache_version": 1
+}

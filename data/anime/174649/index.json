@@ -1,0 +1,86 @@
+{
+  "ids": {
+    "anilist": 174649,
+    "mal": 55864,
+    "anidb": 18377,
+    "tmdb": 230988,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Jiu Chen Fengyun Lu",
+    "english": "The Legend of Yang Chen",
+    "native": "九辰风云录",
+    "synonyms": [
+      " 九辰风云录",
+      "Jiu Chen Fengyun Lu"
+    ],
+    "tmdb_title": "Legend of Yang Chen"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 40,
+  "duration": 10,
+  "start_date": {
+    "year": 2023,
+    "month": 7,
+    "day": 11
+  },
+  "end_date": {
+    "year": 2023,
+    "month": 11,
+    "day": 21
+  },
+  "description": "Yang Chen, the grandson of the head of the Yang family, was ridiculed by the other members of the family for not awakening his Tao soul. In despair, he broke through and awakened his Tao soul and the Weapon Spirit named Huangyu. He later found that a group of people were forcing his grandfather to give up his position as the head of the family, and those people were led by his uncle. Thereafter, Yang Chen was determined to enhance his strength to protect his family, so he went alone to Mount Youyun to seek medicine. Eventually, he exposed the conspiracy and held onto the position of paterfamilias.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Ruo Hong Culture"
+  ],
+  "producers": [
+    "Youku"
+  ],
+  "source": "OTHER",
+  "country": "CN",
+  "score_mal": 6.8,
+  "popularity": 210,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b174649-FKbDS2cF0YkR.jpg",
+    "poster_color": "#50c9fe",
+    "banner": "https://image.tmdb.org/t/p/original/yq2Ase1Ky8jOW36dBVs91IpkIMN.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/ztGdezW5rQI7Wi7d7IJ3yNK04ft.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/yq2Ase1Ky8jOW36dBVs91IpkIMN.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b174649-FKbDS2cF0YkR.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Youku",
+      "url": "https://v.youku.com/v_show/id_XNTk3ODE2OTQ2NA==.html?"
+    },
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/read/cv24794649"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLOUUm4xsoaeA3relaZ8WZq6ewD9AWUXvD"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 155,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T08:18:42.707Z",
+  "cache_version": 1
+}
