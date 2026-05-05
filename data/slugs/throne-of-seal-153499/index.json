@@ -1,0 +1,86 @@
+{
+  "ids": {
+    "anilist": 153499,
+    "mal": 52684,
+    "anidb": 18458,
+    "tmdb": 198182,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Shen Yin Wangzuo 2",
+    "english": "Throne of Seal",
+    "native": "神印王座 第2季",
+    "synonyms": [
+      "Throne of Seal 2"
+    ],
+    "tmdb_title": "Throne of Seal"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 130,
+  "duration": 21,
+  "start_date": {
+    "year": 2022,
+    "month": 11,
+    "day": 10
+  },
+  "end_date": {
+    "year": 2025,
+    "month": 4,
+    "day": 23
+  },
+  "description": "The second season of <i>Shen Yin Wangzuo</i>.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [
+    "Cultivation",
+    "Swordplay",
+    "Martial Arts",
+    "Male Protagonist"
+  ],
+  "studios": [
+    "Shenman Entertainment"
+  ],
+  "producers": [
+    "China South Angel",
+    "Tencent Penguin Pictures"
+  ],
+  "source": "OTHER",
+  "country": "CN",
+  "score_anilist": 79,
+  "popularity": 1902,
+  "trending": 1,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153499-AwubyYIflgF3.png",
+    "poster_color": "#e4865d",
+    "banner": "https://image.tmdb.org/t/p/original/lCyVptIB3CgO0ls9o0PvT50xshn.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/ehRRWs1EfeYiX4ysLLapWeKG4Pq.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/lCyVptIB3CgO0ls9o0PvT50xshn.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153499-AwubyYIflgF3.png"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/t/mzc002007j7p5hn.html"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/series/GJ0H7QG9N/throne-of-seal"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T06:40:05.953Z",
+  "cache_version": 1
+}
