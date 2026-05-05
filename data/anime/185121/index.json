@@ -1,0 +1,75 @@
+{
+  "ids": {
+    "anilist": 185121,
+    "mal": 60279,
+    "anidb": 19372,
+    "tmdb": 1483614,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Xian Ni Movie: Shenlin Zhi Zhan",
+    "english": "Renegade Immortal: Battle of Gods",
+    "native": "仙逆剧场版 神临之战",
+    "synonyms": [
+      "Xian Ni Juchang Ban: Shenlin Zhi Zhan",
+      "Renegade Immortal Movie"
+    ],
+    "tmdb_title": "Renegade Immortal: Battle of Gods"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 94,
+  "start_date": {
+    "year": 2025,
+    "month": 5,
+    "day": 30
+  },
+  "end_date": {
+    "year": 2025,
+    "month": 5,
+    "day": 30
+  },
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Build Dream"
+  ],
+  "producers": [
+    "Tencent Penguin Pictures"
+  ],
+  "source": "OTHER",
+  "country": "CN",
+  "score_anilist": 65,
+  "popularity": 549,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b185121-QubgjtEYgemy.png",
+    "poster_color": "#c9d6f1",
+    "banner": "https://image.tmdb.org/t/p/original/jORq8L657TPiTwDSAqVfayE18Ij.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/fa9cOfzN1wVCTnyPTnVTQCEOKM8.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/jORq8L657TPiTwDSAqVfayE18Ij.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b185121-QubgjtEYgemy.png"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/x/cover/mzc00200fca7946/q4101tkrmk8.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 100,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T07:28:12.610Z",
+  "cache_version": 1
+}

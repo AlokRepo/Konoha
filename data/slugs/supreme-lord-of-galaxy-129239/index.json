@@ -1,0 +1,77 @@
+{
+  "ids": {
+    "anilist": 129239,
+    "mal": 49170,
+    "anidb": 17258,
+    "tmdb": 127313,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Xinghe Zhizun",
+    "english": "Supreme Lord of Galaxy",
+    "native": "星河至尊",
+    "synonyms": [
+      "Supreme Galaxy"
+    ],
+    "tmdb_title": "Supreme Lord of Galaxy"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 45,
+  "duration": 7,
+  "start_date": {
+    "year": 2021,
+    "month": 6,
+    "day": 10
+  },
+  "end_date": {
+    "year": 2021,
+    "month": 10,
+    "day": 30
+  },
+  "genres": [
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Ruo Hong Culture"
+  ],
+  "producers": [
+    "Youku"
+  ],
+  "source": "OTHER",
+  "country": "CN",
+  "score_anilist": 52,
+  "popularity": 534,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129239-eqxxtm7IvGnt.png",
+    "poster_color": "#d65de4",
+    "banner": "https://image.tmdb.org/t/p/original/oDuagKMcjIAY8UHdReHsWoUT6N.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/hiMxsi04eVzwKWuanpAqJ4dqUYO.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/oDuagKMcjIAY8UHdReHsWoUT6N.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129239-eqxxtm7IvGnt.png"
+  },
+  "streaming": [
+    {
+      "site": "Youku",
+      "url": "https://list.youku.com/show/id_zebcbaf7c12e242128b52.html"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLOUUm4xsoaeD1eLwVVxunZPAGIHZFtDfI"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 120,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T07:29:03.329Z",
+  "cache_version": 1
+}
