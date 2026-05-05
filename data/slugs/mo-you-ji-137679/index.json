@@ -1,0 +1,68 @@
+{
+  "ids": {
+    "anilist": 137679,
+    "mal": 51361,
+    "tmdb": 211082,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Mo You Ji",
+    "english": null,
+    "native": "魔游纪",
+    "synonyms": [],
+    "tmdb_title": "魔游纪"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 12,
+  "start_date": {
+    "year": 2022,
+    "month": 9,
+    "day": 27
+  },
+  "end_date": {
+    "year": 2022,
+    "month": 11,
+    "day": 29
+  },
+  "genres": [
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Yixiang Culture"
+  ],
+  "producers": [
+    "Tencent Penguin Pictures",
+    "Red Dragon Pictures"
+  ],
+  "country": "CN",
+  "popularity": 135,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137679-yTmA2cKXt9W9.png",
+    "poster_color": "#ffa143",
+    "banner": "https://image.tmdb.org/t/p/original/iJR6UfFJMF4fr8d5ZALL8RVFg13.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/5xTzYivhTs1v1A2kZjJTaHojAP3.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/iJR6UfFJMF4fr8d5ZALL8RVFg13.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137679-yTmA2cKXt9W9.png"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/t/mzc002006me2ptd.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 115,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_close",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T08:39:35.726Z",
+  "cache_version": 1
+}

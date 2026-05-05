@@ -1,0 +1,72 @@
+{
+  "ids": {
+    "anilist": 121218,
+    "mal": 40484,
+    "tmdb": 106606,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Chuanyue Huoxian: Youling Jihua",
+    "english": null,
+    "native": "穿越火线：幽灵计划",
+    "synonyms": [
+      "Crossfire - Project Ghost"
+    ],
+    "tmdb_title": "穿越火线：幽灵计划"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 13,
+  "duration": 22,
+  "start_date": {
+    "year": 2019,
+    "month": 7,
+    "day": 12
+  },
+  "end_date": {
+    "year": 2019,
+    "month": 9,
+    "day": 27
+  },
+  "genres": [
+    "Action"
+  ],
+  "tags": [],
+  "studios": [
+    "Joicy Studio"
+  ],
+  "producers": [
+    "Tencent Penguin Pictures"
+  ],
+  "source": "VIDEO_GAME",
+  "country": "CN",
+  "score_mal": 5.89,
+  "popularity": 140,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121218-69XUULU7EuHf.png",
+    "poster_color": "#f1865d",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/121218-MCdnoLVTZ3Kf.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/o1VznfibaXJ0tcpzmOJTGKf4Yso.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/8IZRF2R3wLLE3lpV89uN7j9lVfM.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121218-69XUULU7EuHf.png"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/z/zuybto5ff759d2b.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T08:37:51.931Z",
+  "cache_version": 1
+}
