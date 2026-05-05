@@ -1,0 +1,96 @@
+{
+  "ids": {
+    "anilist": 141862,
+    "mal": 57371,
+    "anidb": 18697,
+    "tmdb": 241594,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Mingyun Quan Tai",
+    "english": "Ringing Fate",
+    "native": "命运拳台",
+    "synonyms": [
+      "Ringing Destiny",
+      "リンギングフェイト"
+    ],
+    "tmdb_title": "Ringing Fate"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 12,
+  "duration": 22,
+  "start_date": {
+    "year": 2023,
+    "month": 12,
+    "day": 22
+  },
+  "end_date": {
+    "year": 2024,
+    "month": 2,
+    "day": 16
+  },
+  "description": "A Gan is seriously ill, and falls into a world called \"Kong\" at the moment of dying. Here, people can drive mechas to fight in the ring of fate, and the winner could get a chance to live again. By coincidence, A Gan partners with Zhang San, an evil mecha with a soul, and begins her adventure in \"Kong\".",
+  "genres": [
+    "Action",
+    "Drama",
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Robots",
+    "Chibi",
+    "Amnesia",
+    "Battle Royale",
+    "Full CGI",
+    "Female Protagonist",
+    "Real Robot"
+  ],
+  "studios": [
+    "MOJO",
+    "Kungfufrog Animation"
+  ],
+  "producers": [
+    "bilibili"
+  ],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "score_anilist": 66,
+  "popularity": 1319,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141862-pS8JsR5SsaQL.jpg",
+    "poster_color": "#e428bb",
+    "banner": "https://image.tmdb.org/t/p/original/2ZWp5IRtp0ffNaaH8I1ngNPmB7X.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/qJi3g5L3g7T6N5hMpBp67kD8jvg.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/2ZWp5IRtp0ffNaaH8I1ngNPmB7X.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141862-pS8JsR5SsaQL.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md28235362/"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLBakWosU0sfgIIdsaactJ0nBp64rsmojP"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://youtube.com/playlist?list=PLBakWosU0sfh6sxghX6ctNXfopH4ePpm_&si=2SeWUukb-q8AfPXh"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T06:51:37.404Z",
+  "cache_version": 1
+}

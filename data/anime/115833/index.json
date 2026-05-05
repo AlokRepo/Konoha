@@ -1,0 +1,95 @@
+{
+  "ids": {
+    "anilist": 115833,
+    "mal": 40885,
+    "anidb": 16511,
+    "tmdb": 128212,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Can Ci Pin: Fangzhu Xingkong",
+    "english": "The Defective",
+    "native": "残次品·放逐星空",
+    "synonyms": [
+      "Imperfections",
+      "Access Denied"
+    ],
+    "tmdb_title": "The Defective"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 16,
+  "duration": 18,
+  "start_date": {
+    "year": 2021,
+    "month": 7,
+    "day": 30
+  },
+  "end_date": {
+    "year": 2021,
+    "month": 11,
+    "day": 5
+  },
+  "description": "The series follows Lu Bixing and Lin Jingheng, two very different men caught up in a futuristic dystopia where mind-link tech known as Eden controls society. One out of every hundred people can’t interface with Eden and are deemed “defective” as outcasts. These two will work together to fight against this unjust world.\n<br><br>\n(Source: Funimation)",
+  "genres": [
+    "Action",
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Male Protagonist",
+    "Cyberpunk",
+    "Fugitive",
+    "Space",
+    "Full CGI",
+    "Space Opera",
+    "Artificial Intelligence",
+    "Real Robot"
+  ],
+  "studios": [
+    "LX Animation Studio"
+  ],
+  "producers": [
+    "bilibili"
+  ],
+  "source": "OTHER",
+  "country": "CN",
+  "score_anilist": 63,
+  "popularity": 1301,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx115833-iM8tDLlDAePL.png",
+    "poster_color": "#5daed6",
+    "banner": "https://image.tmdb.org/t/p/original/cUEIHemmpMqrxmwlftXoEWzDIli.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/2pSdGI21DhBbq0ndGFde2kPs5WB.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/cUEIHemmpMqrxmwlftXoEWzDIli.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx115833-iM8tDLlDAePL.png"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md4315602/"
+    },
+    {
+      "site": "Bilibili TV",
+      "url": "https://www.bilibili.tv/media/1014088"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-282706"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T06:52:08.545Z",
+  "cache_version": 1
+}
