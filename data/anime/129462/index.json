@@ -1,0 +1,70 @@
+{
+  "ids": {
+    "anilist": 129462,
+    "mal": 47402,
+    "anidb": 16127,
+    "tmdb": 301698,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Heikousen",
+    "english": null,
+    "native": "平行線",
+    "synonyms": [
+      "Gift"
+    ],
+    "tmdb_title": "gift"
+  },
+  "format": "MUSIC",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 5,
+  "start_date": {
+    "year": 2021,
+    "month": 2,
+    "day": 5
+  },
+  "end_date": {
+    "year": 2021,
+    "month": 2,
+    "day": 5
+  },
+  "description": "Music video for Eve and suis' song <i>Heikousen</i>, also used as commercial for the Lotte Ghana Valentine Present campaign. ",
+  "genres": [
+    "Slice of Life"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [
+    "10GAUGE",
+    "Studio Durian"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 75,
+  "popularity": 3088,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129462-QDLDkPESak1j.jpg",
+    "poster_color": "#78aee4",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/129462-4jgUcs7UooiW.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129462-QDLDkPESak1j.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://youtu.be/lxw4Y8qzq4w"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T09:18:26.374Z",
+  "cache_version": 1
+}
