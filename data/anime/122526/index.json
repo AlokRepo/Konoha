@@ -1,0 +1,81 @@
+{
+  "ids": {
+    "anilist": 122526,
+    "mal": 56927,
+    "anidb": 18360,
+    "tmdb": 239002,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Shen Cang",
+    "english": "Mysterious Treasures",
+    "native": "神藏",
+    "synonyms": [
+      "Collecting the Divine"
+    ],
+    "tmdb_title": "Collecting the Divine"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 12,
+  "duration": 20,
+  "start_date": {
+    "year": 2023,
+    "month": 11,
+    "day": 7
+  },
+  "end_date": {
+    "year": 2024,
+    "month": 1,
+    "day": 11
+  },
+  "description": "Modern-day Daoist Fang Yi wakes up one day with a superpower—the ability to sense antiques and artifacts! From there, he becomes an artifact-collecting wonder. Countless treasures all become his, and he leads his band of brothers on a journey to the very peak of life!\n<br><br>\n(Source: Webnovel)",
+  "genres": [
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Dancing CG Studio"
+  ],
+  "producers": [
+    "Tencent Penguin Pictures",
+    "Yuewen Animation & Comics"
+  ],
+  "source": "OTHER",
+  "country": "CN",
+  "score_mal": 6.22,
+  "popularity": 226,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx122526-naZFXO0NbIxM.png",
+    "poster_color": "#aee4ff",
+    "banner": "https://image.tmdb.org/t/p/original/ad6gM0qdpwaz4h78sA2pKc6Dgb9.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/gGmTvdTX5LgCzq72lnzju0pc5VL.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/ad6gM0qdpwaz4h78sA2pKc6Dgb9.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx122526-naZFXO0NbIxM.png"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/m/mzc00200gvsv5b8.html"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLLAr5GYz8LF6PznoUFpqVLzLqFmNmd4p5"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T08:14:57.521Z",
+  "cache_version": 1
+}

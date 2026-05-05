@@ -1,0 +1,75 @@
+{
+  "ids": {
+    "anilist": 123379,
+    "mal": 44228,
+    "anidb": 15818,
+    "tmdb": 296530,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Jian Wang 3: Xia Gan Yi Dan Shen Jianxin - Chang Piao",
+    "english": null,
+    "native": "剑网3·侠肝义胆沈剑心之长漂",
+    "synonyms": [
+      "JX Online 3: The Adventure of Shen Jianxin in Chang'an"
+    ],
+    "tmdb_title": "剑网3·侠肝义胆沈剑心之长漂"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 20,
+  "duration": 7,
+  "start_date": {
+    "year": 2020,
+    "month": 10,
+    "day": 24
+  },
+  "end_date": {
+    "year": 2021,
+    "month": 2,
+    "day": 27
+  },
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [
+    "Shengying Animation"
+  ],
+  "producers": [
+    "Seasun Pictures"
+  ],
+  "source": "VIDEO_GAME",
+  "country": "CN",
+  "score_mal": 6.16,
+  "popularity": 218,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx123379-wUCBDsBeWUdP.png",
+    "poster_color": "#5dd6f1",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/w3v5iTgZLlLgchYXiPfv6sD9Nsp.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx123379-wUCBDsBeWUdP.png"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md28229724"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLBakWosU0sfgtdjfHdwX5BqviqnPb4U9c"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T08:17:04.901Z",
+  "cache_version": 1
+}

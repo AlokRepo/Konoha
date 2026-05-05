@@ -1,0 +1,80 @@
+{
+  "ids": {
+    "anilist": 137708,
+    "mal": 58754,
+    "anidb": 17119,
+    "tmdb": 252789,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Xiao Bing Chuanqi",
+    "english": null,
+    "native": "小兵传奇",
+    "synonyms": [
+      "Legend of Soldier"
+    ],
+    "tmdb_title": "Legend of Soldier"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 26,
+  "duration": 20,
+  "start_date": {
+    "year": 2024,
+    "month": 4,
+    "day": 28
+  },
+  "end_date": {
+    "year": 2024,
+    "month": 8,
+    "day": 18
+  },
+  "genres": [
+    "Action",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Male Protagonist",
+    "Space",
+    "War",
+    "Military"
+  ],
+  "studios": [
+    "Motion Magic"
+  ],
+  "producers": [
+    "Tencent Penguin Pictures"
+  ],
+  "source": "OTHER",
+  "country": "CN",
+  "score_mal": 6.34,
+  "popularity": 223,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137708-oj6cKgygIyDh.png",
+    "poster_color": "#bbd6f1",
+    "banner": "https://image.tmdb.org/t/p/original/8I1QMfKUupiVmlhtv8fGSaSDuCx.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/4sOcr8gpvZqnrDBOrSzhXxSnOIK.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/8I1QMfKUupiVmlhtv8fGSaSDuCx.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137708-oj6cKgygIyDh.png"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/t/mzc00200fgtkshj.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T08:15:43.004Z",
+  "cache_version": 1
+}
