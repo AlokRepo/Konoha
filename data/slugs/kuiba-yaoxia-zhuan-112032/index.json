@@ -1,0 +1,74 @@
+{
+  "ids": {
+    "anilist": 112032,
+    "mal": 37187,
+    "anidb": 14861,
+    "tmdb": 107836,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Kuiba Yaoxia Zhuan",
+    "english": null,
+    "native": "魁拔妖侠传",
+    "synonyms": [],
+    "tmdb_title": "魁拔妖侠传"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 20,
+  "duration": 10,
+  "start_date": {
+    "year": 2014,
+    "month": 7,
+    "day": 19
+  },
+  "end_date": {
+    "year": 2014,
+    "month": 12,
+    "day": 27
+  },
+  "description": "The backstories of the characters in the Kuiba movies.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Vasoon Animation"
+  ],
+  "producers": [],
+  "source": "MANGA",
+  "country": "CN",
+  "popularity": 124,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112032-5DI8Gj5RTEZq.jpg",
+    "poster_color": "#e4d650",
+    "banner": "https://image.tmdb.org/t/p/original/jmYQR9DJQkUoVEYFNoeUfKXkLwF.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/c17VIccNyyCG7cMchKts1VJtH7p.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/jmYQR9DJQkUoVEYFNoeUfKXkLwF.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112032-5DI8Gj5RTEZq.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md6190/"
+    },
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/f/f7yzuf5tknt7cii.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T08:43:09.139Z",
+  "cache_version": 1
+}

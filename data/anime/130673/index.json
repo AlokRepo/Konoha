@@ -1,0 +1,76 @@
+{
+  "ids": {
+    "anilist": 130673,
+    "mal": 44543,
+    "tmdb": 211735,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "LaLaLa Demacia",
+    "english": null,
+    "native": "啦啦啦德玛西亚",
+    "synonyms": [
+      "lalala德玛西亚",
+      "Lalala Demaxiya"
+    ],
+    "tmdb_title": "啦啦啦德玛西亚"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 10,
+  "duration": 6,
+  "start_date": {
+    "year": 2011,
+    "month": 12,
+    "day": 9
+  },
+  "end_date": {
+    "year": 2012,
+    "month": 3,
+    "day": 9
+  },
+  "genres": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "tags": [
+    "Meta",
+    "Parody",
+    "Full CGI"
+  ],
+  "studios": [
+    "Transcendence Picture"
+  ],
+  "producers": [],
+  "source": "VIDEO_GAME",
+  "country": "CN",
+  "score_mal": 5.93,
+  "popularity": 124,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130673-SA0BcYV1FvNi.jpg",
+    "poster_color": "#e4c928",
+    "banner": "https://image.tmdb.org/t/p/original/sTSCFigZ2vAvbaa8ZR8fDq5UM9i.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/tWlUgg1lUTB85JMdj4E1wL0EOvF.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/sTSCFigZ2vAvbaa8ZR8fDq5UM9i.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130673-SA0BcYV1FvNi.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/i/i2ekqi3whsoatco.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 120,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T08:43:16.002Z",
+  "cache_version": 1
+}
