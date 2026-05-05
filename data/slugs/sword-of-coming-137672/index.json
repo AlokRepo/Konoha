@@ -1,0 +1,77 @@
+{
+  "ids": {
+    "anilist": 137672,
+    "mal": 59389,
+    "anidb": 18828,
+    "tmdb": 259537,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Jian Lai",
+    "english": "Sword of Coming",
+    "native": "剑来",
+    "synonyms": [
+      "Sword of Coming"
+    ],
+    "tmdb_title": "Sword of Coming"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 26,
+  "start_date": {
+    "year": 2024,
+    "month": 8,
+    "day": 15
+  },
+  "end_date": {
+    "year": 2024,
+    "month": 12,
+    "day": 14
+  },
+  "description": "An ordinary boy split the sky and covered mountains and seas with one sword, counterattacked the peerless swordsman, and created an extraordinary legend.\n",
+  "genres": [
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [
+    "Cultivation",
+    "Philosophy"
+  ],
+  "studios": [
+    "Cloud Art"
+  ],
+  "producers": [
+    "Tencent Penguin Pictures"
+  ],
+  "source": "OTHER",
+  "country": "CN",
+  "score_anilist": 70,
+  "popularity": 1063,
+  "trending": 1,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137672-DpKhi0T6RAao.png",
+    "poster_color": "#e4bb86",
+    "banner": "https://image.tmdb.org/t/p/original/lhLbAAwMaeoPxvE7bVUQkSDQZ4m.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/2pT4uBFKymVPLktor6dbeOZzDcJ.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/lhLbAAwMaeoPxvE7bVUQkSDQZ4m.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137672-DpKhi0T6RAao.png"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/t/mzc0020072zgk61.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 120,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T06:59:34.986Z",
+  "cache_version": 1
+}

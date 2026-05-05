@@ -1,0 +1,81 @@
+{
+  "ids": {
+    "anilist": 125870,
+    "mal": 42946,
+    "anidb": 15730,
+    "tmdb": 113335,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Kusoge-tte Iuna! Animation",
+    "english": "Don't Call Us A JUNK GAME!",
+    "native": "クソゲーって言うな！アニメーション",
+    "synonyms": [
+      "Don't Say Kusoge!",
+      "クソゲーって言うな！",
+      "¡Que no es una porquería de videojuego!"
+    ],
+    "tmdb_title": "Don't Call Us a Junk Game!"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2020,
+  "episodes": 12,
+  "duration": 3,
+  "start_date": {
+    "year": 2020,
+    "month": 10,
+    "day": 19
+  },
+  "end_date": {
+    "year": 2021,
+    "month": 1,
+    "day": 4
+  },
+  "description": "The story centers on an RPG that people call \"kusoge\" (\"crap-tier game,\" referring to games with quirky or badly implemented mechanics and design). The main character Lidays decides to change the game's story, meeting with other characters while the game isn't being played. But as they flub their lines, the situation spirals out of control.<br><br>\n\n(Source: Anime News Network)",
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [
+    "Parody",
+    "Virtual World",
+    "Chibi",
+    "Video Games"
+  ],
+  "studios": [],
+  "producers": [
+    "Charaction"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 46,
+  "popularity": 1068,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx125870-P5e7zgZ0fQ7x.png",
+    "poster_color": "#e4c950",
+    "banner": "https://image.tmdb.org/t/p/original/dtKWXVKmEKzeE13RvSjRqvmuRAG.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/miPjpVMlHz8NwqrBB3pPUXqdLms.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/dtKWXVKmEKzeE13RvSjRqvmuRAG.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx125870-P5e7zgZ0fQ7x.png"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/dont-call-us-a-junk-game"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T06:59:20.756Z",
+  "cache_version": 1
+}

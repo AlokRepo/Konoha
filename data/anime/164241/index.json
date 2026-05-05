@@ -1,0 +1,82 @@
+{
+  "ids": {
+    "anilist": 164241,
+    "mal": 55125,
+    "anidb": 18002,
+    "tmdb": 229607,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Ensemble Stars!!: Tsuioku Selection - Crossroad",
+    "english": null,
+    "native": "あんさんぶるスターズ！！追憶セレクション「クロスロード」",
+    "synonyms": [
+      "Ensemble Stars!!: Reminiscence Selection - Crossroad"
+    ],
+    "tmdb_title": "Ensemble Stars!!: Tsuioku Selection - Crossroad"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2023,
+  "episodes": 6,
+  "duration": 12,
+  "start_date": {
+    "year": 2023,
+    "month": 11,
+    "day": 10
+  },
+  "end_date": {
+    "year": 2023,
+    "month": 11,
+    "day": 15
+  },
+  "description": "An Ensemble Stars! anime project based on the \"Crossroad\" event from the mobile rhythm game.",
+  "genres": [
+    "Music",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Idol",
+    "Primarily Male Cast",
+    "Full CGI",
+    "Ensemble Cast",
+    "Rock Music"
+  ],
+  "studios": [],
+  "producers": [
+    "Dandelion Animation Studio",
+    "Happy Elements"
+  ],
+  "source": "VIDEO_GAME",
+  "country": "JP",
+  "score_anilist": 65,
+  "popularity": 1039,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164241-wQ4mNsIUmQWH.jpg",
+    "poster_color": "#f1ae86",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/164241-vWWtFgHhj2wX.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/5sYuvtUE9XFk8GQfrogIH9Ui7y5.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/i8PdK4e7EXx45uD4nrjIOuz2upF.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164241-wQ4mNsIUmQWH.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PL5wEQ3YUNbnAsPD2SGo0FR1451RrS1Ep3"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T07:00:26.172Z",
+  "cache_version": 1
+}

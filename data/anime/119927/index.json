@@ -1,0 +1,77 @@
+{
+  "ids": {
+    "anilist": 119927,
+    "mal": 42267,
+    "anidb": 15679,
+    "tmdb": 105897,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Dubu Xiaoyao",
+    "english": null,
+    "native": "独步逍遥",
+    "synonyms": [
+      "One Step Forward Freedom"
+    ],
+    "tmdb_title": "One Step Toward Freedom"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 480,
+  "duration": 12,
+  "start_date": {
+    "year": 2020,
+    "month": 6,
+    "day": 18
+  },
+  "end_date": {
+    "year": 2024,
+    "month": 12,
+    "day": 6
+  },
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Romance"
+  ],
+  "tags": [
+    "Female Harem"
+  ],
+  "studios": [
+    "Soyep"
+  ],
+  "producers": [],
+  "source": "OTHER",
+  "country": "CN",
+  "score_anilist": 63,
+  "popularity": 1027,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx119927-y4o8s29KJANF.jpg",
+    "poster_color": "#e4a150",
+    "banner": "https://image.tmdb.org/t/p/original/xSVlczt6JYhvgrOZaGHOLW56XGa.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/6UCFJL08s9cAzdTPrWJ11QJi7EQ.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/xSVlczt6JYhvgrOZaGHOLW56XGa.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx119927-y4o8s29KJANF.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/m/mzc00200qqsk3cv.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 114,
+  "match_signals": [
+    "synonyms_match",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T07:01:13.252Z",
+  "cache_version": 1
+}

@@ -1,0 +1,76 @@
+{
+  "ids": {
+    "anilist": 129251,
+    "mal": 51861,
+    "anidb": 17522,
+    "tmdb": 206343,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Shen Mu",
+    "english": null,
+    "native": "神墓",
+    "synonyms": [
+      "Tomb of Fallen Gods",
+      "神墓之辰南觉醒"
+    ],
+    "tmdb_title": "Tomb of Fallen Gods"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 16,
+  "start_date": {
+    "year": 2022,
+    "month": 7,
+    "day": 21
+  },
+  "end_date": {
+    "year": 2022,
+    "month": 10,
+    "day": 27
+  },
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Wonder Cat Animation",
+    "Rocen"
+  ],
+  "producers": [
+    "Youku"
+  ],
+  "source": "OTHER",
+  "country": "CN",
+  "score_anilist": 67,
+  "popularity": 998,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129251-u1ydJYgt5FTz.jpg",
+    "poster_color": "#931a50",
+    "banner": "https://image.tmdb.org/t/p/original/mwJBCm0cmQwDIFzzoYhvZgWdHqf.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/g4L4tyeEc3E9bYWmvB0z956ABYb.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/mwJBCm0cmQwDIFzzoYhvZgWdHqf.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129251-u1ydJYgt5FTz.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Youku",
+      "url": "https://list.youku.com/show/id_fcaa728a97b5497a9175"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 120,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T07:02:11.475Z",
+  "cache_version": 1
+}
