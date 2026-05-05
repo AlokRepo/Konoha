@@ -4,7 +4,8 @@
     "mal": 2321,
     "anidb": 964,
     "tmdb": 69212,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Giant Robo THE ANIMATION: Chikyuu ga Seishi Suru Hi",
@@ -65,8 +66,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 76,
-  "popularity": 10707,
-  "trending": 0,
+  "popularity": 10712,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx2321-ETrAaZnKGpUS.jpg",
     "poster_color": "#43a1e4",
@@ -85,6 +86,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T08:37:07.971Z",
+  "cached_at": "2026-05-05T02:58:16.188Z",
   "cache_version": 1
 }
