@@ -1,0 +1,76 @@
+{
+  "ids": {
+    "anilist": 100295,
+    "mal": 36440,
+    "anidb": 13443,
+    "tmdb": 209166,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Ku Pao Yingxiong",
+    "english": "The Running Heroes",
+    "native": "酷跑英雄",
+    "synonyms": [
+      "Parkour Hero"
+    ],
+    "tmdb_title": "The Running Heroes"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 26,
+  "duration": 15,
+  "start_date": {
+    "year": 2017,
+    "month": 9,
+    "day": 2
+  },
+  "end_date": {
+    "year": 2018,
+    "month": 2,
+    "day": 17
+  },
+  "description": "The animation tells the story of Xiao Shuai who accidentally ends up in a fantasy world and gets embroiled in a dispute between parkour colleges.<br>\n<br>\nBased off the Tencent mobile game Parkour Everyday.\n",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Hangzhou Shimei Pictures"
+  ],
+  "producers": [],
+  "source": "VIDEO_GAME",
+  "country": "CN",
+  "score_anilist": 43,
+  "popularity": 823,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100295-owui37hyOOP6.jpg",
+    "poster_color": "#35a1e4",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/2Mrn1gRc7OtfEohSwmSUwY4i3cM.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100295-owui37hyOOP6.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/0/0f12m8pg4q5quqy.html"
+    },
+    {
+      "site": "WeTV",
+      "url": "https://wetv.vip/play/xjulpjdgofnzlgh"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T07:10:23.144Z",
+  "cache_version": 1
+}

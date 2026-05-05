@@ -1,0 +1,87 @@
+{
+  "ids": {
+    "anilist": 117573,
+    "mal": 41918,
+    "anidb": 16391,
+    "tmdb": 127473,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Juan Siliang",
+    "english": "The Island of Siliang",
+    "native": "眷思量",
+    "synonyms": [
+      "Deity Introspection",
+      "Pulau Siliang"
+    ],
+    "tmdb_title": "The Island of Siliang"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 15,
+  "duration": 15,
+  "start_date": {
+    "year": 2021,
+    "month": 6,
+    "day": 14
+  },
+  "end_date": {
+    "year": 2021,
+    "month": 9,
+    "day": 13
+  },
+  "genres": [
+    "Fantasy",
+    "Mystery",
+    "Romance"
+  ],
+  "tags": [],
+  "studios": [
+    "Year Young Culture"
+  ],
+  "producers": [
+    "Tencent Penguin Pictures"
+  ],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "score_anilist": 67,
+  "popularity": 844,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx117573-C9LxYbmFk1pD.png",
+    "poster_color": "#35c9ff",
+    "banner": "https://image.tmdb.org/t/p/original/4K4cjpbxJHeY26G9aehOx2Xy2sd.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/nkwJMUFsS1H9jQ0zIymeg0VtDiZ.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/4K4cjpbxJHeY26G9aehOx2Xy2sd.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx117573-C9LxYbmFk1pD.png"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/g/gehpfier9upkqz5.html"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLxOs22nkVmnLpC-YoFzSWN4Jje5tyGHgm"
+    },
+    {
+      "site": "WeTV",
+      "url": "https://wetv.vip/album/45mhx3xzjqnd03u"
+    },
+    {
+      "site": "Viki",
+      "url": "https://www.viki.com/tv/39876c"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 95,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T07:09:07.981Z",
+  "cache_version": 1
+}

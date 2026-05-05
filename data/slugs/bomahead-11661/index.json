@@ -1,0 +1,81 @@
+{
+  "ids": {
+    "anilist": 11661,
+    "mal": 11661,
+    "anidb": 8766,
+    "tmdb": 87401,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Robo to Shoujo (Kari)",
+    "english": "BOMAHEAD",
+    "native": "ロボと少女（仮）",
+    "synonyms": [
+      "100-Second Cinema Robo to Shoujo (Kari)",
+      "100 Byou Cinema: Robo to Shoujo (Kari)"
+    ],
+    "tmdb_title": "Bomahead"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 2010,
+  "episodes": 9,
+  "duration": 2,
+  "start_date": {
+    "year": 2010,
+    "month": 6,
+    "day": 16
+  },
+  "end_date": {
+    "year": 2011,
+    "month": 6,
+    "day": 19
+  },
+  "description": "Bomahead is about a girl and a robot who live in a junkyard. The robot claims he wants to fight for justice with hero-like abilities, but everything always turns out wrong. The mystery behind the girl and the robot are unraveled through a rapid succession of unexpected turn of events.",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Full CGI",
+    "Robots"
+  ],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 47,
+  "popularity": 812,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11661.jpg",
+    "poster_color": "#f1ae43",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/bhQYKnaTlhQ3hrRN1E0MJFZVzSM.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/11661.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PL426F42CA438AF14A"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PL3ACFD8E364850129"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T07:11:02.374Z",
+  "cache_version": 1
+}

@@ -1,0 +1,83 @@
+{
+  "ids": {
+    "anilist": 176909,
+    "mal": 58644,
+    "tmdb": 216467,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Yozakura-san Chi no Mini Sakusen",
+    "english": null,
+    "native": "夜桜さんちのミニ作戦",
+    "synonyms": [
+      "Mission: Yozakura Family Mini Anime",
+      "Yozakura-san Chi no Daisakusen Mini Anime",
+      "夜桜さんちの大作戦 ミニアニメ",
+      "Mini Operation: Yozakura Family"
+    ],
+    "tmdb_title": "Mission: Yozakura Family"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2024,
+  "episodes": 28,
+  "duration": 1,
+  "start_date": {
+    "year": 2024,
+    "month": 4,
+    "day": 11
+  },
+  "end_date": {
+    "year": 2024,
+    "month": 10,
+    "day": 10
+  },
+  "description": "Mini anime shorts of <i>Yozakura-san Chi no Daisakusen</i>.",
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [
+    "DLE"
+  ],
+  "producers": [
+    "NBCUniversal Entertainment Japan"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 57,
+  "popularity": 818,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176909-ooklJqprdcau.jpg",
+    "poster_color": "#1aa1c9",
+    "banner": "https://image.tmdb.org/t/p/original/xUC6mdVESvJN2umz8mNxKn89Htf.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/ld8DpQKpM4T1wRAiBjgReV0mQcK.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/xUC6mdVESvJN2umz8mNxKn89Htf.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176909-ooklJqprdcau.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLMyQxaghEY1E8Nad_gUa1rYE8LNJpLqy-"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PL8qLxmibSZENl0bfy72PbVSDZw87WQclo"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 118,
+  "match_signals": [
+    "english_title",
+    "year_match",
+    "episode_close",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T07:10:38.323Z",
+  "cache_version": 1
+}
