@@ -1,0 +1,68 @@
+{
+  "ids": {
+    "anilist": 131892,
+    "tmdb": 106263,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Jin Guang Yu Jiu Jie: Zhanxue Tiandao",
+    "english": null,
+    "native": "金光御九界之戰血天道",
+    "synonyms": [
+      "金光御九界之战血天道",
+      "金光布袋戏（新）第13部"
+    ],
+    "tmdb_title": "金光御九界之战血天道"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 32,
+  "duration": 85,
+  "start_date": {
+    "year": 2019,
+    "month": 5,
+    "day": 2
+  },
+  "end_date": {
+    "year": 2020,
+    "month": 7,
+    "day": 9
+  },
+  "genres": [
+    "Action",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "TW",
+  "popularity": 50,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131892-hQtk8uKIKpfT.jpg",
+    "poster_color": "#e4280d",
+    "banner": "https://image.tmdb.org/t/p/original/ewDHTf5OHeBdiBmFD9cjmXrDPbq.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/lDkpbuOpm4j991SLLbPtOjS4BZs.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/ewDHTf5OHeBdiBmFD9cjmXrDPbq.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131892-hQtk8uKIKpfT.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md28220316"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T09:08:43.134Z",
+  "cache_version": 1
+}

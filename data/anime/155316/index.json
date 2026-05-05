@@ -1,0 +1,63 @@
+{
+  "ids": {
+    "anilist": 155316,
+    "tmdb": 281606,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Yanshi Chuanshuo",
+    "english": null,
+    "native": "偃师传说",
+    "synonyms": [],
+    "tmdb_title": "偃师传说"
+  },
+  "format": "ONA",
+  "status": "NOT_YET_RELEASED",
+  "episodes": 1,
+  "start_date": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "genres": [
+    "Fantasy",
+    "Romance"
+  ],
+  "tags": [],
+  "studios": [
+    "Bytehoo"
+  ],
+  "producers": [
+    "Youku"
+  ],
+  "source": "OTHER",
+  "country": "CN",
+  "popularity": 49,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155316-wZbYNWRqI2gi.png",
+    "poster_color": "#e4ae50",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155316-wZbYNWRqI2gi.png"
+  },
+  "streaming": [
+    {
+      "site": "Youku",
+      "url": "https://list.youku.com/show/id_efaa565f71254da2a6bd"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 80,
+  "match_signals": [
+    "exact_title",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T09:09:01.220Z",
+  "cache_version": 1
+}

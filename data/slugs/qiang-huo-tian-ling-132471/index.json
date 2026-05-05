@@ -1,0 +1,64 @@
+{
+  "ids": {
+    "anilist": 132471,
+    "tmdb": 290932,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Qiang Huo Tian Ling",
+    "english": null,
+    "native": "枪火天灵",
+    "synonyms": [
+      "Gunfire Legend"
+    ],
+    "tmdb_title": "枪火天灵  动态漫"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 30,
+  "duration": 8,
+  "start_date": {
+    "year": 2021,
+    "month": 1,
+    "day": 29
+  },
+  "end_date": {
+    "year": 2021,
+    "month": 8,
+    "day": 6
+  },
+  "genres": [
+    "Action"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "MANGA",
+  "country": "CN",
+  "popularity": 50,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132471-xFDi8QGartmw.png",
+    "poster_color": "#fe6b50",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/zzWOO1TwWnqy9trGuNlx8v3L4va.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132471-xFDi8QGartmw.png"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/m/mzc00200muo48po.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T09:08:51.284Z",
+  "cache_version": 1
+}
