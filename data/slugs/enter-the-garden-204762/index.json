@@ -1,0 +1,73 @@
+{
+  "ids": {
+    "anilist": 204762,
+    "mal": 58780,
+    "anidb": 18605,
+    "tmdb": 251708,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Enter the Garden",
+    "english": "Enter the Garden",
+    "native": "Enter the Garden",
+    "synonyms": [
+      "Azuki: Enter The Garden"
+    ],
+    "tmdb_title": "Enter the Garden"
+  },
+  "format": "ONA",
+  "status": "RELEASING",
+  "season": "SPRING",
+  "season_year": 2024,
+  "episodes": 3,
+  "start_date": {
+    "year": 2024,
+    "month": 4,
+    "day": 30
+  },
+  "end_date": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "description": "Three-part anthology series created by Azuki and Dentsu with creative producer, Gorou Taniguchi.",
+  "genres": [],
+  "tags": [],
+  "studios": [],
+  "producers": [
+    "Qzil.la",
+    "Imagica Infos",
+    "Dentsu"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 51,
+  "popularity": 692,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204762-5TGKxC1rY63P.jpg",
+    "poster_color": "#e45d78",
+    "banner": "https://image.tmdb.org/t/p/original/dpnqDocHAeJhVr6cDunsh15Cvds.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/fQ42Kk0w9Dcx5l0nQDE6RMFrdg1.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/dpnqDocHAeJhVr6cDunsh15Cvds.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204762-5TGKxC1rY63P.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/@Azuki"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T07:17:03.166Z",
+  "cache_version": 1
+}
