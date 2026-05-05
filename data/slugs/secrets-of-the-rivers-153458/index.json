@@ -1,0 +1,80 @@
+{
+  "ids": {
+    "anilist": 153458,
+    "mal": 63000,
+    "anidb": 19759,
+    "tmdb": 297999,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "San Xian Lun Hui",
+    "english": "Secrets of the Rivers",
+    "native": "三线轮洄",
+    "synonyms": [
+      "Under the Three Rivers",
+      "Three-Line Reincarnation"
+    ],
+    "tmdb_title": "Secrets of the Rivers"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 18,
+  "duration": 18,
+  "start_date": {
+    "year": 2025,
+    "month": 12,
+    "day": 5
+  },
+  "end_date": {
+    "year": 2026,
+    "month": 1,
+    "day": 29
+  },
+  "description": "Where the Yellow, Yangtze, and Lancang Rivers begin as one, dwell the three \"Water Ghost\" clans, the Ding, Jiang, and Yi, along their banks. What are Water Ghosts? Beings who move through water as they please, masters of geomancy and treasure hunting. Yi Sa, the last of her line, runs an \"underwater bank\" along the Lancang. During a perilous \"Golden Soup\" dive, she rescues Zong Hang. Seeking truth and a cure for her own fate, Yi Sa trains him as a Water Ghost. Together with Ding Yu Die of the Ding clan, the trio descends into the primordial \"Ancestral Golden Soup.\"<br><br>\n(Source: Tencent)",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "tags": [],
+  "studios": [
+    "ASK Animation Studio"
+  ],
+  "producers": [
+    "Tencent Penguin Pictures"
+  ],
+  "source": "OTHER",
+  "country": "CN",
+  "popularity": 354,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153458-ss7LVlOxLGJ9.png",
+    "poster_color": "#a1c9f1",
+    "banner": "https://image.tmdb.org/t/p/original/aktIUAbKdtXC5peRFhHzze41CZO.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/4G7zJyx8TXn3pGWir8StvohM4hF.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/aktIUAbKdtXC5peRFhHzze41CZO.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153458-ss7LVlOxLGJ9.png"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/x/cover/mzc00200kbaxcfz.html"
+    },
+    {
+      "site": "WeTV",
+      "url": "https://wetv.vip/en/album/3hf42o9yy6rd320"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T07:45:31.205Z",
+  "cache_version": 1
+}

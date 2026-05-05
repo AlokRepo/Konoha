@@ -1,0 +1,81 @@
+{
+  "ids": {
+    "anilist": 126394,
+    "mal": 50439,
+    "anidb": 16620,
+    "tmdb": 204995,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Hei Men",
+    "english": "SWARM",
+    "native": "黑门",
+    "synonyms": [
+      "Black Gate",
+      "黑门 蜂群"
+    ],
+    "tmdb_title": "SWARM"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 12,
+  "duration": 20,
+  "start_date": {
+    "year": 2022,
+    "month": 7,
+    "day": 29
+  },
+  "end_date": {
+    "year": 2022,
+    "month": 10,
+    "day": 7
+  },
+  "genres": [
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "tags": [],
+  "studios": [
+    "CHOSEN"
+  ],
+  "producers": [
+    "BeDream",
+    "bilibili"
+  ],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "score_anilist": 49,
+  "popularity": 366,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126394-stAyOPKAm84p.png",
+    "poster_color": "#e4bb5d",
+    "banner": "https://image.tmdb.org/t/p/original/5mwbPHijayfPwHlKRyC6r7DpdSD.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/ygqqW5ToArdciBQO05rgiXWvR1c.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/5mwbPHijayfPwHlKRyC6r7DpdSD.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126394-stAyOPKAm84p.png"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md28230737/"
+    },
+    {
+      "site": "Bilibili TV",
+      "url": "https://www.bilibili.tv/en/media/1064244"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T07:44:19.072Z",
+  "cache_version": 1
+}
