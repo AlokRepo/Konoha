@@ -1,0 +1,87 @@
+{
+  "ids": {
+    "anilist": 156103,
+    "mal": 58551,
+    "anidb": 18624,
+    "tmdb": 253336,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Hui Ming: Fenghuo Sanyue",
+    "english": null,
+    "native": "回铭之烽火三月 ",
+    "synonyms": [
+      "Reincarnated Marquis",
+      "回到明朝当王爷",
+      "Huidao Mingchao Dang Wangye",
+      "Back to the Great Ming"
+    ],
+    "tmdb_title": "Back to the Great Ming"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 16,
+  "duration": 20,
+  "start_date": {
+    "year": 2024,
+    "month": 5,
+    "day": 2
+  },
+  "end_date": {
+    "year": 2024,
+    "month": 8,
+    "day": 8
+  },
+  "description": "University student Zheng Shaopeng was knocked unconscious at home by a thick history book. When he woke up, he found himself in the Danzhu Dynasty, reincarnated as the poor scholar Yang Lin. In an era of internal troubles and external threats, Yang Lin experienced wars and witnessed the suffering of the people. With his wisdom and abilities, he gained a place in the court and gradually led the Danzhu Dynasty onto the path of becoming a strong nation, combating corrupt officials internally, resisting powerful enemies externally, advancing in technology, and dispelling superstitions.",
+  "genres": [
+    "Action",
+    "Fantasy"
+  ],
+  "tags": [
+    "Politics",
+    "Historical"
+  ],
+  "studios": [
+    "Wonder Cat Animation",
+    "Mili Digital"
+  ],
+  "producers": [
+    "bilibili"
+  ],
+  "source": "OTHER",
+  "country": "CN",
+  "score_anilist": 56,
+  "popularity": 279,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156103-MwIw1xSkE0rf.jpg",
+    "poster_color": "#c93535",
+    "banner": "https://image.tmdb.org/t/p/original/oDoFPZWEPUBRYu0bt50Nqm40A6J.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/dSWZHoWmeA4oG0CRBUiUANtUYzX.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/oDoFPZWEPUBRYu0bt50Nqm40A6J.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156103-MwIw1xSkE0rf.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md28339911/"
+    },
+    {
+      "site": "Bilibili TV",
+      "url": "https://www.bilibili.tv/th/play/2105623?bstar_from=bstar-web.category-anime.0.0"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T08:02:47.348Z",
+  "cache_version": 1
+}

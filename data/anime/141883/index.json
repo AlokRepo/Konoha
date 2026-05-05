@@ -1,0 +1,86 @@
+{
+  "ids": {
+    "anilist": 141883,
+    "mal": 55732,
+    "anidb": 18464,
+    "tmdb": 139174,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Bu Xing Si: Yuan Qi",
+    "english": "Blader Soul",
+    "native": "捕星司·源起",
+    "synonyms": [
+      "Pemburu Bintang: Prolog",
+      "ข้ามฟ้าคว้าดารา - ภาคปฐมบท"
+    ],
+    "tmdb_title": "Blader Soul"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 18,
+  "duration": 15,
+  "start_date": {
+    "year": 2024,
+    "month": 2,
+    "day": 29
+  },
+  "end_date": {
+    "year": 2024,
+    "month": 4,
+    "day": 25
+  },
+  "description": "Two kids who lived in the shadow of an aristocratic family yearn for the fabled Penglai fairyland. The warlocks arrived, the Gan Shi star passed by, and the star stone cast a tripod, waking the power buried within each of their bodies as well as their hitherto unseen yearning.\n<br><br>\n(Source: Bilibili)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Passion Paint Animation"
+  ],
+  "producers": [
+    "bilibili"
+  ],
+  "source": "OTHER",
+  "country": "CN",
+  "score_mal": 6.42,
+  "popularity": 285,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141883-oiU5rEinGMnz.png",
+    "poster_color": "#e4c95d",
+    "banner": "https://image.tmdb.org/t/p/original/aaetnRTucFLHLmhZvXyNvE4bIFU.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/prnbm3Rf9uQna61y7h6FIozy8lb.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/aaetnRTucFLHLmhZvXyNvE4bIFU.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141883-oiU5rEinGMnz.png"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md28235392/"
+    },
+    {
+      "site": "Bilibili TV",
+      "url": "https://www.bilibili.tv/en/media/2085349"
+    },
+    {
+      "site": "Bilibili Global",
+      "url": "https://www.bilibili.tv/en/index"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T08:01:31.336Z",
+  "cache_version": 1
+}

@@ -1,0 +1,85 @@
+{
+  "ids": {
+    "anilist": 109483,
+    "mal": 42132,
+    "anidb": 15218,
+    "tmdb": 89559,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Benghuai Xinghe",
+    "english": null,
+    "native": "崩坏星河",
+    "synonyms": [
+      "Galaxy Devastator"
+    ],
+    "tmdb_title": "Galaxy Devastator"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 12,
+  "duration": 20,
+  "start_date": {
+    "year": 2019,
+    "month": 5,
+    "day": 5
+  },
+  "end_date": {
+    "year": 2019,
+    "month": 7,
+    "day": 14
+  },
+  "genres": [
+    "Action",
+    "Adventure",
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Full CGI",
+    "Space",
+    "War"
+  ],
+  "studios": [
+    "Kaca Entertainment"
+  ],
+  "producers": [
+    "Tencent Penguin Pictures"
+  ],
+  "source": "OTHER",
+  "country": "CN",
+  "score_mal": 6.17,
+  "popularity": 279,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109483-r9WLRfKwFINv.jpg",
+    "poster_color": "#e49343",
+    "banner": "https://image.tmdb.org/t/p/original/auKQqEgVdz2uXD9eIjVc7XrMpoe.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/puDouBNNSeAtoVAOIV5d0AtWiBC.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/auKQqEgVdz2uXD9eIjVc7XrMpoe.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109483-r9WLRfKwFINv.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "http://v.qq.com/detail/m/m3lcm5me8pe7exz.html"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLLAr5GYz8LF7c-Gb_qYsXtd5-5FLpBNS7"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T08:02:40.826Z",
+  "cache_version": 1
+}

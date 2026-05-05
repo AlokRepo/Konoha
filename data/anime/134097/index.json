@@ -1,0 +1,78 @@
+{
+  "ids": {
+    "anilist": 134097,
+    "mal": 49432,
+    "anidb": 18836,
+    "tmdb": 217356,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Chi Yan Jinyiwei",
+    "english": "The Flame Imperial Guards",
+    "native": "赤焰锦衣卫",
+    "synonyms": [],
+    "tmdb_title": "The Flame Imperial Guards"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 24,
+  "start_date": {
+    "year": 2022,
+    "month": 12,
+    "day": 31
+  },
+  "end_date": {
+    "year": 2023,
+    "month": 5,
+    "day": 24
+  },
+  "genres": [
+    "Action",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "CHOSEN",
+    "BETOBE"
+  ],
+  "producers": [
+    "Energy Studio",
+    "Fujian Ziyan Animation Technology",
+    "iQIYI"
+  ],
+  "country": "CN",
+  "score_mal": 6.45,
+  "popularity": 274,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx134097-5dGaU658iPcl.png",
+    "poster_color": "#d66b1a",
+    "banner": "https://image.tmdb.org/t/p/original/5NkfxtR36p2ZSqxqEK7TG85yeRJ.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/jkVYDGvduP4Av4WtBCiK1myeyBQ.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/5NkfxtR36p2ZSqxqEK7TG85yeRJ.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx134097-5dGaU658iPcl.png"
+  },
+  "streaming": [
+    {
+      "site": "iQIYI",
+      "url": "https://www.iqiyi.com/a_iuqc8i5bax.html"
+    },
+    {
+      "site": "iQ",
+      "url": "https://www.iq.com/album/赤焰锦衣卫-2022-iuqc8i5bax?lang=en_us"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T08:03:55.146Z",
+  "cache_version": 1
+}

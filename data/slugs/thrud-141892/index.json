@@ -1,0 +1,78 @@
+{
+  "ids": {
+    "anilist": 141892,
+    "mal": 56246,
+    "tmdb": 232814,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Yi Kong Zhan Ge",
+    "english": "Thrud",
+    "native": "异空战歌",
+    "synonyms": [
+      "斯露德 空中女武神",
+      "Thrud Kongzhong Nüwushen"
+    ],
+    "tmdb_title": "THRUD"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 15,
+  "duration": 20,
+  "start_date": {
+    "year": 2023,
+    "month": 8,
+    "day": 17
+  },
+  "end_date": {
+    "year": 2023,
+    "month": 11,
+    "day": 16
+  },
+  "genres": [
+    "Action",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Shengying Animation"
+  ],
+  "producers": [
+    "bilibili"
+  ],
+  "source": "VIDEO_GAME",
+  "country": "CN",
+  "popularity": 275,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141892-ERXeNRzIOq1n.png",
+    "poster_color": "#e47850",
+    "banner": "https://image.tmdb.org/t/p/original/wduYhHin01RM53n6JnkKaD7ed9l.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/7Vn61QPNDBmYQYU5A5OaR2099P0.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/wduYhHin01RM53n6JnkKaD7ed9l.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141892-ERXeNRzIOq1n.png"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md28235397/"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLBakWosU0sfgyuSwNjB0WvAWFPX8Z7aSJ"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T08:03:38.117Z",
+  "cache_version": 1
+}
