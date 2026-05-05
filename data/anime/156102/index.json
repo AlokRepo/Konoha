@@ -1,0 +1,65 @@
+{
+  "ids": {
+    "anilist": 156102,
+    "tmdb": 218414,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Wanmei Zhizun",
+    "english": null,
+    "native": "完美至尊",
+    "synonyms": [],
+    "tmdb_title": "完美世界：少年至尊篇 动态漫画"
+  },
+  "format": "ONA",
+  "status": "NOT_YET_RELEASED",
+  "episodes": 1,
+  "start_date": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Foch"
+  ],
+  "producers": [
+    "bilibili"
+  ],
+  "source": "OTHER",
+  "country": "CN",
+  "popularity": 76,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156102-mHsvnYseqTqi.jpg",
+    "poster_color": "#e4bb43",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/yilNG9NusV9pHltWGtR4JHzOWwl.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156102-mHsvnYseqTqi.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md28339934/"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 80,
+  "match_signals": [
+    "exact_title",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T08:58:52.199Z",
+  "cache_version": 1
+}
