@@ -1,0 +1,92 @@
+{
+  "ids": {
+    "anilist": 185778,
+    "mal": 60200,
+    "anidb": 19401,
+    "tmdb": 291674,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Terra Live",
+    "english": "U Takes Terra",
+    "native": "テラライブ",
+    "synonyms": [
+      "U探泰拉",
+      "U Tan Tai La"
+    ],
+    "tmdb_title": "U Takes Terra"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2025,
+  "episodes": 8,
+  "duration": 7,
+  "start_date": {
+    "year": 2025,
+    "month": 5,
+    "day": 16
+  },
+  "end_date": {
+    "year": 2025,
+    "month": 6,
+    "day": 27
+  },
+  "description": "WE'RE LIVE! Join the most professional & fan-favorite streamer to explore Terra! Live stream mishaps? Not a chance!",
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "tags": [
+    "VTuber",
+    "Female Protagonist",
+    "Chibi",
+    "Travel",
+    "Slapstick",
+    "Kemonomimi",
+    "Episodic"
+  ],
+  "studios": [
+    "Space Neko Company",
+    "Panda Tower Studio"
+  ],
+  "producers": [
+    "Hypergryph"
+  ],
+  "source": "VIDEO_GAME",
+  "country": "JP",
+  "score_anilist": 65,
+  "popularity": 760,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185778-Zl01zbfShlCc.jpg",
+    "poster_color": "#f1d635",
+    "banner": "https://image.tmdb.org/t/p/original/fs0f13SlXUA0W6pgpjjHnToVjVx.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/jVqLaGBLCOAswepqdrPelrW3Ikn.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/fs0f13SlXUA0W6pgpjjHnToVjVx.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185778-Zl01zbfShlCc.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLbuSQ8SJFnFE9MUdS7-Rw0Q7NTGCGM9Vh"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLCUrmruTKw_Yie_ppFNtR_5_coID6jf1h"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T07:13:42.816Z",
+  "cache_version": 1
+}
