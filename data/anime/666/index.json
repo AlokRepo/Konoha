@@ -4,7 +4,8 @@
     "mal": 666,
     "anidb": 788,
     "tmdb": 60862,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "JoJo no Kimyou na Bouken",
@@ -63,8 +64,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 73,
-  "popularity": 43866,
-  "trending": 0,
+  "popularity": 43923,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx666-kYzXvKlUbeMP.jpg",
     "poster_color": "#e4d635",
@@ -82,8 +83,6 @@
     "year_match",
     "format_match"
   ],
-  "cached_at": "2026-05-03T05:27:25.151Z",
-  "cache_version": 1
-}Z",
+  "cached_at": "2026-05-05T02:41:58.058Z",
   "cache_version": 1
 }

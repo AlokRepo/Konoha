@@ -60,8 +60,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 76,
-  "popularity": 38238,
-  "trending": 1,
+  "popularity": 38262,
+  "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3702-TCo0UYxWQzYj.jpg",
     "poster_color": "#e4ae5d",
@@ -74,6 +74,10 @@
     {
       "site": "Hulu",
       "url": "http://www.hulu.com/detroit-metal-city-tv"
+    },
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/detroit-metal-city"
     }
   ],
   "themes": [],
@@ -85,6 +89,6 @@
     "episode_exact",
     "format_match"
   ],
-  "cached_at": "2026-05-03T05:43:00.480Z",
+  "cached_at": "2026-05-05T02:42:58.003Z",
   "cache_version": 1
 }
