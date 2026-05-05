@@ -1,0 +1,82 @@
+{
+  "ids": {
+    "anilist": 10801,
+    "mal": 10801,
+    "anidb": 8403,
+    "tmdb": 95660,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Copihan",
+    "english": "Copihan",
+    "native": "こぴはん",
+    "synonyms": [],
+    "tmdb_title": "Copihan"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 2011,
+  "episodes": 7,
+  "duration": 6,
+  "start_date": {
+    "year": 2011,
+    "month": 8,
+    "day": 12
+  },
+  "end_date": {
+    "year": 2011,
+    "month": 11,
+    "day": 3
+  },
+  "description": "A school comedy taking place in Tokyo in 2034. Copihan is a joint project of Gonzo and Kei, the illustrator of the manga version of Copihan who is best known for Hatsune Miku.",
+  "genres": [
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "School",
+    "Primarily Female Cast",
+    "Episodic",
+    "Vocal Synth",
+    "Shounen"
+  ],
+  "studios": [
+    "GONZO"
+  ],
+  "producers": [
+    "Studio Mausu",
+    "Slow Curve"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 50,
+  "popularity": 2287,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10801-Yyh6ryK7x76c.png",
+    "poster_color": "#93e45d",
+    "banner": "https://image.tmdb.org/t/p/original/55v3GocMf0EwgCVFd2BDle0eehm.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/urA96PhfbexE96TuWQ2TABwJY5D.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/55v3GocMf0EwgCVFd2BDle0eehm.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10801-Yyh6ryK7x76c.png"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/series/G8DHV78N3/copihan"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T06:35:25.451Z",
+  "cache_version": 1
+}

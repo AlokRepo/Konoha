@@ -1,0 +1,83 @@
+{
+  "ids": {
+    "anilist": 126367,
+    "mal": 50443,
+    "anidb": 17321,
+    "tmdb": 197659,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Shikong Zhi Xi",
+    "english": "Rift",
+    "native": "时空之隙",
+    "synonyms": [
+      "Space Time Rift"
+    ],
+    "tmdb_title": "Rift"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 13,
+  "duration": 18,
+  "start_date": {
+    "year": 2022,
+    "month": 4,
+    "day": 15
+  },
+  "end_date": {
+    "year": 2022,
+    "month": 7,
+    "day": 1
+  },
+  "description": "Unstable energies of the our world and an another realm has ripped open a rift of time and space. It is the only passage where monsters from the other realm can enter this world. To stop the invading monsters, a group of chosen people step forward to fight and protect the world at the rift.\n<br><br>\n(Source: Bilibili, YouTube, edited)",
+  "genres": [
+    "Action",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "B.CMAY PICTURES"
+  ],
+  "producers": [
+    "bilibili",
+    "Fantasy Westward Journey"
+  ],
+  "source": "VIDEO_GAME",
+  "country": "CN",
+  "score_anilist": 58,
+  "popularity": 2395,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126367-Z6PSXokTjqX3.png",
+    "poster_color": "#e4a150",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/126367-LmnoJBTDnmfE.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/tv2909FoFG3H7eeprpSQMKxyhSx.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/r4Ofpar5hwpjcnaVHQgJK5A0jAs.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx126367-Z6PSXokTjqX3.png"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md28230729/"
+    },
+    {
+      "site": "Bilibili TV",
+      "url": "https://www.bilibili.tv/media/1051287"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLBakWosU0sfiixdB4RMPSmdtiUHYRYZbd"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T06:34:22.152Z",
+  "cache_version": 1
+}

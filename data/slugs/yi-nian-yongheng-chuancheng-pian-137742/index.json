@@ -1,0 +1,82 @@
+{
+  "ids": {
+    "anilist": 137742,
+    "mal": 49574,
+    "anidb": 16619,
+    "tmdb": 312823,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Yi Nian Yongheng: Chuancheng Pian",
+    "english": null,
+    "native": "一念永恒 传承篇",
+    "synonyms": [
+      "Yi Nian Yongheng 2",
+      "一念永恒 第二季",
+      "A Will Eternal 2"
+    ],
+    "tmdb_title": "一念永恒"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 20,
+  "duration": 19,
+  "start_date": {
+    "year": 2022,
+    "month": 7,
+    "day": 20
+  },
+  "end_date": {
+    "year": 2022,
+    "month": 11,
+    "day": 16
+  },
+  "description": "The first part of the second season of <i>Yi Nian Yongheng</i>.",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Fantasy"
+  ],
+  "tags": [
+    "Cultivation"
+  ],
+  "studios": [
+    "B.CMAY PICTURES"
+  ],
+  "producers": [
+    "Tencent Pictures",
+    "Tencent Penguin Pictures",
+    "WEIDAO"
+  ],
+  "source": "OTHER",
+  "country": "CN",
+  "score_anilist": 79,
+  "popularity": 2359,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137742-3U96BWfr8kL0.jpg",
+    "poster_color": "#931ad6",
+    "banner": "https://image.tmdb.org/t/p/original/mjY9UOQNFdXZwFIs7HVMqOqcDTr.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/k1ZxOsc85BN1qztuuirpLl9df3.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/mjY9UOQNFdXZwFIs7HVMqOqcDTr.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137742-3U96BWfr8kL0.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/t/ww18u675tfmhas6.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 100,
+  "match_signals": [
+    "exact_title",
+    "season_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T06:34:43.283Z",
+  "cache_version": 1
+}
