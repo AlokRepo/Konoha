@@ -1,0 +1,72 @@
+{
+  "ids": {
+    "anilist": 2464,
+    "mal": 2464,
+    "tmdb": 42891,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Yoshinaga-san'chi no Gargoyle Specials",
+    "english": null,
+    "native": "吉永さん家のガーゴイル",
+    "synonyms": [
+      "Gargoyle of Yoshinaga House Specials",
+      "The Gargoyle of the Yoshinagas: Fushigi no Kuni no Kazumi",
+      "Kazumi in Wonderland"
+    ],
+    "tmdb_title": "Gargoyle of Yoshinaga House"
+  },
+  "format": "SPECIAL",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 2006,
+  "episodes": 5,
+  "duration": 4,
+  "start_date": {
+    "year": 2006,
+    "month": 7,
+    "day": 28
+  },
+  "end_date": {
+    "year": 2006,
+    "month": 11,
+    "day": 24
+  },
+  "description": "A magic book places Kazumi in a Wonderland-like world.",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Studio Hibari"
+  ],
+  "producers": [],
+  "source": "LIGHT_NOVEL",
+  "country": "JP",
+  "score_anilist": 51,
+  "popularity": 342,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2464-6KlcZp2d0xKC.jpg",
+    "poster_color": "#e4bb5d",
+    "banner": "https://image.tmdb.org/t/p/original/7rqOiQ6S9pnU6SOIRNpwGxzyi0K.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/gcplxwfC69HDJ4mOHu2QBhpNdln.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/7rqOiQ6S9pnU6SOIRNpwGxzyi0K.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b2464-6KlcZp2d0xKC.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 98,
+  "match_signals": [
+    "english_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T02:24:31.577Z",
+  "cache_version": 1
+}
