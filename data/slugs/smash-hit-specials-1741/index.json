@@ -1,0 +1,66 @@
+{
+  "ids": {
+    "anilist": 1741,
+    "mal": 1741,
+    "tmdb": 34089,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Smash Hit Specials",
+    "english": null,
+    "native": "ヒットをねらえ!",
+    "synonyms": [],
+    "tmdb_title": "Smash Hit!"
+  },
+  "format": "SPECIAL",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2004,
+  "episodes": 4,
+  "duration": 14,
+  "start_date": {
+    "year": 2004,
+    "month": 5,
+    "day": 19
+  },
+  "end_date": {
+    "year": 2004,
+    "month": 6,
+    "day": 30
+  },
+  "description": "DVD only specials.",
+  "genres": [
+    "Comedy",
+    "Ecchi"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [
+    "m.o.e."
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 45,
+  "popularity": 580,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1741.jpg",
+    "poster_color": "#f1e4bb",
+    "banner": "https://image.tmdb.org/t/p/original/2wO3yUpyDucXqqPQJww6XyJl3E1.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/yXyKMfZkgShQTTToGoOP5QjtYea.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/2wO3yUpyDucXqqPQJww6XyJl3E1.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1741.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 84,
+  "match_signals": [
+    "english_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T02:16:21.362Z",
+  "cache_version": 1
+}
