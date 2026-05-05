@@ -1,0 +1,72 @@
+{
+  "ids": {
+    "anilist": 151281,
+    "mal": 37097,
+    "anidb": 13775,
+    "tmdb": 304941,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Xiong Chumo: Guonian",
+    "english": "Boonie Bears: Homeward Journey",
+    "native": "熊出没之过年",
+    "synonyms": [],
+    "tmdb_title": "Boonie Bears: Homeward Journey"
+  },
+  "format": "SPECIAL",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 68,
+  "start_date": {
+    "year": 2013,
+    "month": 2,
+    "day": 8
+  },
+  "end_date": {
+    "year": 2013,
+    "month": 2,
+    "day": 8
+  },
+  "genres": [
+    "Adventure",
+    "Comedy"
+  ],
+  "tags": [
+    "Kids",
+    "Animals"
+  ],
+  "studios": [
+    "Fantawild Animation"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "score_mal": 5.75,
+  "popularity": 93,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151281-HwHxxtvqAV48.jpg",
+    "poster_color": "#e4bb5d",
+    "banner": "https://image.tmdb.org/t/p/original/gwEmcOQFNX0QEalCYefiEWsSW5A.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/p6a5bA8rDA6g2da60jfDO4vAFjB.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/gwEmcOQFNX0QEalCYefiEWsSW5A.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151281-HwHxxtvqAV48.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/watch?v=WfQsmkKmhR0"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 100,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T02:34:43.393Z",
+  "cache_version": 1
+}
