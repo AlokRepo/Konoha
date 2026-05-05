@@ -1,0 +1,70 @@
+{
+  "ids": {
+    "anilist": 166049,
+    "mal": 50529,
+    "anidb": 16918,
+    "tmdb": 215779,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Kiyoneko",
+    "english": null,
+    "native": "きよねこっ",
+    "synonyms": [],
+    "tmdb_title": "Kiyoneko"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2023,
+  "episodes": 10,
+  "duration": 13,
+  "start_date": {
+    "year": 2022,
+    "month": 12,
+    "day": 4
+  },
+  "end_date": {
+    "year": 2023,
+    "month": 4,
+    "day": 9
+  },
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [
+    "Animals"
+  ],
+  "studios": [],
+  "producers": [],
+  "source": "OTHER",
+  "country": "JP",
+  "popularity": 170,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b166049-ajNkNIrqqckY.jpg",
+    "poster_color": "#4393f1",
+    "banner": "https://image.tmdb.org/t/p/original/zWOV3dK5Se6dSOKFrH4OPxIfVz2.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/rt0sMLDFX7t3mi7Ui5hF83z510u.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/zWOV3dK5Se6dSOKFrH4OPxIfVz2.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b166049-ajNkNIrqqckY.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/watch?v=zhRJirH9wrc&list=PLPUGXakMkjREXbEhnVb9akrc_MImutw7q"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 125,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T08:29:21.454Z",
+  "cache_version": 1
+}

@@ -1,0 +1,78 @@
+{
+  "ids": {
+    "anilist": 166220,
+    "mal": 54931,
+    "anidb": 18473,
+    "tmdb": 223762,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Nitian Zhan Ji",
+    "english": "The Rise of the Weak",
+    "native": "逆天战纪",
+    "synonyms": [],
+    "tmdb_title": "The Rise of the Weak"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 20,
+  "start_date": {
+    "year": 2023,
+    "month": 4,
+    "day": 3
+  },
+  "end_date": {
+    "year": 2023,
+    "month": 8,
+    "day": 7
+  },
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Romance"
+  ],
+  "tags": [],
+  "studios": [
+    "Fengyun Animation"
+  ],
+  "producers": [
+    "bilibili",
+    "Beelzebufo"
+  ],
+  "source": "OTHER",
+  "country": "CN",
+  "score_mal": 5.73,
+  "popularity": 166,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166220-qIRKU28XUHAx.jpg",
+    "poster_color": "#f16b43",
+    "banner": "https://image.tmdb.org/t/p/original/hJZDe9ctYvAoeyj23MoDhNxTD8w.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/z76IVC8LPocqb1ndPX3v5cpBZXk.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/hJZDe9ctYvAoeyj23MoDhNxTD8w.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166220-qIRKU28XUHAx.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md20135591"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLBakWosU0sfhlt1AfftHhWPn7eL_B0zRZ"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T08:30:30.184Z",
+  "cache_version": 1
+}

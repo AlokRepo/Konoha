@@ -1,0 +1,74 @@
+{
+  "ids": {
+    "anilist": 137698,
+    "mal": 51385,
+    "anidb": 17358,
+    "tmdb": 200916,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Kaiju Yi Zuo Shan",
+    "english": null,
+    "native": "开局一座山",
+    "synonyms": [
+      "我有一座山寨"
+    ],
+    "tmdb_title": "开局一座山"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 12,
+  "start_date": {
+    "year": 2022,
+    "month": 4,
+    "day": 15
+  },
+  "end_date": {
+    "year": 2022,
+    "month": 6,
+    "day": 17
+  },
+  "genres": [
+    "Action",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Qiyuan Yinghua"
+  ],
+  "producers": [
+    "Tencent Penguin Pictures",
+    "Tencent Animation & Comics"
+  ],
+  "source": "OTHER",
+  "country": "CN",
+  "score_mal": 6.77,
+  "popularity": 171,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137698-BAAAZ0hsDzL6.png",
+    "poster_color": "#e4a135",
+    "banner": "https://image.tmdb.org/t/p/original/uOT4BKpGMsXMDTjBRnHU4SXF3OI.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/ks2fgPCgfqlZemJ39YTYWit9jNM.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/uOT4BKpGMsXMDTjBRnHU4SXF3OI.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137698-BAAAZ0hsDzL6.png"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/t/mzc00200yk8yt6j.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 120,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T08:29:02.956Z",
+  "cache_version": 1
+}
