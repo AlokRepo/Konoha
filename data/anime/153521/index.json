@@ -1,0 +1,68 @@
+{
+  "ids": {
+    "anilist": 153521,
+    "mal": 42464,
+    "tmdb": 281626,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Gu Xiong: Huo Qi",
+    "english": null,
+    "native": "孤雄 祸起",
+    "synonyms": [
+      "Lonely Hero"
+    ],
+    "tmdb_title": "Lonely Hero"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 27,
+  "start_date": {
+    "year": 2020,
+    "month": 5,
+    "day": 31
+  },
+  "end_date": {
+    "year": 2020,
+    "month": 5,
+    "day": 31
+  },
+  "genres": [
+    "Action"
+  ],
+  "tags": [],
+  "studios": [
+    "Aisi Animation Studio"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 90,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153521-MTFcs4KehfCn.jpg",
+    "poster_color": "#e4a150",
+    "banner": "https://image.tmdb.org/t/p/original/vggATvRZoexTVVAh6yj8Kc7wV6a.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/9z4Uz1mqTKUA6gI1gxFhaiSi0IH.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/vggATvRZoexTVVAh6yj8Kc7wV6a.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153521-MTFcs4KehfCn.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/video/BV1Sp4y1Q79i"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 90,
+  "match_signals": [
+    "exact_title",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T08:53:31.753Z",
+  "cache_version": 1
+}

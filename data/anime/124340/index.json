@@ -1,0 +1,71 @@
+{
+  "ids": {
+    "anilist": 124340,
+    "mal": 42948,
+    "anidb": 16761,
+    "tmdb": 139515,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Su Shen Xiaoren",
+    "english": "My Little Invisible Being",
+    "native": "宿身小人",
+    "synonyms": [],
+    "tmdb_title": "宿身小人"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 12,
+  "duration": 5,
+  "start_date": {
+    "year": 2020,
+    "month": 10,
+    "day": 5
+  },
+  "end_date": {
+    "year": 2020,
+    "month": 12,
+    "day": 14
+  },
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [
+    "Saiji"
+  ],
+  "producers": [],
+  "country": "CN",
+  "popularity": 85,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124340-x3SnjeUXkMex.png",
+    "poster_color": "#e4bb5d",
+    "banner": "https://image.tmdb.org/t/p/original/vAv6ksdxRUJ4RSCRqBoTS7R0IOI.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/lMUjScGQRJooIMk8LoD2ViRvOtx.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/vAv6ksdxRUJ4RSCRqBoTS7R0IOI.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124340-x3SnjeUXkMex.png"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md28229943"
+    },
+    {
+      "site": "Bilibili TV",
+      "url": "https://www.bilibili.tv/media/35297"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T08:55:04.011Z",
+  "cache_version": 1
+}

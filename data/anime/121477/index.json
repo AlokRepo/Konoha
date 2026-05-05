@@ -1,0 +1,75 @@
+{
+  "ids": {
+    "anilist": 121477,
+    "mal": 48844,
+    "anidb": 16688,
+    "tmdb": 215510,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Wo Zhen de Meiyong Mie?",
+    "english": null,
+    "native": "我真的没用咩？",
+    "synonyms": [
+      "Am I really useless?",
+      "\"Super\" Star",
+      "Call Star"
+    ],
+    "tmdb_title": "Call Star"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 12,
+  "duration": 8,
+  "start_date": {
+    "year": 2021,
+    "month": 4,
+    "day": 19
+  },
+  "end_date": {
+    "year": 2021,
+    "month": 6,
+    "day": 28
+  },
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [
+    "MAKING ANIMATION"
+  ],
+  "producers": [
+    "bilibili"
+  ],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 90,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121477-tSUVG4fJcKrH.png",
+    "poster_color": "#fec950",
+    "banner": "https://image.tmdb.org/t/p/original/fwa1y8R45r5M7RZiiPrN9vrIT75.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/8ycvoKrQS4NQDl4XdpvenXTEkeu.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/fwa1y8R45r5M7RZiiPrN9vrIT75.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121477-tSUVG4fJcKrH.png"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md28223063/"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T08:53:15.718Z",
+  "cache_version": 1
+}
