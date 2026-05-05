@@ -1,0 +1,81 @@
+{
+  "ids": {
+    "anilist": 109150,
+    "mal": 39298,
+    "anidb": 15675,
+    "tmdb": 100514,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Shi Huang Zhi Shen",
+    "english": "God of Deception",
+    "native": "嗜谎之神",
+    "synonyms": [
+      "Liar God"
+    ],
+    "tmdb_title": "God of Deception"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 13,
+  "duration": 18,
+  "start_date": {
+    "year": 2020,
+    "month": 4,
+    "day": 1
+  },
+  "end_date": {
+    "year": 2020,
+    "month": 6,
+    "day": 17
+  },
+  "description": "Lian En is a god who has lied too much and has now attracted bad karma. One day, he meets a high school student who will change his destiny forever!",
+  "genres": [
+    "Action",
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [
+    "Haoliners Animation",
+    "TrioPen Studio"
+  ],
+  "producers": [
+    "bilibili"
+  ],
+  "source": "MANGA",
+  "country": "CN",
+  "score_anilist": 54,
+  "popularity": 1587,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109150-KGI0tG3v7fjQ.jpg",
+    "poster_color": "#f1f150",
+    "banner": "https://image.tmdb.org/t/p/original/pf0tbzH5KtAgC8l6Ms3VAhhuQpk.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/nXsx7ArQ4ZSpn0FoYrHAmCIljAM.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/pf0tbzH5KtAgC8l6Ms3VAhhuQpk.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109150-KGI0tG3v7fjQ.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md4315822"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLBakWosU0sfhtfuu295gVOqBxMkbhIOOP"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T06:46:32.312Z",
+  "cache_version": 1
+}
