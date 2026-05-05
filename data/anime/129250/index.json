@@ -1,0 +1,77 @@
+{
+  "ids": {
+    "anilist": 129250,
+    "mal": 52101,
+    "anidb": 18472,
+    "tmdb": 204862,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Shen Ji Long Wei",
+    "english": "The Legend of Dragon Soldier",
+    "native": "神级龙卫",
+    "synonyms": [
+      "我的绝色总裁未婚妻",
+      "沈浪苏若雪"
+    ],
+    "tmdb_title": "The Legend of Dragon Soldier"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 26,
+  "start_date": {
+    "year": 2022,
+    "month": 6,
+    "day": 26
+  },
+  "end_date": {
+    "year": 2022,
+    "month": 12,
+    "day": 11
+  },
+  "genres": [
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Soyep"
+  ],
+  "producers": [
+    "Youku"
+  ],
+  "source": "OTHER",
+  "country": "CN",
+  "score_anilist": 51,
+  "popularity": 369,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129250-YP98RHLra7u0.jpg",
+    "poster_color": "#d6861a",
+    "banner": "https://image.tmdb.org/t/p/original/39ekgrwMcyKcyW4sE0J5ID1vCBY.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/7HFWttfMtJuQTv88Yup1MAea3gR.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/39ekgrwMcyKcyW4sE0J5ID1vCBY.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129250-YP98RHLra7u0.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Youku",
+      "url": "https://list.youku.com/show/id_dfed128f67a844748e39"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLOUUm4xsoaeCn2UVg3jaYlAX_m4Pxtcdm"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T07:43:31.704Z",
+  "cache_version": 1
+}
