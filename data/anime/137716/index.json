@@ -1,0 +1,84 @@
+{
+  "ids": {
+    "anilist": 137716,
+    "mal": 62092,
+    "anidb": 19502,
+    "tmdb": 296538,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Zaixia \"Yingtai\"",
+    "english": null,
+    "native": "在下“英台”",
+    "synonyms": [
+      "在下英台",
+      "In the Name of Ying Tai",
+      " I am \"Yingtai\" ",
+      "ข้านี่แหละจู้อิงไถ"
+    ],
+    "tmdb_title": "In the Name of Ying Tai"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 12,
+  "duration": 20,
+  "start_date": {
+    "year": 2025,
+    "month": 7,
+    "day": 25
+  },
+  "end_date": {
+    "year": 2025,
+    "month": 9,
+    "day": 14
+  },
+  "genres": [
+    "Fantasy",
+    "Music"
+  ],
+  "tags": [],
+  "studios": [
+    "KIO STUDIO"
+  ],
+  "producers": [
+    "Tencent Penguin Pictures"
+  ],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 104,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137716-o5T0cviFIUGA.png",
+    "poster_color": "#f1bb93",
+    "banner": "https://image.tmdb.org/t/p/original/mIELYLWJnqmbCPPUfyp1IKD06Lc.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/cZMQgUFMpekt8V7BtzgUfrIIUkr.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/mIELYLWJnqmbCPPUfyp1IKD06Lc.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137716-o5T0cviFIUGA.png"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/t/mzc00200t3nn676.html"
+    },
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/x/cover/mzc00200t3nn676/y410180vkqv.html"
+    },
+    {
+      "site": "WeTV",
+      "url": "https://wetv.vip/en/album/dnedbv4s6co12uy"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T08:49:11.221Z",
+  "cache_version": 1
+}

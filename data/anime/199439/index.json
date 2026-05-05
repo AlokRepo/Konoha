@@ -1,0 +1,67 @@
+{
+  "ids": {
+    "anilist": 199439,
+    "mal": 60579,
+    "anidb": 19708,
+    "tmdb": 305604,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Jian Wang 3: Shen Jianxin de 365 Tian",
+    "english": "The Man From Dao Xiang Cun",
+    "native": "剑网3·沈剑心的365天",
+    "synonyms": [
+      "JX3: Shen Jianxin's 365th Day"
+    ],
+    "tmdb_title": "The Man From Dao Xiang Cun"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 35,
+  "start_date": {
+    "year": 2025,
+    "month": 11,
+    "day": 8
+  },
+  "end_date": {
+    "year": 2026,
+    "month": 1,
+    "day": 17
+  },
+  "genres": [],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "OTHER",
+  "country": "CN",
+  "popularity": 103,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199439-7eRRNIjMTrLL.jpg",
+    "poster_color": "#28bbf1",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/aYVHZiKn8v9d204jSyW5WdWC94T.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199439-7eRRNIjMTrLL.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md23774342"
+    },
+    {
+      "site": "Bilibili Global",
+      "url": "https://www.bilibili.tv/en/index"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T08:49:24.188Z",
+  "cache_version": 1
+}

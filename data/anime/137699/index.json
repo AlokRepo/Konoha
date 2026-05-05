@@ -1,0 +1,73 @@
+{
+  "ids": {
+    "anilist": 137699,
+    "mal": 60257,
+    "tmdb": 275845,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Biaozhun Guige Zhanshi",
+    "english": null,
+    "native": "标准规格战士",
+    "synonyms": [
+      "Ordinary Warrior"
+    ],
+    "tmdb_title": "Ordinary Warriors"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 16,
+  "duration": 17,
+  "start_date": {
+    "year": 2024,
+    "month": 11,
+    "day": 3
+  },
+  "end_date": {
+    "year": 2025,
+    "month": 12,
+    "day": 15
+  },
+  "genres": [
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Paintfree"
+  ],
+  "producers": [
+    "Tencent Penguin Pictures",
+    "Bandai Namco Shanghai"
+  ],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 105,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137699-7qf4fXrO773S.png",
+    "poster_color": "#5da1e4",
+    "banner": "https://image.tmdb.org/t/p/original/9EcmH1vdR7wNiGJfXXiwxKAWjZn.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/vfUOORMOUJQQvHqHV6U0FfbNJzI.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/9EcmH1vdR7wNiGJfXXiwxKAWjZn.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137699-7qf4fXrO773S.png"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/t/mzc0020060u89rn.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "english_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T08:48:46.938Z",
+  "cache_version": 1
+}

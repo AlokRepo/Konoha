@@ -1,0 +1,72 @@
+{
+  "ids": {
+    "anilist": 124118,
+    "mal": 59366,
+    "tmdb": 260568,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Denglong Dao",
+    "english": null,
+    "native": "灯笼刀",
+    "synonyms": [
+      "Lantern Blade"
+    ],
+    "tmdb_title": "Lantern Blade"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 3,
+  "duration": 24,
+  "start_date": {
+    "year": 2024,
+    "month": 7,
+    "day": 14
+  },
+  "end_date": {
+    "year": 2024,
+    "month": 7,
+    "day": 14
+  },
+  "genres": [
+    "Action",
+    "Drama",
+    "Supernatural"
+  ],
+  "tags": [],
+  "studios": [
+    "Mote Stop-Motion Animation"
+  ],
+  "producers": [
+    "Nice Boat Animation",
+    "Tencent Penguin Pictures"
+  ],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 104,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124118-Dnvem8Hz3p9t.png",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/87a0UJSaTsGQy0m5I5GYG5NMTJ3.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124118-Dnvem8Hz3p9t.png"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/t/mzc00200w4m2jiz.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T08:49:02.994Z",
+  "cache_version": 1
+}
