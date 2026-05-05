@@ -1,0 +1,77 @@
+{
+  "ids": {
+    "anilist": 155302,
+    "mal": 55693,
+    "anidb": 18143,
+    "tmdb": 230108,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Zhen Yang Wushen",
+    "english": null,
+    "native": "真阳武神",
+    "synonyms": [
+      "Soul Of Light",
+      "阳神",
+      "Yang Shen"
+    ],
+    "tmdb_title": "Soul of Light"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 14,
+  "start_date": {
+    "year": 2023,
+    "month": 7,
+    "day": 10
+  },
+  "end_date": {
+    "year": 2023,
+    "month": 10,
+    "day": 2
+  },
+  "genres": [
+    "Action",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Wonder Cat Animation",
+    "Passion Paint Animation"
+  ],
+  "producers": [
+    "Youku"
+  ],
+  "source": "OTHER",
+  "country": "CN",
+  "score_anilist": 55,
+  "popularity": 333,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155302-JF2uKtsM6cSt.png",
+    "poster_color": "#c9e4f1",
+    "banner": "https://image.tmdb.org/t/p/original/Aa3WQgaxHwfmINyt80CEK4dH3rl.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/d0ZTdfNvld3rfObbbVeLhSw2PJl.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/Aa3WQgaxHwfmINyt80CEK4dH3rl.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155302-JF2uKtsM6cSt.png"
+  },
+  "streaming": [
+    {
+      "site": "Youku",
+      "url": "https://list.youku.com/show/id_efbb0df329ca42ab9d14"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T07:51:34.569Z",
+  "cache_version": 1
+}

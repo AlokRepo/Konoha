@@ -1,0 +1,80 @@
+{
+  "ids": {
+    "anilist": 156091,
+    "mal": 54018,
+    "anidb": 17854,
+    "tmdb": 217470,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Guan Miao Shenmeshi",
+    "english": "My Cat Hates Me",
+    "native": "关喵什么事",
+    "synonyms": [
+      "就喜欢你看不惯我又干不掉我的样子",
+      "Jiu Xihuan Ni Kanbuguan Wo You Gan Bu Diao Wo De Yangzi",
+      "I Like How You Hate Me but Can't Get Rid of Me"
+    ],
+    "tmdb_title": "My Cat Hates Me"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 13,
+  "duration": 4,
+  "start_date": {
+    "year": 2023,
+    "month": 1,
+    "day": 2
+  },
+  "end_date": {
+    "year": 2023,
+    "month": 3,
+    "day": 20
+  },
+  "description": "A young manga artist whose inspiration gradually runs out on the road to creation accidentally adopts two pets when he goes out to find inspiration. The cat is named Huanghuang, and the dog is named Bazahei. Although the two little guys often brought a lot of trouble to the teenager, they also gained two pieces of companionship and love at the same time. Although they are a cat and a dog, the teenager knows that they are family. And then, the noisy but warm and happy life of the teenager began.\n<br><br>\n(Source: bilibili.tv)",
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "tags": [],
+  "studios": [
+    "Space Shell"
+  ],
+  "producers": [
+    "bilibili"
+  ],
+  "source": "MANGA",
+  "country": "CN",
+  "score_anilist": 53,
+  "popularity": 342,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156091-fIS1ILgqH8LW.png",
+    "poster_color": "#1ac9e4",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/156091-n9wqnoEcJG8l.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/uFdE5IQUFSrHUbHRIu1znMfJezz.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156091-fIS1ILgqH8LW.png"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md28339927/"
+    },
+    {
+      "site": "Bilibili TV",
+      "url": "https://www.bilibili.tv/media/2076190"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T07:48:04.187Z",
+  "cache_version": 1
+}

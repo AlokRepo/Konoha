@@ -1,0 +1,73 @@
+{
+  "ids": {
+    "anilist": 149095,
+    "mal": 51860,
+    "anidb": 18394,
+    "tmdb": 205248,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Jidao Long Shen",
+    "english": null,
+    "native": "极道龙神",
+    "synonyms": [
+      "Rise of the dragon"
+    ],
+    "tmdb_title": "Rise of The Dragon"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 40,
+  "start_date": {
+    "year": 2022,
+    "month": 7,
+    "day": 2
+  },
+  "end_date": {
+    "year": 2022,
+    "month": 11,
+    "day": 12
+  },
+  "genres": [
+    "Action",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Ruo Hong Culture"
+  ],
+  "producers": [
+    "Youku"
+  ],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "score_anilist": 55,
+  "popularity": 335,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx149095-4fNSa2OK42MR.png",
+    "poster_color": "#e4931a",
+    "banner": "https://image.tmdb.org/t/p/original/f4C54C9qFAPhyu0mjk48Kmc9QUZ.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/qjQ0OmOh1LPyhTx4QHyguQBdvpZ.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/f4C54C9qFAPhyu0mjk48Kmc9QUZ.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx149095-4fNSa2OK42MR.png"
+  },
+  "streaming": [
+    {
+      "site": "Youku",
+      "url": "https://list.youku.com/show/id_acdd92cc1cac4bc7af56"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T07:50:34.005Z",
+  "cache_version": 1
+}

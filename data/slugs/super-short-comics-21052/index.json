@@ -1,0 +1,64 @@
+{
+  "ids": {
+    "anilist": 21052,
+    "mal": 30013,
+    "anidb": 11072,
+    "tmdb": 112859,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Super Short Comics",
+    "english": null,
+    "native": "スーパーショートコミックス",
+    "synonyms": [],
+    "tmdb_title": "スーパーショートコミックス"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2015,
+  "episodes": 8,
+  "duration": 5,
+  "start_date": {
+    "year": 2015,
+    "month": 11,
+    "day": 2
+  },
+  "end_date": {
+    "year": 2015,
+    "month": 12,
+    "day": 21
+  },
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [
+    "Surreal Comedy"
+  ],
+  "studios": [],
+  "producers": [],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 44,
+  "popularity": 340,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21052-bD2R9pRsF7F9.jpg",
+    "poster_color": "#356ba1",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/tXqmCPvnLJukMAJjkEuFhlHfbl4.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21052-bD2R9pRsF7F9.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T07:48:38.214Z",
+  "cache_version": 1
+}
