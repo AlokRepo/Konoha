@@ -1,0 +1,71 @@
+{
+  "ids": {
+    "anilist": 825,
+    "mal": 825,
+    "anidb": 3564,
+    "tmdb": 88023,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "King of Fighters: Another Day",
+    "english": null,
+    "native": "ザ・キング・オブ・ファイターズ アナザーデイ",
+    "synonyms": [
+      "KOF"
+    ],
+    "tmdb_title": "The King of Fighters: Another Day"
+  },
+  "format": "OVA",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2005,
+  "episodes": 4,
+  "duration": 10,
+  "start_date": {
+    "year": 2005,
+    "month": 12,
+    "day": 2
+  },
+  "end_date": {
+    "year": 2006,
+    "month": 3,
+    "day": 3
+  },
+  "description": "The four episodes are set in Southtown, the imaginary city well known to all fans as the stage of numerous death matches throughout the KOF series. Many past heroes of the saga make their appearance here, and the four plots intertwine to create a large-scale drama, that is also linked to the story of KOF Maximum Impact 2. ",
+  "genres": [
+    "Adventure",
+    "Drama"
+  ],
+  "tags": [],
+  "studios": [
+    "Production I.G"
+  ],
+  "producers": [],
+  "source": "VIDEO_GAME",
+  "country": "JP",
+  "score_anilist": 57,
+  "popularity": 2419,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b825-1JmwDIQkfNZF.jpg",
+    "poster_color": "#f1c993",
+    "banner": "https://image.tmdb.org/t/p/original/e354Jr2NVJ5oDjzEdbfaOskOM4k.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/wS5dElsRNhKJZux9Ghvhqcr0lt0.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/e354Jr2NVJ5oDjzEdbfaOskOM4k.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b825-1JmwDIQkfNZF.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 155,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T03:48:02.908Z",
+  "cache_version": 1
+}

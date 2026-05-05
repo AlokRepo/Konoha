@@ -1,0 +1,90 @@
+{
+  "ids": {
+    "anilist": 4200,
+    "mal": 4200,
+    "anidb": 882,
+    "tmdb": 153175,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Dirty Pair (OVA)",
+    "english": null,
+    "native": "ダーティペア (OVA)",
+    "synonyms": [
+      "Original Dirty Pair",
+      "Dirty Pair (1987)"
+    ],
+    "tmdb_title": "Dirty Pair OVA"
+  },
+  "format": "OVA",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 1988,
+  "episodes": 10,
+  "duration": 25,
+  "start_date": {
+    "year": 1987,
+    "month": 12,
+    "day": 21
+  },
+  "end_date": {
+    "year": 1988,
+    "month": 4,
+    "day": 21
+  },
+  "description": "Set in the future Kei and Yuri are Trouble Consultants for The 3WA. Code Named \"Lovely Angels\", but, they are known throughout the galaxy as The Dirty Pair. They always solve their case, but, not without causing collateral damage and mayhem.\n<br><br>\n(Source: Anime News Network)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Space",
+    "Female Protagonist",
+    "Episodic"
+  ],
+  "studios": [
+    "Sunrise",
+    "Kino Production"
+  ],
+  "producers": [
+    "The Right Stuf International",
+    "VAP"
+  ],
+  "source": "LIGHT_NOVEL",
+  "country": "JP",
+  "score_anilist": 70,
+  "popularity": 3229,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx4200-9x7l994VJk2N.jpg",
+    "poster_color": "#f19350",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n4200-8AVzxiWXzKxE.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/4kMcigAEeVJcqcX49oOjURq4bAP.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx4200-9x7l994VJk2N.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/dirty-pair-ova"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLrrh84y760v83saydAIH4cusEI9-Tf0il"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 150,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T03:35:27.114Z",
+  "cache_version": 1
+}

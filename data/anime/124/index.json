@@ -1,0 +1,89 @@
+{
+  "ids": {
+    "anilist": 124,
+    "mal": 124,
+    "anidb": 165,
+    "tmdb": 246458,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Fushigi Yuugi: Eikoden",
+    "english": "Mysterious Play: Eikoden",
+    "native": "ふしぎ遊戯 -永光伝-",
+    "synonyms": [
+      "Fushigi Yuugi OVA 3",
+      "Fushigi Yugi: Eikoden"
+    ],
+    "tmdb_title": "ふしぎ遊戯 -永光伝"
+  },
+  "format": "OVA",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2001,
+  "episodes": 4,
+  "duration": 29,
+  "start_date": {
+    "year": 2001,
+    "month": 12,
+    "day": 21
+  },
+  "end_date": {
+    "year": 2002,
+    "month": 6,
+    "day": 25
+  },
+  "description": "Taka (technically Tamahome) and Miaka are now happily married and only six months before their new family would be born, but an obessed girl named Mayo would do anything to make Taka hers. She enters the world of the Four Gods, determined to win Taka's heart and be the new priestess.",
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Romance"
+  ],
+  "tags": [
+    "Shoujo",
+    "Female Protagonist",
+    "Heterosexual",
+    "Isekai",
+    "Historical",
+    "Ancient China",
+    "Reincarnation",
+    "Pregnancy"
+  ],
+  "studios": [
+    "Studio Pierrot",
+    "Studio Pierrot"
+  ],
+  "producers": [
+    "Fuji Creative Corporation",
+    "Shogakukan-Shueisha Productions",
+    "Geneon Entertainment"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 61,
+  "popularity": 3048,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/124.jpg",
+    "poster_color": "#e4785d",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/djP76a1Nt7d9yz75CxqJ15REUHV.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/124.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/fushigi-yugi-eikoden"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T03:37:34.583Z",
+  "cache_version": 1
+}
