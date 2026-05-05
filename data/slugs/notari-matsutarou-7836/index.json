@@ -1,0 +1,61 @@
+{
+  "ids": {
+    "anilist": 7836,
+    "mal": 7836,
+    "anidb": 5389,
+    "tmdb": 212975,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Notari Matsutarou",
+    "english": null,
+    "native": "のたり松太郎",
+    "synonyms": [],
+    "tmdb_title": "Notari Matsutarou"
+  },
+  "format": "OVA",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 1990,
+  "episodes": 10,
+  "duration": 30,
+  "start_date": {
+    "year": 1990,
+    "month": 11,
+    "day": 22
+  },
+  "end_date": {
+    "year": 1991,
+    "month": 4,
+    "day": 25
+  },
+  "genres": [
+    "Sports"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "country": "JP",
+  "score_anilist": 57,
+  "popularity": 370,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7836.jpg",
+    "poster_color": "#d65d1a",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/xPlmQsU9uxRCfjTUnHyrt7Y2WCQ.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/7836.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T05:22:31.240Z",
+  "cache_version": 1
+}
