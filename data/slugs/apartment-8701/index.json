@@ -1,0 +1,66 @@
+{
+  "ids": {
+    "anilist": 8701,
+    "mal": 8701,
+    "anidb": 11409,
+    "tmdb": 300727,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Apartment!",
+    "english": null,
+    "native": null,
+    "synonyms": [],
+    "tmdb_title": "Apartment"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2004,
+  "episodes": 1,
+  "duration": 5,
+  "start_date": {
+    "year": 2004,
+    "month": 5,
+    "day": 16
+  },
+  "end_date": {
+    "year": 2004,
+    "month": 5,
+    "day": 16
+  },
+  "description": "A young man moves to the new place. He gradually makes a good relationship with neighbors that live in the same apartment.<br><br>\n(Source: aokijun.net)",
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "country": "JP",
+  "score_anilist": 49,
+  "popularity": 490,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8701.jpg",
+    "poster_color": "#f1c9d6",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8701.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/watch?v=XYa6v7uBrH4"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 110,
+  "match_signals": [
+    "exact_title",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T07:32:32.666Z",
+  "cache_version": 1
+}

@@ -1,0 +1,87 @@
+{
+  "ids": {
+    "anilist": 114116,
+    "mal": 42285,
+    "anidb": 15664,
+    "tmdb": 105120,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Shi Zhi Ge - Hua Yu Yan De Kuangxiang Shi",
+    "english": "Song of Time",
+    "native": "时之歌—花与焰的狂想诗",
+    "synonyms": [
+      "Song of Time - Rhapsody of Flowers and Flames"
+    ],
+    "tmdb_title": "Song of Time"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 13,
+  "duration": 20,
+  "start_date": {
+    "year": 2020,
+    "month": 7,
+    "day": 16
+  },
+  "end_date": {
+    "year": 2020,
+    "month": 10,
+    "day": 1
+  },
+  "description": "The story takes place on Verhaeren, a planet in the Milky Way.<br><br>One day, a mysterious man in black arrived on the planet to stir up chaos. However, he realizes that he got the time and place wrong. Despite it all, the threatening atmosphere is still present and Hsuan Dodge decides to unite all the elites from the 4 kingdoms in order to maintain peace.",
+  "genres": [
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Aqua Entertainment"
+  ],
+  "producers": [
+    "bilibili"
+  ],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "score_anilist": 51,
+  "popularity": 518,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114116-qHJzPXDu2VEv.png",
+    "poster_color": "#43c9e4",
+    "banner": "https://image.tmdb.org/t/p/original/n2v3SRpvNAezpp13tuTM7WY1n5X.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/kO8BVnpg2m2yjX6ArcFgjm8j95Y.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/n2v3SRpvNAezpp13tuTM7WY1n5X.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114116-qHJzPXDu2VEv.png"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md4314562/"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLBakWosU0sfiVW2F3JPpbM5DXZK19MjvQ"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLBakWosU0sfjMrinzaa9gs8qxElsgWOkk"
+    },
+    {
+      "site": "Bilibili TV",
+      "url": "https://www.bilibili.tv/media/34693"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T07:30:03.363Z",
+  "cache_version": 1
+}
