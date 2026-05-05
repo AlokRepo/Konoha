@@ -1,0 +1,82 @@
+{
+  "ids": {
+    "anilist": 2067,
+    "mal": 2067,
+    "anidb": 666,
+    "tmdb": 280594,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Gekiganger 3: Nekketsu Daikessen",
+    "english": "Gekiganger 3",
+    "native": "ゲキ・ガンガー３　熱血大決戦",
+    "synonyms": [
+      "Nadesico OVA",
+      "Gekiganger 3: The Movie"
+    ],
+    "tmdb_title": "Gekiganger 3 - The Movie"
+  },
+  "format": "OVA",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 1998,
+  "episodes": 1,
+  "duration": 30,
+  "start_date": {
+    "year": 1998,
+    "month": 2,
+    "day": 21
+  },
+  "end_date": {
+    "year": 1998,
+    "month": 2,
+    "day": 21
+  },
+  "description": "Ken, Joe, and Akira, three high school students, must combine their three mecha into Gekiganger III to defeat the evil Prince Akara and Emperor Hyperion. The OAV is a compilation of the scenes from Nadesico, a new \"movie\", and is a parody of many mecha series from the 80s.\n<br><br>\n(Source: Anime News Network)",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Parody",
+    "Super Robot",
+    "Male Protagonist",
+    "Primarily Male Cast"
+  ],
+  "studios": [
+    "Xebec"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 63,
+  "popularity": 1902,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2067.jpg",
+    "poster_color": "#e4ae50",
+    "banner": "https://image.tmdb.org/t/p/original/6vnS4bnfeHkoiNZPSVfUi7E5zOp.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/x15K8AVIRXKAIAI0BuCu1KjNn4z.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/6vnS4bnfeHkoiNZPSVfUi7E5zOp.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2067.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/martian-successor-nadesico"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 100,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T03:59:34.838Z",
+  "cache_version": 1
+}
