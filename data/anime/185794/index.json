@@ -1,0 +1,79 @@
+{
+  "ids": {
+    "anilist": 185794,
+    "mal": 59915,
+    "anidb": 18945,
+    "tmdb": 273768,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Shendao Dizun",
+    "english": null,
+    "native": "神道帝尊",
+    "synonyms": [
+      "Divine Lord of the Heavens"
+    ],
+    "tmdb_title": "Divine Lord of the Heavens"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 48,
+  "duration": 7,
+  "start_date": {
+    "year": 2024,
+    "month": 10,
+    "day": 22
+  },
+  "end_date": {
+    "year": 2025,
+    "month": 3,
+    "day": 18
+  },
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [
+    "CGI",
+    "Full CGI"
+  ],
+  "studios": [
+    "Ruo Hong Culture"
+  ],
+  "producers": [
+    "bilibili"
+  ],
+  "source": "OTHER",
+  "country": "CN",
+  "score_mal": 7,
+  "popularity": 178,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185794-8rVZfoeJU62O.jpg",
+    "poster_color": "#e45d86",
+    "banner": "https://image.tmdb.org/t/p/original/7fh2I90ZNq85TvGFjgGUIMz1Ktr.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/5KzBP4jdxsNAjRE1PokEGXJx6xA.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/7fh2I90ZNq85TvGFjgGUIMz1Ktr.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185794-8rVZfoeJU62O.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md22731221"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T08:27:25.901Z",
+  "cache_version": 1
+}

@@ -1,0 +1,64 @@
+{
+  "ids": {
+    "anilist": 101181,
+    "mal": 20705,
+    "anidb": 9958,
+    "tmdb": 197144,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Baka Misérables",
+    "english": "Baka Misérables",
+    "native": "バカ・ミゼラブル",
+    "synonyms": [],
+    "tmdb_title": "バカ・ミゼラブル"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 3,
+  "duration": 3,
+  "start_date": {
+    "year": 2013,
+    "month": 5,
+    "day": 21
+  },
+  "end_date": {
+    "year": 2013,
+    "month": 6,
+    "day": 28
+  },
+  "description": "Baka Miserables follows the every day life of a family that goes into Les Misérables-style ballads for minor inconveniences or irks.",
+  "genres": [
+    "Music"
+  ],
+  "tags": [],
+  "studios": [
+    "DLE"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 44,
+  "popularity": 171,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/101181-N6KaK2bWrPUm.jpg",
+    "poster_color": "#f1f15d",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/4Kk7ql2DeDosZDBlbkY4AmgLjpL.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/101181-N6KaK2bWrPUm.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T08:28:44.573Z",
+  "cache_version": 1
+}

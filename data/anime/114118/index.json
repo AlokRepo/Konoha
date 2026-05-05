@@ -1,0 +1,88 @@
+{
+  "ids": {
+    "anilist": 114118,
+    "mal": 49205,
+    "anidb": 16452,
+    "tmdb": 129299,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Hong Huang",
+    "english": "R.E.D",
+    "native": "红荒",
+    "synonyms": [
+      "Aurora",
+      "Rescue Eternal Desert"
+    ],
+    "tmdb_title": "Rescue Eternal Desert"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 13,
+  "duration": 15,
+  "start_date": {
+    "year": 2021,
+    "month": 7,
+    "day": 13
+  },
+  "end_date": {
+    "year": 2021,
+    "month": 11,
+    "day": 9
+  },
+  "description": "After a disaster destroyed the planet, Jiu led a group of armed escorts and traveled around the red wasteland to find the method to heal the planet.\n<br><br>\n(Source: Youtube Description)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "tags": [],
+  "studios": [
+    "Maten Animation"
+  ],
+  "producers": [
+    "bilibili"
+  ],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 176,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114118-KtHjAVt6lirU.png",
+    "poster_color": "#e46b50",
+    "banner": "https://image.tmdb.org/t/p/original/b8D7uauLgg4AN6kU0SvcR8F2olM.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/l5we014bo9mckzppBZ1c1EJ976S.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/b8D7uauLgg4AN6kU0SvcR8F2olM.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114118-KtHjAVt6lirU.png"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md28223044/"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLBakWosU0sfgU9h-rFh-L_U-H4HLH8q2f"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLBakWosU0sfhe9DYRHRR72sfSu2bFJqRq"
+    },
+    {
+      "site": "Bilibili TV",
+      "url": "https://www.bilibili.tv/media/1013285"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T08:27:49.025Z",
+  "cache_version": 1
+}

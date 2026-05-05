@@ -1,0 +1,63 @@
+{
+  "ids": {
+    "anilist": 103481,
+    "mal": 29971,
+    "tmdb": 135729,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "landmark",
+    "english": null,
+    "native": "landmark",
+    "synonyms": [],
+    "tmdb_title": "Landmark"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 4,
+  "start_date": {
+    "year": 2007,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 2007,
+    "month": null,
+    "day": null
+  },
+  "description": "Short animation by Taro Shinkai.",
+  "genres": [],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 35,
+  "popularity": 181,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103481-bBTM4TqZnsI3.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/kIcYmORZSISVZzMURzaMZNy0Z2m.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/aUgq1ErG8kwzl88s5SUV2RhCsNt.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/kIcYmORZSISVZzMURzaMZNy0Z2m.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/103481-bBTM4TqZnsI3.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Vimeo",
+      "url": "https://vimeo.com/14225274"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T08:26:42.172Z",
+  "cache_version": 1
+}
