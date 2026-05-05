@@ -1,0 +1,73 @@
+{
+  "ids": {
+    "anilist": 20787,
+    "mal": 25431,
+    "anidb": 10747,
+    "tmdb": 107560,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Chain Chronicle: Short Animation",
+    "english": null,
+    "native": "チェインクロニクル ~ショートアニメ~",
+    "synonyms": [],
+    "tmdb_title": "Chain Chronicle"
+  },
+  "format": "OVA",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2014,
+  "episodes": 8,
+  "duration": 6,
+  "start_date": {
+    "year": 2014,
+    "month": 12,
+    "day": 18
+  },
+  "end_date": {
+    "year": 2014,
+    "month": 12,
+    "day": 18
+  },
+  "description": "An anime adaptation of the game for mobile devices Chain Chronicle.<br>\n<br>\nFeatures eight short episodes that introduces the story, setting, and characters.\n",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [
+    "Magic",
+    "Swordplay",
+    "War"
+  ],
+  "studios": [],
+  "producers": [
+    "Sotsu"
+  ],
+  "source": "VIDEO_GAME",
+  "country": "JP",
+  "score_anilist": 54,
+  "popularity": 3931,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20787-wz46xebnt5yi.jpg",
+    "poster_color": "#e4e45d",
+    "banner": "https://image.tmdb.org/t/p/original/vqR0Qm68uOy7PnC9oisy3neZjrm.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/uLOA89WrDHBDAwLOUMyDOMP8TaC.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/vqR0Qm68uOy7PnC9oisy3neZjrm.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/20787-wz46xebnt5yi.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 114,
+  "match_signals": [
+    "english_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T03:25:51.282Z",
+  "cache_version": 1
+}
