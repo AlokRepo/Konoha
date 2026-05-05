@@ -1,0 +1,68 @@
+{
+  "ids": {
+    "anilist": 6684,
+    "mal": 6684,
+    "tmdb": 25395,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Marie & Gali Special",
+    "english": null,
+    "native": "マリー＆ガリー",
+    "synonyms": [
+      "Marie & Gali Episode 9.5"
+    ],
+    "tmdb_title": "Marie & Gali"
+  },
+  "format": "SPECIAL",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 2009,
+  "episodes": 1,
+  "duration": 4,
+  "start_date": {
+    "year": 2009,
+    "month": 6,
+    "day": 2
+  },
+  "end_date": {
+    "year": 2009,
+    "month": 6,
+    "day": 2
+  },
+  "description": "Special episode 9.5.",
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 46,
+  "popularity": 359,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6684.jpg",
+    "poster_color": "#f1286b",
+    "banner": "https://image.tmdb.org/t/p/original/5TdJdDdbsGczj5zeVWSbqg2QGv4.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/vqvQXxCVnJfoBMV7Lu6N1Ljqlr7.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/5TdJdDdbsGczj5zeVWSbqg2QGv4.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/6684.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 99,
+  "match_signals": [
+    "english_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T02:23:19.614Z",
+  "cache_version": 1
+}
