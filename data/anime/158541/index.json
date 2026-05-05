@@ -1,0 +1,68 @@
+{
+  "ids": {
+    "anilist": 158541,
+    "mal": 30625,
+    "tmdb": 79237,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Princess Princess Specials",
+    "english": null,
+    "native": "プリンセス・プリンセス",
+    "synonyms": [
+      " Princess Princess Omake"
+    ],
+    "tmdb_title": "Princess Princess"
+  },
+  "format": "SPECIAL",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 2006,
+  "episodes": 12,
+  "duration": 1,
+  "start_date": {
+    "year": 2006,
+    "month": 7,
+    "day": 19
+  },
+  "end_date": {
+    "year": 2006,
+    "month": 12,
+    "day": 20
+  },
+  "description": "Short omake episodes included on the Blu-ray/DVD volumes of Princess Princess.",
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [
+    "Shoujo"
+  ],
+  "studios": [],
+  "producers": [],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 52,
+  "popularity": 397,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b158541-2VTfP5q11uO9.jpg",
+    "poster_color": "#f1e4bb",
+    "banner": "https://image.tmdb.org/t/p/original/5pj03V5H2nFKzSfGVYrJRCbkxnn.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/AvhHA6jDySf1FrrnswS3u5vO9Se.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/5pj03V5H2nFKzSfGVYrJRCbkxnn.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b158541-2VTfP5q11uO9.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 114,
+  "match_signals": [
+    "english_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T02:21:14.942Z",
+  "cache_version": 1
+}
