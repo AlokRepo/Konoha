@@ -1,0 +1,73 @@
+{
+  "ids": {
+    "anilist": 208065,
+    "mal": 63415,
+    "tmdb": 313191,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Lele Bianlidian",
+    "english": null,
+    "native": "乐乐便利店",
+    "synonyms": [
+      "Lele Convenience Store"
+    ],
+    "tmdb_title": "Lele Convenience Store"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 10,
+  "duration": 10,
+  "start_date": {
+    "year": 2026,
+    "month": 2,
+    "day": 4
+  },
+  "end_date": {
+    "year": 2026,
+    "month": 4,
+    "day": 1
+  },
+  "description": "Lele, a white dog, and Xiaoliang, a gray one-eyed cat, run a struggling convenience store. Besides selling goods, they also take on commissions to earn money. The story follows Lele and Xiaoliang as they complete various tasks, experiencing a series of small adventures together—stories about courage, understanding, and learning how to love and be loved.<br><br>(Source: Bilibili, translated)",
+  "genres": [
+    "Fantasy",
+    "Slice of Life"
+  ],
+  "tags": [],
+  "studios": [
+    "Sharefun Studio"
+  ],
+  "producers": [
+    "Aha Entertainment"
+  ],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 35,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208065-eryEusVwlDgg.jpg",
+    "poster_color": "#5dbbf1",
+    "banner": "https://image.tmdb.org/t/p/original/keBy2GlZS0DQIbKFS8DThmyXs1v.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/106Nic791HonTuPNXqnmIGanDHF.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/keBy2GlZS0DQIbKFS8DThmyXs1v.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208065-eryEusVwlDgg.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md290214238"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T09:13:29.913Z",
+  "cache_version": 1
+}

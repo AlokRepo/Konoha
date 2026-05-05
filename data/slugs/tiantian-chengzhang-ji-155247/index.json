@@ -1,0 +1,77 @@
+{
+  "ids": {
+    "anilist": 155247,
+    "mal": 53218,
+    "anidb": 15844,
+    "tmdb": 208998,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Tiantian Chengzhang Ji",
+    "english": null,
+    "native": "天天成长记",
+    "synonyms": [
+      "Growing Up"
+    ],
+    "tmdb_title": "天天成长记"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 13,
+  "duration": 13,
+  "start_date": {
+    "year": 2017,
+    "month": 7,
+    "day": 28
+  },
+  "end_date": {
+    "year": 2017,
+    "month": 10,
+    "day": 20
+  },
+  "genres": [
+    "Slice of Life"
+  ],
+  "tags": [],
+  "studios": [
+    "Shangshui Original"
+  ],
+  "producers": [],
+  "source": "OTHER",
+  "country": "CN",
+  "popularity": 38,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155247-UWutwKnvxYiG.jpg",
+    "poster_color": "#d6931a",
+    "banner": "https://image.tmdb.org/t/p/original/djk82BCJjiqVzNpzfRnnIdIxOSX.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/jk5EcsYNUTPyTjgvXjJDFqwSuDI.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/djk82BCJjiqVzNpzfRnnIdIxOSX.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155247-UWutwKnvxYiG.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/t/mzc00200bf1vzit.html"
+    },
+    {
+      "site": "Youku",
+      "url": "https://list.youku.com/show/id_02efbfbd1d5e6eefbfbd"
+    },
+    {
+      "site": "iQIYI",
+      "url": "https://www.iqiyi.com/a_19rrh7bzi5.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 95,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T09:12:27.273Z",
+  "cache_version": 1
+}

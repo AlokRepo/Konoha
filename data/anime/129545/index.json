@@ -1,0 +1,63 @@
+{
+  "ids": {
+    "anilist": 129545,
+    "mal": 47889,
+    "tmdb": 280701,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Jingjing Lai Ledao",
+    "english": null,
+    "native": "京京来乐道",
+    "synonyms": [],
+    "tmdb_title": "京京来乐道"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 4,
+  "duration": 2,
+  "start_date": {
+    "year": 2019,
+    "month": 8,
+    "day": 6
+  },
+  "end_date": {
+    "year": 2019,
+    "month": 8,
+    "day": 27
+  },
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [
+    "Painting Dream"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 37,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129545-M1VxeTCzxvB4.png",
+    "poster_color": "#5da1e4",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129545-M1VxeTCzxvB4.png"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md28221653/"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T09:12:48.852Z",
+  "cache_version": 1
+}
