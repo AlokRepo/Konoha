@@ -1,0 +1,81 @@
+{
+  "ids": {
+    "anilist": 13287,
+    "mal": 13287,
+    "tmdb": 42858,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Galaxy Angel: Sukiyaki Bentou Goninmae",
+    "english": "Galaxy Angel: Five Sukiyaki Lunch Boxes",
+    "native": "ギャラクシーエンジェル",
+    "synonyms": [
+      "Galaxy Angel Special"
+    ],
+    "tmdb_title": "Galaxy Angel"
+  },
+  "format": "SPECIAL",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2002,
+  "episodes": 1,
+  "duration": 15,
+  "start_date": {
+    "year": 2002,
+    "month": 1,
+    "day": 25
+  },
+  "end_date": {
+    "year": 2002,
+    "month": 1,
+    "day": 25
+  },
+  "description": "DVD only episode.",
+  "genres": [
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Primarily Female Cast",
+    "Ensemble Cast",
+    "Surreal Comedy",
+    "CGI",
+    "Kemonomimi"
+  ],
+  "studios": [
+    "MADHOUSE"
+  ],
+  "producers": [
+    "Broccoli"
+  ],
+  "country": "JP",
+  "score_anilist": 64,
+  "popularity": 1080,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13287.jpg",
+    "poster_color": "#e4c91a",
+    "banner": "https://image.tmdb.org/t/p/original/gvJA4s9nsxqn7KJzczonaJkvqrZ.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/sYFBemT73ZxBRQcjWWCUmD2FY4Y.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/gvJA4s9nsxqn7KJzczonaJkvqrZ.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/13287.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/watch?v=_QS0pYWrcag&list=PLrrh84y760v9juDJkEsiVkWAHvjue0mg6&index=29"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 89,
+  "match_signals": [
+    "english_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T02:04:49.659Z",
+  "cache_version": 1
+}
