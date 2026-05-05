@@ -1,0 +1,61 @@
+{
+  "ids": {
+    "anilist": 132470,
+    "tmdb": 132623,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Jidao Zongshi",
+    "english": null,
+    "native": "极道宗师",
+    "synonyms": [],
+    "tmdb_title": "极道宗师"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 24,
+  "duration": 11,
+  "start_date": {
+    "year": 2021,
+    "month": 2,
+    "day": 5
+  },
+  "end_date": {
+    "year": 2021,
+    "month": 7,
+    "day": 9
+  },
+  "genres": [
+    "Action"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "MANGA",
+  "country": "CN",
+  "popularity": 61,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132470-gUKKAZrALCaM.png",
+    "poster_color": "#fe780d",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/4xkf2LYWGgbLMG7sg4xFKoHDwUZ.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132470-gUKKAZrALCaM.png"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/m/mzc00200bztj7ax.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 95,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T09:04:44.560Z",
+  "cache_version": 1
+}

@@ -1,0 +1,70 @@
+{
+  "ids": {
+    "anilist": 120521,
+    "mal": 42330,
+    "anidb": 16641,
+    "tmdb": 198962,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Sansan De Ezuoju Chufang",
+    "english": null,
+    "native": "三三的恶作剧厨房",
+    "synonyms": [
+      "Sansan's Prank Kitchen"
+    ],
+    "tmdb_title": "三三的恶作剧厨房"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 10,
+  "duration": 1,
+  "start_date": {
+    "year": 2020,
+    "month": 7,
+    "day": 30
+  },
+  "end_date": {
+    "year": 2020,
+    "month": 10,
+    "day": 1
+  },
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [
+    "Sansan Studio"
+  ],
+  "producers": [
+    "NetEase"
+  ],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 64,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120521-hceYTcU7c2Qi.png",
+    "poster_color": "#e4ae50",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/uuqazSnQ0ZQfu1DVAR6iFAZhvvB.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120521-hceYTcU7c2Qi.png"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md28229278/"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T09:03:38.425Z",
+  "cache_version": 1
+}
