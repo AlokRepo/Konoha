@@ -1,0 +1,73 @@
+{
+  "ids": {
+    "anilist": 137710,
+    "mal": 59380,
+    "tmdb": 257470,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Jiu Wo",
+    "english": "Save Me",
+    "native": "救我",
+    "synonyms": [],
+    "tmdb_title": "我老爸威震九州"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 5,
+  "start_date": {
+    "year": 2024,
+    "month": 7,
+    "day": 14
+  },
+  "end_date": {
+    "year": 2024,
+    "month": 7,
+    "day": 14
+  },
+  "description": "A man found a strange bottle in an empty public restroom toilet.",
+  "genres": [
+    "Drama",
+    "Horror"
+  ],
+  "tags": [
+    "Stop Motion"
+  ],
+  "studios": [
+    "Mote Stop-Motion Animation"
+  ],
+  "producers": [
+    "Tencent Penguin Pictures",
+    "Nice Boat Animation"
+  ],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "score_mal": 5.91,
+  "popularity": 126,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137710-eJI94g52R8Lx.jpg",
+    "poster_color": "#939328",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/oskKlnGMnNnUHj7qNZ2Oc1cwFV2.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137710-eJI94g52R8Lx.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/t/mzc0020000uu3u3.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T08:42:34.256Z",
+  "cache_version": 1
+}

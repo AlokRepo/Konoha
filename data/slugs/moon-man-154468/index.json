@@ -1,0 +1,85 @@
+{
+  "ids": {
+    "anilist": 154468,
+    "mal": 53606,
+    "tmdb": 210143,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Duxing Yueqiu",
+    "english": "Moon Man",
+    "native": "独行月球",
+    "synonyms": [
+      "문유",
+      "Moon You"
+    ],
+    "tmdb_title": "Moon Man"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 12,
+  "duration": 3,
+  "start_date": {
+    "year": 2022,
+    "month": 9,
+    "day": 10
+  },
+  "end_date": {
+    "year": 2022,
+    "month": 10,
+    "day": 29
+  },
+  "description": "After an asteroid destroys Earth, Moon You unintentionally becomes the last person in existence, or so he thinks. Stuck on a research facility on the moon, he struggles with being the last person alive. Little does he know that humankind is watching his every move from Earth.\n<br><br>\n(Source: WEBTOONS)",
+  "genres": [
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Space"
+  ],
+  "studios": [
+    "FENZ"
+  ],
+  "producers": [
+    "Fun Age Pictures"
+  ],
+  "source": "MANGA",
+  "country": "CN",
+  "popularity": 130,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154468-aBwJohlBZWO3.jpg",
+    "poster_color": "#e4bb35",
+    "banner": "https://image.tmdb.org/t/p/original/3a0Cw0jiVMqI3gmBZ354UbXSawo.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/9SbYLNo2hp96VpglU41n9WeIcfd.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/3a0Cw0jiVMqI3gmBZ354UbXSawo.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154468-aBwJohlBZWO3.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Youku",
+      "url": "https://list.youku.com/show/id_cdbd731ef6b6423cb168"
+    },
+    {
+      "site": "iQ",
+      "url": "https://www.iqiyi.com/a_1cexu0ywp5t.html"
+    },
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/t/mzc00200irazymn.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T08:41:35.289Z",
+  "cache_version": 1
+}

@@ -1,0 +1,72 @@
+{
+  "ids": {
+    "anilist": 153467,
+    "mal": 63062,
+    "tmdb": 233295,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Xian Jian Qi Xia Zhuan 3",
+    "english": null,
+    "native": "仙剑奇侠传三",
+    "synonyms": [
+      "仙剑奇侠传3",
+      "Chinese Paladin 3",
+      "Sword and Fairy 3"
+    ],
+    "tmdb_title": "Sword and Fairy 3"
+  },
+  "format": "ONA",
+  "status": "RELEASING",
+  "episodes": 26,
+  "start_date": {
+    "year": 2025,
+    "month": 12,
+    "day": 30
+  },
+  "end_date": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "genres": [
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Year Young Culture"
+  ],
+  "producers": [
+    "Tencent Penguin Pictures"
+  ],
+  "source": "VIDEO_GAME",
+  "country": "CN",
+  "popularity": 126,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153467-ptzuES9QPNyv.jpg",
+    "poster_color": "#e43535",
+    "banner": "https://image.tmdb.org/t/p/original/s5UcyrTGmZ7l2QNZExfF2XgUepq.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/gorGXNaHiFIBn7EEafx5uh7VzhT.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/s5UcyrTGmZ7l2QNZExfF2XgUepq.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153467-ptzuES9QPNyv.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/t/mzc00200fplxtc5.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T08:42:42.735Z",
+  "cache_version": 1
+}
