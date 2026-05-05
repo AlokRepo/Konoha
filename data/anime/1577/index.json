@@ -4,7 +4,8 @@
     "mal": 1577,
     "anidb": 2690,
     "tmdb": 196967,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Taiho Shichauzo",
@@ -57,7 +58,7 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 73,
-  "popularity": 13588,
+  "popularity": 13606,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1577.jpg",
@@ -67,7 +68,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/mCR169pBOyzBpllbFuCCB7nL38l.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1577.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/youre-under-arrest"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 120,
@@ -77,6 +83,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T08:04:38.444Z",
+  "cached_at": "2026-05-05T02:53:35.251Z",
   "cache_version": 1
 }
