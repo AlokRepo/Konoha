@@ -1,0 +1,95 @@
+{
+  "ids": {
+    "anilist": 156083,
+    "mal": 54881,
+    "tmdb": 223277,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Ta Bu Dang Nüzhu Hen Duonian",
+    "english": "Since I Wasn’t the Heroine",
+    "native": "她不当女主很多年",
+    "synonyms": [
+      "Since I Wasn't the Heroine"
+    ],
+    "tmdb_title": "Since I Wasn’t the Heroine"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 16,
+  "duration": 21,
+  "start_date": {
+    "year": 2023,
+    "month": 4,
+    "day": 22
+  },
+  "end_date": {
+    "year": 2023,
+    "month": 10,
+    "day": 7
+  },
+  "genres": [
+    "Action"
+  ],
+  "tags": [
+    "Female Protagonist"
+  ],
+  "studios": [
+    "Liyu Culture"
+  ],
+  "producers": [
+    "bilibili"
+  ],
+  "source": "OTHER",
+  "country": "CN",
+  "score_anilist": 53,
+  "popularity": 441,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156083-WCLr10OHNf4g.jpg",
+    "poster_color": "#f1935d",
+    "banner": "https://image.tmdb.org/t/p/original/axk9pojABBrdSxHfKJIyJSYz3D5.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/vv6IrfSAHPnTvZphlrgA50cEBGh.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/axk9pojABBrdSxHfKJIyJSYz3D5.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156083-WCLr10OHNf4g.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md28339941/"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLBakWosU0sfindaFLELMbIRolvkqLjP9J"
+    },
+    {
+      "site": "Viki",
+      "url": "https://www.viki.com/tv/39788c-since-i-wasnt-the-heroine"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLBakWosU0sfhmc2Q4TMaMrIUhoY3YGhPB"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLBakWosU0sfjQict-z0oO2WgrpWCefHsq"
+    },
+    {
+      "site": "Bilibili TV",
+      "url": "https://www.bilibili.tv/en/media/2081246"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T07:38:48.727Z",
+  "cache_version": 1
+}

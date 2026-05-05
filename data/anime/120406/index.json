@@ -1,0 +1,73 @@
+{
+  "ids": {
+    "anilist": 120406,
+    "mal": 41912,
+    "anidb": 16717,
+    "tmdb": 281626,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Gu Xiong",
+    "english": "Lonely Hero",
+    "native": "孤雄",
+    "synonyms": [],
+    "tmdb_title": "Lonely Hero"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 9,
+  "duration": 19,
+  "start_date": {
+    "year": 2025,
+    "month": 11,
+    "day": 2
+  },
+  "end_date": {
+    "year": 2025,
+    "month": 11,
+    "day": 18
+  },
+  "description": "After experiencing the warmth of a family, an assassin begins protecting the world to redeem himself.",
+  "genres": [
+    "Action"
+  ],
+  "tags": [],
+  "studios": [
+    "Aisi Animation Studio"
+  ],
+  "producers": [
+    "Nice Boat Animation",
+    "Tencent Penguin Pictures"
+  ],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 456,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120406-1aTRbawA1jns.png",
+    "poster_color": "#e4bb5d",
+    "banner": "https://image.tmdb.org/t/p/original/vggATvRZoexTVVAh6yj8Kc7wV6a.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/9z4Uz1mqTKUA6gI1gxFhaiSi0IH.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/vggATvRZoexTVVAh6yj8Kc7wV6a.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120406-1aTRbawA1jns.png"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/x/cover/mzc00200znlzwba.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T07:36:22.240Z",
+  "cache_version": 1
+}

@@ -1,0 +1,75 @@
+{
+  "ids": {
+    "anilist": 119926,
+    "mal": 41802,
+    "anidb": 15521,
+    "tmdb": 108992,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Wan Jie Chun Qiu",
+    "english": null,
+    "native": "万界春秋",
+    "synonyms": [],
+    "tmdb_title": "Spring and Autumn"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 56,
+  "duration": 8,
+  "start_date": {
+    "year": 2020,
+    "month": 4,
+    "day": 13
+  },
+  "end_date": {
+    "year": 2020,
+    "month": 10,
+    "day": 15
+  },
+  "description": "On his way to Shang Shi province, at the request of his father, a young man will find himself involved in affairs between former clans.<br><br>(Source: Nautiljon, translated)",
+  "genres": [
+    "Action",
+    "Fantasy"
+  ],
+  "tags": [
+    "Full CGI"
+  ],
+  "studios": [
+    "Ruo Hong Culture"
+  ],
+  "producers": [
+    "Tencent Penguin Pictures"
+  ],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "score_anilist": 54,
+  "popularity": 436,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx119926-jnUUFCoAUglZ.jpg",
+    "poster_color": "#e450bb",
+    "banner": "https://image.tmdb.org/t/p/original/4wjbHc6eITdo5z0yDnWwR90IGeq.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/aI77h21LQixLaJpRiMRUnOgV4mm.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/4wjbHc6eITdo5z0yDnWwR90IGeq.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx119926-jnUUFCoAUglZ.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/m/mzc00200sgy2t2x.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 100,
+  "match_signals": [
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T07:39:29.316Z",
+  "cache_version": 1
+}

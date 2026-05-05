@@ -1,0 +1,76 @@
+{
+  "ids": {
+    "anilist": 137643,
+    "mal": 50633,
+    "anidb": 18393,
+    "tmdb": 204526,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Jiandao Di Yi Xian",
+    "english": null,
+    "native": "剑道第一仙",
+    "synonyms": [
+      "Supreme Sword God"
+    ],
+    "tmdb_title": "Supreme Sword God"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 140,
+  "duration": 8,
+  "start_date": {
+    "year": 2022,
+    "month": 6,
+    "day": 20
+  },
+  "end_date": {
+    "year": 2025,
+    "month": 5,
+    "day": 2
+  },
+  "genres": [
+    "Action",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Xing Yi Kai Chen"
+  ],
+  "producers": [
+    "Tencent Penguin Pictures",
+    "Cloud Culture"
+  ],
+  "source": "OTHER",
+  "country": "CN",
+  "score_anilist": 55,
+  "popularity": 447,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137643-6yDrG98FAhI8.jpg",
+    "poster_color": "#e45d1a",
+    "banner": "https://image.tmdb.org/t/p/original/4kX1SPLEvc1ZyduIzBIs7l94DlH.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/3OuKG8XVcAzFR4J6Y5fCe7B7SUE.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/4kX1SPLEvc1ZyduIzBIs7l94DlH.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137643-6yDrG98FAhI8.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/t/mzc00200bkls85f.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T07:37:55.695Z",
+  "cache_version": 1
+}

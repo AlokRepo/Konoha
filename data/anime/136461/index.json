@@ -1,0 +1,76 @@
+{
+  "ids": {
+    "anilist": 136461,
+    "mal": 49398,
+    "anidb": 16498,
+    "tmdb": 234309,
+    "tmdb_type": "tv",
+    "tmdb_season": 1
+  },
+  "titles": {
+    "romaji": "Wu Geng Ji 4 Part 1",
+    "english": null,
+    "native": "武庚纪 第四季 上",
+    "synonyms": [
+      "武庚纪之问天之战",
+      "Wu Geng Ji: Wen Tian Zhi Zhan",
+      "武庚纪之万众一心",
+      "武庚纪之战危之言"
+    ],
+    "tmdb_title": "武庚纪之问天之战"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 24,
+  "duration": 16,
+  "start_date": {
+    "year": 2021,
+    "month": 7,
+    "day": 22
+  },
+  "end_date": {
+    "year": 2021,
+    "month": 12,
+    "day": 23
+  },
+  "description": "4th Season of <i>Wu Geng Ji</i>.",
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Supernatural"
+  ],
+  "tags": [],
+  "studios": [
+    "Sparkly Key Animation"
+  ],
+  "producers": [
+    "Tencent Penguin Pictures"
+  ],
+  "source": "MANGA",
+  "country": "CN",
+  "score_anilist": 62,
+  "popularity": 457,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136461-feN8yKgeYRBW.jpg",
+    "poster_color": "#f19335",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/hwb8yT0BNnHpA12ImQCOuGC1H0A.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136461-feN8yKgeYRBW.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/t/ipmc5u3dwb48mv2.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 95,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T07:36:13.153Z",
+  "cache_version": 1
+}

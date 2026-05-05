@@ -1,0 +1,84 @@
+{
+  "ids": {
+    "anilist": 193413,
+    "mal": 61273,
+    "anidb": 19331,
+    "tmdb": 309067,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Tsurezure PoPiPa",
+    "english": null,
+    "native": "つれづれポピパ ",
+    "synonyms": [
+      "Poppin'Party's Ordinary Days"
+    ],
+    "tmdb_title": "つれづれポピパ"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2025,
+  "episodes": 10,
+  "duration": 1,
+  "start_date": {
+    "year": 2025,
+    "month": 4,
+    "day": 28
+  },
+  "end_date": {
+    "year": 2025,
+    "month": 8,
+    "day": 27
+  },
+  "description": "A series of shorts showing the daily lives of the Poppin'Party members and celebrating the group's 10th anniversary.",
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Cute Girls Doing Cute Things",
+    "School",
+    "Female Protagonist",
+    "Primarily Female Cast",
+    "Food",
+    "Tsundere",
+    "Episodic",
+    "Primarily Teen Cast"
+  ],
+  "studios": [
+    "STUDIO MORIKEN"
+  ],
+  "producers": [
+    "Bushiroad"
+  ],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 56,
+  "popularity": 451,
+  "trending": 1,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx193413-OPcwqduN7GMJ.png",
+    "poster_color": "#86e4bb",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/7cMzTYaRBfmZU9CEnKKvTfAmPi2.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx193413-OPcwqduN7GMJ.png"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLvRmS87ezZfokQcDwYBXqUNJrDdbC3X9q"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T07:37:04.856Z",
+  "cache_version": 1
+}
