@@ -1,0 +1,84 @@
+{
+  "ids": {
+    "anilist": 144451,
+    "mal": 50934,
+    "tmdb": 198466,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "stars*collection",
+    "english": "stars*collection!",
+    "native": "スターズこれくしょん！",
+    "synonyms": [],
+    "tmdb_title": "STARS Collection"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2022,
+  "episodes": 62,
+  "duration": 2,
+  "start_date": {
+    "year": 2022,
+    "month": 1,
+    "day": 28
+  },
+  "end_date": {
+    "year": 2023,
+    "month": 3,
+    "day": 24
+  },
+  "description": "A new 3D anime featuring VTubers from hololive production's HOLOSTARS branch!<br><br>\n\n<i>Note: episode count includes the announcement animation released before episode 1.</i>",
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Cute Boys Doing Cute Things",
+    "VTuber",
+    "Slapstick",
+    "Full CGI",
+    "Primarily Male Cast",
+    "Ensemble Cast",
+    "Episodic",
+    "Parody",
+    "Meta",
+    "Idol",
+    "Surreal Comedy"
+  ],
+  "studios": [],
+  "producers": [
+    "Cover Corp"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 65,
+  "popularity": 902,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx144451-onp8x0xZbMg9.png",
+    "poster_color": "#e47835",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/144451-xf38KfQKYBO5.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/krtrzRKlxaUBpKWkAjlbkvZoee6.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/sw8wL6cWa8KuN44Egkaf1BzmbmC.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx144451-onp8x0xZbMg9.png"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLNQov5ZpSSWclbG0Rvs-CDWqybmOKNbhO"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 125,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T07:06:14.451Z",
+  "cache_version": 1
+}

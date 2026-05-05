@@ -1,0 +1,83 @@
+{
+  "ids": {
+    "anilist": 99431,
+    "mal": 27539,
+    "tmdb": 77303,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Pikmin Short Movies",
+    "english": "PIKMIN Short Movies",
+    "native": "ピクミン　ショートムービー",
+    "synonyms": [
+      "PIKMIN Short Movies 3D",
+      "PIKMIN Short Movies HD"
+    ],
+    "tmdb_title": "Pikmin Short Movies"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2014,
+  "episodes": 3,
+  "duration": 8,
+  "start_date": {
+    "year": 2014,
+    "month": 10,
+    "day": 25
+  },
+  "end_date": {
+    "year": 2014,
+    "month": 10,
+    "day": 25
+  },
+  "description": "Three short stories from the Nintendo Pikmin game series.<br>\n<br>\nThe short 3D animated film is a project that Shigeru Miyamoto, a Japanese video game designer, created to explore the characters in a way his games could not.\n",
+  "genres": [
+    "Fantasy"
+  ],
+  "tags": [
+    "Full CGI",
+    "Kids",
+    "Aliens",
+    "Survival",
+    "Slapstick",
+    "No Dialogue",
+    "Lost Civilization"
+  ],
+  "studios": [],
+  "producers": [
+    "Dynamo Pictures",
+    "Nintendo Co. Ltd."
+  ],
+  "source": "VIDEO_GAME",
+  "country": "JP",
+  "score_anilist": 64,
+  "popularity": 891,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/99431-kk96Fga29PAO.jpg",
+    "poster_color": "#e4d643",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/99431-BZRo2BsgL5Lz.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/l98HTnQcpwhEEeveucnnCT4f4iN.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/6BonWJNo1lMGvc53Ny5ro9l6ekx.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/99431-kk96Fga29PAO.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLPh3p_yYrx0Aa-byCyPujYB0-wGA2qvZx"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T07:06:49.998Z",
+  "cache_version": 1
+}

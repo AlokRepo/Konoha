@@ -1,0 +1,74 @@
+{
+  "ids": {
+    "anilist": 143572,
+    "mal": 38347,
+    "anidb": 14500,
+    "tmdb": 117875,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "KisKis! Wo de Nanyou Shi Bohe Tang",
+    "english": "KisKis! My Boyfriends Are Mint Candies",
+    "native": "KisKis！我的男友是薄荷糖",
+    "synonyms": [],
+    "tmdb_title": "KisKis!我的男友是薄荷糖"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 4,
+  "duration": 5,
+  "start_date": {
+    "year": 2018,
+    "month": 5,
+    "day": 14
+  },
+  "end_date": {
+    "year": 2018,
+    "month": 6,
+    "day": 4
+  },
+  "description": "A promotional animation for mint candies.",
+  "genres": [
+    "Romance",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Advertisement"
+  ],
+  "studios": [
+    "Seven Stone Entertainment"
+  ],
+  "producers": [],
+  "source": "OTHER",
+  "country": "CN",
+  "score_anilist": 47,
+  "popularity": 902,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143572-5hHaiqpBO7bb.png",
+    "poster_color": "#bba1e4",
+    "banner": "https://image.tmdb.org/t/p/original/zzdqOo9znVMx9ZQgmgawWxYqwfn.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/g9GO1aEUCaUHVrRAhV04GtZi2hK.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/zzdqOo9znVMx9ZQgmgawWxYqwfn.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143572-5hHaiqpBO7bb.png"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLOUUm4xsoaeA3lfj9Zs3sFfw24FxWTFSd"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T07:06:06.486Z",
+  "cache_version": 1
+}
