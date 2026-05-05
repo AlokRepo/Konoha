@@ -1,0 +1,62 @@
+{
+  "ids": {
+    "anilist": 16702,
+    "mal": 16702,
+    "anidb": 9528,
+    "tmdb": 206461,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Doraemon: Nobita to Mirai Noto",
+    "english": null,
+    "native": "ドラえもん のび太と未来ノート",
+    "synonyms": [],
+    "tmdb_title": "ドラえもん のび太と未来ノート"
+  },
+  "format": "OVA",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 16,
+  "start_date": {
+    "year": 1994,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 1994,
+    "month": null,
+    "day": null
+  },
+  "genres": [
+    "Sci-Fi",
+    "Slice of Life"
+  ],
+  "tags": [],
+  "studios": [
+    "Shin-Ei Animation"
+  ],
+  "producers": [],
+  "country": "JP",
+  "score_anilist": 54,
+  "popularity": 550,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16702.jpg",
+    "poster_color": "#3593c9",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/lH3gRUJzG8ciCT1owdmRl0TC40L.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/16702.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T05:09:05.065Z",
+  "cache_version": 1
+}
