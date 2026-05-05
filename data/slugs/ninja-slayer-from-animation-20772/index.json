@@ -4,7 +4,8 @@
     "mal": 23605,
     "anidb": 10588,
     "tmdb": 62566,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Ninja Slayer from Animation",
@@ -53,7 +54,7 @@
   "source": "LIGHT_NOVEL",
   "country": "JP",
   "score_anilist": 59,
-  "popularity": 12818,
+  "popularity": 12826,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20772-U7sWsRMeYPgn.jpg",
@@ -67,6 +68,10 @@
     {
       "site": "Tubi TV",
       "url": "https://tubitv.com/series/2057/ninja_slayer"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-265947"
     }
   ],
   "themes": [],
@@ -79,6 +84,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T08:12:02.461Z",
+  "cached_at": "2026-05-05T06:03:01.258Z",
   "cache_version": 1
 }
