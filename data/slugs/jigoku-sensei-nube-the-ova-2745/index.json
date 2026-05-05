@@ -1,0 +1,74 @@
+{
+  "ids": {
+    "anilist": 2745,
+    "mal": 2745,
+    "anidb": 4017,
+    "tmdb": 314436,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Jigoku Sensei Nube THE OVA",
+    "english": null,
+    "native": "地獄先生ぬ～べ～ THE OVA",
+    "synonyms": [
+      "Hell Teacher Nube OVA"
+    ],
+    "tmdb_title": "Hell Teacher Nube OVA"
+  },
+  "format": "OVA",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 1998,
+  "episodes": 3,
+  "duration": 30,
+  "start_date": {
+    "year": 1998,
+    "month": 9,
+    "day": 21
+  },
+  "end_date": {
+    "year": 1999,
+    "month": 10,
+    "day": 21
+  },
+  "description": "Continuation of the TV series.",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Supernatural"
+  ],
+  "tags": [
+    "Shounen"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [
+    "Toei Video",
+    "Shueisha"
+  ],
+  "country": "JP",
+  "score_anilist": 66,
+  "popularity": 1176,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2745.jpg",
+    "poster_color": "#d6431a",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/tsa2OQwbeVv2noVXQyzKxNDbrbt.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2745.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T04:31:22.876Z",
+  "cache_version": 1
+}

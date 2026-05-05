@@ -1,0 +1,75 @@
+{
+  "ids": {
+    "anilist": 5002,
+    "mal": 5002,
+    "anidb": 4779,
+    "tmdb": 247353,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Bari Bari Densetsu",
+    "english": null,
+    "native": "バリバリ伝説",
+    "synonyms": [
+      "Baribari Densetsu",
+      "Bari-Den",
+      "Motorcycle Legend",
+      "Legend of Rolling Wheels"
+    ],
+    "tmdb_title": "Baribari Densetsu"
+  },
+  "format": "OVA",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 1986,
+  "episodes": 2,
+  "duration": 50,
+  "start_date": {
+    "year": 1986,
+    "month": 5,
+    "day": 10
+  },
+  "end_date": {
+    "year": 1986,
+    "month": 12,
+    "day": 16
+  },
+  "description": "The main character, Gun, rides a customized Honda CB750F cafe racer and eventually evolves into a pro road racer.",
+  "genres": [
+    "Action",
+    "Drama",
+    "Sports"
+  ],
+  "tags": [
+    "Motorcycles"
+  ],
+  "studios": [
+    "Studio Pierrot"
+  ],
+  "producers": [],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 59,
+  "popularity": 1172,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5002.jpg",
+    "poster_color": "#e45078",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/7vtM6Ax6ckOaQOBVjMhBqcbFItN.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/5002.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T04:31:56.154Z",
+  "cache_version": 1
+}
