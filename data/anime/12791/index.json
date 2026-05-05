@@ -1,0 +1,70 @@
+{
+  "ids": {
+    "anilist": 12791,
+    "mal": 12791,
+    "anidb": 5814,
+    "tmdb": 212159,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Yankee Reppuu Tai",
+    "english": null,
+    "native": "ヤンキー烈風隊",
+    "synonyms": [
+      "Yankee Gale Squad"
+    ],
+    "tmdb_title": "Yankee Gale Squad"
+  },
+  "format": "OVA",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 1989,
+  "episodes": 6,
+  "duration": 50,
+  "start_date": {
+    "year": 1989,
+    "month": 3,
+    "day": 17
+  },
+  "end_date": {
+    "year": 1996,
+    "month": 4,
+    "day": 21
+  },
+  "genres": [
+    "Adventure",
+    "Drama"
+  ],
+  "tags": [
+    "Delinquents"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "producers": [],
+  "country": "JP",
+  "score_anilist": 54,
+  "popularity": 466,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12791.jpg",
+    "poster_color": "#f19335",
+    "banner": "https://image.tmdb.org/t/p/original/eh7EXBRXaEDhgsd8zfdAZGJ7PLl.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/rFvuKPzxXEJ8imneWGHEgAg8VKB.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/eh7EXBRXaEDhgsd8zfdAZGJ7PLl.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/12791.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T05:15:23.521Z",
+  "cache_version": 1
+}
