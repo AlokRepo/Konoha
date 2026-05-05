@@ -1,0 +1,74 @@
+{
+  "ids": {
+    "anilist": 149074,
+    "mal": 52610,
+    "tmdb": 273540,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Asi Yu Xiao Liangdang",
+    "english": null,
+    "native": "阿巳与小铃铛",
+    "synonyms": [
+      "Little Bell and Ami's Love Story"
+    ],
+    "tmdb_title": "阿巳与小铃铛"
+  },
+  "format": "ONA",
+  "status": "RELEASING",
+  "episodes": 76,
+  "duration": 2,
+  "start_date": {
+    "year": 2020,
+    "month": 7,
+    "day": 22
+  },
+  "end_date": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "country": "CN",
+  "popularity": 79,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx149074-PVM2LhqMGutn.png",
+    "poster_color": "#e4785d",
+    "banner": "https://image.tmdb.org/t/p/original/t4nhAhODJcv9BmJqkXtOEGWIjLc.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/xaPX0ALVnVkGszg8uZkbflNVe3J.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/t4nhAhODJcv9BmJqkXtOEGWIjLc.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx149074-PVM2LhqMGutn.png"
+  },
+  "streaming": [
+    {
+      "site": "iQ",
+      "url": "https://www.iqiyi.com/a_13zgk2690w5.html"
+    },
+    {
+      "site": "Bilibili",
+      "url": "https://space.bilibili.com/641591444/video"
+    },
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/t/mzc00200bznlvdt.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T08:57:05.081Z",
+  "cache_version": 1
+}
