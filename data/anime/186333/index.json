@@ -4,7 +4,8 @@
     "mal": 60810,
     "anidb": 19131,
     "tmdb": 282946,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Majutsushi Kunon wa Mieteiru",
@@ -70,8 +71,8 @@
   "source": "LIGHT_NOVEL",
   "country": "JP",
   "score_anilist": 65,
-  "popularity": 28410,
-  "trending": 5,
+  "popularity": 28562,
+  "trending": 3,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186333-32qDHxLkndpg.png",
     "poster_color": "#5da1e4",
@@ -84,6 +85,10 @@
     {
       "site": "Crunchyroll",
       "url": "https://www.crunchyroll.com/series/GT00365586/kunon-the-sorcerer-can-see"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
     }
   ],
   "themes": [],
@@ -96,8 +101,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T06:23:04.630Z",
-  "cache_version": 1
-}",
+  "cached_at": "2026-05-05T05:53:46.311Z",
   "cache_version": 1
 }

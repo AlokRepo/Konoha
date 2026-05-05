@@ -4,7 +4,8 @@
     "mal": 61174,
     "anidb": 19204,
     "tmdb": 284442,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Sozai Saishuka no Isekai Ryokouki",
@@ -62,8 +63,8 @@
   "source": "LIGHT_NOVEL",
   "country": "JP",
   "score_anilist": 60,
-  "popularity": 27842,
-  "trending": 0,
+  "popularity": 27976,
+  "trending": 3,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187663-VVdpMlkhwMSh.jpg",
     "poster_color": "#43a1e4",
@@ -88,6 +89,26 @@
     {
       "site": "iQ",
       "url": "https://www.iq.com/album/qdnfd9rard"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "site": "Bilibili Global",
+      "url": "https://www.bilibili.tv/en/index"
+    },
+    {
+      "site": "CatchPlay",
+      "url": "https://www.catchplay.com/"
+    },
+    {
+      "site": "Muse Asia",
+      "url": "https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg"
+    },
+    {
+      "site": "iQIYI",
+      "url": "https://www.iq.com/"
     }
   ],
   "themes": [],
@@ -100,6 +121,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T06:25:38.195Z",
+  "cached_at": "2026-05-05T05:53:59.649Z",
   "cache_version": 1
 }

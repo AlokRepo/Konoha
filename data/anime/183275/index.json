@@ -4,7 +4,8 @@
     "mal": 60157,
     "anidb": 18940,
     "tmdb": 274741,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Kanpeki Sugite Kawai-ge ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru",
@@ -58,8 +59,8 @@
   "source": "LIGHT_NOVEL",
   "country": "JP",
   "score_anilist": 72,
-  "popularity": 29967,
-  "trending": 4,
+  "popularity": 30074,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183275-WtAo77sYDFW8.png",
     "poster_color": "#fee450",
@@ -80,6 +81,14 @@
     {
       "site": "Netflix",
       "url": "https://www.netflix.com/title/82085670"
+    },
+    {
+      "site": "Aniplus Asia",
+      "url": "https://www.aniplus-asia.com/"
+    },
+    {
+      "site": "Bilibili Global",
+      "url": "https://www.bilibili.tv/en/index"
     }
   ],
   "themes": [],
@@ -92,6 +101,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T06:16:50.671Z",
+  "cached_at": "2026-05-05T05:52:48.632Z",
   "cache_version": 1
 }

@@ -4,7 +4,8 @@
     "mal": 59424,
     "anidb": 18782,
     "tmdb": 284771,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Yuusha Party wo Tsuihou Sareta Shiro Madoushi, S Rank Boukensha ni Hirowareru: Kono Shiro Madoushi ga Kikakugaisugiru",
@@ -59,7 +60,7 @@
   "source": "LIGHT_NOVEL",
   "country": "JP",
   "score_anilist": 61,
-  "popularity": 31870,
+  "popularity": 32019,
   "trending": 3,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179885-m1nu1QvnRmII.jpg",
@@ -81,6 +82,18 @@
     {
       "site": "Bilibili TV",
       "url": "https://www.bilibili.tv/en/media/2140899"
+    },
+    {
+      "site": "Ani-One Asia",
+      "url": "https://www.youtube.com/channel/UC0wNSTMWIL3qaorLx0jie6A"
+    },
+    {
+      "site": "Aniplus TV",
+      "url": "http://www.aniplustv.com/"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
     }
   ],
   "themes": [],
@@ -93,8 +106,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T06:07:44.943Z",
-  "cache_version": 1
-}",
+  "cached_at": "2026-05-05T05:51:57.948Z",
   "cache_version": 1
 }

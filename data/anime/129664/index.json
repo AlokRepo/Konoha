@@ -4,7 +4,8 @@
     "mal": 47250,
     "anidb": 16035,
     "tmdb": 117945,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Jouran: THE PRINCESS OF SNOW AND BLOOD",
@@ -58,7 +59,7 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 57,
-  "popularity": 29537,
+  "popularity": 29559,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129664-YeovI2zsTwY9.jpg",
@@ -79,6 +80,22 @@
     {
       "site": "iQ",
       "url": "https://www.iq.com/album/1ihkivf7eix"
+    },
+    {
+      "site": "Ani-One Asia",
+      "url": "https://www.youtube.com/channel/UC0wNSTMWIL3qaorLx0jie6A"
+    },
+    {
+      "site": "Anime Digital Network",
+      "url": "https://animedigitalnetwork.fr/"
+    },
+    {
+      "site": "Aniplus TV",
+      "url": "http://www.aniplustv.com/"
+    },
+    {
+      "site": "iQIYI",
+      "url": "https://www.iq.com/"
     }
   ],
   "themes": [],
@@ -91,6 +108,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T06:18:59.241Z",
+  "cached_at": "2026-05-05T05:53:01.936Z",
   "cache_version": 1
 }

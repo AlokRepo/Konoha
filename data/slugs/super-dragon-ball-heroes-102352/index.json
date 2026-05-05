@@ -4,7 +4,8 @@
     "mal": 37885,
     "anidb": 14086,
     "tmdb": 80020,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Super Dragon Ball Heroes",
@@ -57,8 +58,8 @@
   "source": "VIDEO_GAME",
   "country": "JP",
   "score_anilist": 53,
-  "popularity": 24944,
-  "trending": 0,
+  "popularity": 24980,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b102352-iTBUsIV9x7KH.jpg",
     "poster_color": "#f1c928",
@@ -78,6 +79,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T06:41:26.284Z",
+  "cached_at": "2026-05-05T05:55:04.974Z",
   "cache_version": 1
 }
