@@ -59,7 +59,7 @@
   "source": "VISUAL_NOVEL",
   "country": "JP",
   "score_anilist": 71,
-  "popularity": 43176,
+  "popularity": 43207,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3652-Q9wylyMoNZBc.png",
@@ -68,7 +68,12 @@
     "poster_tmdb": "https://image.tmdb.org/t/p/w780/4wfPl3kz034JzMekBCpe2CgIHPl.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3652-Q9wylyMoNZBc.png"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/movies/when-they-cry-rei"
+    }
+  ],
   "themes": [],
   "confidence": "MEDIUM",
   "match_score": 105,
@@ -77,6 +82,6 @@
     "episode_exact",
     "format_match"
   ],
-  "cached_at": "2026-05-03T05:28:56.806Z",
+  "cached_at": "2026-05-05T02:42:11.311Z",
   "cache_version": 1
 }
