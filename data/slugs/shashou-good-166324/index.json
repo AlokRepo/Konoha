@@ -1,0 +1,74 @@
+{
+  "ids": {
+    "anilist": 166324,
+    "mal": 55656,
+    "tmdb": 229323,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Shashou Good",
+    "english": null,
+    "native": "“杀手”古德",
+    "synonyms": [
+      "Good Killer",
+      "杀手古德"
+    ],
+    "tmdb_title": "Good Killer"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 26,
+  "start_date": {
+    "year": 2023,
+    "month": 6,
+    "day": 15
+  },
+  "end_date": {
+    "year": 2023,
+    "month": 11,
+    "day": 30
+  },
+  "genres": [
+    "Action",
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [
+    "iQIYI",
+    "Younuo Animation & Comics",
+    "Chuangqi Studio"
+  ],
+  "source": "MANGA",
+  "country": "CN",
+  "popularity": 158,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166324-d5uG7zz1ZQmf.jpg",
+    "poster_color": "#e45d6b",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/unVAws4Z08d3FJTDPltz6KK0eUK.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166324-d5uG7zz1ZQmf.jpg"
+  },
+  "streaming": [
+    {
+      "site": "iQIYI",
+      "url": "https://www.iqiyi.com/v_20k2cdmyiv4.html"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/@goodkiller1250/"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T08:32:38.040Z",
+  "cache_version": 1
+}

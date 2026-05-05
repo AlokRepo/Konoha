@@ -1,0 +1,76 @@
+{
+  "ids": {
+    "anilist": 124117,
+    "mal": 61590,
+    "tmdb": 289206,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Huangshen Lu Zhi Linglong Shan",
+    "english": "The Ruins of Kunlun Linglong",
+    "native": "荒神录之玲珑山",
+    "synonyms": [
+      "大荒密语·玲珑山",
+      "Da Huang Miyu: Linglong Shan"
+    ],
+    "tmdb_title": "The Ruins of Kunlun Linglong"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 12,
+  "duration": 15,
+  "start_date": {
+    "year": 2025,
+    "month": 5,
+    "day": 2
+  },
+  "end_date": {
+    "year": 2025,
+    "month": 5,
+    "day": 2
+  },
+  "genres": [
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [
+    "Nice Boat Animation",
+    "Tencent Penguin Pictures"
+  ],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 153,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124117-dPDiIFWw7RO7.png",
+    "poster_color": "#50aec9",
+    "banner": "https://image.tmdb.org/t/p/original/yxPOrjWGHgjmp8ie6KfdgQiKdIZ.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/xoLtN3ihjF3QUQuQONCijVs7gct.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/yxPOrjWGHgjmp8ie6KfdgQiKdIZ.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124117-dPDiIFWw7RO7.png"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/t/mzc00200f7h34nq.html"
+    },
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/x/cover/mzc00200f7h34nq.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T08:34:11.549Z",
+  "cache_version": 1
+}

@@ -1,0 +1,74 @@
+{
+  "ids": {
+    "anilist": 146886,
+    "mal": 53055,
+    "tmdb": 240128,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Jian Yu Yuanzheng - Insomnia De Naxie Shier",
+    "english": "Just Esperia Things",
+    "native": "剑与远征-伊索米亚的那些事儿",
+    "synonyms": [
+      "AFK Arena"
+    ],
+    "tmdb_title": "Just Esperia Things"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 12,
+  "duration": 7,
+  "start_date": {
+    "year": 2022,
+    "month": 4,
+    "day": 8
+  },
+  "end_date": {
+    "year": 2022,
+    "month": 6,
+    "day": 24
+  },
+  "genres": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Colored Pencil Animation"
+  ],
+  "producers": [
+    "Lilith Games"
+  ],
+  "source": "VIDEO_GAME",
+  "country": "CN",
+  "popularity": 153,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146886-y0LVq6fIZmnm.jpg",
+    "poster_color": "#e4bb5d",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/izwGPuZr2ZJdpO5nr7KeCCpRpPA.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146886-y0LVq6fIZmnm.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md28237065/"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLtXTf2GFXV-BuEDyso71vWabE-X3e5VpN"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T08:34:20.714Z",
+  "cache_version": 1
+}

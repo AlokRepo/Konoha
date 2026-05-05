@@ -1,0 +1,75 @@
+{
+  "ids": {
+    "anilist": 186833,
+    "mal": 60571,
+    "tmdb": 282136,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Jiang Ye",
+    "english": "Ever Night",
+    "native": "将夜",
+    "synonyms": [],
+    "tmdb_title": "Ever Night"
+  },
+  "format": "ONA",
+  "status": "RELEASING",
+  "episodes": 16,
+  "start_date": {
+    "year": 2026,
+    "month": 4,
+    "day": 23
+  },
+  "end_date": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "description": "The protagonist Ning Que travels to a seemingly real Tang Dynasty world, only to find that it is a dangerous world of cultivation. He originally thought that he could live a life of luxury and become superior, but he finds that he had no talent for cultivation. Additionally, he witnessed the massacre of his entire family at the age of four and was hunted for thousands of miles. While escaping death, he picked up a black umbrella in a sea of ​​blood and corpses and found the infant Sangsang. In despair, he found the motivation to live. Unwilling to bow to fate, he takes the big black umbrella and Sangsang, and begins a thrilling counterattack.<br><br>\n(Source: bilibili, translated)",
+  "genres": [
+    "Action",
+    "Drama",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Wonder Cat Animation"
+  ],
+  "producers": [
+    "bilibili"
+  ],
+  "source": "OTHER",
+  "country": "CN",
+  "popularity": 156,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186833-BnuqxWjFh1HR.png",
+    "poster_color": "#5da1e4",
+    "banner": "https://image.tmdb.org/t/p/original/51Nzjc7HqNXyV3PO4RLspCRMW9x.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/xS1jaBgymz4Smc3IUNDwh9uYxhX.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/51Nzjc7HqNXyV3PO4RLspCRMW9x.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186833-BnuqxWjFh1HR.png"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md21082201"
+    },
+    {
+      "site": "Bilibili TV",
+      "url": "https://www.bilibili.tv/en/media/2248114"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 115,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_close",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T08:33:02.664Z",
+  "cache_version": 1
+}
