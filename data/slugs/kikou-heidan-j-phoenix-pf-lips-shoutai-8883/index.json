@@ -1,0 +1,79 @@
+{
+  "ids": {
+    "anilist": 8883,
+    "mal": 8883,
+    "anidb": 7433,
+    "tmdb": 285901,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Kikou Heidan J-PHOENIX: PF Lips Shoutai",
+    "english": null,
+    "native": "機甲兵団 J-PHOENIX PFリップス小隊",
+    "synonyms": [
+      "Armored Troopers J-Phoenix PF Lips Team"
+    ],
+    "tmdb_title": "Armored Troopers J-Phoenix PF LIPS"
+  },
+  "format": "OVA",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2002,
+  "episodes": 3,
+  "duration": 20,
+  "start_date": {
+    "year": 2002,
+    "month": 5,
+    "day": 12
+  },
+  "end_date": {
+    "year": 2004,
+    "month": 2,
+    "day": 26
+  },
+  "description": "Mecha series based on Takara's videogames.",
+  "genres": [
+    "Comedy",
+    "Mecha"
+  ],
+  "tags": [
+    "Space",
+    "Primarily Female Cast",
+    "Military",
+    "Real Robot"
+  ],
+  "studios": [
+    "J.C.STAFF"
+  ],
+  "producers": [
+    "Kadokawa Shoten",
+    "Takara Tomy"
+  ],
+  "source": "VIDEO_GAME",
+  "country": "JP",
+  "score_anilist": 47,
+  "popularity": 437,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8883.jpg",
+    "poster_color": "#e43550",
+    "banner": "https://image.tmdb.org/t/p/original/bDPGCoT7RsirWOiRSqx3fq7I5tl.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/dzrKSzr5qDD1NXm263PPmWmbqAZ.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/bDPGCoT7RsirWOiRSqx3fq7I5tl.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8883.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 137,
+  "match_signals": [
+    "english_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T05:17:47.015Z",
+  "cache_version": 1
+}
