@@ -1,0 +1,81 @@
+{
+  "ids": {
+    "anilist": 102400,
+    "mal": 37740,
+    "anidb": 14028,
+    "tmdb": 88554,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Baiye Linglong",
+    "english": "Whited Nighttime",
+    "native": "白夜玲珑",
+    "synonyms": [],
+    "tmdb_title": "Whited Nighttime"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 25,
+  "duration": 15,
+  "start_date": {
+    "year": 2018,
+    "month": 6,
+    "day": 6
+  },
+  "end_date": {
+    "year": 2018,
+    "month": 11,
+    "day": 14
+  },
+  "description": "Ling Long is a normal girl. She just wants to get through her day without any problems, but makes a mess out of it again. Why? It's because her online friend has suddenly stopped contacting her. As time went on, she became more and more agitated. Her normal life has began to change...",
+  "genres": [
+    "Fantasy",
+    "Romance"
+  ],
+  "tags": [
+    "Female Protagonist"
+  ],
+  "studios": [
+    "Seven Stone Entertainment"
+  ],
+  "producers": [
+    "Tencent Penguin Pictures",
+    "Joy Works"
+  ],
+  "source": "MANGA",
+  "country": "CN",
+  "score_anilist": 53,
+  "popularity": 1164,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102400-cGvF7iDxjYA3.jpg",
+    "poster_color": "#5dc9e4",
+    "banner": "https://image.tmdb.org/t/p/original/id4g0EqtZqCQYTLy0UH2hMB0tuZ.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/q64YvVJQtBa9JNgbt0IZP0JI8C1.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/id4g0EqtZqCQYTLy0UH2hMB0tuZ.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102400-cGvF7iDxjYA3.jpg"
+  },
+  "streaming": [
+    {
+      "site": "WeTV",
+      "url": "https://wetv.vip/play/4hda3k7k9654tzj"
+    },
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/t/gesxqiorblxn117.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T06:56:00.067Z",
+  "cache_version": 1
+}
