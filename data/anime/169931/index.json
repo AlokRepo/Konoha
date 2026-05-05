@@ -4,7 +4,8 @@
     "mal": 56843,
     "anidb": 18228,
     "tmdb": 236530,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Goukon ni Ittara Onna ga Inakatta Hanashi",
@@ -67,8 +68,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 72,
-  "popularity": 23988,
-  "trending": 1,
+  "popularity": 24046,
+  "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169931-tPgDEKaHNkFr.jpg",
     "poster_color": "#50c9e4",
@@ -85,6 +86,26 @@
     {
       "site": "Bilibili TV",
       "url": "https://www.bilibili.tv/en/media/2118294"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/"
+    },
+    {
+      "site": "Akiba Pass TV",
+      "url": "https://akibapasstv.vhx.tv/"
+    },
+    {
+      "site": "Anime Generation",
+      "url": "https://www.primevideo.com/gp/video/offers?benefitId=yamatoit"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "site": "Laftel",
+      "url": "https://laftel.net/"
     }
   ],
   "themes": [],
@@ -97,6 +118,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T06:46:51.730Z",
+  "cached_at": "2026-05-05T05:55:34.187Z",
   "cache_version": 1
 }
