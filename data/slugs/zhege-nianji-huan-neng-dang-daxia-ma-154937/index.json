@@ -1,0 +1,68 @@
+{
+  "ids": {
+    "anilist": 154937,
+    "mal": 53382,
+    "tmdb": 240213,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Zhege Nianji Huan Neng Dang Daxia Ma",
+    "english": null,
+    "native": "这个年纪还能当大侠吗",
+    "synonyms": [],
+    "tmdb_title": "这个年纪还能当大侠吗"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 10,
+  "duration": 7,
+  "start_date": {
+    "year": 2022,
+    "month": 10,
+    "day": 27
+  },
+  "end_date": {
+    "year": 2022,
+    "month": 12,
+    "day": 22
+  },
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "tags": [],
+  "studios": [
+    "Painting Dream"
+  ],
+  "producers": [
+    "NetEase"
+  ],
+  "source": "VIDEO_GAME",
+  "country": "CN",
+  "popularity": 97,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154937-plCG0qOzh6gA.png",
+    "poster_color": "#e4935d",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/b5K15DqsuRoxqOKeGJ2hgq3D02C.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154937-plCG0qOzh6gA.png"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md28339593/"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 120,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T08:50:52.211Z",
+  "cache_version": 1
+}

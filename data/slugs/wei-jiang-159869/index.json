@@ -1,0 +1,71 @@
+{
+  "ids": {
+    "anilist": 159869,
+    "mal": 55196,
+    "tmdb": 220205,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Wei Jiang",
+    "english": null,
+    "native": "维将",
+    "synonyms": [],
+    "tmdb_title": "维将"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 26,
+  "start_date": {
+    "year": 2023,
+    "month": 1,
+    "day": 6
+  },
+  "end_date": {
+    "year": 2023,
+    "month": 6,
+    "day": 23
+  },
+  "genres": [
+    "Action",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Elite Animation"
+  ],
+  "producers": [
+    "Kayou"
+  ],
+  "country": "CN",
+  "popularity": 91,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159869-HQ8grSlyaCci.png",
+    "poster_color": "#e45dbb",
+    "banner": "https://image.tmdb.org/t/p/original/2l26Bpj0QblfVedPkKHLwYXvUHr.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/kD3IWGylSlXPTXRZbLM48nzrYT1.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/2l26Bpj0QblfVedPkKHLwYXvUHr.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159869-HQ8grSlyaCci.png"
+  },
+  "streaming": [
+    {
+      "site": "Youku",
+      "url": "https://list.youku.com/show/id_afdf69a8401c448e8a28"
+    },
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/x/cover/mzc00200wxb9qym.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 95,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T08:52:55.058Z",
+  "cache_version": 1
+}

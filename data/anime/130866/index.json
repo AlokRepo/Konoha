@@ -1,0 +1,74 @@
+{
+  "ids": {
+    "anilist": 130866,
+    "mal": 46447,
+    "anidb": 14888,
+    "tmdb": 95793,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Sanguo Yanyi",
+    "english": null,
+    "native": "三国演义",
+    "synonyms": [
+      "三国演义 第一季 群雄并起",
+      "Romance Of Three Kingdoms"
+    ],
+    "tmdb_title": "Romance of the Three Kingdoms"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 40,
+  "duration": 22,
+  "start_date": {
+    "year": 2017,
+    "month": 10,
+    "day": 18
+  },
+  "end_date": {
+    "year": 2018,
+    "month": 3,
+    "day": 1
+  },
+  "description": "3D CGI adaptation of the classical Chinese novel <i>Romance of the Three Kingdoms</i>.",
+  "genres": [
+    "Action",
+    "Drama",
+    "Supernatural"
+  ],
+  "tags": [],
+  "studios": [
+    "Yinhe Changxing Culture"
+  ],
+  "producers": [],
+  "source": "OTHER",
+  "country": "CN",
+  "popularity": 92,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130866-zTG6QyuHvFkI.jpg",
+    "poster_color": "#e4ae43",
+    "banner": "https://image.tmdb.org/t/p/original/vMuPMx0RgqRJuk9UICEpcARlXRK.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/nhQvZBMDBDV91WfolrSHYPkvHFu.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/vMuPMx0RgqRJuk9UICEpcARlXRK.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130866-zTG6QyuHvFkI.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/j/j3xfpg2z16gkq9f.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 115,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T08:52:24.442Z",
+  "cache_version": 1
+}
