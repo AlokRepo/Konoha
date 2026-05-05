@@ -1,0 +1,83 @@
+{
+  "ids": {
+    "anilist": 141864,
+    "mal": 50432,
+    "anidb": 17750,
+    "tmdb": 213400,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Wuxian Shijie",
+    "english": null,
+    "native": "无限世界",
+    "synonyms": [
+      "The Infinitors"
+    ],
+    "tmdb_title": "The Infinitors"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 16,
+  "duration": 19,
+  "start_date": {
+    "year": 2022,
+    "month": 11,
+    "day": 25
+  },
+  "end_date": {
+    "year": 2023,
+    "month": 3,
+    "day": 17
+  },
+  "description": "Do you want to understand the meaning of life? Do you really want to live?",
+  "genres": [
+    "Action",
+    "Horror",
+    "Supernatural"
+  ],
+  "tags": [
+    "Full CGI"
+  ],
+  "studios": [
+    "Wonder Cat Animation",
+    "He Zhou Culture"
+  ],
+  "producers": [
+    "bilibili",
+    "Mopi"
+  ],
+  "source": "OTHER",
+  "country": "CN",
+  "score_anilist": 57,
+  "popularity": 427,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141864-MDRIl15K9W1P.png",
+    "banner": "https://image.tmdb.org/t/p/original/nYS0aOI7E4GoLke7eIloOwVWW7Y.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/cbFFXj5zzpWcWyfVT9xBJdMuT5X.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/nYS0aOI7E4GoLke7eIloOwVWW7Y.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141864-MDRIl15K9W1P.png"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md28235358/"
+    },
+    {
+      "site": "Bilibili TV",
+      "url": "https://www.bilibili.tv/media/2071786"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T07:40:20.842Z",
+  "cache_version": 1
+}

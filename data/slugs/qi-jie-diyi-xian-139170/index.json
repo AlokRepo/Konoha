@@ -1,0 +1,71 @@
+{
+  "ids": {
+    "anilist": 139170,
+    "mal": 51131,
+    "anidb": 17104,
+    "tmdb": 158545,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Qi Jie Diyi Xian",
+    "english": null,
+    "native": "七界第一仙",
+    "synonyms": [
+      "The First Immortal of the Seven Realms"
+    ],
+    "tmdb_title": "The First Immortal of the Seven Realms"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 120,
+  "duration": 11,
+  "start_date": {
+    "year": 2022,
+    "month": 2,
+    "day": 24
+  },
+  "end_date": {
+    "year": 2023,
+    "month": 4,
+    "day": 4
+  },
+  "genres": [
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Soyep"
+  ],
+  "producers": [],
+  "source": "OTHER",
+  "country": "CN",
+  "score_anilist": 53,
+  "popularity": 428,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139170-u3RfkhSWdH2S.jpg",
+    "poster_color": "#f1d686",
+    "banner": "https://image.tmdb.org/t/p/original/p5PoLYPJfi5DjpMq6bi6m0qlk5c.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/7Rpwx9eQlsdYLD7x2oPe0DfaIHo.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/p5PoLYPJfi5DjpMq6bi6m0qlk5c.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139170-u3RfkhSWdH2S.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/t/mzc00200qxw3l4s.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 115,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_close",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T07:40:11.358Z",
+  "cache_version": 1
+}

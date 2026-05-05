@@ -1,0 +1,80 @@
+{
+  "ids": {
+    "anilist": 156108,
+    "mal": 59182,
+    "anidb": 18853,
+    "tmdb": 262295,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Xijing Sushe",
+    "english": null,
+    "native": "戏精宿舍",
+    "synonyms": [
+      "Roommates",
+      "Xi Jing Sushe"
+    ],
+    "tmdb_title": "Roommates"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 12,
+  "duration": 15,
+  "start_date": {
+    "year": 2024,
+    "month": 8,
+    "day": 29
+  },
+  "end_date": {
+    "year": 2024,
+    "month": 11,
+    "day": 7
+  },
+  "description": "The story revolves around the lives of eight current college students. Their different personalities and interests represent a microcosm of life on the modern college campus. They couldn't imagine that four years of college life together will also expose their personality flaws, as they find themselves through their daily interactions.\n<br><br>\n(Source: Bilibili, translated)",
+  "genres": [
+    "Drama",
+    "Slice of Life"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [
+    "Yofox Culture",
+    "NetEase",
+    "bilibili"
+  ],
+  "source": "MANGA",
+  "country": "CN",
+  "score_mal": 6.65,
+  "popularity": 402,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156108-g2QP9teKD5VR.png",
+    "poster_color": "#5035e4",
+    "banner": "https://image.tmdb.org/t/p/original/pqEli17kq7G0NGi7xYRPSFmXdgb.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/zHBOgJqo2WId4Wp9knvmF6oFQEi.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/pqEli17kq7G0NGi7xYRPSFmXdgb.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156108-g2QP9teKD5VR.png"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md28339881/"
+    },
+    {
+      "site": "Bilibili TV",
+      "url": "https://www.bilibili.tv/en/media/2114520"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T07:42:06.840Z",
+  "cache_version": 1
+}

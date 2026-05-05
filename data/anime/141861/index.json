@@ -1,0 +1,84 @@
+{
+  "ids": {
+    "anilist": 141861,
+    "mal": 50446,
+    "anidb": 18415,
+    "tmdb": 139184,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Changye Kaituozhe",
+    "english": "Blade of Dawn",
+    "native": "长夜开拓者",
+    "synonyms": [
+      "The Sword Of Dawn",
+      "黎明之剑",
+      "Liming Zhi Jian",
+      "Changye Kaita Zhe"
+    ],
+    "tmdb_title": "The Sword of Dawn"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 16,
+  "duration": 15,
+  "start_date": {
+    "year": 2022,
+    "month": 10,
+    "day": 6
+  },
+  "end_date": {
+    "year": 2023,
+    "month": 1,
+    "day": 12
+  },
+  "description": "The main character died in a plane crash accident, he was transported to a strange spatial installation orbiting a strange alien world with a physical body, for over a hundred thousand years he observed the emergence and evolution of life and the formation and fall of civilizations until he woke up in a coffin, the story follows Gawain, the Grand Duke and a founder of the Kingdom of Ansu.\n<br><br>\n(Source: Bilibili Comics)",
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "tags": [],
+  "studios": [
+    "CG Year"
+  ],
+  "producers": [
+    "bilibili"
+  ],
+  "source": "OTHER",
+  "country": "CN",
+  "score_anilist": 56,
+  "popularity": 403,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141861-Wp3223Z5SBRq.png",
+    "poster_color": "#f15d86",
+    "banner": "https://image.tmdb.org/t/p/original/djdRAUJjbkNEczeyGPtGmfPXs4C.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/i1c4DIW8egp43grUBhHnOdM7RfP.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/djdRAUJjbkNEczeyGPtGmfPXs4C.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141861-Wp3223Z5SBRq.png"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md28235363/"
+    },
+    {
+      "site": "Bilibili TV",
+      "url": "https://www.bilibili.tv/media/2067757"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T07:41:55.380Z",
+  "cache_version": 1
+}

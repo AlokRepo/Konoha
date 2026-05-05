@@ -1,0 +1,82 @@
+{
+  "ids": {
+    "anilist": 155902,
+    "mal": 57512,
+    "anidb": 18465,
+    "tmdb": 246549,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Yishi Zhi Zun",
+    "english": null,
+    "native": "一世之尊",
+    "synonyms": [
+      "Ancient Lords"
+    ],
+    "tmdb_title": "Ancient Lords"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 16,
+  "duration": 18,
+  "start_date": {
+    "year": 2024,
+    "month": 2,
+    "day": 18
+  },
+  "end_date": {
+    "year": 2024,
+    "month": 5,
+    "day": 25
+  },
+  "description": "Meng Qi is a time traveler who always wants to be a charming swordsman in white. But unexpectedly, he becomes a world-renowned “mad monk holding a blade” while accomplishing a tough mission in the infinitely continuous “time travel”. Yet, everything turns out to be the trick of an ancient lord. This story tells the legend of a funny monk who wanders around in the world of martial arts and the three realms.\n<br><br>\n(Source: bilibili Youtube)",
+  "genres": [
+    "Action",
+    "Fantasy"
+  ],
+  "tags": [
+    "Full CGI"
+  ],
+  "studios": [
+    "Wonder Cat Animation"
+  ],
+  "producers": [
+    "bilibili"
+  ],
+  "source": "OTHER",
+  "country": "CN",
+  "score_mal": 6.87,
+  "popularity": 397,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155902-w2cdwgSePAYD.jpg",
+    "poster_color": "#f1c9ae",
+    "banner": "https://image.tmdb.org/t/p/original/dEhrpQK7sYVcSIeK1ts7rNFMu4k.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/qtrxBK2ycMPVjOD4GHnPR2yPfEE.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/dEhrpQK7sYVcSIeK1ts7rNFMu4k.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155902-w2cdwgSePAYD.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md28339919/"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLBakWosU0sfjECHDslerX46I77BGSEmPy"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T07:42:41.661Z",
+  "cache_version": 1
+}
