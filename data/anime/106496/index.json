@@ -1,0 +1,80 @@
+{
+  "ids": {
+    "anilist": 106496,
+    "mal": 38688,
+    "anidb": 14287,
+    "tmdb": 85188,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Meng Ta: Xue Mi Cheng",
+    "english": "Dream Tower",
+    "native": "梦塔·雪谜城",
+    "synonyms": [
+      "Dream Tower: The Puzzle of Snow City",
+      "Dream Tower: Snow Mystery City"
+    ],
+    "tmdb_title": "Dream Tower"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 13,
+  "duration": 15,
+  "start_date": {
+    "year": 2018,
+    "month": 6,
+    "day": 1
+  },
+  "end_date": {
+    "year": 2018,
+    "month": 8,
+    "day": 10
+  },
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Mystery",
+    "Supernatural"
+  ],
+  "tags": [],
+  "studios": [
+    "Wulifang Animation"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "score_anilist": 47,
+  "popularity": 304,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106496-57KsNpSagkeo.jpg",
+    "poster_color": "#5d86e4",
+    "banner": "https://image.tmdb.org/t/p/original/zoTjEePiDK7GyrpY4Hfv52EB8Wf.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/2PeaJ77IHV2qGmXtLsr21CItFCS.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/zoTjEePiDK7GyrpY4Hfv52EB8Wf.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106496-57KsNpSagkeo.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/h/h86ww1mrmovkggb.html"
+    },
+    {
+      "site": "iQ",
+      "url": "https://www.iq.com/play/19rrh0um5x"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T07:57:40.983Z",
+  "cache_version": 1
+}

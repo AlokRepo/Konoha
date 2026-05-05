@@ -1,0 +1,80 @@
+{
+  "ids": {
+    "anilist": 104553,
+    "mal": 37058,
+    "anidb": 13687,
+    "tmdb": 79594,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Jian Wangchao 2",
+    "english": "Sword Dynasty 2",
+    "native": "剑王朝 第2季",
+    "synonyms": [
+      "剣王朝2"
+    ],
+    "tmdb_title": "Sword Dynasty"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 12,
+  "duration": 15,
+  "start_date": {
+    "year": 2017,
+    "month": 10,
+    "day": 12
+  },
+  "end_date": {
+    "year": 2017,
+    "month": 12,
+    "day": 21
+  },
+  "description": "Second Season of  Jian Wangchao.",
+  "genres": [
+    "Action"
+  ],
+  "tags": [],
+  "studios": [
+    "EMT Squared",
+    "Magic Bus"
+  ],
+  "producers": [
+    "iQIYI",
+    "Children's Playground Media"
+  ],
+  "source": "OTHER",
+  "country": "CN",
+  "score_anilist": 45,
+  "popularity": 293,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104553-c6QQByaED56Y.png",
+    "poster_color": "#e4935d",
+    "banner": "https://image.tmdb.org/t/p/original/siKFyGBHSM4GzMRAJmvQfQHY0pI.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/9xZB3Vytryl6bensq5BioV65iwR.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/siKFyGBHSM4GzMRAJmvQfQHY0pI.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104553-c6QQByaED56Y.png"
+  },
+  "streaming": [
+    {
+      "site": "iQ",
+      "url": "https://www.iq.com/play/19rrhcchcl"
+    },
+    {
+      "site": "iQIYI",
+      "url": "https://www.iqiyi.com/a_19rrhcchcl.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 109,
+  "match_signals": [
+    "english_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T07:59:32.998Z",
+  "cache_version": 1
+}
