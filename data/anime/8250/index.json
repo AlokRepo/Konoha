@@ -1,0 +1,80 @@
+{
+  "ids": {
+    "anilist": 8250,
+    "mal": 8250,
+    "anidb": 7920,
+    "tmdb": 812306,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Soukou Kihei Votoms: Koei Futatabi",
+    "english": "Armored Trooper Votoms: Chirico's Return",
+    "native": "装甲騎兵ボトムズ 孤影再び",
+    "synonyms": [
+      "Soko Kihei Votoms: Koei Futatabi",
+      "Armored Trooper Votoms: Alone Again"
+    ],
+    "tmdb_title": "Armored Trooper VOTOMS: Alone Again"
+  },
+  "format": "OVA",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2011,
+  "episodes": 1,
+  "duration": 49,
+  "start_date": {
+    "year": 2011,
+    "month": 1,
+    "day": 8
+  },
+  "end_date": {
+    "year": 2011,
+    "month": 1,
+    "day": 8
+  },
+  "description": "Chirico visits an oasis town and meets Gotho and his friends for the first time in 32 years.",
+  "genres": [
+    "Action",
+    "Drama",
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Military",
+    "Real Robot"
+  ],
+  "studios": [
+    "Sunrise"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 68,
+  "popularity": 1343,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8250.jpg",
+    "poster_color": "#43bbf1",
+    "banner": "https://image.tmdb.org/t/p/original/rsGVG74wi6Dg911KX8YTJgSH3tZ.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/y5hjfdBOvdKwDpocBHl6eDojcrY.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/rsGVG74wi6Dg911KX8YTJgSH3tZ.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8250.jpg"
+  },
+  "streaming": [
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/movies/armored-trooper-votoms-chirico-s-return"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 100,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T04:21:03.913Z",
+  "cache_version": 1
+}

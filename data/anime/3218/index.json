@@ -1,0 +1,75 @@
+{
+  "ids": {
+    "anilist": 3218,
+    "mal": 3218,
+    "anidb": 2446,
+    "tmdb": 67010,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Saiyuuki",
+    "english": null,
+    "native": "最遊記",
+    "synonyms": [
+      "Gensou Maden Saiyuuki OVA",
+      "Gensoumaden Saiyuuki OVA",
+      "Saiyuuki Premium"
+    ],
+    "tmdb_title": "Saiyuki"
+  },
+  "format": "OVA",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 1999,
+  "episodes": 2,
+  "duration": 30,
+  "start_date": {
+    "year": 1999,
+    "month": 4,
+    "day": 23
+  },
+  "end_date": {
+    "year": 1999,
+    "month": 8,
+    "day": 27
+  },
+  "description": "The story of Sanzo and his three companions in their quest to the west, to stop the resurrection of Gyuumao. On the way they are fighting youkai, getting into trouble and helping the townspeople.",
+  "genres": [
+    "Adventure",
+    "Supernatural"
+  ],
+  "tags": [
+    "Shounen"
+  ],
+  "studios": [
+    "Tokyo Kids"
+  ],
+  "producers": [],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 61,
+  "popularity": 1369,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx3218-82ijt3hInS3c.jpg",
+    "poster_color": "#e49335",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n3218-FeIrtQPWsLGB.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/xusdBTgXEzHdGLRiBRLQXtUIynv.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/hgFRBpADOBqA6QcjXdQ46Ov79gN.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx3218-82ijt3hInS3c.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 134,
+  "match_signals": [
+    "english_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T04:19:47.102Z",
+  "cache_version": 1
+}
