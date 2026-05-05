@@ -1,0 +1,82 @@
+{
+  "ids": {
+    "anilist": 141923,
+    "mal": 58490,
+    "anidb": 18590,
+    "tmdb": 251383,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Shen Zhiyi Jiao",
+    "english": null,
+    "native": "神之一脚",
+    "synonyms": [
+      "Super Xiang"
+    ],
+    "tmdb_title": "SUPER XIANG"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 12,
+  "duration": 14,
+  "start_date": {
+    "year": 2024,
+    "month": 4,
+    "day": 8
+  },
+  "end_date": {
+    "year": 2024,
+    "month": 6,
+    "day": 17
+  },
+  "description": "Pin Xiang, the “ultimate embryo” engineered to save Blue Star, carries immense expectations. He is destined to save the world with a single kick during a predetermined soccer match at a predetermined time and location! But he picked the wrong talent—mastering all sorts of irrelevant skills except soccer...<br><br>(Source: Bilibili, translated)",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Sports"
+  ],
+  "tags": [
+    "Aviation",
+    "School Club",
+    "Surreal Comedy"
+  ],
+  "studios": [],
+  "producers": [
+    "bilibili"
+  ],
+  "source": "MANGA",
+  "country": "CN",
+  "score_mal": 6.42,
+  "popularity": 251,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b141923-4cUcS64ZU1tu.png",
+    "poster_color": "#f1bb35",
+    "banner": "https://image.tmdb.org/t/p/original/94ObQkt4560UZuCOFfBZbBUF6TG.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/5caBEsAOdsZOplkCJd0RclxbBWf.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/94ObQkt4560UZuCOFfBZbBUF6TG.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b141923-4cUcS64ZU1tu.png"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md21083334"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/watch?v=ZfaWA_Fp4zs&list=PLBakWosU0sfgfxg-EQNJgoY5Hg8LQcll5"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T08:09:42.125Z",
+  "cache_version": 1
+}

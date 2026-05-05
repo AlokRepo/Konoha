@@ -1,0 +1,78 @@
+{
+  "ids": {
+    "anilist": 137641,
+    "mal": 51207,
+    "anidb": 18014,
+    "tmdb": 218946,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Jiuzhou Piaomiao Lu",
+    "english": "Novoland: Eagle Flag",
+    "native": "九州缥缈录",
+    "synonyms": [],
+    "tmdb_title": "Novoland Eagle Flag"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 13,
+  "start_date": {
+    "year": 2023,
+    "month": 1,
+    "day": 24
+  },
+  "end_date": {
+    "year": 2023,
+    "month": 4,
+    "day": 4
+  },
+  "genres": [
+    "Action",
+    "Drama",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "BYMENT"
+  ],
+  "producers": [
+    "Tencent Penguin Pictures",
+    "Smart Dragon"
+  ],
+  "source": "OTHER",
+  "country": "CN",
+  "score_mal": 6.58,
+  "popularity": 255,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137641-dZGzKBHwWGw2.png",
+    "poster_color": "#d6501a",
+    "banner": "https://image.tmdb.org/t/p/original/vUC8n3vnpLz3aKXjJZcqQOzl2xy.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/3R4S9IUS7T17HUjBzK7Zn8fqbLB.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/vUC8n3vnpLz3aKXjJZcqQOzl2xy.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137641-dZGzKBHwWGw2.png"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/t/mzc00200kk2uyjq.html"
+    },
+    {
+      "site": "WeTV",
+      "url": "https://wetv.vip/album/z1f8641l8cgp2xg"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 140,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_close",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T08:09:13.711Z",
+  "cache_version": 1
+}

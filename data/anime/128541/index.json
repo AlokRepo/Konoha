@@ -1,0 +1,74 @@
+{
+  "ids": {
+    "anilist": 128541,
+    "mal": 45169,
+    "anidb": 16002,
+    "tmdb": 115042,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Jiu Ye Shen Zhuan",
+    "english": "Legend of Nine Nights",
+    "native": "九夜神传",
+    "synonyms": [
+      "Nine Nights God's Legend"
+    ],
+    "tmdb_title": "Legend of Nine Nights"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 13,
+  "duration": 20,
+  "start_date": {
+    "year": 2020,
+    "month": 12,
+    "day": 21
+  },
+  "end_date": {
+    "year": 2021,
+    "month": 3,
+    "day": 8
+  },
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Yi Chen Animation"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "score_mal": 5.82,
+  "popularity": 250,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128541-7dXKTkq0bkQV.png",
+    "poster_color": "#f1d6ae",
+    "banner": "https://image.tmdb.org/t/p/original/sUh4oBumVBW6vdzEhsZ7ZBB6Bqw.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/aidDucEYz9Y7rjdGrxKuUs2INNc.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/sUh4oBumVBW6vdzEhsZ7ZBB6Bqw.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128541-7dXKTkq0bkQV.png"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/x/cover/mzc00200t2nedm4/j003536yi6c.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T08:09:50.660Z",
+  "cache_version": 1
+}

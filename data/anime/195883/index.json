@@ -1,0 +1,83 @@
+{
+  "ids": {
+    "anilist": 195883,
+    "mal": 61564,
+    "anidb": 19388,
+    "tmdb": 292624,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Shenguo Zhi Shang",
+    "english": null,
+    "native": "神国之上",
+    "synonyms": [
+      "Over the Divine Realms",
+      "Above the Kingdom of God",
+      "เหนือแดนเทพ"
+    ],
+    "tmdb_title": "Over the Divine Realms"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 17,
+  "duration": 23,
+  "start_date": {
+    "year": 2025,
+    "month": 6,
+    "day": 14
+  },
+  "end_date": {
+    "year": 2025,
+    "month": 9,
+    "day": 20
+  },
+  "description": "Six days and nights, a strange case, and the boy returning to twelve years ago, can he break the shackles of the Kingdom of God this time?",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "CG Year"
+  ],
+  "producers": [
+    "iQIYI"
+  ],
+  "source": "OTHER",
+  "country": "CN",
+  "score_anilist": 61,
+  "popularity": 256,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195883-sMTx1fWKv8JE.jpg",
+    "poster_color": "#5de493",
+    "banner": "https://image.tmdb.org/t/p/original/k46KSZfINEamI165UxWE8LH8bCj.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/5WQowyFIqArbnLDI8z7Iirqsy95.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/k46KSZfINEamI165UxWE8LH8bCj.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195883-sMTx1fWKv8JE.jpg"
+  },
+  "streaming": [
+    {
+      "site": "iQ",
+      "url": "https://www.iq.com/album/over-the-divine-realms-2025-101rpygjt21?lang=en_us"
+    },
+    {
+      "site": "iQ",
+      "url": "https://www.iq.com/album/เหนือแดนเทพ-2025-101rpygjt21?lang=th_th"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 140,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_close",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T08:08:47.726Z",
+  "cache_version": 1
+}

@@ -1,0 +1,77 @@
+{
+  "ids": {
+    "anilist": 137681,
+    "mal": 61752,
+    "anidb": 19371,
+    "tmdb": 262330,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Xi Xing Ji: Da Yuan Hun",
+    "english": null,
+    "native": "西行纪之大猿魂",
+    "synonyms": [
+      "Xixing Ji: Wukong",
+      "The Westward: Wukong"
+    ],
+    "tmdb_title": "WUKONG"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 12,
+  "duration": 13,
+  "start_date": {
+    "year": 2025,
+    "month": 6,
+    "day": 2
+  },
+  "end_date": {
+    "year": 2025,
+    "month": 9,
+    "day": 2
+  },
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "BYMENT"
+  ],
+  "producers": [
+    "Tencent Penguin Pictures",
+    "Tencent Animation & Comics"
+  ],
+  "source": "MANGA",
+  "country": "CN",
+  "popularity": 244,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137681-JAAyM4sjezdo.png",
+    "poster_color": "#50bbe4",
+    "banner": "https://image.tmdb.org/t/p/original/mTjlgcMedrOMNBceHnVndh5bVJ0.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/rwd42N9SlzbQ8eerQfenUyoeel9.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/mTjlgcMedrOMNBceHnVndh5bVJ0.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137681-JAAyM4sjezdo.png"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/t/mzc0020096xci6x.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 116,
+  "match_signals": [
+    "synonyms_match",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T08:10:33.480Z",
+  "cache_version": 1
+}

@@ -1,0 +1,78 @@
+{
+  "ids": {
+    "anilist": 156101,
+    "mal": 55738,
+    "tmdb": 213427,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Guaishou Xiao Guan",
+    "english": "Monster Diner",
+    "native": "怪兽小馆",
+    "synonyms": [
+      "Monster Diner"
+    ],
+    "tmdb_title": "Monster Diner"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 12,
+  "duration": 4,
+  "start_date": {
+    "year": 2023,
+    "month": 7,
+    "day": 13
+  },
+  "end_date": {
+    "year": 2023,
+    "month": 9,
+    "day": 21
+  },
+  "description": "Monsters are hiding in the human world, but most of them follow the code of conduct of the monster world, which is not to pick on the humans. However, as with humans, monsters also live on food. Therefore, there’re many monster diners that are open at night only for monsters in inconspicuous corners. Among which, one is very special and the boss is a human called “Taozi”. She comes from a family of chefs, but only monsters like the food she makes.\n<br><br>\n(Source: Bilibili Youtube)",
+  "genres": [
+    "Fantasy",
+    "Slice of Life"
+  ],
+  "tags": [],
+  "studios": [
+    "Shi Qi Yu Mo"
+  ],
+  "producers": [
+    "bilibili"
+  ],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "score_mal": 6.33,
+  "popularity": 255,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156101-7xYyYyRvFpgu.jpg",
+    "poster_color": "#f1865d",
+    "banner": "https://image.tmdb.org/t/p/original/5Vm0MhABG16uE7VRyoFNhMQrzGT.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/iVo8So2EEsv6sPIyQYZyhzGh661.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/5Vm0MhABG16uE7VRyoFNhMQrzGT.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156101-7xYyYyRvFpgu.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md28339933/"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLBakWosU0sfg3H9tT6PMlhsD8b29CMsFH"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T08:09:03.783Z",
+  "cache_version": 1
+}

@@ -1,0 +1,75 @@
+{
+  "ids": {
+    "anilist": 170496,
+    "mal": 56869,
+    "tmdb": 230288,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Bokura no Ameiro Protocol Mini Anime",
+    "english": null,
+    "native": "僕らの雨いろプロトコル ミニアニメ",
+    "synonyms": [
+      "Protocol: Rain Mini Anime",
+      "Our Rainy Protocol Mini Anime"
+    ],
+    "tmdb_title": "Protocol: Rain"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2023,
+  "episodes": 13,
+  "duration": 3,
+  "start_date": {
+    "year": 2023,
+    "month": 10,
+    "day": 6
+  },
+  "end_date": {
+    "year": 2023,
+    "month": 12,
+    "day": 29
+  },
+  "description": "Chibi shorts to <i>Bokura no Ameiro Protocol</i> released on the NUMAnimation YouTube channel  and Twitter account for the series.",
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [
+    "AQUA ARIS"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_mal": 5.74,
+  "popularity": 257,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170496-bBs1WgqY53y2.jpg",
+    "poster_color": "#2878a1",
+    "banner": "https://image.tmdb.org/t/p/original/nSHpZuARG3rgxre4pIojG1P80e9.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/5DFnJmZWCTjuMO65g92iqIKuIxF.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/nSHpZuARG3rgxre4pIojG1P80e9.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170496-bBs1WgqY53y2.jpg"
+  },
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/watch?v=VTzQsNxHz_0&list=PLMNMUwwForvk-t6PkhBNj4j_-pPJnpgAh"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 119,
+  "match_signals": [
+    "english_title",
+    "year_match",
+    "episode_close",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T08:08:32.572Z",
+  "cache_version": 1
+}

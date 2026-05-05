@@ -1,0 +1,86 @@
+{
+  "ids": {
+    "anilist": 146512,
+    "mal": 51937,
+    "tmdb": 198237,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Xingji Yi You",
+    "english": "Interstellar Wanderer",
+    "native": "星际一游",
+    "synonyms": [
+      "Interstellar tour"
+    ],
+    "tmdb_title": "Interstellar Wanderer"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 12,
+  "duration": 8,
+  "start_date": {
+    "year": 2022,
+    "month": 4,
+    "day": 18
+  },
+  "end_date": {
+    "year": 2022,
+    "month": 6,
+    "day": 27
+  },
+  "description": "Many years ago, the Earth was no longer inhabitable. Humans migrated from the Earth to other planets. But that was actually a scheme. Thus, Tang Yueliang, as the heiress of Demon Vanquishers, with her companions head west to the Earth to find the artifact, Mythic Crystal, to save the universe and fight to go back to Earth!\n<br><br>\n(source: BilbiliTV)",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Wanhe Huyu",
+    "Yudubai Animation"
+  ],
+  "producers": [
+    "Unimedia",
+    "bilibili"
+  ],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 245,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146512-ISX3WohPISS2.png",
+    "poster_color": "#50bbe4",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/ii0P2Jo0zaKBuxd9jQLTnELbdbp.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146512-ISX3WohPISS2.png"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md28237117/"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLBakWosU0sfgAFfXp1xeLtxXbc26MkTz4"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLBakWosU0sfhHamhi1Id1r2nSu03r7G4O"
+    },
+    {
+      "site": "Bilibili TV",
+      "url": "https://www.bilibili.tv/media/1051367"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T08:10:17.541Z",
+  "cache_version": 1
+}

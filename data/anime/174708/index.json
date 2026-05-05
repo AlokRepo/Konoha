@@ -1,0 +1,81 @@
+{
+  "ids": {
+    "anilist": 174708,
+    "mal": 56958,
+    "anidb": 18389,
+    "tmdb": 237714,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Tai Yi Jian Xian Zhuan",
+    "english": "The Legend of the Taiyi Sword Immortal",
+    "native": "太一剑仙传",
+    "synonyms": [],
+    "tmdb_title": "The Legend of the Taiyi Sword Immortal"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 20,
+  "duration": 20,
+  "start_date": {
+    "year": 2023,
+    "month": 10,
+    "day": 20
+  },
+  "end_date": {
+    "year": 2024,
+    "month": 2,
+    "day": 20
+  },
+  "description": "",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [
+    "Ruo Hong Culture"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "score_mal": 6.58,
+  "popularity": 244,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174708-WNzmsph2A1WD.jpg",
+    "poster_color": "#0da1e4",
+    "banner": "https://image.tmdb.org/t/p/original/iu63LjlBzUvUHnpN0zj7qnCiufA.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/b8lnw1cNb6yTs9Q6sr4iluem5Kw.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/iu63LjlBzUvUHnpN0zj7qnCiufA.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174708-WNzmsph2A1WD.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Youku",
+      "url": "https://v.youku.com/v_show/id_XNjEwNTg4MTcwMA==.html?s=bcbaa6f04ab643b4ad49"
+    },
+    {
+      "site": "Youku TV",
+      "url": "https://www.youku.tv/v/v_show/id_XNjExMzc5MTI0OA==.html?spm=a2h0c.8166622.PhoneSokuProgram_1.dtitle&s=bebaab03693a4ff981df"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLOUUm4xsoaeCeOqj6QohT1n3yrm0rezx3"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T08:10:24.214Z",
+  "cache_version": 1
+}
