@@ -1,0 +1,64 @@
+{
+  "ids": {
+    "anilist": 129547,
+    "mal": 53685,
+    "tmdb": 242689,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "AOTU Xueyuan",
+    "english": null,
+    "native": "凹凸学园",
+    "synonyms": [],
+    "tmdb_title": "凹凸学园"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 15,
+  "duration": 5,
+  "start_date": {
+    "year": 2019,
+    "month": 8,
+    "day": 1
+  },
+  "end_date": {
+    "year": 2019,
+    "month": 11,
+    "day": 17
+  },
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [
+    "7doc"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 57,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129547-H0pWazEPgDSI.png",
+    "poster_color": "#f1ae28",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/nVQACyHDBnUaQCotmQI6JC72T9U.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129547-H0pWazEPgDSI.png"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md28221892/"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 95,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T09:06:25.449Z",
+  "cache_version": 1
+}
