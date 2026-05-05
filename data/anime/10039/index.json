@@ -1,0 +1,68 @@
+{
+  "ids": {
+    "anilist": 10039,
+    "mal": 10039,
+    "tmdb": 65719,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Chinpui Specials",
+    "english": null,
+    "native": "チンプイ",
+    "synonyms": [
+      "Timpui"
+    ],
+    "tmdb_title": "Chinpui"
+  },
+  "format": "SPECIAL",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 1989,
+  "episodes": 2,
+  "duration": 10,
+  "start_date": {
+    "year": 1989,
+    "month": 12,
+    "day": 29
+  },
+  "end_date": {
+    "year": 1989,
+    "month": 12,
+    "day": 29
+  },
+  "description": "Chinpui specials.",
+  "genres": [
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [
+    "Production I.G"
+  ],
+  "producers": [],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 46,
+  "popularity": 171,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10039.jpg",
+    "poster_color": "#e4c95d",
+    "banner": "https://image.tmdb.org/t/p/original/p0F3ljvr42c0shbCsCkijh2wQfn.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/hLBiFTzcbJM5Y4jBIqJ9aS74ZIK.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/p0F3ljvr42c0shbCsCkijh2wQfn.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10039.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 100,
+  "match_signals": [
+    "english_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-05T02:30:56.327Z",
+  "cache_version": 1
+}
