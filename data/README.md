@@ -6,16 +6,16 @@ This repository is automatically maintained by the [AniSync](https://github.com/
 
 ## Data Access
 
-All data is served via **GitHub Raw** (jsDelivr limit exceeded):
+All data is served via the **jsDelivr CDN** (with GitHub Raw fallback for large files):
 
-- **Global Index**: `https://raw.githubusercontent.com/AlokRepo/Konoha/main/data/index.json`
-- **ID Mapping**: `https://raw.githubusercontent.com/AlokRepo/Konoha/main/data/id-map.json`
-- **Search Index**: `https://raw.githubusercontent.com/AlokRepo/Konoha/main/data/search.json`
+- **Global Index**: `https://cdn.jsdelivr.net/gh/AlokRepo/Konoha@main/data/index.json`
+- **ID Mapping**: `https://cdn.jsdelivr.net/gh/AlokRepo/Konoha@main/data/id-map.json`
+- **Search Index**: `https://cdn.jsdelivr.net/gh/AlokRepo/Konoha@main/data/search.json`
 - **Genre Directory**: `https://raw.githubusercontent.com/AlokRepo/Konoha/main/data/genres.json`
 - **Release Years**: `https://raw.githubusercontent.com/AlokRepo/Konoha/main/data/years.json`
-- **Library Stats**: `https://raw.githubusercontent.com/AlokRepo/Konoha/main/data/stats.json`
-- **Anime Details**: `https://raw.githubusercontent.com/AlokRepo/Konoha/main/data/anime/{anilist_id}/index.json`
-- **Episode Lists**: `https://raw.githubusercontent.com/AlokRepo/Konoha/main/data/anime/{anilist_id}/episodes.json`
+- **Library Stats**: `https://cdn.jsdelivr.net/gh/AlokRepo/Konoha@main/data/stats.json`
+- **Anime Details**: `https://cdn.jsdelivr.net/gh/AlokRepo/Konoha@main/data/anime/{anilist_id}/index.json`
+- **Episode Lists**: `https://cdn.jsdelivr.net/gh/AlokRepo/Konoha@main/data/anime/{anilist_id}/episodes.json`
 
 ## Credits & Sources
 
