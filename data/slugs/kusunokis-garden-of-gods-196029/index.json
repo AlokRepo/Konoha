@@ -4,7 +4,8 @@
     "mal": 62050,
     "anidb": 19472,
     "tmdb": 296870,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Kami no Niwatsuki Kusunoki-tei ",
@@ -46,7 +47,8 @@
     "Iyashikei",
     "Youkai",
     "Gods",
-    "Rural"
+    "Rural",
+    "Exorcism"
   ],
   "studios": [
     "JUVENAGE"
@@ -61,8 +63,8 @@
   "source": "LIGHT_NOVEL",
   "country": "JP",
   "score_anilist": 69,
-  "popularity": 10088,
-  "trending": 56,
+  "popularity": 10541,
+  "trending": 10,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196029-4ML0UHngkZhn.jpg",
     "poster_color": "#e45043",
@@ -83,9 +85,50 @@
     {
       "site": "YouTube",
       "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JjlyxvkFA0-OyN6zwDTNjoA"
+    },
+    {
+      "site": "Ani-One Asia",
+      "url": "https://www.youtube.com/channel/UC0wNSTMWIL3qaorLx0jie6A"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
     }
   ],
-  "themes": [],
+  "themes": [
+    {
+      "type": "OP",
+      "number": 1,
+      "title": "Edge",
+      "artist": "See-Saw",
+      "episodes": "1",
+      "video_url": "https://v.animethemes.moe/DotHackLiminality-OP1.webm"
+    },
+    {
+      "type": "OP",
+      "number": 2,
+      "title": "Senyaichiya",
+      "artist": "See-Saw",
+      "episodes": "2",
+      "video_url": "https://v.animethemes.moe/DotHackLiminality-OP2.webm"
+    },
+    {
+      "type": "OP",
+      "number": 3,
+      "title": "Kimi ga Ita Monogatari",
+      "artist": "See-Saw",
+      "episodes": "3",
+      "video_url": "https://v.animethemes.moe/DotHackLiminality-OP3.webm"
+    },
+    {
+      "type": "OP",
+      "number": 4,
+      "title": "Kioku",
+      "artist": "See-Saw",
+      "episodes": "4",
+      "video_url": "https://v.animethemes.moe/DotHackLiminality-OP4.webm"
+    }
+  ],
   "confidence": "HIGH",
   "match_score": 160,
   "match_signals": [
@@ -95,6 +138,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T08:45:44.234Z",
+  "cached_at": "2026-05-06T06:53:53.628Z",
   "cache_version": 1
 }

@@ -1,11 +1,7 @@
 {
   "ids": {
     "anilist": 98478,
-    "mal": 35180,
-    "anidb": 12994,
-    "tmdb": 65336,
-    "tmdb_type": "tv",
-    "tmdb_season": 2
+    "mal": 35180
   },
   "titles": {
     "romaji": "3-gatsu no Lion 2nd Season",
@@ -14,8 +10,7 @@
     "synonyms": [
       "Sangatsu no Lion 2",
       "מרץ מגיע כאריה 2"
-    ],
-    "tmdb_title": "March Comes In Like a Lion"
+    ]
   },
   "format": "TV",
   "status": "FINISHED",
@@ -62,14 +57,12 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 89,
-  "popularity": 125932,
-  "trending": 4,
+  "popularity": 126042,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98478-Yua5iL9zbrji.jpg",
     "poster_color": "#ffc993",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/98478-BDH64RDmBlr8.jpg",
-    "poster_tmdb": "https://image.tmdb.org/t/p/w780/sokReNdjEwG2TkdUzJcVnD6sChT.jpg",
-    "banner_tmdb": "https://image.tmdb.org/t/p/original/kEYUmDb8OOa6DFqme1LDOK1iwm7.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98478-Yua5iL9zbrji.jpg"
   },
   "streaming": [
@@ -86,15 +79,43 @@
       "url": "https://www.bilibili.tv/id/media/35909"
     }
   ],
-  "themes": [],
-  "confidence": "MEDIUM",
-  "match_score": 97,
-  "match_signals": [
-    "english_title",
-    "year_match",
-    "format_match",
-    "studio_match"
+  "themes": [
+    {
+      "type": "OP",
+      "number": 1,
+      "title": "Edge",
+      "artist": "See-Saw",
+      "episodes": "1",
+      "video_url": "https://v.animethemes.moe/DotHackLiminality-OP1.webm"
+    },
+    {
+      "type": "OP",
+      "number": 2,
+      "title": "Senyaichiya",
+      "artist": "See-Saw",
+      "episodes": "2",
+      "video_url": "https://v.animethemes.moe/DotHackLiminality-OP2.webm"
+    },
+    {
+      "type": "OP",
+      "number": 3,
+      "title": "Kimi ga Ita Monogatari",
+      "artist": "See-Saw",
+      "episodes": "3",
+      "video_url": "https://v.animethemes.moe/DotHackLiminality-OP3.webm"
+    },
+    {
+      "type": "OP",
+      "number": 4,
+      "title": "Kioku",
+      "artist": "See-Saw",
+      "episodes": "4",
+      "video_url": "https://v.animethemes.moe/DotHackLiminality-OP4.webm"
+    }
   ],
-  "cached_at": "2026-05-03T03:54:33.571Z",
+  "confidence": "PENDING",
+  "match_score": 72,
+  "match_signals": [],
+  "cached_at": "2026-05-06T07:16:10.707Z",
   "cache_version": 1
 }

@@ -83,14 +83,14 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 87,
-  "popularity": 500540,
-  "trending": 17,
+  "popularity": 501613,
+  "trending": 14,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101348-2fhDFPCuMNiz.jpg",
     "poster_color": "#f16b5d",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101348-pivKKffCAwAY.jpg",
     "poster_tmdb": "https://image.tmdb.org/t/p/w780/vUHlpA5c1NXkds59reY3HMb4Abs.jpg",
-    "banner_tmdb": "https://image.tmdb.org/t/p/original/xamCBQePUy9xI42GvtphLuGqd09.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/iyOg1PSacGAIa1aeilAl8pVrCnC.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101348-2fhDFPCuMNiz.jpg"
   },
   "streaming": [
@@ -111,7 +111,40 @@
       "url": "https://www.crunchyroll.com/series/GEXH3WKK0/vinland-saga"
     }
   ],
-  "themes": [],
+  "themes": [
+    {
+      "type": "OP",
+      "number": 1,
+      "title": "Edge",
+      "artist": "See-Saw",
+      "episodes": "1",
+      "video_url": "https://v.animethemes.moe/DotHackLiminality-OP1.webm"
+    },
+    {
+      "type": "OP",
+      "number": 2,
+      "title": "Senyaichiya",
+      "artist": "See-Saw",
+      "episodes": "2",
+      "video_url": "https://v.animethemes.moe/DotHackLiminality-OP2.webm"
+    },
+    {
+      "type": "OP",
+      "number": 3,
+      "title": "Kimi ga Ita Monogatari",
+      "artist": "See-Saw",
+      "episodes": "3",
+      "video_url": "https://v.animethemes.moe/DotHackLiminality-OP3.webm"
+    },
+    {
+      "type": "OP",
+      "number": 4,
+      "title": "Kioku",
+      "artist": "See-Saw",
+      "episodes": "4",
+      "video_url": "https://v.animethemes.moe/DotHackLiminality-OP4.webm"
+    }
+  ],
   "confidence": "HIGH",
   "match_score": 130,
   "match_signals": [
@@ -120,6 +153,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T03:16:06.067Z",
+  "cached_at": "2026-05-06T06:58:34.236Z",
   "cache_version": 1
 }

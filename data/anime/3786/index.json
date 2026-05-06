@@ -74,8 +74,8 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 85,
-  "popularity": 111097,
-  "trending": 3,
+  "popularity": 111147,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3786-Tpt9iM72dxTv.jpg",
     "poster_color": "#50bbe4",
@@ -90,7 +90,40 @@
       "url": "https://www.amazon.com/dp/B098VW137N/"
     }
   ],
-  "themes": [],
+  "themes": [
+    {
+      "type": "OP",
+      "number": 1,
+      "title": "Edge",
+      "artist": "See-Saw",
+      "episodes": "1",
+      "video_url": "https://v.animethemes.moe/DotHackLiminality-OP1.webm"
+    },
+    {
+      "type": "OP",
+      "number": 2,
+      "title": "Senyaichiya",
+      "artist": "See-Saw",
+      "episodes": "2",
+      "video_url": "https://v.animethemes.moe/DotHackLiminality-OP2.webm"
+    },
+    {
+      "type": "OP",
+      "number": 3,
+      "title": "Kimi ga Ita Monogatari",
+      "artist": "See-Saw",
+      "episodes": "3",
+      "video_url": "https://v.animethemes.moe/DotHackLiminality-OP3.webm"
+    },
+    {
+      "type": "OP",
+      "number": 4,
+      "title": "Kioku",
+      "artist": "See-Saw",
+      "episodes": "4",
+      "video_url": "https://v.animethemes.moe/DotHackLiminality-OP4.webm"
+    }
+  ],
   "confidence": "HIGH",
   "match_score": 130,
   "match_signals": [
@@ -99,6 +132,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-04T16:56:29.301Z",
+  "cached_at": "2026-05-06T07:05:57.564Z",
   "cache_version": 1
 }

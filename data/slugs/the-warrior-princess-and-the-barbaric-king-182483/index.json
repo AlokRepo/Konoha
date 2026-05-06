@@ -4,7 +4,8 @@
     "mal": 60028,
     "anidb": 18898,
     "tmdb": 273467,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Hime Kishi wa Barbaroi no Yome",
@@ -67,9 +68,9 @@
   ],
   "source": "MANGA",
   "country": "JP",
-  "score_anilist": 66,
-  "popularity": 28578,
-  "trending": 34,
+  "score_anilist": 67,
+  "popularity": 29391,
+  "trending": 14,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182483-La7chs6htDWr.jpg",
     "poster_color": "#50bbf1",
@@ -82,9 +83,46 @@
     {
       "site": "Crunchyroll",
       "url": "https://www.crunchyroll.com/series/GT00362253/the-warrior-princess-and-the-barbaric-king"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
     }
   ],
-  "themes": [],
+  "themes": [
+    {
+      "type": "OP",
+      "number": 1,
+      "title": "Edge",
+      "artist": "See-Saw",
+      "episodes": "1",
+      "video_url": "https://v.animethemes.moe/DotHackLiminality-OP1.webm"
+    },
+    {
+      "type": "OP",
+      "number": 2,
+      "title": "Senyaichiya",
+      "artist": "See-Saw",
+      "episodes": "2",
+      "video_url": "https://v.animethemes.moe/DotHackLiminality-OP2.webm"
+    },
+    {
+      "type": "OP",
+      "number": 3,
+      "title": "Kimi ga Ita Monogatari",
+      "artist": "See-Saw",
+      "episodes": "3",
+      "video_url": "https://v.animethemes.moe/DotHackLiminality-OP3.webm"
+    },
+    {
+      "type": "OP",
+      "number": 4,
+      "title": "Kioku",
+      "artist": "See-Saw",
+      "episodes": "4",
+      "video_url": "https://v.animethemes.moe/DotHackLiminality-OP4.webm"
+    }
+  ],
   "confidence": "HIGH",
   "match_score": 160,
   "match_signals": [
@@ -94,8 +132,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T06:22:26.000Z",
-  "cache_version": 1
-}",
+  "cached_at": "2026-05-06T06:52:43.078Z",
   "cache_version": 1
 }

@@ -21,7 +21,7 @@
   "status": "RELEASING",
   "season": "SPRING",
   "season_year": 2026,
-  "episodes": 18,
+  "episodes": 24,
   "duration": 24,
   "start_date": {
     "year": 2026,
@@ -34,10 +34,10 @@
     "day": null
   },
   "next_airing": {
-    "episode": 4,
-    "at": "2026-05-03T07:30:00.000Z"
+    "episode": 5,
+    "at": "2026-05-10T07:30:00.000Z"
   },
-  "description": "The second season of <i>Tsue to Tsurugi no Wistoria</i>.<br><br>\nWill, a washout student at a magical academy who is unable to use magic, is aiming to join the top tier of mages, the Magia Vander, to fulfill a promise to his childhood friend, Elfaria. Wielding a sword instead of a wand, his abilities are slowly recognized within the academy. During the all-student praxis dungeon training he undertakes with Lihanna and the other top students of his year, they are ambushed by a mysterious mage. Though they barely manage to survive the attack together, they go on to face the exit exam. Can Will reach the girl waiting for him in the tower?<br><br>\n(Source: Wistoria: Wand and Sword Season 2 English Site)",
+  "description": "The second season of <i>Tsue to Tsurugi no Wistoria</i>.<br><br>\nWill, a washout student at a magical academy who is unable to use magic, is aiming to join the top tier of mages, the Magia Vander, to fulfill a promise to his childhood friend, Elfaria. Wielding a sword instead of a wand, his abilities are slowly recognized within the academy. During the all-student praxis dungeon training he undertakes with Lihanna and the other top students of his year, they are ambushed by a mysterious mage. Though they barely manage to survive the attack together, they go on to face the exit exam. Can Will reach the girl waiting for him in the tower?<br><br>\n(Source: Official Site)",
   "genres": [
     "Action",
     "Adventure",
@@ -45,11 +45,10 @@
     "Fantasy"
   ],
   "tags": [
-    "Swordplay",
     "Magic",
+    "Swordplay",
     "Male Protagonist",
-    "Primarily Teen Cast",
-    "Female Harem"
+    "Primarily Teen Cast"
   ],
   "studios": [
     "Actas",
@@ -64,9 +63,9 @@
   ],
   "source": "MANGA",
   "country": "JP",
-  "score_anilist": 80,
-  "popularity": 58354,
-  "trending": 44,
+  "score_anilist": 81,
+  "popularity": 61005,
+  "trending": 77,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182300-IYkq5KrkQq1V.jpg",
     "poster_color": "#e4a150",
@@ -87,9 +86,50 @@
     {
       "site": "Bilibili TV",
       "url": "https://www.bilibili.tv/en/media/2342649"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "site": "Muse Asia",
+      "url": "https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg"
     }
   ],
-  "themes": [],
+  "themes": [
+    {
+      "type": "OP",
+      "number": 1,
+      "title": "Edge",
+      "artist": "See-Saw",
+      "episodes": "1",
+      "video_url": "https://v.animethemes.moe/DotHackLiminality-OP1.webm"
+    },
+    {
+      "type": "OP",
+      "number": 2,
+      "title": "Senyaichiya",
+      "artist": "See-Saw",
+      "episodes": "2",
+      "video_url": "https://v.animethemes.moe/DotHackLiminality-OP2.webm"
+    },
+    {
+      "type": "OP",
+      "number": 3,
+      "title": "Kimi ga Ita Monogatari",
+      "artist": "See-Saw",
+      "episodes": "3",
+      "video_url": "https://v.animethemes.moe/DotHackLiminality-OP3.webm"
+    },
+    {
+      "type": "OP",
+      "number": 4,
+      "title": "Kioku",
+      "artist": "See-Saw",
+      "episodes": "4",
+      "video_url": "https://v.animethemes.moe/DotHackLiminality-OP4.webm"
+    }
+  ],
   "confidence": "MEDIUM",
   "match_score": 88,
   "match_signals": [
@@ -98,6 +138,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T04:57:06.341Z",
+  "cached_at": "2026-05-06T06:48:30.056Z",
   "cache_version": 1
 }

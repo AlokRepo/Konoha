@@ -62,8 +62,8 @@
   "source": "VISUAL_NOVEL",
   "country": "JP",
   "score_anilist": 88,
-  "popularity": 212148,
-  "trending": 5,
+  "popularity": 212411,
+  "trending": 2,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4181-zUKE7BZC62OF.png",
     "poster_color": "#f1e450",
@@ -80,9 +80,46 @@
     {
       "site": "Amazon Prime Video",
       "url": "https://www.amazon.com/gp/video/detail/B01MY6K92X/ref=atv_dp_season_select_s2?tag=techblast0f-20"
+    },
+    {
+      "site": "Shahid",
+      "url": "https://shahid.mbc.net/en/series/Clannad:-After-Story/series-896062"
     }
   ],
-  "themes": [],
+  "themes": [
+    {
+      "type": "OP",
+      "number": 1,
+      "title": "Edge",
+      "artist": "See-Saw",
+      "episodes": "1",
+      "video_url": "https://v.animethemes.moe/DotHackLiminality-OP1.webm"
+    },
+    {
+      "type": "OP",
+      "number": 2,
+      "title": "Senyaichiya",
+      "artist": "See-Saw",
+      "episodes": "2",
+      "video_url": "https://v.animethemes.moe/DotHackLiminality-OP2.webm"
+    },
+    {
+      "type": "OP",
+      "number": 3,
+      "title": "Kimi ga Ita Monogatari",
+      "artist": "See-Saw",
+      "episodes": "3",
+      "video_url": "https://v.animethemes.moe/DotHackLiminality-OP3.webm"
+    },
+    {
+      "type": "OP",
+      "number": 4,
+      "title": "Kioku",
+      "artist": "See-Saw",
+      "episodes": "4",
+      "video_url": "https://v.animethemes.moe/DotHackLiminality-OP4.webm"
+    }
+  ],
   "confidence": "MEDIUM",
   "match_score": 99,
   "match_signals": [
@@ -91,6 +128,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T10:28:27.388Z",
+  "cached_at": "2026-05-06T07:00:51.971Z",
   "cache_version": 1
 }

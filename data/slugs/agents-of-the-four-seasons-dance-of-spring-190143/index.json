@@ -51,15 +51,14 @@
     "Urban Fantasy",
     "Environmental",
     "Mythology",
+    "Rehabilitation",
     "Disability",
     "Swordplay",
     "Ensemble Cast",
-    "Rehabilitation",
     "Gods",
-    "Shoujo",
-    "Yuri",
-    "Age Gap",
     "Heterosexual",
+    "Shoujo",
+    "Age Gap",
     "Super Power",
     "Primarily Adult Cast"
   ],
@@ -76,8 +75,8 @@
   "source": "LIGHT_NOVEL",
   "country": "JP",
   "score_anilist": 75,
-  "popularity": 27631,
-  "trending": 93,
+  "popularity": 28338,
+  "trending": 24,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190143-IqqbkMAF0GOo.jpg",
     "poster_color": "#e4865d",
@@ -98,9 +97,54 @@
     {
       "site": "Bilibili TV",
       "url": "https://www.bilibili.tv/en/media/2342908"
+    },
+    {
+      "site": "Aniplus TV",
+      "url": "http://www.aniplustv.com/"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "site": "Muse Asia",
+      "url": "https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg"
     }
   ],
-  "themes": [],
+  "themes": [
+    {
+      "type": "OP",
+      "number": 1,
+      "title": "Edge",
+      "artist": "See-Saw",
+      "episodes": "1",
+      "video_url": "https://v.animethemes.moe/DotHackLiminality-OP1.webm"
+    },
+    {
+      "type": "OP",
+      "number": 2,
+      "title": "Senyaichiya",
+      "artist": "See-Saw",
+      "episodes": "2",
+      "video_url": "https://v.animethemes.moe/DotHackLiminality-OP2.webm"
+    },
+    {
+      "type": "OP",
+      "number": 3,
+      "title": "Kimi ga Ita Monogatari",
+      "artist": "See-Saw",
+      "episodes": "3",
+      "video_url": "https://v.animethemes.moe/DotHackLiminality-OP3.webm"
+    },
+    {
+      "type": "OP",
+      "number": 4,
+      "title": "Kioku",
+      "artist": "See-Saw",
+      "episodes": "4",
+      "video_url": "https://v.animethemes.moe/DotHackLiminality-OP4.webm"
+    }
+  ],
   "confidence": "HIGH",
   "match_score": 160,
   "match_signals": [
@@ -110,6 +154,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T06:26:22.209Z",
+  "cached_at": "2026-05-06T06:50:57.948Z",
   "cache_version": 1
 }

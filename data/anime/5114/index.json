@@ -83,8 +83,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 90,
-  "popularity": 682049,
-  "trending": 22,
+  "popularity": 683161,
+  "trending": 12,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5114-nSWCgQlmOMtj.jpg",
     "poster_color": "#e4c993",
@@ -113,9 +113,46 @@
     {
       "site": "iQ",
       "url": "https://www.iq.com/album/s8lu95if3p"
+    },
+    {
+      "site": "AmasianTV",
+      "url": "https://amasian.tv/video/series/fullmetal-alchemist-brotherhood-eng-dub"
     }
   ],
-  "themes": [],
+  "themes": [
+    {
+      "type": "OP",
+      "number": 1,
+      "title": "Edge",
+      "artist": "See-Saw",
+      "episodes": "1",
+      "video_url": "https://v.animethemes.moe/DotHackLiminality-OP1.webm"
+    },
+    {
+      "type": "OP",
+      "number": 2,
+      "title": "Senyaichiya",
+      "artist": "See-Saw",
+      "episodes": "2",
+      "video_url": "https://v.animethemes.moe/DotHackLiminality-OP2.webm"
+    },
+    {
+      "type": "OP",
+      "number": 3,
+      "title": "Kimi ga Ita Monogatari",
+      "artist": "See-Saw",
+      "episodes": "3",
+      "video_url": "https://v.animethemes.moe/DotHackLiminality-OP3.webm"
+    },
+    {
+      "type": "OP",
+      "number": 4,
+      "title": "Kioku",
+      "artist": "See-Saw",
+      "episodes": "4",
+      "video_url": "https://v.animethemes.moe/DotHackLiminality-OP4.webm"
+    }
+  ],
   "confidence": "HIGH",
   "match_score": 160,
   "match_signals": [
@@ -125,6 +162,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T03:13:14.596Z",
+  "cached_at": "2026-05-06T07:15:14.305Z",
   "cache_version": 1
 }

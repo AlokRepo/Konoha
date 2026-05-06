@@ -52,9 +52,9 @@
     "Tsundere",
     "School Club",
     "Slapstick",
+    "Ensemble Cast",
     "Seinen",
-    "Philosophy",
-    "Ensemble Cast"
+    "Philosophy"
   ],
   "studios": [
     "A-1 Pictures"
@@ -65,8 +65,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 87,
-  "popularity": 134862,
-  "trending": 4,
+  "popularity": 135048,
+  "trending": 3,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151384-gv0q8wOE6D58.jpg",
     "poster_color": "#e45d78",
@@ -85,7 +85,40 @@
       "url": "https://www.bilibili.tv/en/media/2079394"
     }
   ],
-  "themes": [],
+  "themes": [
+    {
+      "type": "OP",
+      "number": 1,
+      "title": "Edge",
+      "artist": "See-Saw",
+      "episodes": "1",
+      "video_url": "https://v.animethemes.moe/DotHackLiminality-OP1.webm"
+    },
+    {
+      "type": "OP",
+      "number": 2,
+      "title": "Senyaichiya",
+      "artist": "See-Saw",
+      "episodes": "2",
+      "video_url": "https://v.animethemes.moe/DotHackLiminality-OP2.webm"
+    },
+    {
+      "type": "OP",
+      "number": 3,
+      "title": "Kimi ga Ita Monogatari",
+      "artist": "See-Saw",
+      "episodes": "3",
+      "video_url": "https://v.animethemes.moe/DotHackLiminality-OP3.webm"
+    },
+    {
+      "type": "OP",
+      "number": 4,
+      "title": "Kioku",
+      "artist": "See-Saw",
+      "episodes": "4",
+      "video_url": "https://v.animethemes.moe/DotHackLiminality-OP4.webm"
+    }
+  ],
   "confidence": "MEDIUM",
   "match_score": 90,
   "match_signals": [
@@ -93,6 +126,6 @@
     "year_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T10:31:05.913Z",
+  "cached_at": "2026-05-06T07:13:39.215Z",
   "cache_version": 1
 }
