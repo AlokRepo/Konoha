@@ -11,6 +11,9 @@ All data is served via the **jsDelivr CDN** for maximum performance:
 - **Global Index**: `https://cdn.jsdelivr.net/gh/AlokRepo/Konoha@main/data/index.json`
 - **ID Mapping**: `https://cdn.jsdelivr.net/gh/AlokRepo/Konoha@main/data/id-map.json`
 - **Search Index**: `https://cdn.jsdelivr.net/gh/AlokRepo/Konoha@main/data/search.json`
+- **Genre Directory**: `https://cdn.jsdelivr.net/gh/AlokRepo/Konoha@main/data/genres.json`
+- **Release Years**: `https://cdn.jsdelivr.net/gh/AlokRepo/Konoha@main/data/years.json`
+- **Library Stats**: `https://cdn.jsdelivr.net/gh/AlokRepo/Konoha@main/data/stats.json`
 - **Anime Details**: `https://cdn.jsdelivr.net/gh/AlokRepo/Konoha@main/data/anime/{anilist_id}/index.json`
 - **Episode Lists**: `https://cdn.jsdelivr.net/gh/AlokRepo/Konoha@main/data/anime/{anilist_id}/episodes.json`
 
