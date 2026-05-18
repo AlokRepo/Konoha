@@ -32,10 +32,7 @@
     "month": null,
     "day": null
   },
-  "next_airing": {
-    "episode": 19,
-    "at": "2026-06-25T15:00:00.000Z"
-  },
+  "next_airing": null,
   "description": "A new Space Battleship Yamato project which is a sequel to the <i>Uchuu Senkan Yamato 2205: Aratanaru Tabidachi</i> films.",
   "genres": [
     "Action",
@@ -96,6 +93,7 @@
     "year_match",
     "format_match"
   ],
-  "cached_at": "2026-05-05T03:50:12.710Z",
-  "cache_version": 1
+  "cached_at": "2026-05-18T18:36:46.321Z",
+  "cache_version": 1,
+  "score_mal": 7.56
 }

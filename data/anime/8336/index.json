@@ -32,10 +32,7 @@
     "month": null,
     "day": null
   },
-  "next_airing": {
-    "episode": 655,
-    "at": "2026-05-07T22:10:00.000Z"
-  },
+  "next_airing": null,
   "description": "Story about Kappa with flowers on their heads.",
   "genres": [
     "Comedy"
@@ -70,6 +67,7 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-04T06:09:16.792Z",
-  "cache_version": 1
+  "cached_at": "2026-05-18T18:36:46.321Z",
+  "cache_version": 1,
+  "score_mal": 6.04
 }
