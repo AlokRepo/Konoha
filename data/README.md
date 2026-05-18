@@ -13,7 +13,9 @@ All data is served via the **jsDelivr CDN** (with GitHub Raw fallback for large 
 - **Search Index**: `https://cdn.jsdelivr.net/gh/AlokRepo/Konoha@main/data/search.json`
 - **Genre Directory**: `https://raw.githubusercontent.com/AlokRepo/Konoha/main/data/genres.json`
 - **Release Years**: `https://raw.githubusercontent.com/AlokRepo/Konoha/main/data/years.json`
+- **Airing Now**: `https://cdn.jsdelivr.net/gh/AlokRepo/Konoha@main/data/airing.json`
 - **Library Stats**: `https://cdn.jsdelivr.net/gh/AlokRepo/Konoha@main/data/stats.json`
+- **Pipeline Status**: `https://cdn.jsdelivr.net/gh/AlokRepo/Konoha@main/data/sync-status.json`
 - **Anime Details**: `https://cdn.jsdelivr.net/gh/AlokRepo/Konoha@main/data/anime/{anilist_id}/index.json`
 - **Episode Lists**: `https://cdn.jsdelivr.net/gh/AlokRepo/Konoha@main/data/anime/{anilist_id}/episodes.json`
 
