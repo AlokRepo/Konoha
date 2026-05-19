@@ -6,31 +6,79 @@ This repository is automatically maintained by the [AniSync](https://github.com/
 
 ## Data Access
 
-All data is served via the **jsDelivr CDN** (with GitHub Raw fallback for large files):
+All data is served via the **jsDelivr CDN** for maximum performance:
 
 - **Global Index**: `https://cdn.jsdelivr.net/gh/AlokRepo/Konoha@main/data/index.json`
 - **ID Mapping**: `https://cdn.jsdelivr.net/gh/AlokRepo/Konoha@main/data/id-map.json`
 - **Search Index**: `https://cdn.jsdelivr.net/gh/AlokRepo/Konoha@main/data/search.json`
-- **Genre Directory**: `https://raw.githubusercontent.com/AlokRepo/Konoha/main/data/genres.json`
-- **Release Years**: `https://raw.githubusercontent.com/AlokRepo/Konoha/main/data/years.json`
+- **Genre Directory**: `https://cdn.jsdelivr.net/gh/AlokRepo/Konoha@main/data/genres.json`
+- **Release Years**: `https://cdn.jsdelivr.net/gh/AlokRepo/Konoha@main/data/years.json`
 - **Airing Now**: `https://cdn.jsdelivr.net/gh/AlokRepo/Konoha@main/data/airing.json`
 - **Library Stats**: `https://cdn.jsdelivr.net/gh/AlokRepo/Konoha@main/data/stats.json`
 - **Pipeline Status**: `https://cdn.jsdelivr.net/gh/AlokRepo/Konoha@main/data/sync-status.json`
-- **Anime Details**: `https://cdn.jsdelivr.net/gh/AlokRepo/Konoha@main/data/anime/{anilist_id}/index.json`
-- **Episode Lists**: `https://cdn.jsdelivr.net/gh/AlokRepo/Konoha@main/data/anime/{anilist_id}/episodes.json`
+- **Anime Details**: `https://cdn.jsdelivr.net/gh/AlokRepo/Konoha@main/data/anime/{shard}/{anilist_id}/index.json` (where `shard` is `Math.floor(anilist_id / 1000)`)
+- **Episode Lists**: `https://cdn.jsdelivr.net/gh/AlokRepo/Konoha@main/data/anime/{shard}/{anilist_id}/episodes.json` (where `shard` is `Math.floor(anilist_id / 1000)`)
 
-## Credits & Sources
+## How to Retrieve and Navigate the Data
 
-This database is made possible by the incredible APIs and datasets provided by:
+Here is a quick developer flow to fetch and use data from this repository inside your application:
 
-- **[AniList](https://anilist.co)** - Primary metadata and discovery.
-- **[TMDB](https://www.themoviedb.org)** - High-fidelity 4K images and episode data.
-- **[Jikan](https://jikan.moe)** - MyAnimeList (MAL) metadata bridge.
-- **[AnimeThemes](https://animethemes.moe)** - OP/ED video and music links.
-- **[Manami Project](https://github.com/manami-project/anime-offline-database)** - Comprehensive ID mapping.
+```mermaid
+graph TD
+    A[Fetch global index.json] --> B[Search / Browse locally]
+    B --> C[Select Anime & Get AniList ID]
+    C --> D["Compute shard = Math.floor(id / 1000)"]
+    D --> E[Fetch detailed index.json & episodes.json]
+```
 
-Please support these projects as they are the backbone of the anime developer community.
+### 1. Build a Search/Browse UI
+Download the **Global Index** once when your application starts. Since it is compressed and lightweight (~4MB for 10k titles), you can perform instant client-side fuzzy searching, filtering (by genre, year, status), and pagination:
+```javascript
+const BASE_URL = "https://cdn.jsdelivr.net/gh/AlokRepo/Konoha@main/data";
+
+// 1. Fetch catalog
+const catalog = await fetch(`${BASE_URL}/index.json`).then(r => r.json());
+
+// 2. Perform client-side filter
+const trendingTV = catalog
+  .filter(anime => anime.format === "TV" && anime.status === "RELEASING")
+  .slice(0, 20);
+```
+
+### 2. Fetch Detailed Metadata
+To load details for a specific anime, construct the sharded path using the AniList ID:
+```javascript
+function getAnimeDetailsUrl(anilistId) {
+  const shard = Math.floor(anilistId / 1000);
+  return `${BASE_URL}/anime/${shard}/${anilistId}/index.json`;
+}
+
+function getAnimeEpisodesUrl(anilistId) {
+  const shard = Math.floor(anilistId / 1000);
+  return `${BASE_URL}/anime/${shard}/${anilistId}/episodes.json`;
+}
+
+// Example usage: Fetching details for AniList ID 21 (One Piece)
+const details = await fetch(getAnimeDetailsUrl(21)).then(r => r.json());
+const episodes = await fetch(getAnimeEpisodesUrl(21)).then(r => r.json());
+```
+
+### 3. Cross-Reference Databases
+If you need to fetch links, identifiers, or sync state with other databases (TMDB, MyAnimeList, Kitsu, AniDB, Simkl) without fetching the detailed index file first, read the **ID Mapping** file (`id-map.json`):
+```javascript
+const idMap = await fetch(`${BASE_URL}/id-map.json`).then(r => r.json());
+
+// Get MAL / TMDB cross-references for AniList ID "21"
+const mappings = idMap["21"]; 
+console.log(mappings.mal);  // MyAnimeList ID
+console.log(mappings.tmdb); // TMDB ID
+```
 
 ---
-Maintained by the **AniSync Pipeline**.  
-*Disclaimer: This repository is a community cache and does not host any video files.*
+
+## Purpose
+
+The goal of Konoha is to provide a standardized, cross-source anime database that can be consumed by applications with zero server-side logic and sub-50ms latency.
+
+---
+Maintained by AniSync Pipeline.
