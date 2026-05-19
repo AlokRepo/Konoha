@@ -30,7 +30,10 @@
     "month": null,
     "day": null
   },
-  "next_airing": null,
+  "next_airing": {
+    "episode": 7,
+    "at": "2026-05-20T18:00:00.000Z"
+  },
   "description": "As high school reaches its midpoint, Koichi Asakura—who dreams of studying design at art school—has his plans shaken by explosive graffiti on a museum wall. The artist is Eren Yamagishi, a left-handed girl who buried her talent after a past incident. Drawn together by art, Koichi pursues design as Eren returns to painting, but fear, ambition, and old scars threaten their paths.<br><br>(Source: Crunchyroll)",
   "genres": [
     "Drama"
@@ -120,7 +123,7 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-18T18:36:46.321Z",
+  "cached_at": "2026-05-19T03:36:20.081Z",
   "cache_version": 1,
-  "score_mal": 6.2
+  "score_mal": 6.19
 }

@@ -4,7 +4,8 @@
     "mal": 57557,
     "anidb": 18325,
     "tmdb": 241709,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "THE ONE PIECE",
@@ -16,7 +17,7 @@
     "tmdb_title": "THE ONE PIECE"
   },
   "status": "NOT_YET_RELEASED",
-  "episodes": 1,
+  "episodes": 7,
   "start_date": {
     "year": null,
     "month": null,
@@ -76,8 +77,7 @@
     "exact_title",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T07:04:24.003Z",
-  "cache_version": 1
-}",
-  "cache_version": 1
+  "cached_at": "2026-05-19T03:36:20.081Z",
+  "cache_version": 1,
+  "next_airing": null
 }

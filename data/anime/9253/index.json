@@ -48,8 +48,8 @@
     "Male Protagonist",
     "Urban",
     "Primarily Adult Cast",
-    "Philosophy",
     "Denpa",
+    "Philosophy",
     "Dissociative Identities",
     "Chuunibyou",
     "Tsundere",
@@ -74,8 +74,8 @@
   "source": "VISUAL_NOVEL",
   "country": "JP",
   "score_anilist": 89,
-  "popularity": 558675,
-  "trending": 10,
+  "popularity": 565117,
+  "trending": 13,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9253-tIUXF2gfU8Sg.jpg",
     "poster_color": "#ffd6ae",
@@ -98,40 +98,7 @@
       "url": "https://www.netflix.com/"
     }
   ],
-  "themes": [
-    {
-      "type": "OP",
-      "number": 1,
-      "title": "Edge",
-      "artist": "See-Saw",
-      "episodes": "1",
-      "video_url": "https://v.animethemes.moe/DotHackLiminality-OP1.webm"
-    },
-    {
-      "type": "OP",
-      "number": 2,
-      "title": "Senyaichiya",
-      "artist": "See-Saw",
-      "episodes": "2",
-      "video_url": "https://v.animethemes.moe/DotHackLiminality-OP2.webm"
-    },
-    {
-      "type": "OP",
-      "number": 3,
-      "title": "Kimi ga Ita Monogatari",
-      "artist": "See-Saw",
-      "episodes": "3",
-      "video_url": "https://v.animethemes.moe/DotHackLiminality-OP3.webm"
-    },
-    {
-      "type": "OP",
-      "number": 4,
-      "title": "Kioku",
-      "artist": "See-Saw",
-      "episodes": "4",
-      "video_url": "https://v.animethemes.moe/DotHackLiminality-OP4.webm"
-    }
-  ],
+  "themes": [],
   "confidence": "HIGH",
   "match_score": 160,
   "match_signals": [
@@ -141,6 +108,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-06T07:17:35.195Z",
+  "cached_at": "2026-05-19T03:37:09.499Z",
   "cache_version": 1
 }

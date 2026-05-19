@@ -30,7 +30,10 @@
     "month": 6,
     "day": 30
   },
-  "next_airing": null,
+  "next_airing": {
+    "episode": 6,
+    "at": "2026-05-19T18:00:00.000Z"
+  },
   "description": "Childhood friends Yukiya and Miku share everything…except their feelings. Ever since sixth grade, they’ve played a “love game”: they take turns saying “I love you” and whoever gets flustered first loses. Now in high school, their hearts are closer than ever—but will they finally find the courage to confess?\n<br><br>\n(Source: Crunchyroll)",
   "genres": [
     "Comedy",
@@ -118,7 +121,7 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-18T18:36:46.321Z",
+  "cached_at": "2026-05-19T03:36:20.081Z",
   "cache_version": 1,
   "score_mal": 7.28
 }
