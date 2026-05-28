@@ -17,8 +17,7 @@
       "柚木家的四兄弟",
       "สี่พี่น้องยุซึกิ ครอบครัวนี้มีแต่รัก",
       "Cosas de Hermanos"
-    ],
-    "tmdb_title": "The Yuzuki Family's Four Sons"
+    ]
   },
   "format": "TV",
   "status": "FINISHED",
@@ -73,8 +72,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 77,
-  "popularity": 22033,
-  "trending": 0,
+  "popularity": 22639,
+  "trending": 2,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164312-3eLpxsRk5COE.jpg",
     "poster_color": "#f1e4c9",
@@ -91,18 +90,24 @@
     {
       "site": "YouTube",
       "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JhOZzCUOcQocjQ1sPjtpXHY"
+    },
+    {
+      "site": "Anime Digital Network",
+      "url": "https://animedigitalnetwork.fr/"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
     }
   ],
   "themes": [],
-  "confidence": "HIGH",
-  "match_score": 160,
+  "confidence": "MEDIUM",
+  "match_score": 105,
   "match_signals": [
     "exact_title",
     "year_match",
-    "episode_exact",
-    "format_match",
-    "studio_match"
+    "format_match"
   ],
-  "cached_at": "2026-05-03T06:57:41.400Z",
+  "cached_at": "2026-05-28T17:12:32.649Z",
   "cache_version": 1
 }
