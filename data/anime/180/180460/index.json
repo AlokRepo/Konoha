@@ -4,7 +4,8 @@
     "mal": 59632,
     "anidb": 18827,
     "tmdb": 262377,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Mattaku Saikin no Tantei to Kitara",
@@ -57,7 +58,7 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 71,
-  "popularity": 18984,
+  "popularity": 19958,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180460-rZn4pp9YNqW0.jpg",
@@ -79,6 +80,14 @@
     {
       "site": "Bilibili TV",
       "url": "https://www.bilibili.tv/en/media/2141863"
+    },
+    {
+      "site": "Ani-One Asia",
+      "url": "https://www.youtube.com/channel/UC0wNSTMWIL3qaorLx0jie6A"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
     }
   ],
   "themes": [],
@@ -91,8 +100,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T07:20:33.948Z",
-  "cache_version": 1
-}",
+  "cached_at": "2026-05-24T08:45:55.665Z",
   "cache_version": 1
 }

@@ -8,19 +8,78 @@
     "tmdb_season": 2
   },
   "titles": {
-    "romaji": "178550"
+    "romaji": "Unnamed Memory Act.2",
+    "english": "Unnamed Memory Season 2",
+    "native": "Unnamed Memory Act.2",
+    "synonyms": [
+      "Unnamed Memory 第2期",
+      "Unnamed Memory 2nd Season",
+      "アンネームドメモリー Act.2"
+    ],
+    "tmdb_title": "Unnamed Memory"
   },
-  "genres": [],
-  "tags": [],
-  "studios": [],
-  "producers": [],
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2025,
+  "episodes": 12,
+  "duration": 24,
+  "start_date": {
+    "year": 2025,
+    "month": 1,
+    "day": 7
+  },
+  "end_date": {
+    "year": 2025,
+    "month": 3,
+    "day": 25
+  },
+  "description": "The second season of <i>Unnamed Memory</i>.<br>\n<br>\nSeeking to end a curse thwarting his lineage, Prince Oscar sets out on a quest that leads him to a powerful and beautiful witch, Tinasha, and he demands a unique bargain: marriage. Though unenthused by the proposal, she agrees to stay in his castle for a year while researching the spell cast upon him. But beneath her beauty lies a lifetime of dark secrets that soon come to light.<br>\n<br>\n(Source: Crunchyroll)",
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Romance"
+  ],
+  "tags": [
+    "Primarily Adult Cast",
+    "Magic",
+    "Witch",
+    "Royal Affairs",
+    "Heterosexual"
+  ],
+  "studios": [
+    "ENGI"
+  ],
+  "producers": [
+    "KADOKAWA",
+    "Tencent",
+    "Sammy",
+    "AT-X",
+    "Bandai Namco Music Live"
+  ],
+  "source": "LIGHT_NOVEL",
+  "country": "JP",
+  "score_anilist": 69,
+  "popularity": 21074,
+  "trending": 1,
   "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178550-1mjYHtOwiqkC.jpg",
+    "poster_color": "#281a93",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178550-iM5NTASgQ4wt.jpg",
     "poster_tmdb": "https://image.tmdb.org/t/p/w780/2h67cW61TtPdl6R41TkbTJv4Xiz.jpg",
     "banner_tmdb": "https://image.tmdb.org/t/p/original/coZ81U0aSjT0jOrE5CI7HsyBdeY.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/coZ81U0aSjT0jOrE5CI7HsyBdeY.jpg",
-    "poster": "https://image.tmdb.org/t/p/w780/2h67cW61TtPdl6R41TkbTJv4Xiz.jpg"
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178550-1mjYHtOwiqkC.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/series/G9VHN9QXQ/unnamed-memory"
+    },
+    {
+      "site": "OceanVeil",
+      "url": "https://oceanveil.net/ad?agn=2&src=8&pattern=MAL&url=/lp"
+    }
+  ],
   "themes": [],
   "confidence": "MEDIUM",
   "match_score": 99,
@@ -30,8 +89,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T07:09:05.038Z",
-  "cache_version": 1
-}.514Z",
+  "cached_at": "2026-05-24T08:38:50.075Z",
   "cache_version": 1
 }

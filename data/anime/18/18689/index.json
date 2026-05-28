@@ -56,20 +56,24 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 80,
-  "popularity": 62794,
-  "trending": 7,
+  "popularity": 63765,
+  "trending": 2,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18689-LRIiRcgTJS1f.jpg",
     "poster_color": "#5da1f1",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n18689-WxipDJ2OR7ph.jpg",
     "poster_tmdb": "https://image.tmdb.org/t/p/w780/2kqZX7OKVHkLm2XmI2AXxAd0MrA.jpg",
-    "banner_tmdb": "https://image.tmdb.org/t/p/original/dfEmmE3RJh3OYxyqOFDBt0qMS0E.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/ghzJVV2p8xETRZureyhEZL8TDI.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18689-LRIiRcgTJS1f.jpg"
   },
   "streaming": [
     {
       "site": "Crunchyroll",
       "url": "http://www.crunchyroll.com/ace-of-the-diamond"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/"
     }
   ],
   "themes": [],
@@ -81,6 +85,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T04:50:28.429Z",
+  "cached_at": "2026-05-24T07:04:19.083Z",
   "cache_version": 1
 }

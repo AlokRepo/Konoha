@@ -66,8 +66,8 @@
   "source": "LIGHT_NOVEL",
   "country": "JP",
   "score_anilist": 66,
-  "popularity": 122253,
-  "trending": 0,
+  "popularity": 124134,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx18277-Vwm314Nr6vsg.jpg",
     "poster_color": "#50bbe4",
@@ -80,6 +80,10 @@
     {
       "site": "Crunchyroll",
       "url": "http://www.crunchyroll.com/strike-the-blood"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/"
     }
   ],
   "themes": [],
@@ -91,6 +95,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T03:57:12.926Z",
+  "cached_at": "2026-05-24T06:23:04.324Z",
   "cache_version": 1
 }

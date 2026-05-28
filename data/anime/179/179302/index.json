@@ -4,7 +4,8 @@
     "mal": 59267,
     "anidb": 18751,
     "tmdb": 258901,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "SANDA",
@@ -69,15 +70,15 @@
   ],
   "source": "MANGA",
   "country": "JP",
-  "score_anilist": 75,
-  "popularity": 43135,
+  "score_anilist": 74,
+  "popularity": 45265,
   "trending": 3,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179302-gWWAh5BfQyl4.jpg",
     "poster_color": "#d61a35",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179302-hX6lxG28Nzuf.jpg",
     "poster_tmdb": "https://image.tmdb.org/t/p/w780/bW7c1JtvhWcHI3H755BnqwXPxRA.jpg",
-    "banner_tmdb": "https://image.tmdb.org/t/p/original/7a6y7M5PDHGv1eQXDZuEBLBD3q.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/ybdN4cyWBlfgamgYca2XwYL2Kqn.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179302-gWWAh5BfQyl4.jpg"
   },
   "streaming": [
@@ -100,6 +101,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T05:29:14.818Z",
+  "cached_at": "2026-05-24T07:28:21.208Z",
   "cache_version": 1
 }

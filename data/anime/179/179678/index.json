@@ -4,7 +4,8 @@
     "mal": 59342,
     "anidb": 18767,
     "tmdb": 259544,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Jigoku Sensei Nube (2025)",
@@ -62,7 +63,7 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 63,
-  "popularity": 11665,
+  "popularity": 12327,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179678-1isykDVghv8Q.png",
@@ -76,6 +77,18 @@
     {
       "site": "YouTube",
       "url": "https://youtube.com/playlist?list=PLhGamQZtJ7K9NljzDXOMx02GwfyiCTy_b"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/"
+    },
+    {
+      "site": "Anime Generation",
+      "url": "https://www.primevideo.com/gp/video/offers?benefitId=yamatoit"
+    },
+    {
+      "site": "Aniverse",
+      "url": "https://www.amazon.de/b/?_encoding=UTF8&benefitId=aniversede&node=3010075031"
     }
   ],
   "themes": [],
@@ -87,6 +100,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T08:25:03.797Z",
+  "cached_at": "2026-05-24T09:27:23.177Z",
   "cache_version": 1
 }
