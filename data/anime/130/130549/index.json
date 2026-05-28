@@ -4,7 +4,8 @@
     "mal": 48406,
     "anidb": 16090,
     "tmdb": 120013,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "RE-MAIN",
@@ -56,8 +57,8 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 69,
-  "popularity": 47860,
-  "trending": 0,
+  "popularity": 48557,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx130549-rYQf51cw4oaw.jpg",
     "poster_color": "#5de4d6",
@@ -78,6 +79,26 @@
     {
       "site": "Crunchyroll",
       "url": "https://www.crunchyroll.com/re-main"
+    },
+    {
+      "site": "Ani-One Asia",
+      "url": "https://www.youtube.com/channel/UC0wNSTMWIL3qaorLx0jie6A"
+    },
+    {
+      "site": "Aniplus TV",
+      "url": "http://www.aniplustv.com/"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "site": "Laftel",
+      "url": "https://laftel.net/"
+    },
+    {
+      "site": "iQIYI",
+      "url": "https://www.iq.com/"
     }
   ],
   "themes": [],
@@ -90,6 +111,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T05:18:36.616Z",
+  "cached_at": "2026-05-24T07:23:19.966Z",
   "cache_version": 1
 }
