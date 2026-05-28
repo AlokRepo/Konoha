@@ -4,7 +4,8 @@
     "mal": 412,
     "anidb": 2621,
     "tmdb": 24411,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Kore ga Watashi no Goshujin-sama",
@@ -56,7 +57,7 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 60,
-  "popularity": 14504,
+  "popularity": 14663,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx412-sptPOlVOH0Y0.jpg",
@@ -70,6 +71,10 @@
     {
       "site": "HIDIVE",
       "url": "https://www.hidive.com/season/19451"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-280330"
     }
   ],
   "themes": [],
@@ -82,6 +87,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T07:55:51.932Z",
+  "cached_at": "2026-05-24T09:15:08.767Z",
   "cache_version": 1
 }

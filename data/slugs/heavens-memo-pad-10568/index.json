@@ -64,7 +64,7 @@
   "source": "LIGHT_NOVEL",
   "country": "JP",
   "score_anilist": 71,
-  "popularity": 50570,
+  "popularity": 50962,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10568-QZbLhgMAQC76.jpg",
@@ -74,7 +74,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/cLkseGdKLAC8D3uIRUAO5dIAdPE.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10568-QZbLhgMAQC76.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/heavens-memo-pad"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 160,
@@ -85,6 +90,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T05:11:35.554Z",
+  "cached_at": "2026-05-24T07:19:20.372Z",
   "cache_version": 1
 }

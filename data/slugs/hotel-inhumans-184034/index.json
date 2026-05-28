@@ -4,7 +4,8 @@
     "mal": 60260,
     "anidb": 18973,
     "tmdb": 276288,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Hotel Inhumans",
@@ -53,7 +54,7 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 64,
-  "popularity": 9754,
+  "popularity": 10261,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184034-gjIi5TIHJpZv.jpg",
@@ -71,6 +72,14 @@
     {
       "site": "YouTube",
       "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JjWATZTieze6DkSUxWjo5dG"
+    },
+    {
+      "site": "Ani-One Asia",
+      "url": "https://www.youtube.com/channel/UC0wNSTMWIL3qaorLx0jie6A"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
     }
   ],
   "themes": [],
@@ -83,6 +92,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T08:51:24.134Z",
+  "cached_at": "2026-05-24T09:39:05.216Z",
   "cache_version": 1
 }

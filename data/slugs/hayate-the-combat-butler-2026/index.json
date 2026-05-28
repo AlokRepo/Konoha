@@ -4,7 +4,8 @@
     "mal": 2026,
     "anidb": 4917,
     "tmdb": 56355,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Hayate no Gotoku!",
@@ -57,7 +58,7 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 72,
-  "popularity": 40187,
+  "popularity": 40678,
   "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2026-xoCa4unn5iOi.jpg",
@@ -75,6 +76,10 @@
     {
       "site": "Bilibili TV",
       "url": "https://www.bilibili.tv/media/37893"
+    },
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/hayate-the-combat-butler"
     }
   ],
   "themes": [],
@@ -86,6 +91,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T05:36:43.796Z",
+  "cached_at": "2026-05-24T07:36:47.294Z",
   "cache_version": 1
 }

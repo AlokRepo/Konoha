@@ -4,7 +4,8 @@
     "mal": 48857,
     "anidb": 16286,
     "tmdb": 124572,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Healer Girl",
@@ -54,7 +55,7 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 71,
-  "popularity": 16136,
+  "popularity": 16282,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx133412-C2WyI3mKHiO7.jpg",
@@ -72,6 +73,18 @@
     {
       "site": "Bilibili TV",
       "url": "https://www.bilibili.tv/media/1048471/"
+    },
+    {
+      "site": "Aniplus TV",
+      "url": "http://www.aniplustv.com/"
+    },
+    {
+      "site": "Bilibili Global",
+      "url": "https://www.bilibili.tv/en/index"
+    },
+    {
+      "site": "Laftel",
+      "url": "https://laftel.net/"
     }
   ],
   "themes": [],
@@ -84,6 +97,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T07:42:12.442Z",
+  "cached_at": "2026-05-24T09:06:11.971Z",
   "cache_version": 1
 }

@@ -4,7 +4,8 @@
     "mal": 4192,
     "anidb": 6413,
     "tmdb": 56355,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": 2
   },
   "titles": {
     "romaji": "Hayate no Gotoku!!",
@@ -63,7 +64,7 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 74,
-  "popularity": 20370,
+  "popularity": 20576,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b4192-em3eAtYfkz5L.png",
@@ -77,6 +78,10 @@
     {
       "site": "Crunchyroll",
       "url": "http://www.crunchyroll.com/hayate-the-combat-butler-season-1-2"
+    },
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/hayate-the-combat-butler-2nd-season"
     }
   ],
   "themes": [],
@@ -88,6 +93,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T07:07:59.470Z",
+  "cached_at": "2026-05-24T08:42:01.108Z",
   "cache_version": 1
 }
