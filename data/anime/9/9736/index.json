@@ -4,7 +4,8 @@
     "mal": 9736,
     "anidb": 8062,
     "tmdb": 42508,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Astarotte no Omocha!",
@@ -65,15 +66,15 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 60,
-  "popularity": 30549,
-  "trending": 1,
+  "popularity": 30981,
+  "trending": 0,
   "images": {
-    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9736.jpg",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9736-pUzvtyNJWzY2.png",
     "poster_color": "#5078e4",
-    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n9736-qEdg1V2is11n.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/9736-aMXGpRK9yVmK.jpg",
     "poster_tmdb": "https://image.tmdb.org/t/p/w780/4ZmANWHQHRchkLdNJcgcZhbhqCC.jpg",
     "banner_tmdb": "https://image.tmdb.org/t/p/original/9jOtH1P1awYnQurW0GzRb4nrt25.jpg",
-    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/9736.jpg"
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9736-pUzvtyNJWzY2.png"
   },
   "streaming": [
     {
@@ -91,8 +92,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T06:14:15.254Z",
-  "cache_version": 1
-}",
+  "cached_at": "2026-05-24T08:06:35.153Z",
   "cache_version": 1
 }

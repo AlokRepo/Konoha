@@ -4,23 +4,107 @@
     "mal": 34102,
     "anidb": 12422,
     "tmdb": 71014,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
+    "romaji": "Sagrada Reset",
+    "english": "Sagrada Reset",
+    "native": "サクラダリセット",
+    "synonyms": [
+      "Sakurada Reset"
+    ],
     "tmdb_title": "Sagrada Reset"
   },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2017,
   "episodes": 24,
-  "genres": [],
-  "tags": [],
-  "studios": [],
-  "producers": [],
+  "duration": 26,
+  "start_date": {
+    "year": 2017,
+    "month": 4,
+    "day": 5
+  },
+  "end_date": {
+    "year": 2017,
+    "month": 9,
+    "day": 13
+  },
+  "description": "The ability to reset time might seem like the ultimate superpower, but if you forget what was going to happen when you reset it, how would you know what you needed to change? Or if you'd make things better or worse? That's the paradox that faces Misora Haruki until she's paired with Kei Asai, who remembers everything, even if they happened in timelines that have been reset. But there's still a catch: each reset point can be used only once and anything that happens in the 24 hours before a new one can be set will be locked in time forever.<br>\n<br>\nIn a town where a mysterious agency seems to be controlling everything from the shadows and everyone has unexpected powers, the lives of Kei and Misora's friends and classmates will depend on how carefully they can use the <i>Sagrada Reset.</i><br>\n<br>\n(Source: Sentai Filmworks)",
+  "genres": [
+    "Fantasy",
+    "Mystery",
+    "Romance",
+    "Sci-Fi",
+    "Supernatural"
+  ],
+  "tags": [
+    "Time Manipulation",
+    "Super Power",
+    "Philosophy",
+    "Detective",
+    "Meta",
+    "Urban Fantasy",
+    "Female Protagonist",
+    "Heterosexual",
+    "Kuudere",
+    "Amnesia",
+    "School Club"
+  ],
+  "studios": [
+    "david production"
+  ],
+  "producers": [
+    "flying DOG",
+    "Asmik Ace",
+    "Hakuhodo DY Music & Pictures",
+    "Media Factory",
+    "BS11",
+    "A-Sketch",
+    "Radio Osaka",
+    "Parco",
+    "Teichiku Entertainment",
+    "Sony PCL",
+    "e-notion",
+    "Sentai Filmworks"
+  ],
+  "source": "LIGHT_NOVEL",
+  "country": "JP",
+  "score_anilist": 68,
+  "popularity": 37731,
+  "trending": 1,
   "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx97660-82E7nL8irvuF.jpg",
+    "poster_color": "#5dbbe4",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/97660-PTLuY3s817fj.jpg",
     "poster_tmdb": "https://image.tmdb.org/t/p/w780/2QtCBgorCCGBnQeD5vh28b7igOD.jpg",
     "banner_tmdb": "https://image.tmdb.org/t/p/original/dVLFFyPt1jGldLhbA6NzFleTRip.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/dVLFFyPt1jGldLhbA6NzFleTRip.jpg",
-    "poster": "https://image.tmdb.org/t/p/w780/2QtCBgorCCGBnQeD5vh28b7igOD.jpg"
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx97660-82E7nL8irvuF.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "Amazon Prime Video",
+      "url": "https://www.amazon.com/dp/B06Y1R8D86"
+    },
+    {
+      "site": "Amazon Prime Video",
+      "url": "https://www.amazon.com/dp/B073G13B8G/"
+    },
+    {
+      "site": "Hoopla",
+      "url": "https://www.hoopladigital.com/series/sagrada-reset/18135964211"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-280418"
+    },
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/sagrada-reset"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 160,
@@ -31,6 +115,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T05:47:07.175Z",
+  "cached_at": "2026-05-24T07:44:14.331Z",
   "cache_version": 1
 }

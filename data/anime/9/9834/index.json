@@ -53,7 +53,7 @@
   ],
   "studios": [
     "Studio Pierrot",
-    "David Production",
+    "david production",
     "Sakura Create"
   ],
   "producers": [
@@ -65,7 +65,7 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 71,
-  "popularity": 20257,
+  "popularity": 20442,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9834-M5pf1wr1RaUe.jpg",
@@ -75,7 +75,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/zlAzK5qjpP77lPGYKDG0j6SfcDA.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx9834-M5pf1wr1RaUe.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-224791"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 160,
@@ -86,6 +91,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T07:08:53.720Z",
+  "cached_at": "2026-05-24T08:43:03.078Z",
   "cache_version": 1
 }
