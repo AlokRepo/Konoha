@@ -4,7 +4,8 @@
     "mal": 55973,
     "anidb": 18114,
     "tmdb": 237045,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "30-sai made Doutei da to Mahou Tsukai ni Nareru Rashii",
@@ -74,8 +75,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 76,
-  "popularity": 31376,
-  "trending": 3,
+  "popularity": 32580,
+  "trending": 2,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167087-Hf3MjsSVIerP.jpg",
     "poster_color": "#f1c9f1",
@@ -92,6 +93,14 @@
     {
       "site": "Crunchyroll",
       "url": "https://www.crunchyroll.com/series/GP5HJ8435/cherry-magic-thirty-years-of-virginity-can-make-you-a-wizard"
+    },
+    {
+      "site": "Ani-One Asia",
+      "url": "https://www.youtube.com/channel/UC0wNSTMWIL3qaorLx0jie6A"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
     }
   ],
   "themes": [],
@@ -104,6 +113,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T06:10:45.490Z",
+  "cached_at": "2026-05-24T08:01:37.621Z",
   "cache_version": 1
 }

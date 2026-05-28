@@ -4,7 +4,8 @@
     "mal": 32483,
     "anidb": 12019,
     "tmdb": 67616,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Cheer Danshi!!",
@@ -53,7 +54,7 @@
   "source": "OTHER",
   "country": "JP",
   "score_anilist": 63,
-  "popularity": 14201,
+  "popularity": 14299,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21713-iIdNBkcihMMx.png",
@@ -67,6 +68,10 @@
     {
       "site": "YouTube",
       "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl1BWelglxcX-6baOKAYaeZ5"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-274055"
     }
   ],
   "themes": [],
@@ -79,6 +84,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T07:57:51.233Z",
+  "cached_at": "2026-05-24T09:17:03.679Z",
   "cache_version": 1
 }
