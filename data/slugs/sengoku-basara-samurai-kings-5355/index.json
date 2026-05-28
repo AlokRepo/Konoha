@@ -4,7 +4,8 @@
     "mal": 5355,
     "anidb": 6284,
     "tmdb": 25492,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Sengoku BASARA",
@@ -54,7 +55,7 @@
   "source": "VIDEO_GAME",
   "country": "JP",
   "score_anilist": 69,
-  "popularity": 25440,
+  "popularity": 25749,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5355-TGrgtbiJ5zlH.png",
@@ -64,7 +65,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/wE1G8zDgLXY4i8h9U76T5rPq95z.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5355-TGrgtbiJ5zlH.png"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-274969"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 130,
@@ -74,6 +80,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T06:39:09.606Z",
+  "cached_at": "2026-05-24T08:21:29.412Z",
   "cache_version": 1
 }

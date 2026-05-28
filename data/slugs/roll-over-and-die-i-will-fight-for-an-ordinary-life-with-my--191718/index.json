@@ -4,7 +4,8 @@
     "mal": 61587,
     "anidb": 19310,
     "tmdb": 285357,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party wo Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
@@ -76,9 +77,9 @@
   ],
   "source": "LIGHT_NOVEL",
   "country": "JP",
-  "score_anilist": 62,
-  "popularity": 21521,
-  "trending": 1,
+  "score_anilist": 63,
+  "popularity": 24211,
+  "trending": 3,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191718-FeR6bnlkqF0J.png",
     "poster_color": "#28bbe4",
@@ -91,6 +92,18 @@
     {
       "site": "Crunchyroll",
       "url": "https://www.crunchyroll.com/series/GT00365592/roll-over-and-die-i-will-fight-for-an-ordinary-life-with-my-love-and-cursed-sword"
+    },
+    {
+      "site": "Aniplus TV",
+      "url": "http://www.aniplustv.com/"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "site": "CatchPlay",
+      "url": "https://www.catchplay.com/"
     }
   ],
   "themes": [],
@@ -102,6 +115,6 @@
     "episode_exact",
     "format_match"
   ],
-  "cached_at": "2026-05-03T07:00:24.799Z",
+  "cached_at": "2026-05-24T08:26:32.958Z",
   "cache_version": 1
 }

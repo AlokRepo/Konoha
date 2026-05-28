@@ -55,13 +55,13 @@
   "source": "OTHER",
   "country": "JP",
   "score_anilist": 52,
-  "popularity": 10957,
+  "popularity": 11083,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx123785-ciGZuIesWH7l.png",
     "poster_color": "#a15035",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/123785-RPyFqAw3o3Nx.jpg",
-    "poster_tmdb": "https://image.tmdb.org/t/p/w780/dLX3gkONnNN23HgwCpTGiVwen6b.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/qyMM0PVhHNocADOGex4j2uyBQpL.jpg",
     "banner_tmdb": "https://image.tmdb.org/t/p/original/xjlfkkARk6ApJwLWNFQ8Sf5O4e0.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx123785-ciGZuIesWH7l.png"
   },
@@ -73,6 +73,14 @@
     {
       "site": "Crunchyroll",
       "url": "https://www.crunchyroll.com/scar-on-the-praeter"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/"
     }
   ],
   "themes": [],
@@ -85,6 +93,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T08:32:52.994Z",
+  "cached_at": "2026-05-24T09:34:06.256Z",
   "cache_version": 1
 }

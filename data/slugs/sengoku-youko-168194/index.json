@@ -4,7 +4,8 @@
     "mal": 56242,
     "anidb": 18156,
     "tmdb": 234995,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Sengoku Youko",
@@ -71,8 +72,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 69,
-  "popularity": 28843,
-  "trending": 0,
+  "popularity": 29594,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168194-I7O79icUs0ou.jpg",
     "poster_color": "#f18650",
@@ -89,6 +90,14 @@
     {
       "site": "YouTube",
       "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JgVdNKD0Q2XtDOs6n1KEceH"
+    },
+    {
+      "site": "Ani-One Asia",
+      "url": "https://www.youtube.com/channel/UC0wNSTMWIL3qaorLx0jie6A"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
     }
   ],
   "themes": [],
@@ -100,6 +109,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T06:21:35.505Z",
+  "cached_at": "2026-05-24T08:10:52.370Z",
   "cache_version": 1
 }

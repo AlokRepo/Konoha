@@ -4,7 +4,8 @@
     "mal": 51381,
     "anidb": 17277,
     "tmdb": 195966,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "RWBY: Hyousetsu Teikoku",
@@ -65,8 +66,8 @@
   ],
   "source": "OTHER",
   "country": "JP",
-  "score_anilist": 60,
-  "popularity": 40920,
+  "score_anilist": 61,
+  "popularity": 41674,
   "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146668-JNIr7FRzEUaM.jpg",
@@ -80,6 +81,14 @@
     {
       "site": "Crunchyroll",
       "url": "https://www.crunchyroll.com/rwby-ice-queendom"
+    },
+    {
+      "site": "Aniplus Asia",
+      "url": "https://www.aniplus-asia.com/"
+    },
+    {
+      "site": "Aniplus TV",
+      "url": "http://www.aniplustv.com/"
     }
   ],
   "themes": [],
@@ -92,6 +101,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T05:35:12.203Z",
+  "cached_at": "2026-05-24T07:35:09.019Z",
   "cache_version": 1
 }
