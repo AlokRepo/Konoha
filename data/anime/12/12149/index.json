@@ -4,7 +4,8 @@
     "mal": 12149,
     "anidb": 8816,
     "tmdb": 45982,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "AKB0048",
@@ -63,8 +64,8 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 69,
-  "popularity": 14124,
-  "trending": 0,
+  "popularity": 14229,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12149-OsW0XJq6wtCM.jpg",
     "poster_color": "#d6c950",
@@ -83,6 +84,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T07:58:45.730Z",
+  "cached_at": "2026-05-24T09:17:39.729Z",
   "cache_version": 1
 }

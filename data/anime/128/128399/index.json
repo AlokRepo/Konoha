@@ -4,7 +4,8 @@
     "mal": 45665,
     "anidb": 15976,
     "tmdb": 116224,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Fairy Ranmaru: Anata no Kokoro Otasuke Shimasu",
@@ -55,7 +56,7 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 53,
-  "popularity": 8697,
+  "popularity": 8847,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128399-vNFzJFr7tXdZ.jpg",
@@ -69,6 +70,10 @@
     {
       "site": "Crunchyroll",
       "url": "https://www.crunchyroll.com/fairy-ranmaru"
+    },
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/"
     }
   ],
   "themes": [],
@@ -81,6 +86,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T09:06:34.589Z",
+  "cached_at": "2026-05-24T09:49:46.730Z",
   "cache_version": 1
 }

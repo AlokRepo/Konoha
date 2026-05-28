@@ -4,7 +4,8 @@
     "mal": 43470,
     "anidb": 15788,
     "tmdb": 90999,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": 2
   },
   "titles": {
     "romaji": "Rikei ga Koi ni Ochita no de Shoumei shitemita. r=1-sinθ (Heart)",
@@ -73,7 +74,7 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 71,
-  "popularity": 48357,
+  "popularity": 49616,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx125124-FHz4ND4kJzqu.jpg",
@@ -91,6 +92,10 @@
     {
       "site": "Bilibili TV",
       "url": "https://www.bilibili.tv/media/1048554/"
+    },
+    {
+      "site": "Bilibili Global",
+      "url": "https://www.bilibili.tv/en/index"
     }
   ],
   "themes": [],
@@ -102,7 +107,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T05:17:56.329Z",
+  "cached_at": "2026-05-24T07:21:14.422Z",
   "cache_version": 1
-}  "cache_version": 1
 }

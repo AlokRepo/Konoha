@@ -8,20 +8,101 @@
     "tmdb_season": 2
   },
   "titles": {
+    "romaji": "Uzaki-chan wa Asobitai! ω",
+    "english": "Uzaki-chan Wants to Hang Out! Season 2",
+    "native": "宇崎ちゃんは遊びたい！ω（だぶる）",
+    "synonyms": [
+      "Uzaki-chan Wants to Hang Out! ω",
+      "Uzaki-chan Wants to Hang Out! Double",
+      "Uzaki-chan wa Asobitai! 2nd Season",
+      "รุ่นน้องตัวป่วน อยากชวนเที่ยวเล่น ภาค 2"
+    ],
     "tmdb_title": "Uzaki-chan Wants to Hang Out!"
   },
-  "episodes": 25,
-  "genres": [],
-  "tags": [],
-  "studios": [],
-  "producers": [],
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2022,
+  "episodes": 13,
+  "duration": 24,
+  "start_date": {
+    "year": 2022,
+    "month": 10,
+    "day": 1
+  },
+  "end_date": {
+    "year": 2022,
+    "month": 12,
+    "day": 24
+  },
+  "description": "The second season of <i>Uzaki-chan wa Asobitai!</i>.",
+  "genres": [
+    "Comedy",
+    "Ecchi",
+    "Romance",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Large Breasts",
+    "Slapstick",
+    "Tomboy",
+    "Primarily Adult Cast",
+    "Heterosexual",
+    "Male Protagonist",
+    "Female Protagonist",
+    "College",
+    "Seinen"
+  ],
+  "studios": [
+    "ENGI"
+  ],
+  "producers": [
+    "KADOKAWA",
+    "Sammy",
+    "ABC Animation",
+    "INCS toenter",
+    "AT-X",
+    "Movic"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 71,
+  "popularity": 65538,
+  "trending": 4,
   "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124395-9GeigGh1Ae2f.png",
+    "poster_color": "#e4c96b",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/124395-288D9DRXMv04.jpg",
     "poster_tmdb": "https://image.tmdb.org/t/p/w780/kg7PD9mqKUlJulKTeHzVwHAKqqR.jpg",
     "banner_tmdb": "https://image.tmdb.org/t/p/original/kvSyOSTiLB4FVxV0m4IakctfiK5.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/kvSyOSTiLB4FVxV0m4IakctfiK5.jpg",
-    "poster": "https://image.tmdb.org/t/p/w780/kg7PD9mqKUlJulKTeHzVwHAKqqR.jpg"
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124395-9GeigGh1Ae2f.png"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/series/GNVHKN7KZ/uzaki-chan-wants-to-hang-out"
+    },
+    {
+      "site": "Bilibili TV",
+      "url": "https://www.bilibili.tv/en/media/1066580"
+    },
+    {
+      "site": "Animax Korea",
+      "url": "https://www.animaxtv.co.kr"
+    },
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/"
+    },
+    {
+      "site": "Bilibili Global",
+      "url": "https://www.bilibili.tv/en/index"
+    },
+    {
+      "site": "Laftel",
+      "url": "https://laftel.net/"
+    }
+  ],
   "themes": [],
   "confidence": "MEDIUM",
   "match_score": 110,
@@ -31,6 +112,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T04:49:45.559Z",
+  "cached_at": "2026-05-24T07:02:41.292Z",
   "cache_version": 1
 }
