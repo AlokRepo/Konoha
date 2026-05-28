@@ -4,7 +4,8 @@
     "mal": 53179,
     "anidb": 17646,
     "tmdb": 211093,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Ars no Kyojuu",
@@ -56,7 +57,7 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 58,
-  "popularity": 16979,
+  "popularity": 17321,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155089-I5zYFNvWua57.png",
@@ -78,6 +79,22 @@
     {
       "site": "Hoopla",
       "url": "https://www.hoopladigital.com/television/giant-beasts-of-ars-season-1-toshiyuki-morikawa/16309460"
+    },
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/"
+    },
+    {
+      "site": "Anime Digital Network",
+      "url": "https://animedigitalnetwork.fr/"
+    },
+    {
+      "site": "Bilibili Global",
+      "url": "https://www.bilibili.tv/en/index"
+    },
+    {
+      "site": "Laftel",
+      "url": "https://laftel.net/"
     }
   ],
   "themes": [],
@@ -90,6 +107,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T07:34:42.436Z",
+  "cached_at": "2026-05-24T09:01:07.563Z",
   "cache_version": 1
 }

@@ -69,8 +69,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 74,
-  "popularity": 63093,
-  "trending": 6,
+  "popularity": 67374,
+  "trending": 3,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158898-O3egiBNkxLQO.png",
     "poster_color": "#3593e4",
@@ -91,18 +91,29 @@
     {
       "site": "Hulu",
       "url": "https://www.hulu.com/series/mission-yozakura-family-dub-b151ff3b-c3d2-4e8f-9fc2-dc07af6dbcc5"
+    },
+    {
+      "site": "Disney+",
+      "url": "https://www.disneyplus.com/"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "site": "iQIYI",
+      "url": "https://www.iq.com/"
     }
   ],
   "themes": [],
   "confidence": "HIGH",
-  "match_score": 140,
+  "match_score": 130,
   "match_signals": [
     "exact_title",
     "year_match",
-    "episode_close",
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T04:50:01.899Z",
+  "cached_at": "2026-05-24T07:01:19.118Z",
   "cache_version": 1
 }

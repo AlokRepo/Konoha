@@ -4,7 +4,8 @@
     "mal": 52962,
     "anidb": 17608,
     "tmdb": 209604,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story",
@@ -66,8 +67,8 @@
   "source": "LIGHT_NOVEL",
   "country": "JP",
   "score_anilist": 71,
-  "popularity": 32374,
-  "trending": 0,
+  "popularity": 33394,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154384-3tpmugzrVpE9.jpg",
     "poster_color": "#e4930d",
@@ -88,6 +89,18 @@
     {
       "site": "YouTube",
       "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl1xwjPnSCLFHXdlH1HUcrfD"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "site": "Bilibili Global",
+      "url": "https://www.bilibili.tv/en/index"
+    },
+    {
+      "site": "Muse Asia",
+      "url": "https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg"
     }
   ],
   "themes": [],
@@ -100,8 +113,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T06:05:26.485Z",
-  "cache_version": 1
-}",
+  "cached_at": "2026-05-24T07:59:31.029Z",
   "cache_version": 1
 }

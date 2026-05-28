@@ -4,7 +4,8 @@
     "mal": 54103,
     "anidb": 17805,
     "tmdb": 217755,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Hikikomari Kyuuketsuki no Monmon",
@@ -66,13 +67,14 @@
     "Good Smile Film",
     "BS Nittele",
     "Kadokawa Media House",
-    "Bit grooove promotion"
+    "Bit grooove promotion",
+    "Sentai Filmworks"
   ],
   "source": "LIGHT_NOVEL",
   "country": "JP",
   "score_anilist": 70,
-  "popularity": 48137,
-  "trending": 2,
+  "popularity": 49952,
+  "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159808-svpzcGb6ig4X.jpg",
     "poster_color": "#f1a15d",
@@ -89,6 +91,18 @@
     {
       "site": "Bilibili TV",
       "url": "https://www.bilibili.tv/en/media/2092089"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLhGamQZtJ7K8O7i0ypG3qsLtqViTmmjot"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "site": "Bilibili Global",
+      "url": "https://www.bilibili.tv/en/index"
     }
   ],
   "themes": [],
@@ -101,8 +115,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T05:18:12.643Z",
-  "cache_version": 1
-}",
+  "cached_at": "2026-05-24T07:20:42.858Z",
   "cache_version": 1
 }

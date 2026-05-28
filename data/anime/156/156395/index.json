@@ -4,7 +4,8 @@
     "mal": 53512,
     "anidb": 17700,
     "tmdb": 217409,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Busu ni Hanataba wo.",
@@ -63,7 +64,7 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 69,
-  "popularity": 11634,
+  "popularity": 12182,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156395-LW98bhT54IuM.png",
@@ -81,6 +82,14 @@
     {
       "site": "iQ",
       "url": "https://www.iq.com/album/nf91i9e92d"
+    },
+    {
+      "site": "Anime Digital Network",
+      "url": "https://animedigitalnetwork.fr/"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
     }
   ],
   "themes": [],
@@ -93,6 +102,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T08:25:27.512Z",
+  "cached_at": "2026-05-24T09:28:03.749Z",
   "cache_version": 1
 }

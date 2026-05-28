@@ -4,7 +4,8 @@
     "mal": 53128,
     "anidb": 17635,
     "tmdb": 210875,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "ATRI: My Dear Moments",
@@ -59,8 +60,8 @@
   "source": "VISUAL_NOVEL",
   "country": "JP",
   "score_anilist": 70,
-  "popularity": 29886,
-  "trending": 0,
+  "popularity": 30808,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154963-Ju6Ey3P5YHs2.jpg",
     "poster_color": "#3578f1",
@@ -77,6 +78,10 @@
     {
       "site": "Bilibili TV",
       "url": "https://www.bilibili.tv/en/media/2109463"
+    },
+    {
+      "site": "Bilibili Global",
+      "url": "https://www.bilibili.tv/en/index"
     }
   ],
   "themes": [],
@@ -89,6 +94,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T06:17:11.759Z",
+  "cached_at": "2026-05-24T08:06:59.587Z",
   "cache_version": 1
 }

@@ -61,8 +61,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 67,
-  "popularity": 146115,
-  "trending": 4,
+  "popularity": 147965,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16742-apAy622TmkVd.jpg",
     "poster_color": "#e4d6ae",
@@ -71,7 +71,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/4gbI5yL530Y1LNUE2ir4ZeqmCVw.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16742-apAy622TmkVd.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/watamote-no-matter-how-i-look-at-it-its-you-guys-fault-im-not-popular"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 160,
@@ -82,6 +87,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T03:46:15.926Z",
+  "cached_at": "2026-05-24T06:14:14.924Z",
   "cache_version": 1
 }
