@@ -44,7 +44,8 @@
     "Episodic",
     "Male Protagonist",
     "Heterosexual",
-    "Restaurant"
+    "Restaurant",
+    "Surreal Comedy"
   ],
   "studios": [
     "A-1 Pictures",
@@ -57,7 +58,7 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 78,
-  "popularity": 50139,
+  "popularity": 50625,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20819-w8PLekO22Sc8.jpg",
@@ -67,7 +68,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/iHSLkPqGmEc20DbygmjrNMivqEF.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20819-w8PLekO22Sc8.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-238016"
+    }
+  ],
   "themes": [],
   "confidence": "MEDIUM",
   "match_score": 90,
@@ -77,6 +83,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T05:13:16.112Z",
+  "cached_at": "2026-05-28T15:57:34.966Z",
   "cache_version": 1
 }
