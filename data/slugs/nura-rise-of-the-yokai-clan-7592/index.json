@@ -4,7 +4,8 @@
     "mal": 7592,
     "anidb": 7404,
     "tmdb": 37471,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Nurarihyon no Mago",
@@ -55,8 +56,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 73,
-  "popularity": 48786,
-  "trending": 1,
+  "popularity": 49540,
+  "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7592-28Qy7SBbSquT.jpg",
     "poster_color": "#f1e4c9",
@@ -69,6 +70,10 @@
     {
       "site": "Hulu",
       "url": "http://www.hulu.com/nura-rise-of-the-yokai-clan"
+    },
+    {
+      "site": "Animekey",
+      "url": "https://animekey.tv/"
     }
   ],
   "themes": [],
@@ -80,6 +85,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T05:16:32.989Z",
+  "cached_at": "2026-05-24T07:21:19.536Z",
   "cache_version": 1
 }

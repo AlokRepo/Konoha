@@ -75,8 +75,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 78,
-  "popularity": 513802,
-  "trending": 5,
+  "popularity": 520985,
+  "trending": 8,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20447-EoQXeygHaVCK.jpg",
     "poster_color": "#bbe4f1",
@@ -89,6 +89,10 @@
     {
       "site": "Crunchyroll",
       "url": "https://www.crunchyroll.com/series/G6WEV3WM6/noragami"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/"
     }
   ],
   "themes": [],
@@ -100,6 +104,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T03:15:37.243Z",
+  "cached_at": "2026-05-28T13:20:14.585Z",
   "cache_version": 1
 }

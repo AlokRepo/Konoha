@@ -69,8 +69,8 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 79,
-  "popularity": 81417,
-  "trending": 3,
+  "popularity": 82115,
+  "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10721-lNEbDPX24qzn.jpg",
     "poster_color": "#e435a1",
@@ -79,7 +79,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/XxXaxAhXp9eQRMaF9Rta0e5Z1N.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10721-lNEbDPX24qzn.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/penguindrum"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 160,
@@ -90,6 +95,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T04:24:47.276Z",
+  "cached_at": "2026-05-24T06:46:06.674Z",
   "cache_version": 1
 }

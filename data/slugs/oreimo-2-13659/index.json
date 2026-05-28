@@ -62,8 +62,8 @@
   "source": "LIGHT_NOVEL",
   "country": "JP",
   "score_anilist": 65,
-  "popularity": 90022,
-  "trending": 0,
+  "popularity": 90848,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13659-dKbA53HH9vwR.png",
     "poster_color": "#e4ae50",
@@ -80,6 +80,10 @@
     {
       "site": "Netflix",
       "url": "https://www.netflix.com/title/80193248"
+    },
+    {
+      "site": "Bandai Channel",
+      "url": "https://www.b-ch.com/titles/3618/"
     }
   ],
   "themes": [],
@@ -90,6 +94,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T04:18:20.731Z",
+  "cached_at": "2026-05-24T06:39:54.942Z",
   "cache_version": 1
 }
