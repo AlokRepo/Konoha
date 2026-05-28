@@ -4,7 +4,8 @@
     "mal": 276,
     "anidb": 109,
     "tmdb": 42722,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Mahoromatic",
@@ -60,8 +61,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 68,
-  "popularity": 16090,
-  "trending": 0,
+  "popularity": 16340,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b276-r8umGUlMypFh.png",
     "poster_color": "#f1bb50",
@@ -89,6 +90,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T07:42:29.053Z",
+  "cached_at": "2026-05-24T09:05:46.874Z",
   "cache_version": 1
 }

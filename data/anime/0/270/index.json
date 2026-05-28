@@ -67,8 +67,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 72,
-  "popularity": 134927,
-  "trending": 5,
+  "popularity": 137587,
+  "trending": 4,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b270-S2ProngvO6BU.jpg",
     "poster_color": "#e4ae43",
@@ -85,6 +85,10 @@
     {
       "site": "Crunchyroll",
       "url": "https://www.crunchyroll.com/hellsing"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/"
     }
   ],
   "themes": [],
@@ -97,6 +101,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T03:49:32.316Z",
+  "cached_at": "2026-05-24T06:17:09.649Z",
   "cache_version": 1
 }
