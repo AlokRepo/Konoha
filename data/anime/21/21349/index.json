@@ -58,7 +58,7 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 66,
-  "popularity": 24799,
+  "popularity": 25167,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21349-J2C50KiPF5Rv.png",
@@ -68,7 +68,16 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/Ar5krnLmhenT80VyAaY82wM39Z9.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21349-J2C50KiPF5Rv.png"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-271469"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 160,
@@ -79,6 +88,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T06:42:24.296Z",
+  "cached_at": "2026-05-24T08:23:04.539Z",
   "cache_version": 1
 }

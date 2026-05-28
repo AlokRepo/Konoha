@@ -4,7 +4,8 @@
     "mal": 31223,
     "anidb": 11365,
     "tmdb": 65209,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Phantasy Star Online 2: The Animation",
@@ -59,7 +60,7 @@
   "source": "VIDEO_GAME",
   "country": "JP",
   "score_anilist": 58,
-  "popularity": 15566,
+  "popularity": 15828,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21264-vn4ZxC67Fb4A.jpg",
@@ -69,7 +70,20 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/iTUAHkwnGMPEozqNWFNB958kd9A.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21264-vn4ZxC67Fb4A.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-265931"
+    },
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/phantasy-star-online-2-the-animation"
+    },
+    {
+      "site": "Shahid",
+      "url": "https://shahid.mbc.net/en/series/Phantasy-Star-Online-2:-The-Animation/series-896053"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 135,
@@ -79,6 +93,6 @@
     "episode_exact",
     "format_match"
   ],
-  "cached_at": "2026-05-03T07:45:36.056Z",
+  "cached_at": "2026-05-24T09:08:08.896Z",
   "cache_version": 1
 }

@@ -56,7 +56,7 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 72,
-  "popularity": 27963,
+  "popularity": 28322,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21424-B87p1XofzerH.jpg",
@@ -66,7 +66,16 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/ty3fCZumomMkHPHRxACDQJkTEyD.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21424-B87p1XofzerH.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/"
+    },
+    {
+      "site": "Shahid",
+      "url": "https://shahid.mbc.net/en/series/The-Heroic-Legend-Of-Arslan/series-908399"
+    }
+  ],
   "themes": [],
   "confidence": "MEDIUM",
   "match_score": 87,
@@ -76,6 +85,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T06:25:05.106Z",
+  "cached_at": "2026-05-24T08:14:17.121Z",
   "cache_version": 1
 }

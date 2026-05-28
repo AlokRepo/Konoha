@@ -8,20 +8,73 @@
     "tmdb_season": null
   },
   "titles": {
+    "romaji": "ChäoS;Child",
+    "english": "Chaos;Child",
+    "native": "カオスチャイルド",
+    "synonyms": [],
     "tmdb_title": "ChäoS;Child"
   },
-  "episodes": 12,
-  "genres": [],
-  "tags": [],
-  "studios": [],
-  "producers": [],
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2017,
+  "episodes": 13,
+  "duration": 23,
+  "start_date": {
+    "year": 2017,
+    "month": 1,
+    "day": 11
+  },
+  "end_date": {
+    "year": 2017,
+    "month": 3,
+    "day": 29
+  },
+  "description": "After a magnitude-7.8 earthquake hits Tokyo's Shibuya ward on November 6, 2009, a black fire spreads and causes mass panic on the day of the earthquake. The sudden disaster that becomes known as the \"Shibuya Earthquake\" kills 3,851 people and injures 30,927 more.<br>\n<br>\nThe story set in a reconstructed Shibuya district in October 2015. A string of mysterious deaths occurs in Shibuya amidst the reconstruction. People begin to take notice as the strange events start on the same day that chaos broke out in Shibuya with a certain incident five years earlier. The events are called the \"Return of the New Generation Madness.\"\n<br><br>\n(Source: Anime News Network) <br><br>\n<i>Note: Includes episode 0.</i>",
+  "genres": [
+    "Horror",
+    "Mystery",
+    "Psychological",
+    "Sci-Fi",
+    "Supernatural"
+  ],
+  "tags": [
+    "Male Protagonist",
+    "Urban Fantasy",
+    "Denpa",
+    "Adoption",
+    "Gore",
+    "Chuunibyou",
+    "Primarily Teen Cast",
+    "School Club"
+  ],
+  "studios": [
+    "SILVER LINK."
+  ],
+  "producers": [
+    "Glovision",
+    "MAGES.",
+    "Nitroplus"
+  ],
+  "source": "VISUAL_NOVEL",
+  "country": "JP",
+  "score_anilist": 59,
+  "popularity": 31829,
+  "trending": 0,
   "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21126-l7MgeoysYBdE.png",
+    "poster_color": "#50bbe4",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21126-3ZRsYwkBuLG3.jpg",
     "poster_tmdb": "https://image.tmdb.org/t/p/w780/p726IZ7VFmUYvxoEEhqCTO3JngQ.jpg",
     "banner_tmdb": "https://image.tmdb.org/t/p/original/9wzUsWSeFQcZHfHJVfvHOVJBUQ6.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/9wzUsWSeFQcZHfHJVfvHOVJBUQ6.jpg",
-    "poster": "https://image.tmdb.org/t/p/w780/p726IZ7VFmUYvxoEEhqCTO3JngQ.jpg"
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21126-l7MgeoysYBdE.png"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/chaoschild"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 140,
@@ -32,6 +85,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T06:10:09.414Z",
+  "cached_at": "2026-05-24T08:03:24.772Z",
   "cache_version": 1
 }
