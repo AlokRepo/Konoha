@@ -894,5 +894,37 @@
     ],
     "added_at": "2026-05-28T16:29:50.298Z",
     "reason": "Score 70 is between 50–79 (below MEDIUM threshold of 80)"
+  },
+  {
+    "anilist_id": 163144,
+    "title": "TRIGUN STARGAZE",
+    "score": 79,
+    "confidence": "PENDING",
+    "candidates": [
+      {
+        "tmdb_id": 204266,
+        "title": "TRIGUN STAMPEDE",
+        "score": 79,
+        "signals": []
+      }
+    ],
+    "added_at": "2026-05-28T16:44:58.214Z",
+    "reason": "Score 79 is between 50–79 (below MEDIUM threshold of 80)"
+  },
+  {
+    "anilist_id": 4789,
+    "title": "ef: a tale of melodies.",
+    "score": 60,
+    "confidence": "PENDING",
+    "candidates": [
+      {
+        "tmdb_id": 27866,
+        "title": "Ef: A Tale Of Memories & Melodies",
+        "score": 60,
+        "signals": []
+      }
+    ],
+    "added_at": "2026-05-28T16:46:04.783Z",
+    "reason": "Score 60 is between 50–79 (below MEDIUM threshold of 80)"
   }
 ]
