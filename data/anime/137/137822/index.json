@@ -66,13 +66,13 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 80,
-  "popularity": 294154,
-  "trending": 13,
+  "popularity": 302598,
+  "trending": 18,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-U8naszP96vzC.png",
     "poster_color": "#286be4",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/137822-oevspckMGLuY.jpg",
-    "poster_tmdb": "https://image.tmdb.org/t/p/w780/sTDTy73OYmKY51EK94Mc6AxogzR.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/2cmEkoiUbktAhV1Rw9GgZEDpOOA.jpg",
     "banner_tmdb": "https://image.tmdb.org/t/p/original/seMRyWVwIVBWbC9xaMzDMZJ8fUH.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-U8naszP96vzC.png"
   },
@@ -96,6 +96,26 @@
     {
       "site": "Hulu",
       "url": "https://www.hulu.com/series/82c637ed-3f67-4488-bf73-eacf1beafe17"
+    },
+    {
+      "site": "Animax Asia",
+      "url": "https://www.animax-asia.com/"
+    },
+    {
+      "site": "Aniplus TV",
+      "url": "http://www.aniplustv.com/"
+    },
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/"
+    },
+    {
+      "site": "Bilibili Global",
+      "url": "https://www.bilibili.tv/en/index"
+    },
+    {
+      "site": "Laftel",
+      "url": "https://laftel.net/"
     }
   ],
   "themes": [],
@@ -106,6 +126,6 @@
     "year_match",
     "format_match"
   ],
-  "cached_at": "2026-05-03T03:23:15.152Z",
+  "cached_at": "2026-05-28T13:27:19.704Z",
   "cache_version": 1
 }

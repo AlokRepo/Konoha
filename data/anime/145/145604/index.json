@@ -57,7 +57,7 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 58,
-  "popularity": 56717,
+  "popularity": 58265,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145604-FQ8gN4CPaiui.jpg",
@@ -75,6 +75,22 @@
     {
       "site": "Bilibili TV",
       "url": "https://www.bilibili.tv/en/media/1066147"
+    },
+    {
+      "site": "Aniplus TV",
+      "url": "http://www.aniplustv.com/"
+    },
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/"
+    },
+    {
+      "site": "Bilibili Global",
+      "url": "https://www.bilibili.tv/en/index"
+    },
+    {
+      "site": "Laftel",
+      "url": "https://laftel.net/"
     }
   ],
   "themes": [],
@@ -87,6 +103,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T04:59:42.851Z",
+  "cached_at": "2026-05-24T07:10:35.534Z",
   "cache_version": 1
 }

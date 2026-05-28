@@ -4,7 +4,8 @@
     "mal": 50287,
     "anidb": 16956,
     "tmdb": 112624,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": 2
   },
   "titles": {
     "romaji": "Kyuuketsuki Sugu Shinu 2",
@@ -64,7 +65,7 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 74,
-  "popularity": 11612,
+  "popularity": 11818,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142914-OJ9fd00cE6yk.jpg",
@@ -82,6 +83,22 @@
     {
       "site": "iQ",
       "url": "https://www.iq.com/album/fpu6jxndgl"
+    },
+    {
+      "site": "Aniplus Asia",
+      "url": "https://www.aniplus-asia.com/"
+    },
+    {
+      "site": "Aniplus TV",
+      "url": "http://www.aniplustv.com/"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "site": "Laftel",
+      "url": "https://laftel.net/"
     }
   ],
   "themes": [],
@@ -93,6 +110,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T08:26:18.500Z",
+  "cached_at": "2026-05-24T09:30:00.699Z",
   "cache_version": 1
 }

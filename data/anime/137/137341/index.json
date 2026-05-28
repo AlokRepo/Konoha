@@ -4,7 +4,8 @@
     "mal": 49533,
     "anidb": 16512,
     "tmdb": 130456,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Uchi no Shishou wa Shippo ga Nai",
@@ -66,7 +67,7 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 64,
-  "popularity": 10702,
+  "popularity": 10831,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137341-vb51oAS0lx37.jpg",
@@ -88,6 +89,34 @@
     {
       "site": "Bilibili TV",
       "url": "https://www.bilibili.tv/media/2068743/"
+    },
+    {
+      "site": "Ani-One Asia",
+      "url": "https://www.youtube.com/channel/UC0wNSTMWIL3qaorLx0jie6A"
+    },
+    {
+      "site": "Anime Digital Network",
+      "url": "https://animedigitalnetwork.fr/"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/"
+    },
+    {
+      "site": "Bilibili Global",
+      "url": "https://www.bilibili.tv/en/index"
+    },
+    {
+      "site": "CatchPlay",
+      "url": "https://www.catchplay.com/"
+    },
+    {
+      "site": "MeWatch",
+      "url": "https://www.mewatch.sg/"
     }
   ],
   "themes": [],
@@ -100,6 +129,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T08:37:20.987Z",
+  "cached_at": "2026-05-24T09:35:33.756Z",
   "cache_version": 1
 }

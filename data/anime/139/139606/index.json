@@ -63,8 +63,8 @@
   "source": "LIGHT_NOVEL",
   "country": "JP",
   "score_anilist": 59,
-  "popularity": 50205,
-  "trending": 3,
+  "popularity": 52135,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139606-LrYkytn7fVwt.jpg",
     "poster_color": "#e44335",
@@ -81,6 +81,14 @@
     {
       "site": "Bilibili TV",
       "url": "https://www.bilibili.tv/en/media/2083785"
+    },
+    {
+      "site": "Aniplus TV",
+      "url": "http://www.aniplustv.com/"
+    },
+    {
+      "site": "Bilibili Global",
+      "url": "https://www.bilibili.tv/en/index"
     }
   ],
   "themes": [],
@@ -93,6 +101,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T05:13:00.697Z",
+  "cached_at": "2026-05-24T07:17:55.653Z",
   "cache_version": 1
 }
