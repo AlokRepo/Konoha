@@ -4,7 +4,8 @@
     "mal": 11697,
     "anidb": 8798,
     "tmdb": 45186,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Area no Kishi",
@@ -52,7 +53,7 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 67,
-  "popularity": 14531,
+  "popularity": 14721,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11697-dsf3SscWrnvq.jpg",
@@ -66,6 +67,10 @@
     {
       "site": "Crunchyroll",
       "url": "http://www.crunchyroll.com/the-knight-in-the-area"
+    },
+    {
+      "site": "Shahid",
+      "url": "https://shahid.mbc.net/en/series/The-Knight-in-the-Area/series-908394"
     }
   ],
   "themes": [],
@@ -78,6 +83,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T07:55:22.112Z",
+  "cached_at": "2026-05-24T09:14:24.953Z",
   "cache_version": 1
 }

@@ -59,7 +59,7 @@
   "source": "LIGHT_NOVEL",
   "country": "JP",
   "score_anilist": 69,
-  "popularity": 39487,
+  "popularity": 39930,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11179-dsXM0rjRESlv.jpg",
@@ -69,7 +69,16 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/8SsiEhXKptoLCJFeZUT7fCCffIz.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11179-dsXM0rjRESlv.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-240616"
+    },
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/listen-to-me-girls-i-am-your-father"
+    }
+  ],
   "themes": [],
   "confidence": "MEDIUM",
   "match_score": 114,
@@ -80,6 +89,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T05:39:28.089Z",
+  "cached_at": "2026-05-24T07:38:49.946Z",
   "cache_version": 1
 }

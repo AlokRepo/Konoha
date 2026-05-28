@@ -61,8 +61,8 @@
   "source": "LIGHT_NOVEL",
   "country": "JP",
   "score_anilist": 66,
-  "popularity": 18756,
-  "trending": 1,
+  "popularity": 19006,
+  "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11021-GzdZljNpct4b.png",
     "poster_color": "#e4a150",
@@ -75,6 +75,10 @@
     {
       "site": "Crunchyroll",
       "url": "http://www.crunchyroll.com/total-eclipse"
+    },
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/muv-luv-alternative-total-eclipse"
     }
   ],
   "themes": [],
@@ -87,6 +91,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T07:21:52.252Z",
+  "cached_at": "2026-05-24T08:52:00.356Z",
   "cache_version": 1
 }

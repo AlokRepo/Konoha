@@ -4,7 +4,8 @@
     "mal": 39567,
     "anidb": 14777,
     "tmdb": 93647,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Keishicho Tokumu-bu Tokushu Kyoaku-han Taisaku-Shitsu Dai-Nana-ka: Tokunana",
@@ -61,7 +62,7 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 56,
-  "popularity": 13584,
+  "popularity": 13743,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108554-e9tmHhFJ25Ct.jpg",
@@ -87,6 +88,10 @@
     {
       "site": "Crunchyroll",
       "url": "https://www.crunchyroll.com/special-7-special-crime-investigation-unit"
+    },
+    {
+      "site": "Animekey",
+      "url": "https://animekey.tv/apps/458/1567291-1608277/8576b39631a16e4d4be20f692e7e7ae6-1619782-1664000/d07f158d27e845812379c8c8cad42263-1553263-1592638"
     }
   ],
   "themes": [],
@@ -98,6 +103,6 @@
     "episode_exact",
     "format_match"
   ],
-  "cached_at": "2026-05-03T08:04:47.493Z",
+  "cached_at": "2026-05-24T09:19:58.543Z",
   "cache_version": 1
 }

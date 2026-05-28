@@ -53,13 +53,13 @@
   "source": "LIGHT_NOVEL",
   "country": "JP",
   "score_anilist": 59,
-  "popularity": 54712,
+  "popularity": 56112,
   "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107420-fTC53wOorIsl.jpg",
     "poster_color": "#35aee4",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/107420-nH4M41MFz0kt.jpg",
-    "poster_tmdb": "https://image.tmdb.org/t/p/w780/gIhhZsNwP9eVINc7WNOYmBo2Q4P.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/ePUz7Zq1SRLhNWvaeQYm2oPj5H7.jpg",
     "banner_tmdb": "https://image.tmdb.org/t/p/original/c26SiyLqlWeirNLpRn0JA2BCjRX.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx107420-fTC53wOorIsl.jpg"
   },
@@ -75,6 +75,14 @@
     {
       "site": "Crunchyroll",
       "url": "https://www.crunchyroll.com/infinite-dendrogram"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/"
+    },
+    {
+      "site": "Animekey",
+      "url": "https://animekey.tv/"
     }
   ],
   "themes": [],
@@ -87,6 +95,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T05:02:49.749Z",
+  "cached_at": "2026-05-24T07:12:35.110Z",
   "cache_version": 1
 }
