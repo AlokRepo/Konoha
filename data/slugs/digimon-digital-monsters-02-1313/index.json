@@ -3,7 +3,7 @@
     "anilist": 1313,
     "mal": 1313,
     "anidb": 561,
-    "tmdb": 31654,
+    "tmdb": 322043,
     "tmdb_type": "tv",
     "tmdb_season": null
   },
@@ -14,7 +14,7 @@
     "synonyms": [
       "Digimon Zero Two"
     ],
-    "tmdb_title": "Digimon: Digital Monsters"
+    "tmdb_title": "Digimon Adventure 02"
   },
   "format": "TV",
   "status": "FINISHED",
@@ -70,14 +70,13 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 69,
-  "popularity": 37818,
-  "trending": 1,
+  "popularity": 38182,
+  "trending": 2,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx1313-oCvzzU6fiCZB.png",
     "poster_color": "#e4a135",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1313-wiSJWvPXTwGF.jpg",
-    "poster_tmdb": "https://image.tmdb.org/t/p/w780/AlPYAJYkSfvVYAXK1a3gZqpWwda.jpg",
-    "banner_tmdb": "https://image.tmdb.org/t/p/original/rjkMqxsjbNJ3467IWXml04tyBTW.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/pfrV8g1YsecTp4AR2PWqqYwqGy2.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx1313-oCvzzU6fiCZB.png"
   },
   "streaming": [
@@ -91,14 +90,14 @@
     }
   ],
   "themes": [],
-  "confidence": "MEDIUM",
-  "match_score": 89,
+  "confidence": "HIGH",
+  "match_score": 135,
   "match_signals": [
-    "english_title",
+    "exact_title",
     "year_match",
-    "format_match",
-    "studio_match"
+    "episode_exact",
+    "format_match"
   ],
-  "cached_at": "2026-05-03T05:44:31.486Z",
+  "cached_at": "2026-05-24T07:42:39.273Z",
   "cache_version": 1
 }

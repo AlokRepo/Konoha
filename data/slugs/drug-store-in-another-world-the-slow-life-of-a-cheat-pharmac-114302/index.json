@@ -73,8 +73,8 @@
   "source": "LIGHT_NOVEL",
   "country": "JP",
   "score_anilist": 61,
-  "popularity": 47598,
-  "trending": 1,
+  "popularity": 48996,
+  "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114302-xfqGNUaK59lQ.jpg",
     "poster_color": "#e45d86",
@@ -91,6 +91,22 @@
     {
       "site": "Bilibili TV",
       "url": "https://www.bilibili.tv/en/media/1011658"
+    },
+    {
+      "site": "Aniplus TV",
+      "url": "http://www.aniplustv.com/"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/"
+    },
+    {
+      "site": "Laftel",
+      "url": "https://laftel.net/"
     }
   ],
   "themes": [],
@@ -103,6 +119,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T05:19:26.098Z",
+  "cached_at": "2026-05-24T07:22:02.531Z",
   "cache_version": 1
 }

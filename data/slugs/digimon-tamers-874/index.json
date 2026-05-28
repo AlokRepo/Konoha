@@ -4,7 +4,8 @@
     "mal": 874,
     "anidb": 562,
     "tmdb": 9302,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Digimon Tamers",
@@ -57,8 +58,8 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 75,
-  "popularity": 37332,
-  "trending": 1,
+  "popularity": 37688,
+  "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx874-3uug3PiSeyf7.jpg",
     "poster_color": "#f1c950",
@@ -71,6 +72,10 @@
     {
       "site": "Hulu",
       "url": "http://www.hulu.com/digimon-tamers"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-230332"
     }
   ],
   "themes": [],
@@ -83,6 +88,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T05:47:18.879Z",
+  "cached_at": "2026-05-24T07:44:26.884Z",
   "cache_version": 1
 }
