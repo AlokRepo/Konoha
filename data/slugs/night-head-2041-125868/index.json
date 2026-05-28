@@ -4,7 +4,8 @@
     "mal": 43767,
     "anidb": 15834,
     "tmdb": 112616,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "NIGHT HEAD 2041",
@@ -56,7 +57,7 @@
   "source": "OTHER",
   "country": "JP",
   "score_anilist": 61,
-  "popularity": 14329,
+  "popularity": 14461,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx125868-apscwA5S0lOs.jpg",
@@ -70,6 +71,18 @@
     {
       "site": "Crunchyroll",
       "url": "https://www.crunchyroll.com/night-head-2041"
+    },
+    {
+      "site": "Aniplus Asia",
+      "url": "https://www.aniplus-asia.com/"
+    },
+    {
+      "site": "Aniplus TV",
+      "url": "http://www.aniplustv.com/"
+    },
+    {
+      "site": "Laftel",
+      "url": "https://laftel.net/"
     }
   ],
   "themes": [],
@@ -82,6 +95,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T07:57:34.424Z",
+  "cached_at": "2026-05-24T09:16:22.719Z",
   "cache_version": 1
 }

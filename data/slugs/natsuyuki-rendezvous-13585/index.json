@@ -4,7 +4,8 @@
     "mal": 13585,
     "anidb": 9126,
     "tmdb": 45278,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Natsuyuki Rendezvous",
@@ -53,7 +54,7 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 69,
-  "popularity": 19054,
+  "popularity": 19204,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13585-ra1pAXC5ZiBo.jpg",
@@ -63,7 +64,16 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/acX1AYoJHAquABodgtZOlxoWmOQ.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx13585-ra1pAXC5ZiBo.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-246682"
+    },
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/natsuyuki-rendezvous"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 160,
@@ -74,6 +84,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T07:19:54.687Z",
+  "cached_at": "2026-05-24T08:51:20.814Z",
   "cache_version": 1
 }

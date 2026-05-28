@@ -65,20 +65,24 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 72,
-  "popularity": 24549,
+  "popularity": 25522,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171038-lSjQqiSk1mQC.jpg",
     "poster_color": "#e4d628",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/171038-7KAZ6U4nTM8i.jpg",
     "poster_tmdb": "https://image.tmdb.org/t/p/w780/goE7QiiaRkzVLnwaODRNKarWljv.jpg",
-    "banner_tmdb": "https://image.tmdb.org/t/p/original/gpFoMy9EZOwjUlu1MKlTFFEQOIA.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/pNvrt9QHFh9be8BuA4ad88P037E.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171038-lSjQqiSk1mQC.jpg"
   },
   "streaming": [
     {
       "site": "Crunchyroll",
       "url": "https://www.crunchyroll.com/series/GKEH2G0QK/nina-the-starry-bride"
+    },
+    {
+      "site": "Laftel",
+      "url": "https://laftel.net/"
     }
   ],
   "themes": [],
@@ -91,6 +95,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T06:43:55.734Z",
+  "cached_at": "2026-05-24T08:22:05.089Z",
   "cache_version": 1
 }
