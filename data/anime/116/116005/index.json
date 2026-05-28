@@ -57,8 +57,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 66,
-  "popularity": 92012,
-  "trending": 1,
+  "popularity": 93733,
+  "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116005-yfngIe9aBaJw.jpg",
     "poster_color": "#f1436b",
@@ -79,6 +79,10 @@
     {
       "site": "Max",
       "url": "https://www.max.com/shows/eaafdac2-d951-4e96-97a8-aa78e0bfc08b"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/"
     }
   ],
   "themes": [],
@@ -91,6 +95,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T04:16:44.041Z",
+  "cached_at": "2026-05-24T06:38:20.379Z",
   "cache_version": 1
 }

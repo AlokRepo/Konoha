@@ -4,7 +4,8 @@
     "mal": 40685,
     "anidb": 15260,
     "tmdb": 95631,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Super Cub",
@@ -58,7 +59,7 @@
   "source": "LIGHT_NOVEL",
   "country": "JP",
   "score_anilist": 72,
-  "popularity": 46121,
+  "popularity": 46596,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113418-OjWcmCXAHWkq.jpg",
@@ -76,6 +77,18 @@
     {
       "site": "Crunchyroll",
       "url": "https://www.crunchyroll.com/super-cub"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "site": "Muse Asia",
+      "url": "https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg"
     }
   ],
   "themes": [],
@@ -88,6 +101,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T05:22:35.747Z",
+  "cached_at": "2026-05-24T07:25:53.444Z",
   "cache_version": 1
 }
