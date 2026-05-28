@@ -4,7 +4,8 @@
     "mal": 59484,
     "anidb": 18803,
     "tmdb": 287278,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Kikaijikake no Marie",
@@ -42,8 +43,9 @@
   "tags": [
     "Female Protagonist",
     "Maids",
-    "Shoujo",
-    "Robots"
+    "Robots",
+    "Artificial Intelligence",
+    "Shoujo"
   ],
   "studios": [
     "Zero-G",
@@ -63,14 +65,14 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 66,
-  "popularity": 16959,
-  "trending": 0,
+  "popularity": 18334,
+  "trending": 2,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179992-tu21efjGADCO.png",
     "poster_color": "#e4a15d",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179992-ioBTPOAqH4ld.jpg",
     "poster_tmdb": "https://image.tmdb.org/t/p/w780/vsH56qFI4GEjeIPcIFIBEF6aaT9.jpg",
-    "banner_tmdb": "https://image.tmdb.org/t/p/original/hyynVgGCfc0qG7ooiRIhQfIw9RN.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/4aYPfbbFHxUXc9HBzo4GWDupBIJ.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179992-tu21efjGADCO.png"
   },
   "streaming": [
@@ -85,6 +87,18 @@
     {
       "site": "Bilibili TV",
       "url": "https://www.bilibili.tv/en/media/2247986"
+    },
+    {
+      "site": "Ani-One Asia",
+      "url": "https://www.youtube.com/channel/UC0wNSTMWIL3qaorLx0jie6A"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "site": "Bilibili Global",
+      "url": "https://www.bilibili.tv/en/index"
     }
   ],
   "themes": [],
@@ -97,6 +111,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T07:34:51.521Z",
+  "cached_at": "2026-05-24T08:55:27.440Z",
   "cache_version": 1
 }

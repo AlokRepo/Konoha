@@ -4,7 +4,8 @@
     "mal": 57947,
     "anidb": 18454,
     "tmdb": 244617,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Mayonaka Punch",
@@ -65,7 +66,7 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 73,
-  "popularity": 26934,
+  "popularity": 27606,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174044-HBvsyKjDVPyO.jpg",
@@ -83,6 +84,14 @@
     {
       "site": "YouTube",
       "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JgRtxr6-hzpqOVnKDFFVAEt"
+    },
+    {
+      "site": "Ani-One Asia",
+      "url": "https://www.youtube.com/channel/UC0wNSTMWIL3qaorLx0jie6A"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
     }
   ],
   "themes": [],
@@ -95,8 +104,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T06:29:09.165Z",
-  "cache_version": 1
-}",
+  "cached_at": "2026-05-24T08:15:33.127Z",
   "cache_version": 1
 }

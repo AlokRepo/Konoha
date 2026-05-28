@@ -68,8 +68,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 76,
-  "popularity": 258577,
-  "trending": 11,
+  "popularity": 268189,
+  "trending": 6,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151801-XxVf22Le6C8o.png",
     "poster_color": "#f1bb5d",
@@ -94,17 +94,24 @@
     {
       "site": "Hulu",
       "url": "https://www.hulu.com/series/588f6e4a-42f1-48dd-931a-605ae4eec3e4"
+    },
+    {
+      "site": "Ani-One Asia",
+      "url": "https://www.youtube.com/channel/UC0wNSTMWIL3qaorLx0jie6A"
+    },
+    {
+      "site": "Aniplus TV",
+      "url": "http://www.aniplustv.com/"
     }
   ],
   "themes": [],
-  "confidence": "HIGH",
-  "match_score": 130,
+  "confidence": "MEDIUM",
+  "match_score": 105,
   "match_signals": [
     "exact_title",
     "year_match",
-    "format_match",
-    "studio_match"
+    "format_match"
   ],
-  "cached_at": "2026-05-03T03:26:02.479Z",
+  "cached_at": "2026-05-28T13:42:34.041Z",
   "cache_version": 1
 }

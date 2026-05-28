@@ -4,7 +4,8 @@
     "mal": 36565,
     "anidb": 13518,
     "tmdb": 78476,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Major 2nd",
@@ -50,7 +51,7 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 72,
-  "popularity": 9617,
+  "popularity": 9697,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100306-picxGtylsEST.jpg",
@@ -64,6 +65,10 @@
     {
       "site": "Crunchyroll",
       "url": "http://www.crunchyroll.com/major-2nd"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/"
     }
   ],
   "themes": [],
@@ -75,6 +80,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T08:52:35.211Z",
+  "cached_at": "2026-05-24T09:43:43.957Z",
   "cache_version": 1
 }
