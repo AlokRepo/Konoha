@@ -69,8 +69,8 @@
   "source": "LIGHT_NOVEL",
   "country": "JP",
   "score_anilist": 74,
-  "popularity": 116673,
-  "trending": 3,
+  "popularity": 117033,
+  "trending": 4,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150075-QIGcA7oVyO6l.jpg",
     "poster_color": "#e450f1",
@@ -126,15 +126,13 @@
     }
   ],
   "themes": [],
-  "confidence": "HIGH",
-  "match_score": 160,
+  "confidence": "MEDIUM",
+  "match_score": 105,
   "match_signals": [
     "exact_title",
     "year_match",
-    "episode_exact",
-    "format_match",
-    "studio_match"
+    "format_match"
   ],
-  "cached_at": "2026-05-24T06:26:25.184Z",
+  "cached_at": "2026-05-28T15:03:30.856Z",
   "cache_version": 1
 }
