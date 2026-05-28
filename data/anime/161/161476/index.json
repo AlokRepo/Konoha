@@ -61,13 +61,13 @@
   "source": "LIGHT_NOVEL",
   "country": "JP",
   "score_anilist": 65,
-  "popularity": 46266,
-  "trending": 1,
+  "popularity": 48409,
+  "trending": 2,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161476-ukTxAPHib1Fg.jpg",
     "poster_color": "#f1e4c9",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/161476-jg6L0f8n19ak.jpg",
-    "poster_tmdb": "https://image.tmdb.org/t/p/w780/Q0nbxeYiFQJxzJ8nTTOwWNij2z.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/xleVFCZ2FnFHZbZIhcZ4GRbABas.jpg",
     "banner_tmdb": "https://image.tmdb.org/t/p/original/4QJjj63L1pfhiF9rSRAVbwB4lLp.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161476-ukTxAPHib1Fg.jpg"
   },
@@ -87,6 +87,10 @@
     {
       "site": "Hulu",
       "url": "https://www.hulu.com/series/f441baba-0f6b-4d5b-9fa7-bd16766023f8"
+    },
+    {
+      "site": "Disney+",
+      "url": "https://www.disneyplus.com/"
     }
   ],
   "themes": [],
@@ -98,6 +102,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T05:22:13.778Z",
+  "cached_at": "2026-05-24T07:23:28.265Z",
   "cache_version": 1
 }

@@ -4,7 +4,8 @@
     "mal": 54757,
     "anidb": 17919,
     "tmdb": 222624,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "3-nen Z-gumi Ginpachi-sensei",
@@ -56,14 +57,14 @@
   "source": "LIGHT_NOVEL",
   "country": "JP",
   "score_anilist": 75,
-  "popularity": 13669,
+  "popularity": 14059,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162890-vDRlo1KuRM6W.jpg",
     "poster_color": "#5dc9f1",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/162890-aY5XAN4j9Ph2.jpg",
     "poster_tmdb": "https://image.tmdb.org/t/p/w780/slneGllMqljglPzNVNoiiGPZp2J.jpg",
-    "banner_tmdb": "https://image.tmdb.org/t/p/original/biySYNkndGyqLr9MBYjgrTGeyHE.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/jv0TWYqsdAbbeTfUA8mtGaqb3OG.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162890-vDRlo1KuRM6W.jpg"
   },
   "streaming": [
@@ -86,6 +87,14 @@
     {
       "site": "Bilibili TV",
       "url": "https://www.bilibili.tv/en/media/2247821"
+    },
+    {
+      "site": "Ani-One Asia",
+      "url": "https://www.youtube.com/channel/UC0wNSTMWIL3qaorLx0jie6A"
+    },
+    {
+      "site": "Bilibili Global",
+      "url": "https://www.bilibili.tv/en/index"
     }
   ],
   "themes": [],
@@ -97,8 +106,6 @@
     "episode_exact",
     "format_match"
   ],
-  "cached_at": "2026-05-03T08:03:40.539Z",
-  "cache_version": 1
-}",
+  "cached_at": "2026-05-24T09:18:19.840Z",
   "cache_version": 1
 }

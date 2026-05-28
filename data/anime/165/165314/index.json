@@ -4,7 +4,8 @@
     "mal": 55397,
     "anidb": 18043,
     "tmdb": 234176,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Pon no Michi",
@@ -62,7 +63,7 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 67,
-  "popularity": 15379,
+  "popularity": 15735,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165314-oHSkxN95nSsx.jpg",
@@ -100,6 +101,18 @@
     {
       "site": "Hulu",
       "url": "https://www.hulu.jp/pon-no-michi?cmp=8083"
+    },
+    {
+      "site": "Anime Digital Network",
+      "url": "https://animedigitalnetwork.fr/"
+    },
+    {
+      "site": "Bilibili Global",
+      "url": "https://www.bilibili.tv/en/index"
+    },
+    {
+      "site": "iQIYI",
+      "url": "https://www.iq.com/"
     }
   ],
   "themes": [],
@@ -112,6 +125,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T07:47:21.909Z",
+  "cached_at": "2026-05-24T09:09:00.595Z",
   "cache_version": 1
 }

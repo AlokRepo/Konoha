@@ -60,8 +60,8 @@
   "source": "VIDEO_GAME",
   "country": "JP",
   "score_anilist": 68,
-  "popularity": 30127,
-  "trending": 1,
+  "popularity": 30753,
+  "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162893-qDZDzL4jJ03c.jpg",
     "poster_color": "#50aee4",
@@ -78,6 +78,14 @@
     {
       "site": "Bilibili TV",
       "url": "https://www.bilibili.tv/en/media/2087595"
+    },
+    {
+      "site": "Aniplus Asia",
+      "url": "https://www.aniplus-asia.com/"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
     }
   ],
   "themes": [],
@@ -90,6 +98,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T06:16:11.510Z",
+  "cached_at": "2026-05-24T08:07:18.612Z",
   "cache_version": 1
 }
