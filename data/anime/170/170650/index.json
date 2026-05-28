@@ -4,7 +4,8 @@
     "mal": 57050,
     "anidb": 18264,
     "tmdb": 261311,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Kisaki Kyouiku kara Nigetai Watashi",
@@ -62,8 +63,8 @@
   "source": "LIGHT_NOVEL",
   "country": "JP",
   "score_anilist": 54,
-  "popularity": 12944,
-  "trending": 0,
+  "popularity": 13441,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170650-iVQC67atMVj3.png",
     "poster_color": "#f17843",
@@ -80,6 +81,26 @@
     {
       "site": "YouTube",
       "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl1DlUDCVK433fUMRHqlggDM"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "site": "CatchPlay",
+      "url": "https://www.catchplay.com/"
+    },
+    {
+      "site": "Laftel",
+      "url": "https://laftel.net/"
+    },
+    {
+      "site": "MeWatch",
+      "url": "https://www.mewatch.sg/"
+    },
+    {
+      "site": "Muse Asia",
+      "url": "https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg"
     }
   ],
   "themes": [],
@@ -92,6 +113,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T08:10:41.308Z",
+  "cached_at": "2026-05-24T09:21:19.058Z",
   "cache_version": 1
 }

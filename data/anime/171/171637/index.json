@@ -4,7 +4,8 @@
     "mal": 57554,
     "anidb": 18323,
     "tmdb": 210879,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
@@ -59,7 +60,7 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 77,
-  "popularity": 21351,
+  "popularity": 22302,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b171637-h17RbEFtR0rQ.png",
@@ -73,6 +74,14 @@
     {
       "site": "Crunchyroll",
       "url": "https://www.crunchyroll.com/series/G0XHWM1NK/rurouni-kenshin"
+    },
+    {
+      "site": "Aniplus TV",
+      "url": "http://www.aniplustv.com/"
+    },
+    {
+      "site": "Laftel",
+      "url": "https://laftel.net/"
     }
   ],
   "themes": [],
@@ -84,6 +93,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T07:01:30.535Z",
+  "cached_at": "2026-05-24T08:34:12.673Z",
   "cache_version": 1
 }

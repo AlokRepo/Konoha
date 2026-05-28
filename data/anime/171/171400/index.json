@@ -4,7 +4,8 @@
     "mal": 57517,
     "anidb": 18315,
     "tmdb": 241811,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Puniru wa Kawaii Slime",
@@ -63,8 +64,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 68,
-  "popularity": 7668,
-  "trending": 0,
+  "popularity": 7844,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171400-fbiXZGItjJtP.png",
     "poster_color": "#5dc9f1",
@@ -85,6 +86,10 @@
     {
       "site": "Netflix",
       "url": "https://netflix.com/title/81975106"
+    },
+    {
+      "site": "Laftel",
+      "url": "https://laftel.net/"
     }
   ],
   "themes": [],
@@ -96,8 +101,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T09:23:26.101Z",
-  "cache_version": 1
-}",
+  "cached_at": "2026-05-24T09:58:02.568Z",
   "cache_version": 1
 }

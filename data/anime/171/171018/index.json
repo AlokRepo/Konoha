@@ -3,7 +3,7 @@
     "anilist": 171018,
     "mal": 57334,
     "anidb": 18290,
-    "tmdb": 240411,
+    "tmdb": 274861,
     "tmdb_type": "tv",
     "tmdb_season": null
   },
@@ -17,7 +17,7 @@
       "DAN DA DAN: FIRST ENCOUNTER",
       "Дандадан"
     ],
-    "tmdb_title": "Dan Da Dan"
+    "tmdb_title": "完蛋我养的小白脸是大佬"
   },
   "format": "TV",
   "status": "FINISHED",
@@ -54,8 +54,8 @@
     "Henshin",
     "Shounen",
     "Female Protagonist",
-    "Heterosexual",
     "Male Protagonist",
+    "Heterosexual",
     "Exorcism",
     "School",
     "Gyaru"
@@ -74,14 +74,14 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 83,
-  "popularity": 338963,
-  "trending": 18,
+  "popularity": 352509,
+  "trending": 19,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg",
     "poster_color": "#e47850",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/171018-SpwPNAduszXl.jpg",
-    "poster_tmdb": "https://image.tmdb.org/t/p/w780/4h2m9BO7milJaCsbKBgKvCX0dOZ.jpg",
-    "banner_tmdb": "https://image.tmdb.org/t/p/original/uNTrRKIOyKYISthoeizghtXPEOK.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/iniKryLDmfV1KhjeeyViwtkJ3Rp.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/uQ76jdoLEq78tLp8oPS4AQpdKBE.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-60q1B6GK2Ghb.jpg"
   },
   "streaming": [
@@ -108,17 +108,53 @@
     {
       "site": "Niconico Video",
       "url": "https://ch.nicovideo.jp/anime-dandadan"
+    },
+    {
+      "site": "Anime Digital Network",
+      "url": "https://animedigitalnetwork.fr/"
+    },
+    {
+      "site": "Aniplus TV",
+      "url": "http://www.aniplustv.com/"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "site": "Bilibili Global",
+      "url": "https://www.bilibili.tv/en/index"
+    },
+    {
+      "site": "CatchPlay",
+      "url": "https://www.catchplay.com/"
+    },
+    {
+      "site": "Laftel",
+      "url": "https://laftel.net/"
+    },
+    {
+      "site": "MeWatch",
+      "url": "https://www.mewatch.sg/"
+    },
+    {
+      "site": "Muse Asia",
+      "url": "https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg"
+    },
+    {
+      "site": "iQIYI",
+      "url": "https://www.iq.com/"
     }
   ],
   "themes": [],
   "confidence": "HIGH",
-  "match_score": 130,
+  "match_score": 135,
   "match_signals": [
     "exact_title",
     "year_match",
-    "format_match",
-    "studio_match"
+    "episode_exact",
+    "format_match"
   ],
-  "cached_at": "2026-05-03T03:21:14.086Z",
+  "cached_at": "2026-05-28T13:25:21.630Z",
   "cache_version": 1
 }

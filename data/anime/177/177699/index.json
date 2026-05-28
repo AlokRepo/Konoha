@@ -4,7 +4,8 @@
     "mal": 58929,
     "anidb": 18652,
     "tmdb": 255358,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Koukaku Kidoutai: THE GHOST IN THE SHELL",
@@ -26,14 +27,18 @@
   "start_date": {
     "year": 2026,
     "month": 7,
-    "day": null
+    "day": 7
   },
   "end_date": {
     "year": null,
     "month": null,
     "day": null
   },
-  "description": "<i>Ghost in the Shell</i> is a landmark work of cyberpunk science fiction set in a near-future when information networks envelop the world and highly advance highly advanced cyborg augmentation technology has enabled the creation of the cyberbrain. It follows the story of the full-body cyborg Motoko Kusanagi and the combat force she leads in the fight against cybercrime. <br><br>\n(Source:攻殻機動隊 THE GHOST IN THE SHELL Site)",
+  "next_airing": {
+    "episode": 1,
+    "at": "2026-07-07T14:00:00.000Z"
+  },
+  "description": "<i>Ghost in the Shell</i> is a landmark work of cyberpunk science fiction set in a near-future when information networks envelop the world and highly advanced cyborg augmentation technology has enabled the creation of the cyberbrain. It follows the story of the full-body cyborg Motoko Kusanagi and the combat force she leads in the fight against cybercrime. <br><br>\n(Source:攻殻機動隊 THE GHOST IN THE SHELL Site)",
   "genres": [
     "Action",
     "Psychological",
@@ -45,6 +50,7 @@
     "Cyborg",
     "Artificial Intelligence",
     "Robots",
+    "Urban",
     "Female Protagonist",
     "Seinen",
     "Primarily Adult Cast",
@@ -60,15 +66,14 @@
   ],
   "source": "MANGA",
   "country": "JP",
-  "popularity": 13574,
-  "trending": 3,
+  "popularity": 15809,
+  "trending": 1,
   "images": {
-    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177699-R9HWvuoddh05.jpg",
-    "poster_color": "#ffa100",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177699-hnzc1CS5ZSM2.png",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177699-5kDbvDBhtSE3.jpg",
-    "poster_tmdb": "https://image.tmdb.org/t/p/w780/529GDwAFR8UDMHdvPeIzVjxT4BA.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/v3ELg68YGvjSvumMB3nynWyF3bP.jpg",
     "banner_tmdb": "https://image.tmdb.org/t/p/original/8fJQUzU3xxGhN3s6YOrWb7p1oEs.jpg",
-    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177699-R9HWvuoddh05.jpg"
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177699-hnzc1CS5ZSM2.png"
   },
   "streaming": [
     {
@@ -81,14 +86,14 @@
     }
   ],
   "themes": [],
-  "confidence": "MEDIUM",
-  "match_score": 105,
+  "confidence": "HIGH",
+  "match_score": 130,
   "match_signals": [
     "exact_title",
+    "year_match",
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-19T03:36:20.081Z",
-  "cache_version": 1,
-  "next_airing": null
+  "cached_at": "2026-05-24T09:08:32.400Z",
+  "cache_version": 1
 }

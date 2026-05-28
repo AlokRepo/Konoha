@@ -4,7 +4,8 @@
     "mal": 58788,
     "anidb": 18610,
     "tmdb": 253476,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Ikoku Nikki",
@@ -45,13 +46,13 @@
   "tags": [
     "Female Protagonist",
     "Coming of Age",
-    "Estranged Family",
     "Adoption",
+    "Estranged Family",
     "Josei",
     "Family Life",
-    "Found Family",
     "Orphan",
     "Parenthood",
+    "Found Family",
     "Writing",
     "Tragedy",
     "Primarily Female Cast",
@@ -70,8 +71,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 87,
-  "popularity": 40163,
-  "trending": 8,
+  "popularity": 42836,
+  "trending": 12,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177385-TBpvkGdF28R7.png",
     "poster_color": "#aee4e4",
@@ -84,6 +85,18 @@
     {
       "site": "Crunchyroll",
       "url": "https://www.crunchyroll.com/series/GT00365571/journal-with-witch"
+    },
+    {
+      "site": "Aniplus Asia",
+      "url": "https://www.aniplus-asia.com/"
+    },
+    {
+      "site": "Aniplus TV",
+      "url": "http://www.aniplustv.com/"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
     }
   ],
   "themes": [],
@@ -96,6 +109,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T05:37:11.945Z",
+  "cached_at": "2026-05-24T07:33:09.666Z",
   "cache_version": 1
 }
