@@ -4,7 +4,8 @@
     "mal": 19023,
     "anidb": 9417,
     "tmdb": 74191,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Wake Up, Girls!",
@@ -66,7 +67,7 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 67,
-  "popularity": 16103,
+  "popularity": 16195,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx19023-BZGH5j6sZNRB.jpg",
@@ -80,6 +81,10 @@
     {
       "site": "Crunchyroll",
       "url": "http://www.crunchyroll.com/wake-up-girls"
+    },
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/wake-up-girls"
     }
   ],
   "themes": [],
@@ -91,6 +96,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T07:42:23.304Z",
+  "cached_at": "2026-05-24T09:06:26.417Z",
   "cache_version": 1
 }

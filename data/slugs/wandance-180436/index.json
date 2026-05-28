@@ -64,8 +64,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 66,
-  "popularity": 19464,
-  "trending": 0,
+  "popularity": 20953,
+  "trending": 2,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180436-zR0dJuKGZNOK.jpg",
     "poster_color": "#1a93d6",
@@ -82,6 +82,10 @@
     {
       "site": "Hulu",
       "url": "https://www.hulu.com/series/3da4e677-9efe-4c21-b726-be734889b151"
+    },
+    {
+      "site": "Disney+",
+      "url": "https://www.disneyplus.com/browse/entity-8019edc8-5f73-4c70-88eb-02ea35f724d4"
     }
   ],
   "themes": [],
@@ -94,6 +98,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T07:15:55.321Z",
+  "cached_at": "2026-05-24T08:39:51.519Z",
   "cache_version": 1
 }

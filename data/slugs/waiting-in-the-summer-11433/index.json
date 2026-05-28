@@ -65,7 +65,7 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 71,
-  "popularity": 82425,
+  "popularity": 83627,
   "trending": 2,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11433-KLEzZeK6D46g.jpg",
@@ -75,7 +75,16 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/gFRk6blKDP2V9R4mj3DYmvmoG9a.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11433-KLEzZeK6D46g.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-240790"
+    },
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/waiting-in-the-summer"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 160,
@@ -86,6 +95,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T04:23:31.443Z",
+  "cached_at": "2026-05-24T06:45:04.373Z",
   "cache_version": 1
 }

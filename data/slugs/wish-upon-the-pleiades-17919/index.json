@@ -62,7 +62,7 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 64,
-  "popularity": 12360,
+  "popularity": 12441,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx17919-mqCZs82QSeMh.jpg",
@@ -72,7 +72,16 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/7zbxfoyDxHVMBDvkMjozycBIWcM.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx17919-mqCZs82QSeMh.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-265663"
+    },
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/wish-upon-the-pleiades"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 160,
@@ -83,6 +92,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T08:17:48.527Z",
+  "cached_at": "2026-05-24T09:26:55.002Z",
   "cache_version": 1
 }

@@ -4,7 +4,8 @@
     "mal": 935,
     "anidb": 2511,
     "tmdb": 20450,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Witchblade",
@@ -57,14 +58,14 @@
   "source": "OTHER",
   "country": "JP",
   "score_anilist": 68,
-  "popularity": 20639,
-  "trending": 1,
+  "popularity": 21013,
+  "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx935-nzFM4wRfrbmt.png",
     "poster_color": "#e42843",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/935-1Vrepo3s2AiL.jpg",
     "poster_tmdb": "https://image.tmdb.org/t/p/w780/qHJKHOQO5nxJcc0NJAVwnuXckjp.jpg",
-    "banner_tmdb": "https://image.tmdb.org/t/p/original/tRf2b6VWTrMu0J9Z6Oxy8s39heN.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/oovNjCf6yI42KW0ebBvh0R3VJOd.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx935-nzFM4wRfrbmt.png"
   },
   "streaming": [
@@ -87,6 +88,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T07:06:29.023Z",
+  "cached_at": "2026-05-24T08:39:26.820Z",
   "cache_version": 1
 }

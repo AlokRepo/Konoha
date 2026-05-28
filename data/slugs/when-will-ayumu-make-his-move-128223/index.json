@@ -63,8 +63,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 69,
-  "popularity": 57489,
-  "trending": 0,
+  "popularity": 58703,
+  "trending": 4,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128223-TOQovu2MXr8k.jpg",
     "poster_color": "#4386e4",
@@ -81,6 +81,18 @@
     {
       "site": "Bilibili TV",
       "url": "https://www.bilibili.tv/en/media/1059473"
+    },
+    {
+      "site": "Anime Digital Network",
+      "url": "https://animedigitalnetwork.fr/"
+    },
+    {
+      "site": "Aniplus TV",
+      "url": "http://www.aniplustv.com/"
+    },
+    {
+      "site": "Bilibili Global",
+      "url": "https://www.bilibili.tv/en/index"
     }
   ],
   "themes": [],
@@ -93,6 +105,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T04:58:32.692Z",
+  "cached_at": "2026-05-24T07:09:54.333Z",
   "cache_version": 1
 }
