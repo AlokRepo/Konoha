@@ -4,7 +4,8 @@
     "mal": 5342,
     "anidb": 6374,
     "tmdb": 42425,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Asura Cryin'",
@@ -54,7 +55,7 @@
   "source": "LIGHT_NOVEL",
   "country": "JP",
   "score_anilist": 64,
-  "popularity": 15605,
+  "popularity": 15785,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5342-ANw2oxMaqpKa.jpg",
@@ -64,7 +65,16 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/pGCKkACejNJ5rN710X09EOfRTxJ.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5342-ANw2oxMaqpKa.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-119408"
+    },
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/asura-cryin"
+    }
+  ],
   "themes": [],
   "confidence": "MEDIUM",
   "match_score": 105,
@@ -73,6 +83,6 @@
     "year_match",
     "format_match"
   ],
-  "cached_at": "2026-05-03T07:45:15.846Z",
+  "cached_at": "2026-05-24T09:08:43.726Z",
   "cache_version": 1
 }

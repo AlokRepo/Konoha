@@ -4,7 +4,8 @@
     "mal": 5909,
     "anidb": 6556,
     "tmdb": 56783,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Seitokai no Ichizon",
@@ -58,7 +59,7 @@
   "source": "LIGHT_NOVEL",
   "country": "JP",
   "score_anilist": 70,
-  "popularity": 39798,
+  "popularity": 40437,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5909-cqlzezmvzLWa.png",
@@ -67,7 +68,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/q7lCDChv5xXZ5rhRanm0zEawHo2.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx5909-cqlzezmvzLWa.png"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/student-councils-discretion"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 130,
@@ -77,6 +83,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T05:38:06.170Z",
+  "cached_at": "2026-05-24T07:37:22.285Z",
   "cache_version": 1
 }
