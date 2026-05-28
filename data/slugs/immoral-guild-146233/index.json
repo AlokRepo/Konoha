@@ -4,7 +4,8 @@
     "mal": 51212,
     "anidb": 17244,
     "tmdb": 194831,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Futoku no Guild",
@@ -51,7 +52,8 @@
     "Magic",
     "Primarily Teen Cast",
     "Anachronism",
-    "Ensemble Cast"
+    "Ensemble Cast",
+    "Kemonomimi"
   ],
   "studios": [
     "TNK",
@@ -66,8 +68,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 63,
-  "popularity": 37316,
-  "trending": 2,
+  "popularity": 38632,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146233-iJW5lfwNFH5a.jpg",
     "poster_color": "#e4785d",
@@ -84,6 +86,26 @@
     {
       "site": "HIDIVE",
       "url": "https://www.hidive.com/tv/immoral-guild"
+    },
+    {
+      "site": "Animax Korea",
+      "url": "https://www.animaxtv.co.kr"
+    },
+    {
+      "site": "Anime Digital Network",
+      "url": "https://animedigitalnetwork.fr/"
+    },
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/"
+    },
+    {
+      "site": "Bilibili Global",
+      "url": "https://www.bilibili.tv/en/index"
+    },
+    {
+      "site": "Laftel",
+      "url": "https://laftel.net/"
     }
   ],
   "themes": [],
@@ -96,6 +118,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T05:47:24.340Z",
+  "cached_at": "2026-05-24T07:41:18.624Z",
   "cache_version": 1
 }
