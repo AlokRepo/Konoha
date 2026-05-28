@@ -8,20 +8,74 @@
     "tmdb_season": null
   },
   "titles": {
+    "romaji": "Ashita no Joe",
+    "english": "Tomorrow's Joe",
+    "native": "あしたのジョー",
+    "synonyms": [
+      "Rocky Joe",
+      "Champion Joe"
+    ],
     "tmdb_title": "Tomorrow's Joe"
   },
-  "episodes": 126,
-  "genres": [],
-  "tags": [],
-  "studios": [],
-  "producers": [],
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 1970,
+  "episodes": 79,
+  "duration": 25,
+  "start_date": {
+    "year": 1970,
+    "month": 4,
+    "day": 1
+  },
+  "end_date": {
+    "year": 1971,
+    "month": 9,
+    "day": 29
+  },
+  "description": "Joe, a teenage orphan in the slums of the Doya streets, meets Danpei, a homeless, alcoholic ex-boxing coach. Danpei, seeing Joe's boxing talent, decides to train him. When Joe is sent to a terrible juvenile home for petty crimes, he meets Rikiishi who becomes his boxing rival. Danpei arrives at the home to help Joe to train in order to defeat Rikiishi. When Joe decides to seriously pursue boxing, Danpei cannot get a coaching license because of his reputation as a drunk. <br><br>\n(Source: AnimeNfo)",
+  "genres": [
+    "Action",
+    "Drama",
+    "Slice of Life",
+    "Sports"
+  ],
+  "tags": [
+    "Coming of Age",
+    "Boxing",
+    "Delinquents",
+    "Male Protagonist",
+    "Anti-Hero",
+    "Shounen",
+    "Class Struggle",
+    "Primarily Male Cast",
+    "Orphan"
+  ],
+  "studios": [
+    "Mushi Production"
+  ],
+  "producers": [
+    "Fuji TV"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 81,
+  "popularity": 37698,
+  "trending": 0,
   "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx2402-hbo1SbfcM5hm.jpg",
+    "poster_color": "#e46b43",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2402-SgRt5yp35i1Y.jpg",
     "poster_tmdb": "https://image.tmdb.org/t/p/w780/b7xpXIT5imM3G92Asshnobt8VNi.jpg",
     "banner_tmdb": "https://image.tmdb.org/t/p/original/tFwx94xIVKI5heRXdcmYLoI0GhU.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/tFwx94xIVKI5heRXdcmYLoI0GhU.jpg",
-    "poster": "https://image.tmdb.org/t/p/w780/b7xpXIT5imM3G92Asshnobt8VNi.jpg"
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx2402-hbo1SbfcM5hm.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/series/GYNQP722Y/tomorrows-joe"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 130,
@@ -31,6 +85,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T05:48:12.185Z",
+  "cached_at": "2026-05-24T07:44:20.942Z",
   "cache_version": 1
 }

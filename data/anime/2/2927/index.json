@@ -4,7 +4,8 @@
     "mal": 2927,
     "anidb": 5276,
     "tmdb": 25365,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Kimikiss pure rouge",
@@ -58,7 +59,7 @@
   "source": "VISUAL_NOVEL",
   "country": "JP",
   "score_anilist": 69,
-  "popularity": 14525,
+  "popularity": 14686,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2927-p2JsBe4kWQxR.png",
@@ -68,7 +69,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/wUPrTlfXd5J3nap7HoTo9VmZe0f.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2927-p2JsBe4kWQxR.png"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/kimikiss"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 160,
@@ -79,6 +85,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T07:55:33.218Z",
+  "cached_at": "2026-05-24T09:14:48.266Z",
   "cache_version": 1
 }

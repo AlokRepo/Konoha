@@ -35,8 +35,8 @@
     "day": null
   },
   "next_airing": {
-    "episode": 7,
-    "at": "2026-05-20T18:00:00.000Z"
+    "episode": 8,
+    "at": "2026-05-27T14:45:00.000Z"
   },
   "description": "Meet Takuya Seo, an otaku who sits behind the popular gals in class, Ijichi and Amane. Since they're people from different \"castes,\" you wouldn't expect them to have much in common. But when their worlds collide over a borrowed eraser, Takuya slips up about his favorite anime, and Amane...is rather quick to correct him. She says she's not a fan, but her familiarity with the series suggests otherwise. Could she be...a fellow geek?!\n<br><br>\n(Source: Yen Press)",
   "genres": [
@@ -48,9 +48,9 @@
     "Otaku Culture",
     "Primarily Teen Cast",
     "Heterosexual",
-    "Female Protagonist",
     "Male Protagonist",
-    "School"
+    "School",
+    "Female Protagonist"
   ],
   "studios": [
     "TMS Entertainment"
@@ -63,15 +63,15 @@
   ],
   "source": "MANGA",
   "country": "JP",
-  "score_anilist": 74,
-  "popularity": 33106,
-  "trending": 23,
+  "score_anilist": 75,
+  "popularity": 45469,
+  "trending": 53,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199588-M2vtWicvqNbU.jpg",
     "poster_color": "#e4c9a1",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199588-I4HoR4YjnpqD.jpg",
     "poster_tmdb": "https://image.tmdb.org/t/p/w780/bUZFEgXZFe26OhGqrsjGNrTxbmf.jpg",
-    "banner_tmdb": "https://image.tmdb.org/t/p/original/99lQDI1BvQSuCsZnBs319aF5vy8.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/olRo6tBqIjuSkwkAIDrr1u4rAnT.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199588-M2vtWicvqNbU.jpg"
   },
   "streaming": [
@@ -84,40 +84,7 @@
       "url": "https://www.youtube.com/channel/UCoqLO21EpMJdhABGFJOPn0g"
     }
   ],
-  "themes": [
-    {
-      "type": "OP",
-      "number": 1,
-      "title": "Edge",
-      "artist": "See-Saw",
-      "episodes": "1",
-      "video_url": "https://v.animethemes.moe/DotHackLiminality-OP1.webm"
-    },
-    {
-      "type": "OP",
-      "number": 2,
-      "title": "Senyaichiya",
-      "artist": "See-Saw",
-      "episodes": "2",
-      "video_url": "https://v.animethemes.moe/DotHackLiminality-OP2.webm"
-    },
-    {
-      "type": "OP",
-      "number": 3,
-      "title": "Kimi ga Ita Monogatari",
-      "artist": "See-Saw",
-      "episodes": "3",
-      "video_url": "https://v.animethemes.moe/DotHackLiminality-OP3.webm"
-    },
-    {
-      "type": "OP",
-      "number": 4,
-      "title": "Kioku",
-      "artist": "See-Saw",
-      "episodes": "4",
-      "video_url": "https://v.animethemes.moe/DotHackLiminality-OP4.webm"
-    }
-  ],
+  "themes": [],
   "confidence": "HIGH",
   "match_score": 130,
   "match_signals": [
@@ -126,7 +93,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-19T03:36:20.081Z",
-  "cache_version": 1,
-  "score_mal": 7.6
+  "cached_at": "2026-05-24T07:27:58.327Z",
+  "cache_version": 1
 }
