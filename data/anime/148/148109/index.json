@@ -4,7 +4,8 @@
     "mal": 51706,
     "anidb": 17340,
     "tmdb": 200750,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Yuusha ga Shinda!",
@@ -64,7 +65,7 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 63,
-  "popularity": 52665,
+  "popularity": 55012,
   "trending": 2,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx148109-cwAINDGwAHB2.jpg",
@@ -90,6 +91,18 @@
     {
       "site": "iQ",
       "url": "https://www.iq.com/album/18481af6xrt"
+    },
+    {
+      "site": "Aniplus TV",
+      "url": "http://www.aniplustv.com/"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "site": "Muse Asia",
+      "url": "https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg"
     }
   ],
   "themes": [],
@@ -102,6 +115,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T05:06:52.293Z",
+  "cached_at": "2026-05-24T07:14:01.264Z",
   "cache_version": 1
 }

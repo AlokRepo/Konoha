@@ -4,7 +4,8 @@
     "mal": 51817,
     "anidb": 17362,
     "tmdb": 201949,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Watashi no Yuri wa Oshigoto desu!",
@@ -45,8 +46,8 @@
   "tags": [
     "Work",
     "Yuri",
-    "Primarily Female Cast",
     "Female Protagonist",
+    "Primarily Female Cast",
     "Acting",
     "Restaurant",
     "Ojou-sama",
@@ -74,7 +75,7 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 64,
-  "popularity": 25376,
+  "popularity": 25831,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx149028-RrE2FX1FGIMv.png",
@@ -92,6 +93,14 @@
     {
       "site": "Bilibili TV",
       "url": "https://www.bilibili.tv/en/media/2080597"
+    },
+    {
+      "site": "Animax Korea",
+      "url": "https://www.animaxtv.co.kr"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
     }
   ],
   "themes": [],
@@ -104,6 +113,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T06:39:25.671Z",
+  "cached_at": "2026-05-24T08:20:55.912Z",
   "cache_version": 1
 }

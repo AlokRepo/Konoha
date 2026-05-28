@@ -4,7 +4,8 @@
     "mal": 51837,
     "anidb": 17421,
     "tmdb": 202160,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Saikin Yatotta Maid ga Ayashii",
@@ -66,8 +67,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 63,
-  "popularity": 45149,
-  "trending": 2,
+  "popularity": 46576,
+  "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx149326-qDJGf7IELKbL.jpg",
     "poster_color": "#ffe4bb",
@@ -88,6 +89,34 @@
     {
       "site": "Bilibili TV",
       "url": "https://www.bilibili.tv/media/1061632"
+    },
+    {
+      "site": "Ani-One Asia",
+      "url": "https://www.youtube.com/channel/UC0wNSTMWIL3qaorLx0jie6A"
+    },
+    {
+      "site": "Aniplus TV",
+      "url": "http://www.aniplustv.com/"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "site": "Bilibili Global",
+      "url": "https://www.bilibili.tv/en/index"
+    },
+    {
+      "site": "CatchPlay",
+      "url": "https://www.catchplay.com/"
+    },
+    {
+      "site": "MeWatch",
+      "url": "https://www.mewatch.sg/"
+    },
+    {
+      "site": "TrueID",
+      "url": "https://home.trueid.net/"
     }
   ],
   "themes": [],
@@ -100,8 +129,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T05:25:20.812Z",
-  "cache_version": 1
-}",
+  "cached_at": "2026-05-24T07:25:58.504Z",
   "cache_version": 1
 }

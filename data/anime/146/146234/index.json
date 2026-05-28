@@ -4,7 +4,8 @@
     "mal": 51219,
     "anidb": 17248,
     "tmdb": 194829,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Isekai One Turn Kill Nee-san: Ane Douhan no Isekai Seikatsu Hajimemashita",
@@ -68,8 +69,8 @@
   "source": "OTHER",
   "country": "JP",
   "score_anilist": 60,
-  "popularity": 40198,
-  "trending": 1,
+  "popularity": 41848,
+  "trending": 2,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146234-vSYvPfLwjYXX.jpg",
     "poster_color": "#50f1d6",
@@ -86,6 +87,10 @@
     {
       "site": "YouTube",
       "url": "https://youtube.com/@TV-we1nd"
+    },
+    {
+      "site": "Aniplus TV",
+      "url": "http://www.aniplustv.com/"
     }
   ],
   "themes": [],
@@ -97,6 +102,6 @@
     "episode_exact",
     "format_match"
   ],
-  "cached_at": "2026-05-03T05:36:37.944Z",
+  "cached_at": "2026-05-24T07:34:25.569Z",
   "cache_version": 1
 }
