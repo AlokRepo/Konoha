@@ -4,7 +4,8 @@
     "mal": 38529,
     "anidb": 14445,
     "tmdb": 91600,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Rifle Is Beautiful",
@@ -58,7 +59,7 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 57,
-  "popularity": 13483,
+  "popularity": 13618,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104679-wGUXfMYSRXSW.png",
@@ -72,6 +73,10 @@
     {
       "site": "HIDIVE",
       "url": "https://www.hidive.com/tv/chidori-rsc"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-282043"
     }
   ],
   "themes": [],
@@ -84,8 +89,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T08:05:31.465Z",
-  "cache_version": 1
-}",
+  "cached_at": "2026-05-24T09:20:19.537Z",
   "cache_version": 1
 }

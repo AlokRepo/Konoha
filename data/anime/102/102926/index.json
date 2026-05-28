@@ -4,7 +4,8 @@
     "mal": 37926,
     "anidb": 14100,
     "tmdb": 88048,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Naka no Hito Genome [Jikkyouchuu]",
@@ -54,8 +55,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 67,
-  "popularity": 43163,
-  "trending": 0,
+  "popularity": 43781,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102926-zVQk2FEDooyI.png",
     "poster_color": "#43f1f1",
@@ -92,6 +93,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T05:29:08.161Z",
+  "cached_at": "2026-05-24T07:30:57.641Z",
   "cache_version": 1
 }
