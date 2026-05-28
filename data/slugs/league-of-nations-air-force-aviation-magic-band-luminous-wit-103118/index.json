@@ -4,7 +4,8 @@
     "mal": 38006,
     "anidb": 14204,
     "tmdb": 93655,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Renmei Kuugun Koukuu Mahou Ongakutai: Luminous Witches",
@@ -65,8 +66,8 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 63,
-  "popularity": 8954,
-  "trending": 0,
+  "popularity": 9083,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103118-sGSh01pSALrs.jpg",
     "poster_color": "#2878f1",
@@ -91,6 +92,38 @@
     {
       "site": "YouTube",
       "url": "https://www.youtube.com/playlist?list=PLuxqoToY7UcgnhaRRy7hnyQBCLPvI4Dcl"
+    },
+    {
+      "site": "Aniplus TV",
+      "url": "http://www.aniplustv.com/"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "site": "Bilibili Global",
+      "url": "https://www.bilibili.tv/en/index"
+    },
+    {
+      "site": "CatchPlay",
+      "url": "https://www.catchplay.com/"
+    },
+    {
+      "site": "MeWatch",
+      "url": "https://www.mewatch.sg/"
+    },
+    {
+      "site": "Muse Asia",
+      "url": "https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg"
+    },
+    {
+      "site": "Pops",
+      "url": "https://pops.tv/"
+    },
+    {
+      "site": "Sushiroll",
+      "url": "https://sushiroll.co.id/"
     }
   ],
   "themes": [],
@@ -103,6 +136,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T09:01:56.850Z",
+  "cached_at": "2026-05-24T09:48:00.919Z",
   "cache_version": 1
 }

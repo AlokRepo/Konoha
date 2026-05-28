@@ -67,8 +67,8 @@
   "source": "VIDEO_GAME",
   "country": "JP",
   "score_anilist": 65,
-  "popularity": 54254,
-  "trending": 2,
+  "popularity": 54916,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104051-tFMIbiffwBLs.jpg",
     "poster_color": "#0dbbf1",
@@ -81,6 +81,10 @@
     {
       "site": "Crunchyroll",
       "url": "https://www.crunchyroll.com/magia-record-puella-magi-madoka-magica-side-story"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/"
     }
   ],
   "themes": [],
@@ -92,6 +96,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T05:03:36.214Z",
+  "cached_at": "2026-05-24T07:14:06.127Z",
   "cache_version": 1
 }

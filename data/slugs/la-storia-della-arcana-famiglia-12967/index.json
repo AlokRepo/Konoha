@@ -58,7 +58,7 @@
   "source": "VISUAL_NOVEL",
   "country": "JP",
   "score_anilist": 57,
-  "popularity": 32152,
+  "popularity": 32683,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12967-mO3zrHfsSocQ.jpg",
@@ -67,7 +67,16 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/o002wVtLqO1ZPBV3svRVvLqy8wc.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx12967-mO3zrHfsSocQ.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/la-storia-della-arcana-famiglia"
+    },
+    {
+      "site": "Animekey",
+      "url": "https://animekey.tv/"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 160,
@@ -78,6 +87,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T06:06:21.291Z",
+  "cached_at": "2026-05-24T08:00:46.772Z",
   "cache_version": 1
 }

@@ -59,8 +59,8 @@
   "source": "OTHER",
   "country": "JP",
   "score_anilist": 72,
-  "popularity": 110211,
-  "trending": 3,
+  "popularity": 111025,
+  "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b15051-lwm0wVRWjKub.jpg",
     "poster_color": "#e4935d",
@@ -73,6 +73,10 @@
     {
       "site": "Crunchyroll",
       "url": "https://www.crunchyroll.com/love-live-school-idol-project"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/"
     }
   ],
   "themes": [],
@@ -84,6 +88,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T04:03:44.978Z",
+  "cached_at": "2026-05-24T06:28:21.664Z",
   "cache_version": 1
 }

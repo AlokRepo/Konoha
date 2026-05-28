@@ -62,8 +62,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 66,
-  "popularity": 13170,
-  "trending": 0,
+  "popularity": 13261,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21597-iq3QienfwebA.png",
     "poster_color": "#f1e450",
@@ -72,7 +72,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/n0IOHaC5sfM86IxNhcjCkNy3Fip.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21597-iq3QienfwebA.png"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/magic-of-stella"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 160,
@@ -83,6 +88,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T08:08:33.424Z",
+  "cached_at": "2026-05-24T09:22:42.017Z",
   "cache_version": 1
 }
