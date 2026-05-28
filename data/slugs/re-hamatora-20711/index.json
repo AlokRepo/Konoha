@@ -51,8 +51,8 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 70,
-  "popularity": 35533,
-  "trending": 1,
+  "popularity": 35826,
+  "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20711-b641DKQpANPv.png",
     "poster_color": "#780d0d",
@@ -65,6 +65,10 @@
     {
       "site": "Crunchyroll",
       "url": "http://www.crunchyroll.com/hamatora"
+    },
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/re-hamatora"
     }
   ],
   "themes": [],
@@ -76,6 +80,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T05:52:50.701Z",
+  "cached_at": "2026-05-24T07:50:22.139Z",
   "cache_version": 1
 }

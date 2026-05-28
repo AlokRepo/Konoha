@@ -4,7 +4,8 @@
     "mal": 1601,
     "anidb": 4522,
     "tmdb": 38790,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Red Garden",
@@ -61,8 +62,8 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 66,
-  "popularity": 9615,
-  "trending": 0,
+  "popularity": 9727,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx1601-cvfDZsR6D98V.png",
     "poster_color": "#e45093",
@@ -72,10 +73,6 @@
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx1601-cvfDZsR6D98V.png"
   },
   "streaming": [
-    {
-      "site": "Hulu",
-      "url": "http://www.hulu.com/red-garden"
-    },
     {
       "site": "Crunchyroll",
       "url": "https://www.crunchyroll.com/red-garden"
@@ -91,6 +88,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T08:52:41.492Z",
+  "cached_at": "2026-05-24T09:43:35.564Z",
   "cache_version": 1
 }

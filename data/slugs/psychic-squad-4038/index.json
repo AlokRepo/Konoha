@@ -4,7 +4,8 @@
     "mal": 4038,
     "anidb": 5674,
     "tmdb": 42926,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Zettai Karen Children",
@@ -65,7 +66,7 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 69,
-  "popularity": 10512,
+  "popularity": 10625,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4038-V0dciw1wKPkP.png",
@@ -75,7 +76,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/rbLcuMZSwMInRUSJpRKBz1S95Dd.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4038-V0dciw1wKPkP.png"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/psychic-squad"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 135,
@@ -85,6 +91,6 @@
     "episode_exact",
     "format_match"
   ],
-  "cached_at": "2026-05-03T08:40:22.683Z",
+  "cached_at": "2026-05-24T09:37:42.992Z",
   "cache_version": 1
 }

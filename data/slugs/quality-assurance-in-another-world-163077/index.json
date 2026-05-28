@@ -4,7 +4,8 @@
     "mal": 54835,
     "anidb": 17936,
     "tmdb": 222925,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Kono Sekai wa Fukanzen Sugiru",
@@ -58,7 +59,7 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 63,
-  "popularity": 21442,
+  "popularity": 22370,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163077-PHiTdVlKzXAR.jpg",
@@ -80,6 +81,14 @@
     {
       "site": "Bilibili TV",
       "url": "https://www.bilibili.tv/en/media/2112512"
+    },
+    {
+      "site": "Ani-One Asia",
+      "url": "https://www.youtube.com/channel/UC0wNSTMWIL3qaorLx0jie6A"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
     }
   ],
   "themes": [],
@@ -92,6 +101,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T07:01:01.214Z",
+  "cached_at": "2026-05-24T08:34:00.432Z",
   "cache_version": 1
 }
