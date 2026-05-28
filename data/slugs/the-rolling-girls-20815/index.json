@@ -4,7 +4,8 @@
     "mal": 25867,
     "anidb": 10784,
     "tmdb": 70634,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Rolling☆Girls",
@@ -59,7 +60,7 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 64,
-  "popularity": 26529,
+  "popularity": 26713,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20815-3WdfuLDYATPg.jpg",
@@ -69,7 +70,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/ccdkaYSNo7irxRkSc5TvHiNoKGA.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20815-3WdfuLDYATPg.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-273265"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 155,
@@ -80,6 +86,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T06:33:17.044Z",
+  "cached_at": "2026-05-24T08:18:06.158Z",
   "cache_version": 1
 }

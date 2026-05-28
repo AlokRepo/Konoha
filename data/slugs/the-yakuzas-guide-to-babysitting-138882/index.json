@@ -70,8 +70,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 77,
-  "popularity": 80003,
-  "trending": 0,
+  "popularity": 82034,
+  "trending": 4,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138882-Ich6OQJxB9P8.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/138882-DLq6pAk0dlY5.jpg",
@@ -91,6 +91,22 @@
     {
       "site": "Bilibili TV",
       "url": "https://www.bilibili.tv/media/1060127"
+    },
+    {
+      "site": "Ani-One Asia",
+      "url": "https://www.youtube.com/channel/UC0wNSTMWIL3qaorLx0jie6A"
+    },
+    {
+      "site": "Animax Korea",
+      "url": "https://www.animaxtv.co.kr"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "site": "Bilibili Global",
+      "url": "https://www.bilibili.tv/en/index"
     }
   ],
   "themes": [],
@@ -103,6 +119,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T04:26:18.438Z",
+  "cached_at": "2026-05-24T06:46:11.961Z",
   "cache_version": 1
 }

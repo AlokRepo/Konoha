@@ -4,7 +4,8 @@
     "mal": 42590,
     "anidb": 15666,
     "tmdb": 106782,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Mashiro no Oto",
@@ -50,7 +51,7 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 73,
-  "popularity": 45731,
+  "popularity": 46081,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx122348-FawMIyUnMDW5.jpg",
@@ -68,6 +69,14 @@
     {
       "site": "Bilibili TV",
       "url": "https://www.bilibili.tv/en/media/1000946"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/"
     }
   ],
   "themes": [],
@@ -80,6 +89,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T05:23:43.629Z",
+  "cached_at": "2026-05-24T07:26:30.372Z",
   "cache_version": 1
 }

@@ -58,8 +58,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 70,
-  "popularity": 76994,
-  "trending": 1,
+  "popularity": 78041,
+  "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21457-MzWktnoD67PO.png",
     "poster_color": "#e49350",
@@ -76,6 +76,10 @@
     {
       "site": "YouTube",
       "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl3eo5TUJIZbvoh5rY0xqUyw"
+    },
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/this-art-club-has-a-problem"
     }
   ],
   "themes": [],
@@ -88,6 +92,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T04:31:20.442Z",
+  "cached_at": "2026-05-24T06:49:38.469Z",
   "cache_version": 1
 }
