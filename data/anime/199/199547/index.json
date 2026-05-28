@@ -21,7 +21,7 @@
   "status": "RELEASING",
   "season": "SPRING",
   "season_year": 2026,
-  "episodes": 7,
+  "episodes": 13,
   "duration": 24,
   "start_date": {
     "year": 2026,
@@ -34,8 +34,8 @@
     "day": null
   },
   "next_airing": {
-    "episode": 8,
-    "at": "2026-05-26T14:00:00.000Z"
+    "episode": 9,
+    "at": "2026-06-02T14:00:00.000Z"
   },
   "description": "For centuries, the deadly arts have been perfected by those known as the Masters.\nAmong them, the Poison Masters of the Five Great Families hold the most fearsome power and influence. \nHikaru Gero, heir to the Poison Masters’ Gero Family, has lived his entire life in the underworld, far removed from love or marriage.\nBut when the Gero Family head decrees that Hikaru’s sister must bear an heir to preserve the bloodline—by force if necessary—Hikaru resolves to protect her at all costs.\nIt is then that Hikaru encounters Mei Kinosaki, a brilliant marriage swindler who becomes the target of his latest job.\nRealizing that the only way of solving the family succession problem and protecting his sister is through marriage, Hikaru impulsively asks Mei for help in finding a bride.\n<br><br>\n(Source: EMOTION Label Channel)",
   "genres": [
@@ -54,12 +54,11 @@
     "Male Protagonist",
     "Bisexual",
     "Super Power",
-    "LGBTQ+ Themes",
     "Shounen",
-    "Heterosexual",
-    "Guns",
     "Urban Fantasy",
-    "Anti-Hero"
+    "Heterosexual",
+    "LGBTQ+ Themes",
+    "Guns"
   ],
   "studios": [
     "bones film",
@@ -74,8 +73,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 75,
-  "popularity": 56937,
-  "trending": 46,
+  "popularity": 59730,
+  "trending": 98,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199547-LAaG3cmKCGhr.jpg",
     "poster_color": "#1ae4f1",
@@ -112,13 +111,14 @@
   ],
   "themes": [],
   "confidence": "HIGH",
-  "match_score": 130,
+  "match_score": 160,
   "match_signals": [
     "exact_title",
     "year_match",
+    "episode_exact",
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-24T07:11:50.918Z",
+  "cached_at": "2026-05-28T15:45:37.772Z",
   "cache_version": 1
 }
