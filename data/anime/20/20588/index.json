@@ -11,7 +11,8 @@
     "romaji": "Kenzen Robo Daimidaler",
     "english": "Daimidaler: Prince vs. Penguin Empire",
     "native": "健全ロボ　ダイミダラー",
-    "synonyms": []
+    "synonyms": [],
+    "tmdb_title": "Daimidaler: Prince vs Penguin Empire"
   },
   "format": "TV",
   "status": "FINISHED",
@@ -51,8 +52,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 57,
-  "popularity": 15185,
-  "trending": 0,
+  "popularity": 15520,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20588-jmOSzffIIrOa.jpg",
     "poster_color": "#e4860d",
@@ -63,13 +64,15 @@
   },
   "streaming": [],
   "themes": [],
-  "confidence": "MEDIUM",
-  "match_score": 105,
+  "confidence": "HIGH",
+  "match_score": 160,
   "match_signals": [
     "exact_title",
     "year_match",
-    "format_match"
+    "episode_exact",
+    "format_match",
+    "studio_match"
   ],
-  "cached_at": "2026-05-03T07:49:03.987Z",
+  "cached_at": "2026-05-24T09:10:45.958Z",
   "cache_version": 1
 }

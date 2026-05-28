@@ -4,7 +4,8 @@
     "mal": 21185,
     "anidb": 10244,
     "tmdb": 60844,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Baby Steps",
@@ -50,7 +51,7 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 75,
-  "popularity": 31136,
+  "popularity": 31396,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20510-S72XBO504JWD.jpg",
@@ -60,7 +61,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/3m4VV8eiG3dp6FxSy36xVU2DMq6.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20510-S72XBO504JWD.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-260445"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 130,
@@ -70,6 +76,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T06:12:02.590Z",
+  "cached_at": "2026-05-24T08:05:23.374Z",
   "cache_version": 1
 }
