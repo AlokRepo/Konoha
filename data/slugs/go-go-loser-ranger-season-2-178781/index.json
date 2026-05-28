@@ -4,7 +4,8 @@
     "mal": 59189,
     "anidb": 18725,
     "tmdb": 215799,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": 2
   },
   "titles": {
     "romaji": "Sentai Daishikkaku 2nd Season",
@@ -73,8 +74,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 69,
-  "popularity": 29642,
-  "trending": 0,
+  "popularity": 31033,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178781-pbk5FgfiAJxS.jpg",
     "poster_color": "#35a1ae",
@@ -95,6 +96,10 @@
     {
       "site": "Hulu",
       "url": "https://www.hulu.com/series/713ae2f3-5d7a-4a66-a724-a937f8ab6dd9"
+    },
+    {
+      "site": "Disney+",
+      "url": "https://www.disneyplus.com/"
     }
   ],
   "themes": [],
@@ -106,6 +111,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T06:18:33.995Z",
+  "cached_at": "2026-05-24T08:06:20.530Z",
   "cache_version": 1
 }

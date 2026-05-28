@@ -68,8 +68,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 71,
-  "popularity": 46490,
-  "trending": 1,
+  "popularity": 48026,
+  "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168138-jgMSP1rDkJhs.jpg",
     "poster_color": "#e46b35",
@@ -82,6 +82,18 @@
     {
       "site": "Crunchyroll",
       "url": "https://www.crunchyroll.com/series/GW4HM7W99/grandpa-and-grandma-turn-young-again"
+    },
+    {
+      "site": "Aniplus Asia",
+      "url": "https://www.aniplus-asia.com/"
+    },
+    {
+      "site": "Aniplus TV",
+      "url": "http://www.aniplustv.com/"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
     }
   ],
   "themes": [],
@@ -93,6 +105,6 @@
     "episode_exact",
     "format_match"
   ],
-  "cached_at": "2026-05-03T05:21:16.741Z",
+  "cached_at": "2026-05-24T07:24:03.447Z",
   "cache_version": 1
 }
