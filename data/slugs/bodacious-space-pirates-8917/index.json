@@ -4,7 +4,8 @@
     "mal": 8917,
     "anidb": 7443,
     "tmdb": 42501,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Mouretsu Pirates",
@@ -14,8 +15,7 @@
       "Mouretsu Uchuu Kaizoku",
       "Miniskirt Pirates",
       "Moretsu Uchuu Kaizoku"
-    ],
-    "tmdb_title": "Bodacious Space Pirates"
+    ]
   },
   "format": "TV",
   "status": "FINISHED",
@@ -57,7 +57,7 @@
   "source": "LIGHT_NOVEL",
   "country": "JP",
   "score_anilist": 68,
-  "popularity": 16986,
+  "popularity": 17142,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8917-mmUSOxFEQj3f.png",
@@ -67,7 +67,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/bf240hi7rUvrxqem4Fd2lrtN2GO.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8917-mmUSOxFEQj3f.png"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/bodacious-space-pirates"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 160,
@@ -78,6 +83,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T07:34:30.011Z",
+  "cached_at": "2026-05-24T09:01:51.790Z",
   "cache_version": 1
 }
