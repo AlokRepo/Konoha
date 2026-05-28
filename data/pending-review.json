@@ -942,5 +942,37 @@
     ],
     "added_at": "2026-05-28T16:54:44.439Z",
     "reason": "Score 68 is between 50–79 (below MEDIUM threshold of 80)"
+  },
+  {
+    "anilist_id": 185880,
+    "title": "Ao no Exorcist: Yosuga-hen",
+    "score": 65,
+    "confidence": "PENDING",
+    "candidates": [
+      {
+        "tmdb_id": 38464,
+        "title": "Blue Exorcist",
+        "score": 65,
+        "signals": []
+      }
+    ],
+    "added_at": "2026-05-28T16:58:21.899Z",
+    "reason": "Score 65 is between 50–79 (below MEDIUM threshold of 80)"
+  },
+  {
+    "anilist_id": 105749,
+    "title": "Diamond no Ace act II",
+    "score": 70,
+    "confidence": "PENDING",
+    "candidates": [
+      {
+        "tmdb_id": 60761,
+        "title": "Ace of the Diamond",
+        "score": 70,
+        "signals": []
+      }
+    ],
+    "added_at": "2026-05-28T16:58:31.534Z",
+    "reason": "Score 70 is between 50–79 (below MEDIUM threshold of 80)"
   }
 ]
