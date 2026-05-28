@@ -8,20 +8,92 @@
     "tmdb_season": null
   },
   "titles": {
+    "romaji": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "english": "Ghost in the Shell: Stand Alone Complex 2nd GIG",
+    "native": "攻殻機動隊 S.A.C. 2nd GIG",
+    "synonyms": [
+      "Koukaku Kidoutai S.A.C. 2nd GIG",
+      "Ghost In The Shell S.A.C. 2nd GIG"
+    ],
     "tmdb_title": "Ghost in the Shell: Stand Alone Complex"
   },
-  "episodes": 52,
-  "genres": [],
-  "tags": [],
-  "studios": [],
-  "producers": [],
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2004,
+  "episodes": 26,
+  "duration": 25,
+  "start_date": {
+    "year": 2004,
+    "month": 1,
+    "day": 1
+  },
+  "end_date": {
+    "year": 2005,
+    "month": 1,
+    "day": 8
+  },
+  "description": "In a futuristic world where the internet and cybernetics has blurred the borders between societies; the members of Public Security Section 9 are reinstated to assist in solving numerous cases of cyber crime.<br><br>\r\nA spate of similar crimes committed by separate suicidal groups known as \"The Individual Eleven\" becomes the core focus for Section 9 as war approaches in the form of refugees flooding into the country.\n<br><br>\n(Source: Anime News Network)",
+  "genres": [
+    "Action",
+    "Mystery",
+    "Psychological",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Police",
+    "Politics",
+    "Cyberpunk",
+    "Terrorism",
+    "Military",
+    "Philosophy",
+    "Urban",
+    "Artificial Intelligence",
+    "Seinen",
+    "Female Protagonist",
+    "Robots",
+    "Cyborg",
+    "Ensemble Cast",
+    "Primarily Male Cast",
+    "Episodic",
+    "Primarily Adult Cast"
+  ],
+  "studios": [
+    "Production I.G"
+  ],
+  "producers": [
+    "Bandai Visual",
+    "Dentsu",
+    "Victor Entertainment",
+    "Bandai Entertainment",
+    "Tokuma Shoten"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 84,
+  "popularity": 42891,
+  "trending": 2,
   "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx801-nF9RyvPJu6s4.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/801-EtANUNZWAhbH.jpg",
     "poster_tmdb": "https://image.tmdb.org/t/p/w780/6UH2vJryPpQp38noqvchu3uEeqX.jpg",
     "banner_tmdb": "https://image.tmdb.org/t/p/original/2rvFW70UeOMCTXGmYHij1bwHCiu.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/2rvFW70UeOMCTXGmYHij1bwHCiu.jpg",
-    "poster": "https://image.tmdb.org/t/p/w780/6UH2vJryPpQp38noqvchu3uEeqX.jpg"
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx801-nF9RyvPJu6s4.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "Adult Swim",
+      "url": "https://www.adultswim.com/videos/ghost-in-the-shell"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/70213091"
+    },
+    {
+      "site": "Hoopla",
+      "url": "https://www.hoopladigital.com/television/ghost-in-the-shell-stand-alone-complex-season-2-mary-elizabeth-mcglynn/11079617"
+    }
+  ],
   "themes": [],
   "confidence": "MEDIUM",
   "match_score": 86,
@@ -31,6 +103,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T05:31:33.558Z",
+  "cached_at": "2026-05-24T07:32:57.276Z",
   "cache_version": 1
 }

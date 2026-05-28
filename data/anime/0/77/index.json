@@ -4,7 +4,8 @@
     "mal": 77,
     "anidb": 3440,
     "tmdb": 19836,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Mahou Shoujo Lyrical Nanoha A's",
@@ -45,8 +46,6 @@
     "Primarily Female Cast",
     "Primarily Child Cast",
     "Super Power",
-    "Archery",
-    "Desert",
     "Coastal",
     "Space",
     "Animals",
@@ -57,7 +56,9 @@
     "Swordplay",
     "Shapeshifting",
     "Military",
-    "Yuri",
+    "Desert",
+    "Archery",
+    "Tragedy",
     "Nudity"
   ],
   "studios": [
@@ -69,7 +70,7 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 78,
-  "popularity": 15289,
+  "popularity": 15415,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx77-SwBCj7R1enWi.png",
@@ -89,6 +90,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T07:48:05.394Z",
+  "cached_at": "2026-05-24T09:11:17.755Z",
   "cache_version": 1
 }

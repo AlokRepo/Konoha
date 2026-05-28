@@ -63,8 +63,8 @@
   "source": "LIGHT_NOVEL",
   "country": "JP",
   "score_anilist": 72,
-  "popularity": 90463,
-  "trending": 1,
+  "popularity": 92254,
+  "trending": 3,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx71-Fi08vs7xNBMW.png",
     "poster_color": "#2893a1",
@@ -93,6 +93,10 @@
     {
       "site": "Amazon Prime Video",
       "url": "https://www.amazon.com/dp/B01MZEDIEI"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/"
     }
   ],
   "themes": [],
@@ -104,6 +108,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T04:18:05.086Z",
+  "cached_at": "2026-05-24T06:39:17.892Z",
   "cache_version": 1
 }
