@@ -74,8 +74,8 @@
   "source": "LIGHT_NOVEL",
   "country": "JP",
   "score_anilist": 83,
-  "popularity": 291492,
-  "trending": 10,
+  "popularity": 301401,
+  "trending": 12,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116589-KawXHB6sApFt.jpg",
     "poster_color": "#bbd6f1",
@@ -86,16 +86,28 @@
   },
   "streaming": [
     {
-      "site": "Crunchyroll",
-      "url": "https://www.crunchyroll.com/86-eighty-six"
-    },
-    {
       "site": "iQ",
       "url": "https://www.iq.com/album/2aef2fzzzvp"
     },
     {
       "site": "Netflix",
       "url": "https://www.netflix.com/title/81442047"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-281196"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/"
+    },
+    {
+      "site": "iQIYI",
+      "url": "https://www.iq.com/"
     }
   ],
   "themes": [],
@@ -107,6 +119,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T03:23:41.790Z",
+  "cached_at": "2026-05-28T13:27:33.128Z",
   "cache_version": 1
 }

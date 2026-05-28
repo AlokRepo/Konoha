@@ -4,7 +4,8 @@
     "mal": 57646,
     "anidb": 18358,
     "tmdb": 244620,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Mob kara Hajimaru Tansaku Eiyuutan",
@@ -59,13 +60,13 @@
   "source": "LIGHT_NOVEL",
   "country": "JP",
   "score_anilist": 56,
-  "popularity": 28758,
-  "trending": 1,
+  "popularity": 30366,
+  "trending": 2,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172416-RvQq9bWUxUWt.jpg",
     "poster_color": "#50bbe4",
     "banner": "https://image.tmdb.org/t/p/original/xBwizA3fc3eXRa2SVVsXNcRUgGa.jpg",
-    "poster_tmdb": "https://image.tmdb.org/t/p/w780/x64bUD0D2K5h5z5IKGHaMJlrZ0e.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/hY8rN6dkGHp8LC1fE24cqeFoSfJ.jpg",
     "banner_tmdb": "https://image.tmdb.org/t/p/original/xBwizA3fc3eXRa2SVVsXNcRUgGa.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172416-RvQq9bWUxUWt.jpg"
   },
@@ -81,6 +82,22 @@
     {
       "site": "Crunchyroll",
       "url": "https://www.crunchyroll.com/series/GZJH3D8X9/a-nobodys-way-up-to-an-exploration-hero"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "site": "CatchPlay",
+      "url": "https://www.catchplay.com/"
+    },
+    {
+      "site": "MeWatch",
+      "url": "https://www.mewatch.sg/"
+    },
+    {
+      "site": "Muse Asia",
+      "url": "https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg"
     }
   ],
   "themes": [],
@@ -92,6 +109,6 @@
     "episode_exact",
     "format_match"
   ],
-  "cached_at": "2026-05-03T06:21:57.352Z",
+  "cached_at": "2026-05-24T08:09:01.978Z",
   "cache_version": 1
 }
