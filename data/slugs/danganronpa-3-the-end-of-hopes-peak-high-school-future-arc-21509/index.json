@@ -3,7 +3,7 @@
     "anilist": 21509,
     "mal": 32189,
     "anidb": 11804,
-    "tmdb": 292941,
+    "tmdb": 67674,
     "tmdb_type": "tv",
     "tmdb_season": null
   },
@@ -12,7 +12,7 @@
     "english": "Danganronpa 3: The End of Hope’s Peak High School - Future Arc",
     "native": "ダンガンロンパ３ –The End of 希望ヶ峰学園– 未来編",
     "synonyms": [],
-    "tmdb_title": "Danganronpa 3: The End of Hope's Peak High School - Future Arc"
+    "tmdb_title": "Danganronpa 3: The End of Hope's Peak High School"
   },
   "format": "TV",
   "status": "FINISHED",
@@ -59,13 +59,14 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 69,
-  "popularity": 87046,
-  "trending": 1,
+  "popularity": 88120,
+  "trending": 5,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21509-3Ih7TTU0Romm.jpg",
     "poster_color": "#933528",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21509-ZO4wFlWPmEp3.jpg",
-    "poster_tmdb": "https://image.tmdb.org/t/p/w780/9Xm5HwreI9BDkpNJknNO3CC59lm.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/aMWI35yAa3VD5VqtKbOs2S9siuS.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/8zJzPNSvfGUMhLioatY4I4dTDwh.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21509-3Ih7TTU0Romm.jpg"
   },
   "streaming": [
@@ -76,16 +77,22 @@
     {
       "site": "Crunchyroll",
       "url": "https://www.crunchyroll.com/danganronpa-3-the-end-of-hopes-peak-high-school"
+    },
+    {
+      "site": "Animekey",
+      "url": "https://animekey.tv/"
     }
   ],
   "themes": [],
   "confidence": "MEDIUM",
-  "match_score": 105,
+  "match_score": 115,
   "match_signals": [
-    "exact_title",
+    "english_title",
+    "year_match",
+    "episode_close",
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T04:15:36.160Z",
+  "cached_at": "2026-05-28T15:16:29.648Z",
   "cache_version": 1
 }
