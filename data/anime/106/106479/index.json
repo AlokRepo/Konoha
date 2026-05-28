@@ -19,7 +19,8 @@
       "น้องโล่สายแทงก์แกร่งเกินร้อย",
       "Bofuri: Aku Tidak Ingin Terluka Jadi Seluruh Poin Status Kufokuskan ke Pertahanan",
       "Бофури. Я боюсь боли, так что качаю только защиту"
-    ]
+    ],
+    "tmdb_title": "BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense."
   },
   "format": "TV",
   "status": "FINISHED",
@@ -72,12 +73,14 @@
   "source": "LIGHT_NOVEL",
   "country": "JP",
   "score_anilist": 74,
-  "popularity": 172464,
-  "trending": 4,
+  "popularity": 173023,
+  "trending": 3,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106479-JmPk1F5ubMtm.png",
     "poster_color": "#1ac9d6",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/106479-G1rExJ4m8Be3.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/33t9rt31ZKzi97VE9wjEd0whKHq.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/lkuMXv7M2NMmcErLmBgvLIslJ23.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx106479-JmPk1F5ubMtm.png"
   },
   "streaming": [
@@ -103,13 +106,14 @@
     }
   ],
   "themes": [],
-  "confidence": "MEDIUM",
-  "match_score": 105,
+  "confidence": "HIGH",
+  "match_score": 130,
   "match_signals": [
     "exact_title",
     "year_match",
-    "format_match"
+    "format_match",
+    "studio_match"
   ],
-  "cached_at": "2026-05-24T06:08:49.942Z",
+  "cached_at": "2026-05-28T14:16:02.172Z",
   "cache_version": 1
 }
