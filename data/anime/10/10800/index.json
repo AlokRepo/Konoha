@@ -63,7 +63,7 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 80,
-  "popularity": 118332,
+  "popularity": 119529,
   "trending": 2,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10800-hofcUL0YEL7O.png",
@@ -81,6 +81,14 @@
     {
       "site": "Bilibili TV",
       "url": "https://www.bilibili.tv/en/media/37139"
+    },
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/chihayafuru"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/"
     }
   ],
   "themes": [],
@@ -92,6 +100,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T03:59:22.940Z",
+  "cached_at": "2026-05-24T06:24:46.490Z",
   "cache_version": 1
 }

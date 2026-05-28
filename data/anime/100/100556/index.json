@@ -4,36 +4,33 @@
     "mal": 36817,
     "anidb": 13589,
     "tmdb": 80662,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
+    "romaji": "Sunoharasou no Kanrinin-san",
+    "english": "Miss Caretaker of Sunohara-sou",
+    "native": "すのはら荘の管理人さん",
+    "synonyms": [],
     "tmdb_title": "Miss Caretaker of Sunohara-sou"
   },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "SUMMER",
+  "season_year": 2018,
   "episodes": 12,
-  "genres": [],
-  "tags": [],
-  "studios": [],
-  "producers": [],
-  "images": {
-    "poster_tmdb": "https://image.tmdb.org/t/p/w780/tGp6tPyO0RxXCRPRUOuc7LnISEf.jpg",
-    "banner_tmdb": "https://image.tmdb.org/t/p/original/b7iPfh85FVQ8YrgBB6Zf9IAJ9F9.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/b7iPfh85FVQ8YrgBB6Zf9IAJ9F9.jpg",
-    "poster": "https://image.tmdb.org/t/p/w780/tGp6tPyO0RxXCRPRUOuc7LnISEf.jpg"
+  "duration": 24,
+  "start_date": {
+    "year": 2018,
+    "month": 7,
+    "day": 5
   },
-  "streaming": [],
-  "themes": [],
-  "confidence": "HIGH",
-  "match_score": 160,
-  "match_signals": [
-    "exact_title",
-    "year_match",
-    "episode_exact",
-    "format_match",
-    "studio_match"
-  ],
-  "cached_at": "2026-05-03T05:27:18.832Z",
-  "cache_version": 1
-}etaker, Sunohara Ayaka. Along with the three female members of Aki's new middle school's student council, Yukimoto Yuzu, Yamanashi Sumire & Kazami Yuri. And so begins Aki's new life in Tokyo living with 4 girls.",
+  "end_date": {
+    "year": 2018,
+    "month": 9,
+    "day": 20
+  },
+  "description": "Shiina Aki is constantly being treated like a girl due to his feminine looks so he decides to move to Tokyo to attend middle school in an attempt to change himself. However what awaits him in his new home, Sunohara-sou, is the kind-hearted caretaker, Sunohara Ayaka. Along with the three female members of Aki's new middle school's student council, Yukimoto Yuzu, Yamanashi Sumire & Kazami Yuri. And so begins Aki's new life in Tokyo living with 4 girls.",
   "genres": [
     "Comedy",
     "Ecchi",
@@ -55,8 +52,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 64,
-  "popularity": 43930,
-  "trending": 0,
+  "popularity": 44863,
+  "trending": 2,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx100556-wmH1DPNTjklR.jpg",
     "poster_color": "#f1d6bb",
@@ -81,6 +78,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T05:27:23.864Z",
+  "cached_at": "2026-05-24T07:28:57.843Z",
   "cache_version": 1
 }

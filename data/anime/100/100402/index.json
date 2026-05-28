@@ -55,7 +55,7 @@
   "source": "LIGHT_NOVEL",
   "country": "JP",
   "score_anilist": 76,
-  "popularity": 57914,
+  "popularity": 58639,
   "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100402-eDxanr9DiBuV.jpg",
@@ -67,20 +67,20 @@
   },
   "streaming": [
     {
-      "site": "Crunchyroll",
-      "url": "https://www.crunchyroll.com/tsurune"
-    },
-    {
-      "site": "HIDIVE",
-      "url": "https://www.hidive.com/tv/tsurune"
-    },
-    {
       "site": "Bilibili TV",
       "url": "https://www.bilibili.tv/en/media/36749"
     },
     {
       "site": "Hoopla",
       "url": "https://www.hoopladigital.com/television/tsurune-season-1-yuto-uemura/16309482"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-277142"
+    },
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/tsurune"
     }
   ],
   "themes": [],
@@ -92,6 +92,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T04:57:47.361Z",
+  "cached_at": "2026-05-24T07:10:04.631Z",
   "cache_version": 1
 }

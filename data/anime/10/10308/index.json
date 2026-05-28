@@ -4,7 +4,8 @@
     "mal": 10308,
     "anidb": 8254,
     "tmdb": 38313,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Sengoku Otome: Momoiro Paradox",
@@ -51,8 +52,8 @@
   "source": "VIDEO_GAME",
   "country": "JP",
   "score_anilist": 61,
-  "popularity": 9600,
-  "trending": 1,
+  "popularity": 9814,
+  "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10308.jpg",
     "poster_color": "#f18643",
@@ -65,6 +66,10 @@
     {
       "site": "Crunchyroll",
       "url": "http://www.crunchyroll.com/battle-girls-time-paradox"
+    },
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/battle-girls-time-paradox"
     }
   ],
   "themes": [],
@@ -76,6 +81,6 @@
     "episode_exact",
     "format_match"
   ],
-  "cached_at": "2026-05-03T08:52:56.847Z",
+  "cached_at": "2026-05-24T09:42:58.582Z",
   "cache_version": 1
 }
