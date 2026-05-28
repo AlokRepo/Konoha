@@ -4,7 +4,8 @@
     "mal": 25429,
     "anidb": 10692,
     "tmdb": 64831,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Isuca",
@@ -52,7 +53,7 @@
     "Male Protagonist"
   ],
   "studios": [
-    "Arms"
+    "ARMS"
   ],
   "producers": [
     "MAGES."
@@ -60,8 +61,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 54,
-  "popularity": 30594,
-  "trending": 0,
+  "popularity": 31055,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20746-a6DKOfo2K49Z.jpg",
     "poster_color": "#50aee4",
@@ -86,8 +87,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T06:13:35.944Z",
-  "cache_version": 1
-}",
+  "cached_at": "2026-05-24T08:06:12.991Z",
   "cache_version": 1
 }

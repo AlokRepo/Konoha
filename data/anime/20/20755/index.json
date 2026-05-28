@@ -48,11 +48,12 @@
     "Primarily Teen Cast",
     "Shounen",
     "Ensemble Cast",
-    "Aliens",
     "Tentacles",
+    "Aliens",
     "Anti-Hero",
     "Super Power",
     "Episodic",
+    "Male Protagonist",
     "Guns"
   ],
   "studios": [
@@ -65,14 +66,14 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 79,
-  "popularity": 592334,
-  "trending": 9,
+  "popularity": 602293,
+  "trending": 13,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20755-dWrhs569YGUO.jpg",
     "poster_color": "#f1e45d",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20755-D4ipww9U8YkC.jpg",
     "poster_tmdb": "https://image.tmdb.org/t/p/w780/qf0l0nQ2t06Es3cSXflqx6l6vsJ.jpg",
-    "banner_tmdb": "https://image.tmdb.org/t/p/original/zkc2FkVymJDNXisS1mgpr8Ip2J.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/62pIwEsYX2dtlyMJjDSM6zpDTU2.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20755-dWrhs569YGUO.jpg"
   },
   "streaming": [
@@ -83,6 +84,10 @@
     {
       "site": "Crunchyroll",
       "url": "https://www.crunchyroll.com/assassination-classroom"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/"
     }
   ],
   "themes": [],
@@ -94,6 +99,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T03:13:50.039Z",
+  "cached_at": "2026-05-28T13:18:07.061Z",
   "cache_version": 1
 }
