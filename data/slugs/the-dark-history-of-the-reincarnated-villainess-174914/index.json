@@ -4,7 +4,8 @@
     "mal": 58146,
     "anidb": 18497,
     "tmdb": 286404,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Tensei Akujo no Kuro Rekishi",
@@ -69,8 +70,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 66,
-  "popularity": 17142,
-  "trending": 2,
+  "popularity": 18610,
+  "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174914-RfPIqbrapByY.jpg",
     "poster_color": "#5da1e4",
@@ -87,6 +88,10 @@
     {
       "site": "Bilibili TV",
       "url": "https://www.bilibili.tv/en/media/2246336"
+    },
+    {
+      "site": "Bilibili Global",
+      "url": "https://www.bilibili.tv/en/index"
     }
   ],
   "themes": [],
@@ -99,6 +104,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T07:33:49.884Z",
+  "cached_at": "2026-05-24T08:54:11.616Z",
   "cache_version": 1
 }

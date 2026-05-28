@@ -4,7 +4,8 @@
     "mal": 50664,
     "anidb": 17078,
     "tmdb": 123525,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": 2
   },
   "titles": {
     "romaji": "Saihate no Paladin: Tetsusabi no Yama no Ou",
@@ -70,8 +71,8 @@
   "source": "LIGHT_NOVEL",
   "country": "JP",
   "score_anilist": 73,
-  "popularity": 43958,
-  "trending": 1,
+  "popularity": 45749,
+  "trending": 2,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143085-caK1SekQLfss.jpg",
     "poster_color": "#5daee4",
@@ -92,6 +93,14 @@
     {
       "site": "YouTube",
       "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JgmEpP-7VKK1J5gMNOHINU2"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "site": "Bilibili Global",
+      "url": "https://www.bilibili.tv/en/index"
     }
   ],
   "themes": [],
@@ -103,6 +112,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T05:27:11.826Z",
+  "cached_at": "2026-05-24T07:27:39.471Z",
   "cache_version": 1
 }

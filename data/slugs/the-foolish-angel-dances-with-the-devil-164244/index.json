@@ -4,7 +4,8 @@
     "mal": 55129,
     "anidb": 17999,
     "tmdb": 231357,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Oroka na Tenshi wa Akuma to Odoru",
@@ -68,8 +69,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 67,
-  "popularity": 52280,
-  "trending": 0,
+  "popularity": 54762,
+  "trending": 2,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164244-cOP5eMVqVIew.jpg",
     "poster_color": "#5d93e4",
@@ -90,6 +91,18 @@
     {
       "site": "YouTube",
       "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JiZZ4cscl39AHpgSzLwMooW"
+    },
+    {
+      "site": "Ani-One Asia",
+      "url": "https://www.youtube.com/channel/UC0wNSTMWIL3qaorLx0jie6A"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "site": "Bilibili Global",
+      "url": "https://www.bilibili.tv/en/index"
     }
   ],
   "themes": [],
@@ -102,6 +115,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T05:08:05.713Z",
+  "cached_at": "2026-05-24T05:05:42.925Z",
   "cache_version": 1
 }

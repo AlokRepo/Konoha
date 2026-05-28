@@ -65,8 +65,8 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 74,
-  "popularity": 27004,
-  "trending": 1,
+  "popularity": 27372,
+  "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx567-iWOJNRu4begJ.png",
     "poster_color": "#f1d6c9",
@@ -75,7 +75,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/7rzuNJxFTcUi5Ienb5FbnguC02P.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx567-iWOJNRu4begJ.png"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/the-big-o"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 130,
@@ -85,6 +90,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T06:28:54.304Z",
+  "cached_at": "2026-05-24T08:16:06.657Z",
   "cache_version": 1
 }
