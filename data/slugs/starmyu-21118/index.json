@@ -4,7 +4,8 @@
     "mal": 30375,
     "anidb": 11144,
     "tmdb": 71003,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Star Mu",
@@ -60,7 +61,7 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 64,
-  "popularity": 9134,
+  "popularity": 9195,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21118-foApkR3Z6LDj.jpg",
@@ -70,7 +71,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/9xHwJDTkyGdsMXDSSwokQSlp49q.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21118-foApkR3Z6LDj.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-274061"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 120,
@@ -80,6 +86,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T08:59:17.609Z",
+  "cached_at": "2026-05-24T09:47:13.387Z",
   "cache_version": 1
 }

@@ -51,9 +51,9 @@
     "Heterosexual",
     "Surreal Comedy",
     "Male Protagonist",
-    "Primarily Female Cast",
     "Parody",
     "Meta",
+    "Primarily Female Cast",
     "Primarily Teen Cast",
     "Kuudere",
     "School",
@@ -77,13 +77,13 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 76,
-  "popularity": 113094,
-  "trending": 3,
+  "popularity": 118919,
+  "trending": 5,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162694-QFBei5pbjSh8.png",
     "poster_color": "#28aee4",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/162694-PzaToQuFdpsr.jpg",
-    "poster_tmdb": "https://image.tmdb.org/t/p/w780/uGLPOAWnrbHxf1m5SZsrmNVHvYg.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/fOfFcOays1whjqBOEkEznVgyhVi.jpg",
     "banner_tmdb": "https://image.tmdb.org/t/p/original/shXdGFZIEaSmiOkVW2BeEaPihuA.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162694-QFBei5pbjSh8.png"
   },
@@ -99,17 +99,25 @@
     {
       "site": "YouTube",
       "url": "https://www.youtube.com/playlist?list=PLwLSw1_eDZl2ilZQ5Xv1xozab_cm90ugI"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "site": "Bilibili Global",
+      "url": "https://www.bilibili.tv/en/index"
     }
   ],
   "themes": [],
   "confidence": "HIGH",
-  "match_score": 130,
+  "match_score": 120,
   "match_signals": [
     "exact_title",
     "year_match",
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T04:02:27.946Z",
+  "cached_at": "2026-05-28T14:57:56.211Z",
   "cache_version": 1
 }

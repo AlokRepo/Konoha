@@ -81,8 +81,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 80,
-  "popularity": 215523,
-  "trending": 7,
+  "popularity": 222389,
+  "trending": 15,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b158927-lfO85WVguYgc.png",
     "poster_color": "#c9f1f1",
@@ -111,6 +111,18 @@
     {
       "site": "Hulu",
       "url": "https://www.hulu.com/series/65d158d4-443f-44c7-bd2c-eae39f6c60e9"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "site": "Muse Asia",
+      "url": "https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg"
     }
   ],
   "themes": [],
@@ -122,6 +134,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T10:28:04.219Z",
+  "cached_at": "2026-05-28T14:01:16.246Z",
   "cache_version": 1
 }

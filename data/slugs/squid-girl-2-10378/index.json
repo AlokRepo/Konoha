@@ -4,7 +4,8 @@
     "mal": 10378,
     "anidb": 8294,
     "tmdb": 35447,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Shinryaku!? Ika Musume",
@@ -62,7 +63,7 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 73,
-  "popularity": 23750,
+  "popularity": 23959,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10378-hBXI8fXMLBOg.png",
@@ -76,6 +77,10 @@
     {
       "site": "Crunchyroll",
       "url": "http://www.crunchyroll.com/squid-girl"
+    },
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/squid-girl-2"
     }
   ],
   "themes": [],
@@ -87,6 +92,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T06:48:07.518Z",
+  "cached_at": "2026-05-24T08:27:36.880Z",
   "cache_version": 1
 }
