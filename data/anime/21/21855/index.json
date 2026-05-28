@@ -57,8 +57,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 66,
-  "popularity": 55561,
-  "trending": 1,
+  "popularity": 56911,
+  "trending": 2,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21855-4Dpxr8GQ4BKy.jpg",
     "poster_color": "#5078f1",
@@ -71,6 +71,10 @@
     {
       "site": "Amazon Prime Video",
       "url": "https://www.amazon.com/gp/video/detail/B0763JGLBQ"
+    },
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/uq-holder"
     }
   ],
   "themes": [],
@@ -83,6 +87,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T05:01:54.705Z",
+  "cached_at": "2026-05-24T07:11:56.459Z",
   "cache_version": 1
 }

@@ -4,7 +4,8 @@
     "mal": 32924,
     "anidb": 11985,
     "tmdb": 69345,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Urara Meirochou",
@@ -62,7 +63,7 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 68,
-  "popularity": 37245,
+  "popularity": 37530,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21696-t6vK6om0LJtT.jpg",
@@ -72,7 +73,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/dxGYIBz4PaPDavRhUzpX76NZZbr.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21696-t6vK6om0LJtT.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/urara-meirocho"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 160,
@@ -83,6 +89,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T05:47:52.949Z",
+  "cached_at": "2026-05-24T07:45:24.615Z",
   "cache_version": 1
 }

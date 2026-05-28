@@ -51,8 +51,8 @@
   "source": "OTHER",
   "country": "JP",
   "score_anilist": 67,
-  "popularity": 30617,
-  "trending": 0,
+  "popularity": 30769,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21627-MygS5XrfmSkx.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21627-u3pupUDG46fv.jpg",
@@ -60,7 +60,16 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/y0vHbB0lyJ0cOn1EbPt7jJUVilz.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21627-MygS5XrfmSkx.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-271615"
+    },
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/girlish-number"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 160,
@@ -71,6 +80,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T06:13:19.405Z",
+  "cached_at": "2026-05-24T08:07:09.235Z",
   "cache_version": 1
 }

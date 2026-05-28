@@ -83,8 +83,8 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 75,
-  "popularity": 65812,
-  "trending": 1,
+  "popularity": 66365,
+  "trending": 4,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21714-wfvIxPvc2wo4.jpg",
     "poster_color": "#35aef1",
@@ -93,7 +93,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/4BnK6YsxQNGritWsXaA3EdHySvz.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21714-wfvIxPvc2wo4.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/flip-flappers"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 160,
@@ -104,6 +109,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T04:47:18.722Z",
+  "cached_at": "2026-05-24T07:02:03.754Z",
   "cache_version": 1
 }
