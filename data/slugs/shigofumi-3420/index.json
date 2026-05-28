@@ -4,7 +4,8 @@
     "mal": 3420,
     "anidb": 5549,
     "tmdb": 89664,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Shigofumi",
@@ -67,7 +68,7 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 71,
-  "popularity": 21779,
+  "popularity": 21995,
   "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3420-ZHbQqYUJCcUn.png",
@@ -77,7 +78,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/1vBxkYnJHvDsXlJ8MBPtws8zNtK.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3420-ZHbQqYUJCcUn.png"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/shigofumi"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 140,
@@ -88,6 +94,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T06:58:51.669Z",
+  "cached_at": "2026-05-24T08:35:20.067Z",
   "cache_version": 1
 }

@@ -4,7 +4,8 @@
     "mal": 42072,
     "anidb": 15578,
     "tmdb": 104032,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Kenja no Deshi wo Nanoru Kenja",
@@ -60,9 +61,9 @@
   ],
   "source": "LIGHT_NOVEL",
   "country": "JP",
-  "score_anilist": 59,
-  "popularity": 40173,
-  "trending": 2,
+  "score_anilist": 60,
+  "popularity": 41588,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx119056-v9Ls3eKyf0Nf.png",
     "poster_color": "#28e4fe",
@@ -87,6 +88,50 @@
     {
       "site": "Crunchyroll",
       "url": "https://www.crunchyroll.com/she-professed-herself-pupil-of-the-wise-man"
+    },
+    {
+      "site": "Animax Korea",
+      "url": "https://www.animaxtv.co.kr"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/"
+    },
+    {
+      "site": "CatchPlay",
+      "url": "https://www.catchplay.com/"
+    },
+    {
+      "site": "Genflix",
+      "url": "https://genflix.co.id/"
+    },
+    {
+      "site": "Laftel",
+      "url": "https://laftel.net/"
+    },
+    {
+      "site": "MeWatch",
+      "url": "https://www.mewatch.sg/"
+    },
+    {
+      "site": "Muse Asia",
+      "url": "https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg"
+    },
+    {
+      "site": "Sushiroll",
+      "url": "https://sushiroll.co.id/"
+    },
+    {
+      "site": "TrueID",
+      "url": "https://home.trueid.net/"
+    },
+    {
+      "site": "iQIYI",
+      "url": "https://www.iq.com/"
     }
   ],
   "themes": [],
@@ -98,6 +143,6 @@
     "episode_exact",
     "format_match"
   ],
-  "cached_at": "2026-05-03T05:37:01.752Z",
+  "cached_at": "2026-05-24T07:35:21.193Z",
   "cache_version": 1
 }

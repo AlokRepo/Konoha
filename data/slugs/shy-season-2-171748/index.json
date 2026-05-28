@@ -4,7 +4,8 @@
     "mal": 57567,
     "anidb": 18329,
     "tmdb": 211709,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": 2
   },
   "titles": {
     "romaji": "SHY: Tokyo Dakkan-hen",
@@ -60,7 +61,7 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 68,
-  "popularity": 11784,
+  "popularity": 12121,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171748-yigmfmsgq6SR.jpg",
@@ -78,6 +79,14 @@
     {
       "site": "YouTube",
       "url": "https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "site": "Muse Asia",
+      "url": "https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg"
     }
   ],
   "themes": [],
@@ -88,6 +97,6 @@
     "year_match",
     "format_match"
   ],
-  "cached_at": "2026-05-03T08:23:01.960Z",
+  "cached_at": "2026-05-24T09:28:14.679Z",
   "cache_version": 1
 }
