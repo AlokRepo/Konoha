@@ -4,7 +4,8 @@
     "mal": 38080,
     "anidb": 14234,
     "tmdb": 85843,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Kono Oto Tomare!",
@@ -57,8 +58,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 78,
-  "popularity": 97498,
-  "trending": 3,
+  "popularity": 99620,
+  "trending": 2,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103302-RVGwGRDGdMQq.jpg",
     "poster_color": "#c9f1d6",
@@ -83,6 +84,10 @@
     {
       "site": "YouTube",
       "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JgPrG-3dCO9UbXnD7NJek1-"
+    },
+    {
+      "site": "Animax Mongolia",
+      "url": "https://www.animax.app/"
     }
   ],
   "themes": [],
@@ -94,6 +99,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T04:02:33.206Z",
+  "cached_at": "2026-05-24T06:34:27.266Z",
   "cache_version": 1
 }

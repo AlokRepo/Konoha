@@ -4,7 +4,8 @@
     "mal": 1606,
     "anidb": 4574,
     "tmdb": 31678,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Kekkaishi",
@@ -56,8 +57,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 72,
-  "popularity": 19022,
-  "trending": 1,
+  "popularity": 19354,
+  "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1606-EquPRtK0dYxv.png",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1606-kJJtlCLkeBBP.jpg",
@@ -69,6 +70,10 @@
     {
       "site": "Crunchyroll",
       "url": "https://www.crunchyroll.com/kekkaishi"
+    },
+    {
+      "site": "Animekey",
+      "url": "https://animekey.tv/"
     }
   ],
   "themes": [],
@@ -81,6 +86,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T07:20:15.458Z",
+  "cached_at": "2026-05-24T08:50:05.114Z",
   "cache_version": 1
 }

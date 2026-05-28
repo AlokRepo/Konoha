@@ -13,7 +13,8 @@
     "native": "競女!!!!!!!!",
     "synonyms": [
       "Hip Whip Girl"
-    ]
+    ],
+    "tmdb_title": "Keijo!!!!!!!!"
   },
   "format": "TV",
   "status": "FINISHED",
@@ -58,12 +59,14 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 68,
-  "popularity": 103682,
+  "popularity": 105173,
   "trending": 2,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21639-tdDGBK68CQk0.jpg",
     "poster_color": "#28bbf1",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n21639-4w5iH0RUYIL6.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/t9zN06BwacKvyRe2Hi4zoTxd2FY.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/mmtpOqNnk22xKLo5gOnaFaepyRZ.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21639-tdDGBK68CQk0.jpg"
   },
   "streaming": [
@@ -77,13 +80,15 @@
     }
   ],
   "themes": [],
-  "confidence": "MEDIUM",
-  "match_score": 105,
+  "confidence": "HIGH",
+  "match_score": 160,
   "match_signals": [
     "exact_title",
     "year_match",
-    "format_match"
+    "episode_exact",
+    "format_match",
+    "studio_match"
   ],
-  "cached_at": "2026-05-03T04:08:01.193Z",
+  "cached_at": "2026-05-24T06:30:58.502Z",
   "cache_version": 1
 }
