@@ -4,7 +4,8 @@
     "mal": 40964,
     "anidb": 15341,
     "tmdb": 96942,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Back Arrow",
@@ -59,7 +60,7 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 58,
-  "popularity": 15536,
+  "popularity": 15847,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114307-7ON0DNyETBRk.jpg",
@@ -73,6 +74,18 @@
     {
       "site": "Crunchyroll",
       "url": "https://www.crunchyroll.com/back-arrow"
+    },
+    {
+      "site": "Aniplus Asia",
+      "url": "https://www.aniplus-asia.com/"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/"
     }
   ],
   "themes": [],
@@ -84,6 +97,6 @@
     "episode_exact",
     "format_match"
   ],
-  "cached_at": "2026-05-03T07:46:05.698Z",
+  "cached_at": "2026-05-24T09:08:01.077Z",
   "cache_version": 1
 }

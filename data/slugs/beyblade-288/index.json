@@ -64,8 +64,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 65,
-  "popularity": 25887,
-  "trending": 0,
+  "popularity": 26203,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b288-QLBdXz8n34yP.png",
     "poster_color": "#5dbbf1",
@@ -86,6 +86,10 @@
     {
       "site": "Amazon Prime Video",
       "url": "https://www.primevideo.com/-/es/detail/0H7I8WW7MTPGHQJHTYFNZAU4IK/ref=atv_dp_season_select_s1"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-268755"
     }
   ],
   "themes": [],
@@ -97,6 +101,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T06:36:57.956Z",
+  "cached_at": "2026-05-24T08:19:44.928Z",
   "cache_version": 1
 }

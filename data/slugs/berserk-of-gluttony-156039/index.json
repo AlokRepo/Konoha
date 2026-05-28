@@ -17,7 +17,8 @@
       "O Berserker da Gula",
       "Berserk nan Rakus",
       "Ненасытный берсерк"
-    ]
+    ],
+    "tmdb_title": "Berserk of Gluttony"
   },
   "format": "TV",
   "status": "FINISHED",
@@ -66,8 +67,8 @@
   "source": "LIGHT_NOVEL",
   "country": "JP",
   "score_anilist": 67,
-  "popularity": 86321,
-  "trending": 5,
+  "popularity": 91167,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156039-JnepQcVxXLLW.jpg",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/156039-oGyVXfVsG8GM.jpg",
@@ -87,16 +88,37 @@
     {
       "site": "Bilibili TV",
       "url": "https://www.bilibili.tv/en/media/2090442"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "site": "Bilibili Global",
+      "url": "https://www.bilibili.tv/en/index"
+    },
+    {
+      "site": "Muse Asia",
+      "url": "https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg"
+    },
+    {
+      "site": "Sushiroll",
+      "url": "https://sushiroll.co.id/"
+    },
+    {
+      "site": "iQIYI",
+      "url": "https://www.iq.com/"
     }
   ],
   "themes": [],
-  "confidence": "MEDIUM",
-  "match_score": 105,
+  "confidence": "HIGH",
+  "match_score": 135,
   "match_signals": [
     "exact_title",
     "year_match",
+    "episode_exact",
     "format_match"
   ],
-  "cached_at": "2026-05-03T04:20:19.837Z",
+  "cached_at": "2026-05-24T06:39:43.848Z",
   "cache_version": 1
 }

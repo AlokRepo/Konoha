@@ -4,7 +4,8 @@
     "mal": 53428,
     "anidb": 17685,
     "tmdb": 213233,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "AYAKA",
@@ -62,7 +63,7 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 61,
-  "popularity": 18629,
+  "popularity": 19273,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155982-IZNOPZyon0QI.jpg",
@@ -80,6 +81,14 @@
     {
       "site": "YouTube",
       "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JjsGx-1vOh8UzUlFB2PeJyj"
+    },
+    {
+      "site": "Ani-One Asia",
+      "url": "https://www.youtube.com/channel/UC0wNSTMWIL3qaorLx0jie6A"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
     }
   ],
   "themes": [],
@@ -92,6 +101,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T07:23:44.210Z",
+  "cached_at": "2026-05-24T08:50:39.679Z",
   "cache_version": 1
 }

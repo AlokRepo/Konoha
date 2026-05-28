@@ -53,7 +53,7 @@
   "source": "LIGHT_NOVEL",
   "country": "JP",
   "score_anilist": 68,
-  "popularity": 9221,
+  "popularity": 9300,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6676-qzdGO9uAWxTR.jpg",
@@ -63,7 +63,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/pGCKkACejNJ5rN710X09EOfRTxJ.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6676-qzdGO9uAWxTR.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-119408"
+    }
+  ],
   "themes": [],
   "confidence": "MEDIUM",
   "match_score": 84,
@@ -72,6 +77,6 @@
     "year_match",
     "format_match"
   ],
-  "cached_at": "2026-05-03T08:57:53.956Z",
+  "cached_at": "2026-05-24T09:46:15.154Z",
   "cache_version": 1
 }
