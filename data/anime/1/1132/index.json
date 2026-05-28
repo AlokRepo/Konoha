@@ -4,7 +4,8 @@
     "mal": 1132,
     "anidb": 464,
     "tmdb": 8991,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Digimon Frontier",
@@ -61,8 +62,8 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 69,
-  "popularity": 28055,
-  "trending": 0,
+  "popularity": 28323,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx1132-sAQyMO3rSg69.jpg",
     "poster_color": "#0d93fe",
@@ -75,6 +76,10 @@
     {
       "site": "Hulu",
       "url": "http://www.hulu.com/digimon-frontier"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-283845"
     }
   ],
   "themes": [],
@@ -87,6 +92,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T06:24:43.970Z",
+  "cached_at": "2026-05-24T08:14:08.883Z",
   "cache_version": 1
 }
