@@ -4,7 +4,8 @@
     "mal": 61637,
     "anidb": 19324,
     "tmdb": 290667,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "29-sai Dokushin Chuuken Boukensha no Nichijou",
@@ -57,9 +58,9 @@
   ],
   "source": "MANGA",
   "country": "JP",
-  "score_anilist": 63,
-  "popularity": 16846,
-  "trending": 2,
+  "score_anilist": 64,
+  "popularity": 19630,
+  "trending": 3,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192261-oaqwOjlr64ki.jpg",
     "poster_color": "#bbe4f1",
@@ -84,6 +85,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T07:35:54.080Z",
+  "cached_at": "2026-05-24T08:47:40.605Z",
   "cache_version": 1
 }

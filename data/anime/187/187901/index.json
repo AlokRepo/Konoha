@@ -4,7 +4,8 @@
     "mal": 61196,
     "anidb": 19209,
     "tmdb": 286291,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Dead Account",
@@ -65,8 +66,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 65,
-  "popularity": 20576,
-  "trending": 2,
+  "popularity": 23511,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187901-T91HmZAaNwOF.jpg",
     "poster_color": "#35bbf1",
@@ -87,6 +88,22 @@
     {
       "site": "YouTube",
       "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JiQXR4zJbzIwxsiMHu_HSZK"
+    },
+    {
+      "site": "Ani-One Asia",
+      "url": "https://www.youtube.com/channel/UC0wNSTMWIL3qaorLx0jie6A"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "site": "Bilibili Global",
+      "url": "https://www.bilibili.tv/en/index"
+    },
+    {
+      "site": "CatchPlay",
+      "url": "https://www.catchplay.com/"
     }
   ],
   "themes": [],
@@ -99,6 +116,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T07:07:00.772Z",
+  "cached_at": "2026-05-24T08:29:20.249Z",
   "cache_version": 1
 }
