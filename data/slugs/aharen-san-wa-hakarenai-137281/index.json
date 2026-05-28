@@ -60,7 +60,7 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 71,
-  "popularity": 117970,
+  "popularity": 120921,
   "trending": 3,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137281-i4UHcGkUi7j6.jpg",
@@ -90,6 +90,18 @@
     {
       "site": "Amazon Prime Video",
       "url": "https://www.amazon.com/dp/B0CGQR71ZV/"
+    },
+    {
+      "site": "Aniplus TV",
+      "url": "http://www.aniplustv.com/"
+    },
+    {
+      "site": "Bilibili Global",
+      "url": "https://www.bilibili.tv/en/index"
+    },
+    {
+      "site": "Laftel",
+      "url": "https://laftel.net/"
     }
   ],
   "themes": [],
@@ -101,6 +113,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T03:59:44.024Z",
+  "cached_at": "2026-05-24T06:24:04.873Z",
   "cache_version": 1
 }

@@ -57,8 +57,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 59,
-  "popularity": 22672,
-  "trending": 0,
+  "popularity": 22948,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20991-bYPGhJvthBWI.png",
     "poster_color": "#e46b43",
@@ -71,6 +71,10 @@
     {
       "site": "Hulu",
       "url": "https://www.hulu.com/series/aria-the-scarlet-ammo-505fb364-8151-4e1d-8f65-d3eff694fcf2"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-273857"
     }
   ],
   "themes": [],
@@ -83,6 +87,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T06:54:13.509Z",
+  "cached_at": "2026-05-24T08:31:56.235Z",
   "cache_version": 1
 }
