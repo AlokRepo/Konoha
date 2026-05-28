@@ -4,7 +4,8 @@
     "mal": 343,
     "anidb": 2478,
     "tmdb": 27813,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Tsukuyomi: MOON PHASE",
@@ -58,7 +59,7 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 65,
-  "popularity": 15236,
+  "popularity": 15444,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx343-DoAaLkY3ukNe.jpg",
@@ -68,7 +69,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/1saVxO1AsooeaWpoXANOcQMtpzW.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx343-DoAaLkY3ukNe.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-275451"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 160,
@@ -79,6 +85,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T07:48:39.358Z",
+  "cached_at": "2026-05-24T09:10:59.066Z",
   "cache_version": 1
 }
