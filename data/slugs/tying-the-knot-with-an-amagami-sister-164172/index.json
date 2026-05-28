@@ -4,7 +4,8 @@
     "mal": 55071,
     "anidb": 17994,
     "tmdb": 234910,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Amagami-san Chi no Enmusubi",
@@ -73,8 +74,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 73,
-  "popularity": 43406,
-  "trending": 2,
+  "popularity": 46070,
+  "trending": 4,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164172-GY2aqItIuqtR.jpg",
     "poster_color": "#e47850",
@@ -91,6 +92,26 @@
     {
       "site": "Bilibili TV",
       "url": "https://www.bilibili.tv/en/media/2116670"
+    },
+    {
+      "site": "Aniplus Asia",
+      "url": "https://www.aniplus-asia.com/"
+    },
+    {
+      "site": "Aniplus TV",
+      "url": "http://www.aniplustv.com/"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "site": "Bilibili Global",
+      "url": "https://www.bilibili.tv/en/index"
+    },
+    {
+      "site": "Laftel",
+      "url": "https://laftel.net/"
     }
   ],
   "themes": [],
@@ -103,8 +124,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T05:28:22.466Z",
-  "cache_version": 1
-}",
+  "cached_at": "2026-05-24T07:26:35.587Z",
   "cache_version": 1
 }

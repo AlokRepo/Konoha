@@ -4,7 +4,8 @@
     "mal": 10321,
     "anidb": 8259,
     "tmdb": 46095,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Uta no☆Prince-sama♪ Maji LOVE 1000%",
@@ -66,7 +67,7 @@
   "source": "VISUAL_NOVEL",
   "country": "JP",
   "score_anilist": 65,
-  "popularity": 29486,
+  "popularity": 29669,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10321-yoeabxzPWtoQ.png",
@@ -80,6 +81,10 @@
     {
       "site": "HIDIVE",
       "url": "https://www.hidive.com/season/19892"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-253853"
     }
   ],
   "themes": [],
@@ -91,6 +96,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T06:19:13.323Z",
+  "cached_at": "2026-05-24T08:10:33.915Z",
   "cache_version": 1
 }

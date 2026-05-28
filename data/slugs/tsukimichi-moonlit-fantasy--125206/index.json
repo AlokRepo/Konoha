@@ -4,7 +4,8 @@
     "mal": 43523,
     "anidb": 15795,
     "tmdb": 111819,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Tsuki ga Michibiku Isekai Douchuu",
@@ -74,8 +75,8 @@
   "source": "LIGHT_NOVEL",
   "country": "JP",
   "score_anilist": 76,
-  "popularity": 153241,
-  "trending": 6,
+  "popularity": 160203,
+  "trending": 8,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx125206-O2MsOWdW1lVi.jpg",
     "poster_color": "#e4a150",
@@ -108,6 +109,22 @@
     {
       "site": "Hulu",
       "url": "https://www.hulu.com/series/ccb93d4e-d865-444f-9054-115aadf95e0f"
+    },
+    {
+      "site": "Ani-One Asia",
+      "url": "https://www.youtube.com/channel/UC0wNSTMWIL3qaorLx0jie6A"
+    },
+    {
+      "site": "Aniplus TV",
+      "url": "http://www.aniplustv.com/"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "site": "Laftel",
+      "url": "https://laftel.net/"
     }
   ],
   "themes": [],
@@ -119,6 +136,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T03:32:14.325Z",
+  "cached_at": "2026-05-28T14:19:11.527Z",
   "cache_version": 1
 }
