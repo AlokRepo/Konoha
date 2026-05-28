@@ -4,7 +4,8 @@
     "mal": 6774,
     "anidb": 6677,
     "tmdb": 42954,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Kuuchuu Buranko",
@@ -66,8 +67,8 @@
   "source": "OTHER",
   "country": "JP",
   "score_anilist": 76,
-  "popularity": 26823,
-  "trending": 0,
+  "popularity": 27041,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6774-9yybYg3VePJU.png",
     "poster_color": "#f15dae",
@@ -83,7 +84,7 @@
     },
     {
       "site": "OceanVeil",
-      "url": "https://oceanveil.net/anime_titles/"
+      "url": "https://oceanveil.net/anime_titles/417"
     }
   ],
   "themes": [],
@@ -96,6 +97,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T06:30:08.195Z",
+  "cached_at": "2026-05-24T08:17:05.820Z",
   "cache_version": 1
 }

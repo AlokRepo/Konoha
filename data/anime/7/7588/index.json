@@ -58,8 +58,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 75,
-  "popularity": 25984,
-  "trending": 0,
+  "popularity": 26194,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx7588-iXCwrmgHGJbd.jpg",
     "poster_color": "#ff3500",
@@ -76,6 +76,10 @@
     {
       "site": "Bilibili TV",
       "url": "https://www.bilibili.tv/play/1041950"
+    },
+    {
+      "site": "OceanVeil",
+      "url": "https://oceanveil.net/anime_titles/"
     }
   ],
   "themes": [],
@@ -88,6 +92,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T06:36:15.015Z",
+  "cached_at": "2026-05-24T08:19:58.760Z",
   "cache_version": 1
 }
