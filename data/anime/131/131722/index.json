@@ -1,0 +1,72 @@
+{
+  "ids": {
+    "anilist": 131722,
+    "mal": 43996,
+    "anidb": 16475,
+    "tmdb": 121090,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Xi Yangyang Yu Hui Tailang: Shenhai Lixian Ji",
+    "english": "Pleasant Goat and Big Big Wolf: Adventures in the Sea ",
+    "native": "喜羊羊与灰太狼之深海历险记",
+    "synonyms": [
+      "喜羊羊与灰太狼之嘻哈闯世界2",
+      "喜羊羊与灰太狼 第十六季",
+      "Pleasant Goat and Big Big Wolf: Marching to the New Wonderland 2"
+    ],
+    "tmdb_title": "喜羊羊与灰太狼之深海历险记"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "episodes": 60,
+  "duration": 15,
+  "start_date": {
+    "year": 2017,
+    "month": 1,
+    "day": 9
+  },
+  "end_date": {
+    "year": 2017,
+    "month": null,
+    "day": null
+  },
+  "description": "The sixteenth season of <i>Xi Yangyang Yu Hui Tailang</i>.",
+  "genres": [
+    "Adventure",
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 74,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131722-5kq8w06FVY7u.jpg",
+    "poster_color": "#35c9e4",
+    "banner": "https://image.tmdb.org/t/p/original/pi9Zj3TxuYJHPe5WWZSBzJqQOeO.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/amOALvo15iNHsp3UXar6PO0IuwB.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/pi9Zj3TxuYJHPe5WWZSBzJqQOeO.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131722-5kq8w06FVY7u.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/9/9a1exfmml9c6lh8.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-29T06:55:16.174Z",
+  "cache_version": 1
+}
