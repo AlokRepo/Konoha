@@ -4,7 +4,8 @@
     "mal": 19383,
     "anidb": 9964,
     "tmdb": 56559,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Yami Shibai",
@@ -50,7 +51,7 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 65,
-  "popularity": 27187,
+  "popularity": 27464,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b19383-vmpqTraCFNRg.jpg",
@@ -64,6 +65,10 @@
     {
       "site": "Crunchyroll",
       "url": "http://www.crunchyroll.com/yamishibai-japanese-ghost-stories"
+    },
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/yamishibai-JPese-ghost-stories"
     }
   ],
   "themes": [],
@@ -74,8 +79,6 @@
     "year_match",
     "format_match"
   ],
-  "cached_at": "2026-05-03T06:27:42.081Z",
-  "cache_version": 1
-}",
+  "cached_at": "2026-05-29T05:47:50.328Z",
   "cache_version": 1
 }

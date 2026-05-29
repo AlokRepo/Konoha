@@ -56,8 +56,8 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 72,
-  "popularity": 103125,
-  "trending": 2,
+  "popularity": 104825,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104454-pH5YCR7HteqP.jpg",
     "poster_color": "#e4a11a",
@@ -70,6 +70,10 @@
     {
       "site": "Crunchyroll",
       "url": "https://www.crunchyroll.com/isekai-quartet"
+    },
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/"
     }
   ],
   "themes": [],
@@ -81,6 +85,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T04:08:22.799Z",
+  "cached_at": "2026-05-29T05:44:30.155Z",
   "cache_version": 1
 }
