@@ -3,7 +3,7 @@
     "anilist": 8149,
     "mal": 8149,
     "anidb": 7472,
-    "tmdb": 603431,
+    "tmdb": 314225,
     "tmdb_type": "movie",
     "tmdb_season": null
   },
@@ -48,23 +48,26 @@
   ],
   "producers": [],
   "country": "JP",
-  "score_anilist": 52,
-  "popularity": 407,
+  "score_anilist": 53,
+  "popularity": 462,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8149.jpg",
-    "poster_tmdb": "https://image.tmdb.org/t/p/w780/yg0o8na222dewYevbuksmHYJUb0.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/gUy9JPVq6BzpN4KvYoQCT4kvK7m.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/2hH8HAbQKzeh5s2hj78ZBqvwW1x.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/gUy9JPVq6BzpN4KvYoQCT4kvK7m.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8149.jpg"
   },
   "streaming": [],
   "themes": [],
-  "confidence": "MEDIUM",
-  "match_score": 100,
+  "confidence": "HIGH",
+  "match_score": 130,
   "match_signals": [
     "exact_title",
+    "year_match",
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-04T15:10:50.213Z",
+  "cached_at": "2026-05-29T09:42:57.000Z",
   "cache_version": 1
 }
