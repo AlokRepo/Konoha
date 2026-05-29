@@ -830,5 +830,37 @@
     ],
     "added_at": "2026-05-29T06:42:17.859Z",
     "reason": "Score 75 is between 50–79 (below MEDIUM threshold of 80)"
+  },
+  {
+    "anilist_id": 115197,
+    "title": "Neko Enikki",
+    "score": 65,
+    "confidence": "PENDING",
+    "candidates": [
+      {
+        "tmdb_id": 124358,
+        "title": "Mikan Enikki",
+        "score": 65,
+        "signals": []
+      }
+    ],
+    "added_at": "2026-05-29T06:42:54.920Z",
+    "reason": "Score 65 is between 50–79 (below MEDIUM threshold of 80)"
+  },
+  {
+    "anilist_id": 9070,
+    "title": "Oden-kun",
+    "score": 75,
+    "confidence": "PENDING",
+    "candidates": [
+      {
+        "tmdb_id": 471693,
+        "title": "Pankuru wa Oshiko Desu!",
+        "score": 75,
+        "signals": []
+      }
+    ],
+    "added_at": "2026-05-29T06:46:00.317Z",
+    "reason": "Score 75 is between 50–79 (below MEDIUM threshold of 80)"
   }
 ]
