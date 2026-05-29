@@ -41,6 +41,8 @@
     "Work",
     "Primarily Male Cast",
     "Male Protagonist",
+    "Twins",
+    "Slapstick",
     "Bar",
     "Cute Boys Doing Cute Things",
     "Photography"
@@ -52,8 +54,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 41,
-  "popularity": 2580,
-  "trending": 1,
+  "popularity": 2608,
+  "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21285-9creiZuPR0ti.jpg",
     "poster_color": "#e4505d",
@@ -62,7 +64,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/y106aFMcHV8yHvxwya0oWL5gh6y.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21285-9creiZuPR0ti.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-274431"
+    }
+  ],
   "themes": [],
   "confidence": "MEDIUM",
   "match_score": 98,
@@ -72,6 +79,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-04T05:35:09.496Z",
+  "cached_at": "2026-05-29T06:08:09.697Z",
   "cache_version": 1
 }
