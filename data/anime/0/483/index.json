@@ -4,7 +4,8 @@
     "mal": 483,
     "anidb": 1810,
     "tmdb": 31692,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Kurau Phantom Memory",
@@ -59,7 +60,7 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 68,
-  "popularity": 7362,
+  "popularity": 7472,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx483-huW3GD9cUqSi.png",
@@ -72,7 +73,7 @@
   "streaming": [
     {
       "site": "Crunchyroll",
-      "url": "https://www.crunchyroll.com/kurau-phantom-memory"
+      "url": "http://www.crunchyroll.com/series-274269"
     }
   ],
   "themes": [],
@@ -85,6 +86,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T09:29:22.754Z",
+  "cached_at": "2026-05-29T02:28:51.675Z",
   "cache_version": 1
 }

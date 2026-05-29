@@ -51,8 +51,8 @@
   "source": "VIDEO_GAME",
   "country": "JP",
   "score_anilist": 45,
-  "popularity": 7516,
-  "trending": 1,
+  "popularity": 7567,
+  "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101379-ddbxF0DUTgRg.jpg",
     "poster_color": "#e4ae43",
@@ -61,7 +61,16 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/iZ3LQZjbMjcwGt9ZuPDCEeBzPEf.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101379-ddbxF0DUTgRg.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-277507"
+    },
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/pastel-memories"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 160,
@@ -72,6 +81,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T09:26:13.433Z",
+  "cached_at": "2026-05-29T02:28:02.881Z",
   "cache_version": 1
 }
