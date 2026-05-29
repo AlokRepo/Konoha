@@ -622,5 +622,37 @@
     ],
     "added_at": "2026-05-29T06:26:22.945Z",
     "reason": "Score 60 is between 50–79 (below MEDIUM threshold of 80)"
+  },
+  {
+    "anilist_id": 10524,
+    "title": "Duel Masters Victory",
+    "score": 65,
+    "confidence": "PENDING",
+    "candidates": [
+      {
+        "tmdb_id": 46392,
+        "title": "Duel Masters",
+        "score": 65,
+        "signals": []
+      }
+    ],
+    "added_at": "2026-05-29T06:27:39.972Z",
+    "reason": "Score 65 is between 50–79 (below MEDIUM threshold of 80)"
+  },
+  {
+    "anilist_id": 145968,
+    "title": "Cap Kakumei Bottleman DX",
+    "score": 50,
+    "confidence": "PENDING",
+    "candidates": [
+      {
+        "tmdb_id": 196256,
+        "title": "Cap Revolution Bottleman",
+        "score": 50,
+        "signals": []
+      }
+    ],
+    "added_at": "2026-05-29T06:29:23.766Z",
+    "reason": "Score 50 is between 50–79 (below MEDIUM threshold of 80)"
   }
 ]
