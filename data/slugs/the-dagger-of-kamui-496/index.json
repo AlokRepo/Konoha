@@ -15,7 +15,8 @@
       "The Blade of Kamui",
       "Revenge of the Ninja Warrior",
       "Sword of Kamyi"
-    ]
+    ],
+    "tmdb_title": "The Dagger of Kamui"
   },
   "format": "MOVIE",
   "status": "FINISHED",
@@ -56,7 +57,7 @@
   "source": "OTHER",
   "country": "JP",
   "score_anilist": 60,
-  "popularity": 3150,
+  "popularity": 3198,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx496-8nSr61EBRxA6.jpg",
@@ -73,13 +74,14 @@
     }
   ],
   "themes": [],
-  "confidence": "MEDIUM",
-  "match_score": 105,
+  "confidence": "HIGH",
+  "match_score": 130,
   "match_signals": [
     "exact_title",
     "year_match",
-    "format_match"
+    "format_match",
+    "studio_match"
   ],
-  "cached_at": "2026-05-04T12:30:20.229Z",
+  "cached_at": "2026-05-29T08:27:29.541Z",
   "cache_version": 1
 }
