@@ -51,8 +51,8 @@
   "source": "LIGHT_NOVEL",
   "country": "JP",
   "score_anilist": 75,
-  "popularity": 39441,
-  "trending": 0,
+  "popularity": 39975,
+  "trending": 3,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20768-xwQobWzMYTd4.png",
     "poster_color": "#f1a15d",
@@ -61,7 +61,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/eST8x9SrX3UyPycTDzh3CE0TIj1.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20768-xwQobWzMYTd4.png"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/movies/beyond-the-boundary-ill-be-here-past"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 130,
@@ -71,6 +76,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T05:39:43.142Z",
+  "cached_at": "2026-05-29T07:18:11.305Z",
   "cache_version": 1
 }
