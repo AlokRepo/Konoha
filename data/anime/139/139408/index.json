@@ -1,0 +1,65 @@
+{
+  "ids": {
+    "anilist": 139408,
+    "mal": 38424,
+    "tmdb": 472165,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Controller of Controller",
+    "english": "Controller of Controller",
+    "native": "Controller of Controller",
+    "synonyms": [],
+    "tmdb_title": "Controller of Controller"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 8,
+  "start_date": {
+    "year": 2016,
+    "month": 5,
+    "day": 18
+  },
+  "end_date": {
+    "year": 2016,
+    "month": 5,
+    "day": 18
+  },
+  "description": "A boy finds a VR headset on the street.",
+  "genres": [],
+  "tags": [
+    "Full CGI"
+  ],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 42,
+  "popularity": 145,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139408-ofKISUYF3ntM.png",
+    "poster_color": "#d65df1",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/139408-7tsVTqzIEFmi.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/r42OYPXOyDb6LKoPrQRSepnME6C.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139408-ofKISUYF3ntM.png"
+  },
+  "streaming": [
+    {
+      "site": "Vimeo",
+      "url": "https://vimeo.com/167089601"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-29T11:03:47.460Z",
+  "cache_version": 1
+}
