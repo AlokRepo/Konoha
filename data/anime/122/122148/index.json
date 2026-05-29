@@ -4,7 +4,8 @@
     "mal": 42568,
     "anidb": 15660,
     "tmdb": 106611,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Yakunara Mug Cup Mo",
@@ -64,8 +65,8 @@
   ],
   "source": "MANGA",
   "country": "JP",
-  "score_anilist": 63,
-  "popularity": 19102,
+  "score_anilist": 64,
+  "popularity": 19251,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx122148-KZyKPK3Mj9Lp.jpg",
@@ -83,6 +84,22 @@
     {
       "site": "YouTube",
       "url": "https://www.youtube.com/playlist?list=PLxSscENEp7JitxjngMqmgU7hFC7TOPZwa"
+    },
+    {
+      "site": "Ani-One Asia",
+      "url": "https://www.youtube.com/channel/UC0wNSTMWIL3qaorLx0jie6A"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/"
+    },
+    {
+      "site": "iQIYI",
+      "url": "https://www.iq.com/"
     }
   ],
   "themes": [],
@@ -94,6 +111,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T07:19:36.021Z",
+  "cached_at": "2026-05-29T05:50:00.257Z",
   "cache_version": 1
 }
