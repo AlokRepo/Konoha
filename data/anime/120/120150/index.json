@@ -4,7 +4,8 @@
     "mal": 42250,
     "anidb": 15602,
     "tmdb": 110837,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Bungou Stray Dogs Wan!",
@@ -60,8 +61,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 80,
-  "popularity": 36037,
-  "trending": 1,
+  "popularity": 36555,
+  "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120150-hxvcRrYzgP2F.png",
     "poster_color": "#f1865d",
@@ -74,6 +75,10 @@
     {
       "site": "Crunchyroll",
       "url": "https://www.crunchyroll.com/bungo-stray-dogs-wan"
+    },
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/"
     }
   ],
   "themes": [],
@@ -86,6 +91,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T05:51:06.236Z",
+  "cached_at": "2026-05-29T05:47:14.104Z",
   "cache_version": 1
 }

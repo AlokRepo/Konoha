@@ -4,7 +4,8 @@
     "mal": 14355,
     "anidb": 9257,
     "tmdb": 53918,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Yama no Susume",
@@ -54,8 +55,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 67,
-  "popularity": 32764,
-  "trending": 0,
+  "popularity": 33153,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx14355-ZsPYtTYa1b4v.jpg",
     "poster_color": "#4393e4",
@@ -64,7 +65,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/eH872k9IyD3I1FBuffEqwLDzUti.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx14355-ZsPYtTYa1b4v.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-261949"
+    }
+  ],
   "themes": [],
   "confidence": "MEDIUM",
   "match_score": 95,
@@ -73,6 +79,6 @@
     "year_match",
     "format_match"
   ],
-  "cached_at": "2026-05-03T06:03:52.849Z",
+  "cached_at": "2026-05-29T05:47:24.930Z",
   "cache_version": 1
 }

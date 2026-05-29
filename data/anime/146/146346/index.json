@@ -4,7 +4,8 @@
     "mal": 51265,
     "anidb": 17260,
     "tmdb": 195081,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Inu ni Nattara Suki na Hito ni Hirowareta.",
@@ -73,7 +74,7 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 46,
-  "popularity": 43778,
+  "popularity": 44939,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146346-N0Aqi1VUSCDX.png",
@@ -95,6 +96,38 @@
     {
       "site": "Bilibili TV",
       "url": "https://www.bilibili.tv/en/media/2074646"
+    },
+    {
+      "site": "Ani-One Asia",
+      "url": "https://www.youtube.com/channel/UC0wNSTMWIL3qaorLx0jie6A"
+    },
+    {
+      "site": "Anime Digital Network",
+      "url": "https://animedigitalnetwork.fr/"
+    },
+    {
+      "site": "Aniplus TV",
+      "url": "http://www.aniplustv.com/"
+    },
+    {
+      "site": "Aniverse",
+      "url": "https://www.amazon.de/b/?_encoding=UTF8&benefitId=aniversede&node=3010075031"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "site": "Bilibili Global",
+      "url": "https://www.bilibili.tv/en/index"
+    },
+    {
+      "site": "CatchPlay",
+      "url": "https://www.catchplay.com/"
+    },
+    {
+      "site": "Laftel",
+      "url": "https://laftel.net/"
     }
   ],
   "themes": [],
@@ -107,8 +140,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T05:27:37.095Z",
-  "cache_version": 1
-}",
+  "cached_at": "2026-05-29T05:46:00.223Z",
   "cache_version": 1
 }
