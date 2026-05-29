@@ -1630,5 +1630,37 @@
     ],
     "added_at": "2026-05-29T09:05:32.396Z",
     "reason": "Score 75 is between 50–79 (below MEDIUM threshold of 80)"
+  },
+  {
+    "anilist_id": 7171,
+    "title": "Oni",
+    "score": 50,
+    "confidence": "PENDING",
+    "candidates": [
+      {
+        "tmdb_id": 28349,
+        "title": "Oni",
+        "score": 50,
+        "signals": []
+      }
+    ],
+    "added_at": "2026-05-29T09:08:55.097Z",
+    "reason": "Score 50 is between 50–79 (below MEDIUM threshold of 80)"
+  },
+  {
+    "anilist_id": 206163,
+    "title": "Soukou Kihei Votoms: Haiiro no Hexe",
+    "score": 70,
+    "confidence": "PENDING",
+    "candidates": [
+      {
+        "tmdb_id": 1694711,
+        "title": "Armored Trooper VOTOMS: Die Graue Hexe - Part 1",
+        "score": 70,
+        "signals": []
+      }
+    ],
+    "added_at": "2026-05-29T09:10:25.463Z",
+    "reason": "Score 70 is between 50–79 (below MEDIUM threshold of 80)"
   }
 ]
