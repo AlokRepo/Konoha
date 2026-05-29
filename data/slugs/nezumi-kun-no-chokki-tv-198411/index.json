@@ -19,7 +19,7 @@
   "status": "RELEASING",
   "season": "SPRING",
   "season_year": 2026,
-  "episodes": 12,
+  "episodes": 8,
   "duration": 5,
   "start_date": {
     "year": 2026,
@@ -31,7 +31,10 @@
     "month": null,
     "day": null
   },
-  "next_airing": null,
+  "next_airing": {
+    "episode": 9,
+    "at": "2026-05-30T00:30:00.000Z"
+  },
   "genres": [
     "Fantasy"
   ],
@@ -45,7 +48,7 @@
   ],
   "source": "OTHER",
   "country": "JP",
-  "popularity": 116,
+  "popularity": 124,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198411-FuPLk3KBEoFH.png",
@@ -65,6 +68,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-19T03:36:20.081Z",
+  "cached_at": "2026-05-29T06:49:44.632Z",
   "cache_version": 1
 }
