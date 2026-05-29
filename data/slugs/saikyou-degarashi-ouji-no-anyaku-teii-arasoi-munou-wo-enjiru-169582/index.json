@@ -18,6 +18,7 @@
     ],
     "tmdb_title": "The Insipid Prince's Furtive Grab for The Throne"
   },
+  "format": "TV",
   "status": "NOT_YET_RELEASED",
   "season": "SUMMER",
   "season_year": 2026,
@@ -47,8 +48,8 @@
   "producers": [],
   "source": "LIGHT_NOVEL",
   "country": "JP",
-  "popularity": 2330,
-  "trending": 1,
+  "popularity": 3164,
+  "trending": 2,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169582-CUvez7DjwPf7.jpg",
     "poster_color": "#3593f1",
@@ -58,12 +59,12 @@
   "streaming": [],
   "themes": [],
   "confidence": "MEDIUM",
-  "match_score": 85,
+  "match_score": 105,
   "match_signals": [
     "exact_title",
+    "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-19T03:36:20.081Z",
-  "cache_version": 1,
-  "next_airing": null
+  "cached_at": "2026-05-29T03:09:03.759Z",
+  "cache_version": 1
 }
