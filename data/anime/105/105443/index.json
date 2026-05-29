@@ -1,0 +1,71 @@
+{
+  "ids": {
+    "anilist": 105443,
+    "mal": 34957,
+    "anidb": 12850,
+    "tmdb": 455496,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Manga: Ookami wa Ookami da",
+    "english": "A Wolf is a Wolf",
+    "native": "漫画 狼は狼だ",
+    "synonyms": [
+      "Manga Okami wa okami da"
+    ],
+    "tmdb_title": "A Wolf is a Wolf"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 11,
+  "start_date": {
+    "year": 1931,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 1931,
+    "month": null,
+    "day": null
+  },
+  "description": "An educational story that shows how village animals defeat a cruel wolf with the wisdom of a monkey.",
+  "genres": [
+    "Fantasy"
+  ],
+  "tags": [
+    "Achromatic",
+    "Rural",
+    "Fairy Tale",
+    "Animals"
+  ],
+  "studios": [],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 43,
+  "popularity": 531,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n105443-EqUeuQIin0eA.png",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/qCGbzTWNUl8SPbYIuHFZzCTIATv.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n105443-EqUeuQIin0eA.png"
+  },
+  "streaming": [
+    {
+      "site": "Japanese Film Archives",
+      "url": "https://animation.filmarchives.jp/en/works/playen/5228"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 105,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match"
+  ],
+  "cached_at": "2026-05-29T09:35:18.559Z",
+  "cache_version": 1
+}
