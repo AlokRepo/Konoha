@@ -1102,5 +1102,37 @@
     ],
     "added_at": "2026-05-29T06:58:58.247Z",
     "reason": "Score 65 is between 50–79 (below MEDIUM threshold of 80)"
+  },
+  {
+    "anilist_id": 188805,
+    "title": "Metal Cardbot S",
+    "score": 64,
+    "confidence": "PENDING",
+    "candidates": [
+      {
+        "tmdb_id": 223409,
+        "title": "Metal Cardbot",
+        "score": 64,
+        "signals": []
+      }
+    ],
+    "added_at": "2026-05-29T07:00:16.351Z",
+    "reason": "Score 64 is between 50–79 (below MEDIUM threshold of 80)"
+  },
+  {
+    "anilist_id": 204626,
+    "title": "Metal Cardbot W",
+    "score": 54,
+    "confidence": "PENDING",
+    "candidates": [
+      {
+        "tmdb_id": 223409,
+        "title": "Metal Cardbot",
+        "score": 54,
+        "signals": []
+      }
+    ],
+    "added_at": "2026-05-29T07:01:20.845Z",
+    "reason": "Score 54 is between 50–79 (below MEDIUM threshold of 80)"
   }
 ]
