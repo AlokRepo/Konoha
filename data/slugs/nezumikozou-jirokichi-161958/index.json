@@ -41,15 +41,23 @@
     "Genco"
   ],
   "country": "JP",
-  "popularity": 352,
+  "score_anilist": 53,
+  "popularity": 404,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161958-r88Xc2y5zve5.png",
     "poster_color": "#f1e443",
+    "banner": "https://image.tmdb.org/t/p/original/xeJdnoeogqwept2uTHd44Svu2E0.jpg",
     "poster_tmdb": "https://image.tmdb.org/t/p/w780/nhZM6qARSHuHBM1nwRoJz6d0Vlo.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/xeJdnoeogqwept2uTHd44Svu2E0.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161958-r88Xc2y5zve5.png"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/watch?v=JoKCJln_vYA"
+    }
+  ],
   "themes": [],
   "confidence": "MEDIUM",
   "match_score": 105,
@@ -59,6 +67,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-04T15:23:30.036Z",
+  "cached_at": "2026-05-29T09:50:06.263Z",
   "cache_version": 1
 }
