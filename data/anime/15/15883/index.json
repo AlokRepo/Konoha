@@ -4,7 +4,8 @@
     "mal": 15883,
     "anidb": 9365,
     "tmdb": 72120,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Fantasista Doll",
@@ -51,7 +52,7 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 57,
-  "popularity": 6772,
+  "popularity": 6823,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx15883-LiGZJONhkfdJ.jpg",
@@ -61,7 +62,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/9wX6ujtI27Yg1ktE6CQFAqTpldy.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx15883-LiGZJONhkfdJ.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/fantasista-doll"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 160,
@@ -72,6 +78,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T09:42:08.016Z",
+  "cached_at": "2026-05-29T02:33:30.764Z",
   "cache_version": 1
 }
