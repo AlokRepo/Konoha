@@ -8,18 +8,64 @@
     "tmdb_season": 2
   },
   "titles": {
+    "romaji": "Wakakusa Monogatari: Nan to Jo-sensei",
+    "english": "Little Women II: Jo's Boys",
+    "native": "若草物語ナンとジョー先生",
+    "synonyms": [
+      "Sekai Meisaku Gekijou",
+      "Ai no Wakakusa Monogatari II",
+      "Little Men",
+      "World Masterpiece Theater",
+      "WMT",
+      "Missis Jo und ihre fröhliche Familie"
+    ],
     "tmdb_title": "Little Women II : Jo's Boys"
   },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 1993,
   "episodes": 40,
-  "genres": [],
-  "tags": [],
-  "studios": [],
+  "duration": 25,
+  "start_date": {
+    "year": 1993,
+    "month": 1,
+    "day": 17
+  },
+  "end_date": {
+    "year": 1993,
+    "month": 12,
+    "day": 19
+  },
+  "description": "Nan Harding is the new student at Mr. and Mrs. Bhaer's school. Everyone thinks that she is a pain in the head, but not Mrs. Jo. Together with the other kids, they all embark on their personal adventures and misfortunes while learning in school.\n<br><br>\n(Source: Anime News Network)",
+  "genres": [
+    "Drama",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Historical",
+    "School",
+    "Foreign",
+    "Educational",
+    "Classic Literature",
+    "Family Life"
+  ],
+  "studios": [
+    "Nippon Animation"
+  ],
   "producers": [],
+  "source": "OTHER",
+  "country": "JP",
+  "score_anilist": 72,
+  "popularity": 1746,
+  "trending": 0,
   "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2558.jpg",
+    "poster_color": "#e46b1a",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2558-ZbScDBMwsskM.jpg",
     "poster_tmdb": "https://image.tmdb.org/t/p/w780/uv70bgiwBcbvgE82qRd6IhcRlRa.jpg",
     "banner_tmdb": "https://image.tmdb.org/t/p/original/5HxaoNQKzDWsGjsvArHI7e6SJvM.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/5HxaoNQKzDWsGjsvArHI7e6SJvM.jpg",
-    "poster": "https://image.tmdb.org/t/p/w780/uv70bgiwBcbvgE82qRd6IhcRlRa.jpg"
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/2558.jpg"
   },
   "streaming": [],
   "themes": [],
@@ -32,6 +78,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-04T03:25:05.916Z",
+  "cached_at": "2026-05-29T03:53:49.875Z",
   "cache_version": 1
 }
