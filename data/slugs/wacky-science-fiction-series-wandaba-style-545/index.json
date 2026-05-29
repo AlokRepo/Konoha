@@ -52,7 +52,7 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 58,
-  "popularity": 1252,
+  "popularity": 1269,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/545.jpg",
@@ -62,7 +62,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/xgHM04L4dwegkElaj0XoSYVJZiu.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/545.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/wandaba-style"
+    }
+  ],
   "themes": [],
   "confidence": "MEDIUM",
   "match_score": 100,
@@ -72,6 +77,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-04T03:47:16.966Z",
+  "cached_at": "2026-05-29T04:09:57.284Z",
   "cache_version": 1
 }
