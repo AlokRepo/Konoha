@@ -53,7 +53,7 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 63,
-  "popularity": 3843,
+  "popularity": 3880,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150117-CPFegorubia4.jpg",
@@ -67,16 +67,30 @@
     {
       "site": "Crunchyroll",
       "url": "https://www.crunchyroll.com/series/GKEH2G031/me--roboco"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
+    },
+    {
+      "site": "CatchPlay",
+      "url": "https://www.catchplay.com/"
+    },
+    {
+      "site": "MeWatch",
+      "url": "https://www.mewatch.sg/"
     }
   ],
   "themes": [],
-  "confidence": "MEDIUM",
-  "match_score": 95,
+  "confidence": "HIGH",
+  "match_score": 150,
   "match_signals": [
     "exact_title",
     "year_match",
-    "format_match"
+    "episode_exact",
+    "format_match",
+    "studio_match"
   ],
-  "cached_at": "2026-05-04T05:25:55.968Z",
+  "cached_at": "2026-05-29T06:03:19.757Z",
   "cache_version": 1
 }
