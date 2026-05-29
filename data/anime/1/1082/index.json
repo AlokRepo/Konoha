@@ -54,7 +54,7 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 64,
-  "popularity": 3701,
+  "popularity": 3780,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1082-ScQYVPPpUNZZ.png",
@@ -64,7 +64,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/bfGJFmcf26xZ04NmEYi5tjkyMnB.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1082-ScQYVPPpUNZZ.png"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/movies/daphne-in-the-brilliant-blue-ova"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 160,
@@ -75,6 +80,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-04T02:33:44.080Z",
+  "cached_at": "2026-05-29T03:02:34.279Z",
   "cache_version": 1
 }

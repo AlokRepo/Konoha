@@ -20,10 +20,12 @@
   },
   "format": "TV",
   "status": "NOT_YET_RELEASED",
+  "season": "SUMMER",
+  "season_year": 2026,
   "episodes": 1,
   "start_date": {
     "year": 2026,
-    "month": null,
+    "month": 7,
     "day": null
   },
   "end_date": {
@@ -45,8 +47,8 @@
   "producers": [],
   "source": "OTHER",
   "country": "JP",
-  "popularity": 3429,
-  "trending": 0,
+  "popularity": 3713,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108992-aKpjh4JVayhd.png",
     "poster_color": "#ffe4ae",
@@ -64,7 +66,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-19T05:17:51.161Z",
-  "cache_version": 1,
-  "next_airing": null
+  "cached_at": "2026-05-29T03:02:51.557Z",
+  "cache_version": 1
 }
