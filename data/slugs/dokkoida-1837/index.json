@@ -61,17 +61,22 @@
   "source": "LIGHT_NOVEL",
   "country": "JP",
   "score_anilist": 63,
-  "popularity": 1912,
+  "popularity": 1960,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1837-42rHARqkhRW8.jpg",
     "poster_color": "#0d86f1",
-    "banner": "https://image.tmdb.org/t/p/original/lNtLAEHihVxvyoJzdBTtGB0Z0ic.jpg",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1837-0nlbBjWfPpw1.jpg",
     "poster_tmdb": "https://image.tmdb.org/t/p/w780/iusdpxsubnxUxf54AaH4LVBjg9K.jpg",
     "banner_tmdb": "https://image.tmdb.org/t/p/original/lNtLAEHihVxvyoJzdBTtGB0Z0ic.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1837-42rHARqkhRW8.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/dokkoida"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 160,
@@ -82,6 +87,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-04T03:16:19.066Z",
+  "cached_at": "2026-05-29T03:42:07.446Z",
   "cache_version": 1
 }
