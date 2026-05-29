@@ -58,8 +58,8 @@
   "source": "VISUAL_NOVEL",
   "country": "JP",
   "score_anilist": 51,
-  "popularity": 30247,
-  "trending": 0,
+  "popularity": 30578,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21046-Ifoy3DL8NsSx.jpg",
     "poster_color": "#c9f1d6",
@@ -68,7 +68,16 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/mAs8HQdoxJbMuXxgoSgDoX5apJd.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21046-Ifoy3DL8NsSx.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-268105"
+    },
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/diabolik-lovers-ii-moreblood"
+    }
+  ],
   "themes": [],
   "confidence": "MEDIUM",
   "match_score": 89,
@@ -78,6 +87,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T06:15:29.601Z",
+  "cached_at": "2026-05-29T05:47:38.860Z",
   "cache_version": 1
 }
