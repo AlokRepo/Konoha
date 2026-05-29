@@ -270,5 +270,21 @@
     ],
     "added_at": "2026-05-29T03:53:17.563Z",
     "reason": "Score 79 is between 50–79 (below MEDIUM threshold of 80)"
+  },
+  {
+    "anilist_id": 3202,
+    "title": "Daisuki! Hello Kitty",
+    "score": 65,
+    "confidence": "PENDING",
+    "candidates": [
+      {
+        "tmdb_id": 210055,
+        "title": "Hello Kitty",
+        "score": 65,
+        "signals": []
+      }
+    ],
+    "added_at": "2026-05-29T04:01:14.127Z",
+    "reason": "Score 65 is between 50–79 (below MEDIUM threshold of 80)"
   }
 ]
