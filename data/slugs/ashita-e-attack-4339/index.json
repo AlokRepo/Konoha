@@ -14,7 +14,8 @@
     "synonyms": [
       "Attack on Tomorrow",
       "Smash"
-    ]
+    ],
+    "tmdb_title": "Attack on Tomorrow"
   },
   "format": "TV",
   "status": "FINISHED",
@@ -52,12 +53,14 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 58,
-  "popularity": 1064,
+  "popularity": 1079,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4339-Tktb0qDz72D3.png",
     "poster_color": "#93351a",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/4339-d2JTQidFKerJ.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/amK7IkFrHfqMCZg9gLa1H8aBoFh.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/h3IiY5sNSE4T2gZdN7ttqcAU4Od.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4339-Tktb0qDz72D3.png"
   },
   "streaming": [],
@@ -71,6 +74,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-04T03:55:27.001Z",
+  "cached_at": "2026-05-29T04:26:38.519Z",
   "cache_version": 1
 }

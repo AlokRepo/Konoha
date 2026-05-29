@@ -18,6 +18,7 @@
   "status": "NOT_YET_RELEASED",
   "season": "SUMMER",
   "season_year": 2026,
+  "episodes": 1,
   "start_date": {
     "year": 2026,
     "month": 7,
@@ -28,7 +29,10 @@
     "month": null,
     "day": null
   },
-  "next_airing": null,
+  "next_airing": {
+    "episode": 1,
+    "at": "2026-07-04T19:30:00.000Z"
+  },
   "description": "The horror comedy manga begins one fateful day when the cowardly (unnamed) protagonist meets Mechako, the leader of the \"Kaikigumi\" organization which is in charge of the ghosts and supernatural creatures scaring humans. The protagonist somehow takes part in the revival of the Kaikigumi, after which one bizarre (yet not scary) phenomenon after another crops up around him.\n<br><br>\n(Source: ANN)",
   "genres": [
     "Comedy",
@@ -44,8 +48,8 @@
   ],
   "source": "MANGA",
   "country": "JP",
-  "popularity": 835,
-  "trending": 0,
+  "popularity": 1083,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200230-8pOIknqkt160.png",
     "poster_color": "#f1e45d",
@@ -54,13 +58,14 @@
   },
   "streaming": [],
   "themes": [],
-  "confidence": "MEDIUM",
-  "match_score": 105,
+  "confidence": "HIGH",
+  "match_score": 130,
   "match_signals": [
     "exact_title",
+    "year_match",
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-19T03:36:20.081Z",
+  "cached_at": "2026-05-29T04:26:31.321Z",
   "cache_version": 1
 }
