@@ -1,0 +1,82 @@
+{
+  "ids": {
+    "anilist": 8365,
+    "mal": 8365,
+    "anidb": 3107,
+    "tmdb": 128881,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Crayon Shin-chan: Densetsu wo Yobu Buriburi 3 Pun Dai Shingeki",
+    "english": null,
+    "native": "映画 クレヨンしんちゃん　伝説を呼ぶ　ブリブリ　３分ポッキリ大進撃",
+    "synonyms": [
+      "Eiga Crayon Shin-chan: Densetsu wo Yobu Buriburi 3 Pun Dai Shingeki",
+      "Crayon Shin-chan: The Legend Called Buri Buri 3 Minutes Charge",
+      "Shin Chan: 3 minutos para salvar el mundo"
+    ],
+    "tmdb_title": "Crayon Shin-chan: The Legend Called Buri Buri 3 Minutes Charge"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "SPRING",
+  "season_year": 2005,
+  "episodes": 1,
+  "duration": 88,
+  "start_date": {
+    "year": 2005,
+    "month": 4,
+    "day": 16
+  },
+  "end_date": {
+    "year": 2005,
+    "month": 4,
+    "day": 16
+  },
+  "description": "The thirteenth Crayon Shin-chan movie.",
+  "genres": [
+    "Comedy",
+    "Ecchi",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Superhero",
+    "Kaiju",
+    "Magic",
+    "Henshin",
+    "Family Life",
+    "Nudity"
+  ],
+  "studios": [
+    "Shin-Ei Animation"
+  ],
+  "producers": [
+    "TV Asahi"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 63,
+  "popularity": 1660,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8365.jpg",
+    "poster_color": "#f1e450",
+    "banner": "https://image.tmdb.org/t/p/original/4voKEJuEQQNBvBzbFUvEwkaXTm5.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/7vEVlZfcpjTIGFTBahQrpA7Knx8.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/4voKEJuEQQNBvBzbFUvEwkaXTm5.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8365.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-29T08:51:40.798Z",
+  "cache_version": 1
+}
