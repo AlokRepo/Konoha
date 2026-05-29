@@ -1,0 +1,86 @@
+{
+  "ids": {
+    "anilist": 194829,
+    "mal": 61897,
+    "anidb": 19400,
+    "tmdb": 260823,
+    "tmdb_type": "tv",
+    "tmdb_season": 2
+  },
+  "titles": {
+    "romaji": "Katainaka no Ossan, Kensei ni Naru II",
+    "english": "From Old Country Bumpkin to Master Swordsman Season 2",
+    "native": "片田舎のおっさん、剣聖になるII",
+    "synonyms": [
+      "Katainaka no Ossan, Kensei ni Naru 2nd Season"
+    ],
+    "tmdb_title": "From Old Country Bumpkin to Master Swordsman"
+  },
+  "format": "TV",
+  "status": "NOT_YET_RELEASED",
+  "season": "SUMMER",
+  "season_year": 2026,
+  "episodes": 1,
+  "start_date": {
+    "year": 2026,
+    "month": 7,
+    "day": 8
+  },
+  "end_date": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "next_airing": {
+    "episode": 1,
+    "at": "2026-07-08T14:45:00.000Z"
+  },
+  "description": "The second season of <i>Katainaka no Ossan, Kensei ni Naru</i>.",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+  ],
+  "tags": [
+    "Male Protagonist",
+    "Teacher",
+    "Swordplay"
+  ],
+  "studios": [
+    "Hayabusa Film",
+    "Passione"
+  ],
+  "producers": [
+    "NBCUniversal Entertainment Japan"
+  ],
+  "source": "LIGHT_NOVEL",
+  "country": "JP",
+  "popularity": 15196,
+  "trending": 2,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194829-aBGjk68756e4.jpg",
+    "poster_color": "#78bbd6",
+    "banner": "https://image.tmdb.org/t/p/original/sEagMcuLL3beaHc3ToiZicMuYSb.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/53I6iDGxdHDBqcLb3yQsu9SGoD3.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/sEagMcuLL3beaHc3ToiZicMuYSb.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194829-aBGjk68756e4.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Amazon Prime Video",
+      "url": "https://www.amazon.com/dp/B0D8Z7S2G4"
+    }
+  ],
+  "themes": [],
+  "confidence": "MEDIUM",
+  "match_score": 96,
+  "match_signals": [
+    "english_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-29T01:48:07.935Z",
+  "cache_version": 1
+}
