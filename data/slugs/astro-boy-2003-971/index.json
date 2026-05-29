@@ -4,7 +4,8 @@
     "mal": 971,
     "anidb": 807,
     "tmdb": 12050,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Astro Boy Tetsuwan Atom",
@@ -60,7 +61,7 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 70,
-  "popularity": 7490,
+  "popularity": 7590,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx971-zUOKQLxg0pL2.jpg",
@@ -70,7 +71,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/nDvUaUCrAcfqdswRSRxOZMotS4V.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx971-zUOKQLxg0pL2.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 139,
@@ -81,6 +87,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T09:27:09.027Z",
+  "cached_at": "2026-05-29T02:27:54.929Z",
   "cache_version": 1
 }
