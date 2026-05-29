@@ -2254,5 +2254,21 @@
     ],
     "added_at": "2026-05-29T10:22:16.814Z",
     "reason": "Score 50 is between 50–79 (below MEDIUM threshold of 80)"
+  },
+  {
+    "anilist_id": 103375,
+    "title": "Chang",
+    "score": 75,
+    "confidence": "PENDING",
+    "candidates": [
+      {
+        "tmdb_id": 225655,
+        "title": "남북의 창",
+        "score": 75,
+        "signals": []
+      }
+    ],
+    "added_at": "2026-05-29T10:24:24.596Z",
+    "reason": "Score 75 is between 50–79 (below MEDIUM threshold of 80)"
   }
 ]
