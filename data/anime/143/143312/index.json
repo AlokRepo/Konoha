@@ -1,0 +1,70 @@
+{
+  "ids": {
+    "anilist": 143312,
+    "mal": 56067,
+    "anidb": 18136,
+    "tmdb": 1155497,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Sea Cat",
+    "english": null,
+    "native": "シーキャット",
+    "synonyms": [
+      "シーキャット（アニメ映画）"
+    ],
+    "tmdb_title": "Sea Cat"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "episodes": 1,
+  "duration": 20,
+  "start_date": {
+    "year": 1988,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 1988,
+    "month": null,
+    "day": null
+  },
+  "description": "A short animated film about an orphan kitten raised with love by a sea otter, whom had lost her own child. <br>\n<br>\n<i>The film's message was to promote the abolishment of nuclear weapons using anthropomorphic animals.</i>",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "tags": [
+    "Swimming",
+    "Orphan",
+    "Animals"
+  ],
+  "studios": [
+    "Oh! Production"
+  ],
+  "producers": [],
+  "country": "JP",
+  "score_anilist": 54,
+  "popularity": 291,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143312-C8RGkgYghpqO.jpg",
+    "poster_color": "#1aaed6",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/yQSW95c9jLtIKv2zkMVXwyUTIbI.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143312-C8RGkgYghpqO.jpg"
+  },
+  "streaming": [],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-29T10:20:06.177Z",
+  "cache_version": 1
+}
