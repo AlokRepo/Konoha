@@ -43,7 +43,7 @@
   "producers": [],
   "source": "ORIGINAL",
   "country": "JP",
-  "popularity": 1148,
+  "popularity": 1358,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202429-fqV8ZrHJWXjw.jpg",
@@ -53,7 +53,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/qwpEXIdiyoRo5kVdVEq22vEQEmt.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202429-fqV8ZrHJWXjw.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "OceanVeil",
+      "url": "https://oceanveil.net/ad?agn=2&src=8&pattern=MAL&url=/lp"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 130,
@@ -63,7 +68,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-19T03:36:20.081Z",
-  "cache_version": 1,
-  "next_airing": null
+  "cached_at": "2026-05-29T08:58:29.125Z",
+  "cache_version": 1
 }
