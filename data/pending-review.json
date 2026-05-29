@@ -2222,5 +2222,37 @@
     ],
     "added_at": "2026-05-29T10:11:19.654Z",
     "reason": "Score 75 is between 50–79 (below MEDIUM threshold of 80)"
+  },
+  {
+    "anilist_id": 7252,
+    "title": "Grick no Bouken",
+    "score": 70,
+    "confidence": "PENDING",
+    "candidates": [
+      {
+        "tmdb_id": 279987,
+        "title": "Enchanted Journey",
+        "score": 70,
+        "signals": []
+      }
+    ],
+    "added_at": "2026-05-29T10:21:19.120Z",
+    "reason": "Score 70 is between 50–79 (below MEDIUM threshold of 80)"
+  },
+  {
+    "anilist_id": 136142,
+    "title": "Chair",
+    "score": 50,
+    "confidence": "PENDING",
+    "candidates": [
+      {
+        "tmdb_id": 10511,
+        "title": "The Chair",
+        "score": 50,
+        "signals": []
+      }
+    ],
+    "added_at": "2026-05-29T10:22:16.814Z",
+    "reason": "Score 50 is between 50–79 (below MEDIUM threshold of 80)"
   }
 ]
