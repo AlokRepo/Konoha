@@ -57,7 +57,7 @@
   "source": "LIGHT_NOVEL",
   "country": "JP",
   "score_anilist": 61,
-  "popularity": 3756,
+  "popularity": 3837,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx942-P5iFwvMI0jkp.png",
@@ -67,7 +67,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/wIzk6tq4Haqwa0q3CgBamsXCcvT.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx942-P5iFwvMI0jkp.png"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/the-good-witch-of-the-west"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 160,
@@ -78,6 +83,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-04T02:33:04.307Z",
+  "cached_at": "2026-05-29T03:01:51.874Z",
   "cache_version": 1
 }
