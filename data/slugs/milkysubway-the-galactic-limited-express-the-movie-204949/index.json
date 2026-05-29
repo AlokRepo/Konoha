@@ -1,0 +1,78 @@
+{
+  "ids": {
+    "anilist": 204949,
+    "mal": 62518,
+    "tmdb": 1598785,
+    "tmdb_type": "movie",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Ginga Tokkyuu Milky☆Subway: Kakueki Teisha Gekijou Iki",
+    "english": "Milky☆Subway: The Galactic Limited Express – the Movie",
+    "native": "銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き",
+    "synonyms": [
+      "Milky☆Subway: The Galactic Limited Express Movie",
+      "Milky☆Subway: The Galactic Limited Express: Local Train to the Theater",
+      "Milky☆Subway: The Galactic Limited Express – film"
+    ],
+    "tmdb_title": "Milky☆Subway: The Galactic Limited Express - the Movie"
+  },
+  "format": "MOVIE",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 2026,
+  "episodes": 1,
+  "duration": 46,
+  "start_date": {
+    "year": 2026,
+    "month": 2,
+    "day": 6
+  },
+  "end_date": {
+    "year": 2026,
+    "month": 2,
+    "day": 6
+  },
+  "description": "Theatrical version of <i>Ginga Tokkyuu Milky☆Subway</i> with additional new scenes.\n<br><br>\nSix delinquents are tasked with cleaning a train as part of a community service program. But when the train suddenly takes off, chaos ensues.\n<br><br>\n(Source: Netflix)",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "tags": [],
+  "studios": [
+    "Shin-Ei Animation"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 62,
+  "popularity": 1537,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204949-aLHdk5zHtnXv.jpg",
+    "poster_color": "#1a6b50",
+    "banner": "https://image.tmdb.org/t/p/original/wG2VyZvBjXwuZUvqK00UcUNIpCG.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/p2wClSPUcs0NidsNBueaTBmGkJd.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/wG2VyZvBjXwuZUvqK00UcUNIpCG.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204949-aLHdk5zHtnXv.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/82703490"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 130,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-29T08:54:58.753Z",
+  "cache_version": 1
+}
