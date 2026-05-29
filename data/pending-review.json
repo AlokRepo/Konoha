@@ -1886,5 +1886,37 @@
     ],
     "added_at": "2026-05-29T09:27:19.936Z",
     "reason": "Score 55 is between 50–79 (below MEDIUM threshold of 80)"
+  },
+  {
+    "anilist_id": 102683,
+    "title": "MADONNA (Movie)",
+    "score": 75,
+    "confidence": "PENDING",
+    "candidates": [
+      {
+        "tmdb_id": 336054,
+        "title": "Madonna",
+        "score": 75,
+        "signals": []
+      }
+    ],
+    "added_at": "2026-05-29T09:29:02.604Z",
+    "reason": "Score 75 is between 50–79 (below MEDIUM threshold of 80)"
+  },
+  {
+    "anilist_id": 7027,
+    "title": "Manga",
+    "score": 55,
+    "confidence": "PENDING",
+    "candidates": [
+      {
+        "tmdb_id": 204833,
+        "title": "Manga Hajimete Monogatari",
+        "score": 55,
+        "signals": []
+      }
+    ],
+    "added_at": "2026-05-29T09:29:09.601Z",
+    "reason": "Score 55 is between 50–79 (below MEDIUM threshold of 80)"
   }
 ]
