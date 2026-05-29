@@ -14,7 +14,8 @@
     "synonyms": [
       "High School! Funny-face Club Movie",
       "Teenage Masked Tribe"
-    ]
+    ],
+    "tmdb_title": "High School! Funny-face Club Movie"
   },
   "format": "MOVIE",
   "status": "FINISHED",
@@ -47,12 +48,15 @@
   "producers": [],
   "source": "MANGA",
   "country": "JP",
-  "score_anilist": 58,
-  "popularity": 549,
+  "score_anilist": 57,
+  "popularity": 556,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5956-7BezyluLjUVS.jpg",
     "poster_color": "#e4d65d",
+    "banner": "https://image.tmdb.org/t/p/original/o9HyJ06kHZnW5aMuBYXVOiyuQk5.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/2kiushj0jnnnSGv96wuAHqDWVbN.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/o9HyJ06kHZnW5aMuBYXVOiyuQk5.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b5956-7BezyluLjUVS.jpg"
   },
   "streaming": [],
@@ -64,6 +68,6 @@
     "year_match",
     "format_match"
   ],
-  "cached_at": "2026-05-04T14:39:32.730Z",
+  "cached_at": "2026-05-29T09:33:24.564Z",
   "cache_version": 1
 }
