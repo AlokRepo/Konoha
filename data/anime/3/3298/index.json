@@ -57,7 +57,7 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 64,
-  "popularity": 5049,
+  "popularity": 5097,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3298.jpg",
@@ -67,7 +67,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/1lTqDqGs3kpW3DENHtS74PxlUYZ.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3298.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/hatenkou-yugi"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 160,
@@ -78,6 +83,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-04T02:13:52.165Z",
+  "cached_at": "2026-05-29T02:48:01.319Z",
   "cache_version": 1
 }
