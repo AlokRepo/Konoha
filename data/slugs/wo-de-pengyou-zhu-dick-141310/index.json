@@ -1,0 +1,75 @@
+{
+  "ids": {
+    "anilist": 141310,
+    "mal": 45097,
+    "tmdb": 321794,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Wo De Pengyou Zhu Dick",
+    "english": null,
+    "native": "我的朋友猪迪克",
+    "synonyms": [
+      "Dezico my friend",
+      "My Friend Dezico"
+    ],
+    "tmdb_title": "我的朋友猪迪克"
+  },
+  "format": "TV_SHORT",
+  "status": "FINISHED",
+  "episodes": 52,
+  "duration": 15,
+  "start_date": {
+    "year": 2014,
+    "month": 3,
+    "day": 17
+  },
+  "end_date": {
+    "year": 2014,
+    "month": 4,
+    "day": 21
+  },
+  "genres": [
+    "Adventure",
+    "Comedy"
+  ],
+  "tags": [],
+  "studios": [
+    "Pass Media"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "popularity": 37,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141310-kCv2Ivhsoirw.jpg",
+    "poster_color": "#e4ae43",
+    "banner": "https://image.tmdb.org/t/p/original/i3kMeBcUwuEjHJid5l6Qk4kUzvM.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/qBtwDIYXYxCsOtqtRYJACNN6XH8.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/i3kMeBcUwuEjHJid5l6Qk4kUzvM.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141310-kCv2Ivhsoirw.jpg"
+  },
+  "streaming": [
+    {
+      "site": "iQ",
+      "url": "https://www.iq.com/album/19rrgiai5p"
+    },
+    {
+      "site": "iQIYI",
+      "url": "https://www.iqiyi.com/a_19rrgiai5p.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-29T07:00:13.741Z",
+  "cache_version": 1
+}
