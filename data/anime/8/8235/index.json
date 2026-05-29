@@ -3,7 +3,7 @@
     "anilist": 8235,
     "mal": 8235,
     "anidb": 1008,
-    "tmdb": 68268,
+    "tmdb": 153494,
     "tmdb_type": "tv",
     "tmdb_season": null
   },
@@ -15,7 +15,7 @@
       "Shin Muumin",
       "New Moomin"
     ],
-    "tmdb_title": "Moomin"
+    "tmdb_title": "New Moomin"
   },
   "format": "TV",
   "status": "FINISHED",
@@ -50,25 +50,26 @@
   "source": "OTHER",
   "country": "JP",
   "score_anilist": 61,
-  "popularity": 1064,
+  "popularity": 1075,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8235.jpg",
     "poster_color": "#e4bb5d",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/8235-03awrBQ2r4fB.jpg",
-    "poster_tmdb": "https://image.tmdb.org/t/p/w780/1kEf1vblX2y5o8cBjMc28LqliQX.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/dSIIb6yIETGj6tfzW4tSZ5fhUww.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8235.jpg"
   },
   "streaming": [],
   "themes": [],
-  "confidence": "MEDIUM",
-  "match_score": 90,
+  "confidence": "HIGH",
+  "match_score": 160,
   "match_signals": [
-    "english_title",
-    "episode_close",
+    "exact_title",
+    "year_match",
+    "episode_exact",
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-04T03:55:33.201Z",
+  "cached_at": "2026-05-29T04:26:59.976Z",
   "cache_version": 1
 }
