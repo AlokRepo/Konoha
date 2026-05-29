@@ -58,8 +58,8 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 70,
-  "popularity": 50514,
-  "trending": 0,
+  "popularity": 51218,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx19951-kouyrYvcEyGP.jpg",
     "poster_color": "#ffae35",
@@ -72,6 +72,10 @@
     {
       "site": "Netflix",
       "url": "https://www.netflix.com/title/80108453"
+    },
+    {
+      "site": "AmasianTV",
+      "url": "https://amasian.tv/video/movies/hunterxhunter-thelastmission"
     }
   ],
   "themes": [],
@@ -83,6 +87,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T05:11:53.378Z",
+  "cached_at": "2026-05-29T07:15:13.389Z",
   "cache_version": 1
 }
