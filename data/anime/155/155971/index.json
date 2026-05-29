@@ -17,7 +17,8 @@
       "Nobles Paysans",
       "Hyakusho Kizoku: Aristocracia Rural",
       "Aristocracia campesina"
-    ]
+    ],
+    "tmdb_title": "Hyakusho Kizoku-the farmer's days"
   },
   "format": "TV_SHORT",
   "status": "FINISHED",
@@ -60,12 +61,14 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 64,
-  "popularity": 2322,
+  "popularity": 2355,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155971-2Ydtnn2lqrsU.jpg",
     "poster_color": "#d65d1a",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/155971-cH213XS3ro9k.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/gfaUr4Wan5BmJxoPOgX3S1lbXXu.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/17uNAe5wv1TGFWxRRiIyr7s3rIj.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155971-2Ydtnn2lqrsU.jpg"
   },
   "streaming": [
@@ -76,6 +79,10 @@
     {
       "site": "YouTube",
       "url": "https://www.youtube.com/playlist?list=PLhGamQZtJ7K9VVRwIG2-fgmS-mSrUAsVB"
+    },
+    {
+      "site": "Anime Digital Network",
+      "url": "https://animedigitalnetwork.fr/"
     }
   ],
   "themes": [],
@@ -86,6 +93,6 @@
     "year_match",
     "format_match"
   ],
-  "cached_at": "2026-05-04T05:38:39.006Z",
+  "cached_at": "2026-05-29T06:10:44.707Z",
   "cache_version": 1
 }
