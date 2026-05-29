@@ -4,7 +4,8 @@
     "mal": 57845,
     "anidb": 18412,
     "tmdb": 243743,
-    "tmdb_type": "tv"
+    "tmdb_type": "tv",
+    "tmdb_season": null
   },
   "titles": {
     "romaji": "Elf-san wa Yaserarenai.",
@@ -76,7 +77,7 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 52,
-  "popularity": 19081,
+  "popularity": 20005,
   "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173388-iPHxsekSIFpg.png",
@@ -94,6 +95,18 @@
     {
       "site": "Bilibili TV",
       "url": "https://www.bilibili.tv/en/media/2112427"
+    },
+    {
+      "site": "Akiba Pass TV",
+      "url": "https://akibapasstv.vhx.tv/"
+    },
+    {
+      "site": "Anime Digital Network",
+      "url": "https://animedigitalnetwork.fr/"
+    },
+    {
+      "site": "Bahamut Anime Crazy",
+      "url": "https://ani.gamer.com.tw/"
     }
   ],
   "themes": [],
@@ -106,6 +119,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T07:19:51.233Z",
+  "cached_at": "2026-05-29T05:49:53.465Z",
   "cache_version": 1
 }
