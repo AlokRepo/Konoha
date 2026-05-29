@@ -20,16 +20,20 @@
   "status": "NOT_YET_RELEASED",
   "season": "SUMMER",
   "season_year": 2026,
-  "episodes": 1,
+  "episodes": 3,
   "start_date": {
     "year": 2026,
     "month": 7,
-    "day": null
+    "day": 2
   },
   "end_date": {
     "year": null,
     "month": null,
     "day": null
+  },
+  "next_airing": {
+    "episode": 1,
+    "at": "2026-07-02T14:00:00.000Z"
   },
   "description": "The latest anime project in the <i>BanG Dream!</i> franchise, spotlighting the band members in Mugendai Mewtype.",
   "genres": [
@@ -48,7 +52,7 @@
   "producers": [],
   "source": "OTHER",
   "country": "JP",
-  "popularity": 1568,
+  "popularity": 1786,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198376-hFnAdwIcedY5.png",
@@ -65,14 +69,14 @@
     }
   ],
   "themes": [],
-  "confidence": "MEDIUM",
-  "match_score": 105,
+  "confidence": "HIGH",
+  "match_score": 130,
   "match_signals": [
     "exact_title",
+    "year_match",
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-19T03:36:20.081Z",
-  "cache_version": 1,
-  "next_airing": null
+  "cached_at": "2026-05-29T03:52:41.929Z",
+  "cache_version": 1
 }

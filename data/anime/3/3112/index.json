@@ -60,7 +60,7 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 39,
-  "popularity": 1841,
+  "popularity": 1874,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3112.jpg",
@@ -68,7 +68,12 @@
     "poster_tmdb": "https://image.tmdb.org/t/p/w780/1Q7NmfLCPAykNyZwFUhuMrIx9Fo.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3112.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/papillon-rose"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 135,
@@ -78,6 +83,6 @@
     "episode_exact",
     "format_match"
   ],
-  "cached_at": "2026-05-04T03:20:35.417Z",
+  "cached_at": "2026-05-29T03:49:41.469Z",
   "cache_version": 1
 }

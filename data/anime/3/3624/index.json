@@ -8,20 +8,75 @@
     "tmdb_season": null
   },
   "titles": {
+    "romaji": "Seimei no Kagaku: Micro Patrol",
+    "english": "Once Upon a Time... Life",
+    "native": "生命の科学ミクロパトロール",
+    "synonyms": [
+      "Il était une fois... la Vie",
+      "היה היה - החיים",
+      "Siamo fatti così",
+      "Było sobie życie",
+      "Era Uma Vez... a Vida",
+      "Érase una vez... La vida",
+      "Esplorando il corpo umano",
+      "كان ياماكان الحياة",
+      "Det var en gang... livet"
+    ],
     "tmdb_title": "Once Upon a Time... Life"
   },
+  "format": "TV",
+  "status": "FINISHED",
   "episodes": 26,
-  "genres": [],
-  "tags": [],
+  "duration": 24,
+  "start_date": {
+    "year": 1987,
+    "month": 9,
+    "day": 13
+  },
+  "end_date": {
+    "year": 1988,
+    "month": 3,
+    "day": 13
+  },
+  "description": "The series \"Once Upon a Time... Life\" teaches about the human body and about the different systems in it with the same characters from the other \"Once Upon a Time\" seasons. \"The good Characters\" represent the body's defense mechanisms, whereas \"the bad Characters\" represent the viruses and bacteria that threaten to attack the human body.<br><br>\n(Source: Wikipedia)",
+  "genres": [
+    "Adventure",
+    "Sci-Fi",
+    "Slice of Life"
+  ],
+  "tags": [
+    "Educational",
+    "Episodic",
+    "Nudity",
+    "Ensemble Cast",
+    "Kids",
+    "Teacher",
+    "Work"
+  ],
   "studios": [],
-  "producers": [],
+  "producers": [
+    "Procidis",
+    "Eiken"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 67,
+  "popularity": 1859,
+  "trending": 0,
   "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3624-UA6xrVgqsoPo.png",
+    "poster_color": "#f1a150",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/3624-AbOpmnom7Tbd.jpg",
     "poster_tmdb": "https://image.tmdb.org/t/p/w780/4YIxGmgVzRwbEmoQBsuWnr086Bw.jpg",
     "banner_tmdb": "https://image.tmdb.org/t/p/original/hzYU23r3lPOoscr9vus5aT50276.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/hzYU23r3lPOoscr9vus5aT50276.jpg",
-    "poster": "https://image.tmdb.org/t/p/w780/4YIxGmgVzRwbEmoQBsuWnr086Bw.jpg"
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx3624-UA6xrVgqsoPo.png"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 135,
@@ -31,6 +86,6 @@
     "episode_exact",
     "format_match"
   ],
-  "cached_at": "2026-05-04T03:19:56.527Z",
+  "cached_at": "2026-05-29T03:50:30.397Z",
   "cache_version": 1
 }

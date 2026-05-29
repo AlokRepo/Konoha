@@ -8,18 +8,62 @@
     "tmdb_season": null
   },
   "titles": {
+    "romaji": "Taiyou no Yuusha Fighbird",
+    "english": "Brave of the Sun Fighbird",
+    "native": "太陽の勇者ファイバード",
+    "synonyms": [
+      "Brave Hero of the Sun",
+      "Firebird",
+      "Burning Brave Hero Firebird",
+      "Sun Brave Fyvard"
+    ],
     "tmdb_title": "The Brave of the Sun Fighbird"
   },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "WINTER",
+  "season_year": 1991,
   "episodes": 48,
-  "genres": [],
-  "tags": [],
-  "studios": [],
-  "producers": [],
+  "duration": 23,
+  "start_date": {
+    "year": 1991,
+    "month": 2,
+    "day": 2
+  },
+  "end_date": {
+    "year": 1992,
+    "month": 2,
+    "day": 1
+  },
+  "description": "In 2010, an evil Minus-Energy Lifeform called Draias has made his way to Earth, and allies himself with an evil scientist known as Dr Jango to create chaos and ruin the planet. A unit dispatched from the peacekeeping Space Police Force follows him to Earth, and their leader Fighbird inhabits the body of an advanced android built by Dr. Hiroshi Amano, becoming Yuutarou Katori. Katori and his team, inhabiting various Earth vehicles and accompanied by Dr. Amano's grandchildren Kenta and Haruka, fight against Draias's forces while adapting to life on Earth.<br><br>\n\n(Source: Brave Series Wiki)",
+  "genres": [
+    "Action",
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "tags": [
+    "Super Robot"
+  ],
+  "studios": [
+    "Sunrise",
+    "Sunrise"
+  ],
+  "producers": [
+    "Tokyu Agency",
+    "Nagoya TV Housou"
+  ],
+  "source": "ORIGINAL",
+  "country": "JP",
+  "score_anilist": 69,
+  "popularity": 1898,
+  "trending": 0,
   "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4532-yWo6gZ4F7Mex.jpg",
+    "poster_color": "#f1ae43",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n4532-2U4bIAOayYT7.jpg",
     "poster_tmdb": "https://image.tmdb.org/t/p/w780/fI8b4B6su8ddBYFvtYMFfg6HXkS.jpg",
     "banner_tmdb": "https://image.tmdb.org/t/p/original/5s09yRAEFYZSGjmUg2gC3YYR40H.jpg",
-    "banner": "https://image.tmdb.org/t/p/original/5s09yRAEFYZSGjmUg2gC3YYR40H.jpg",
-    "poster": "https://image.tmdb.org/t/p/w780/fI8b4B6su8ddBYFvtYMFfg6HXkS.jpg"
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx4532-yWo6gZ4F7Mex.jpg"
   },
   "streaming": [],
   "themes": [],
@@ -31,6 +75,6 @@
     "episode_exact",
     "format_match"
   ],
-  "cached_at": "2026-05-04T03:19:22.004Z",
+  "cached_at": "2026-05-29T03:49:09.315Z",
   "cache_version": 1
 }
