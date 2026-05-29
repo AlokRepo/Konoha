@@ -52,7 +52,7 @@
   "source": "VIDEO_GAME",
   "country": "JP",
   "score_anilist": 48,
-  "popularity": 8608,
+  "popularity": 8747,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21612-d5zrx9CWkxNl.png",
@@ -62,7 +62,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/dGplXovAEoS8yWUIzcJlmcAjs9S.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21612-d5zrx9CWkxNl.png"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/onigiri"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 135,
@@ -72,6 +77,6 @@
     "episode_exact",
     "format_match"
   ],
-  "cached_at": "2026-05-03T09:07:37.960Z",
+  "cached_at": "2026-05-29T05:54:50.019Z",
   "cache_version": 1
 }
