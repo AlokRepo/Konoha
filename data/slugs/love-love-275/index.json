@@ -40,6 +40,7 @@
     "Female Harem",
     "Cosplay",
     "Male Protagonist",
+    "Primarily Teen Cast",
     "Heterosexual",
     "Acting",
     "Ensemble Cast"
@@ -54,7 +55,7 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 52,
-  "popularity": 4318,
+  "popularity": 4406,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/275.jpg",
@@ -64,7 +65,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/c6WE7PWioZYqyl0UbGBbCF4E8Jz.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/275.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/love-love"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 160,
@@ -75,6 +81,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-04T05:23:18.743Z",
+  "cached_at": "2026-05-29T06:02:01.772Z",
   "cache_version": 1
 }
