@@ -39,7 +39,7 @@
   "studios": [],
   "producers": [],
   "country": "KR",
-  "popularity": 149,
+  "popularity": 151,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/19501.jpg",
@@ -49,13 +49,14 @@
   },
   "streaming": [],
   "themes": [],
-  "confidence": "MEDIUM",
-  "match_score": 105,
+  "confidence": "HIGH",
+  "match_score": 135,
   "match_signals": [
     "exact_title",
     "year_match",
+    "episode_exact",
     "format_match"
   ],
-  "cached_at": "2026-05-04T05:08:06.202Z",
+  "cached_at": "2026-05-29T05:34:54.632Z",
   "cache_version": 1
 }
