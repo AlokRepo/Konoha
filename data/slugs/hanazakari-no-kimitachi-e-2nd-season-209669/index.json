@@ -18,16 +18,22 @@
   },
   "format": "TV",
   "status": "NOT_YET_RELEASED",
+  "season": "SUMMER",
+  "season_year": 2026,
   "episodes": 12,
   "start_date": {
-    "year": null,
-    "month": null,
-    "day": null
+    "year": 2026,
+    "month": 7,
+    "day": 2
   },
   "end_date": {
     "year": null,
     "month": null,
     "day": null
+  },
+  "next_airing": {
+    "episode": 1,
+    "at": "2026-07-01T15:30:00.000Z"
   },
   "description": "The second season of <i>Hanazakari no Kimitachi e</i>.",
   "genres": [
@@ -37,12 +43,16 @@
     "Slice of Life"
   ],
   "tags": [],
-  "studios": [],
-  "producers": [],
+  "studios": [
+    "Signal.MD"
+  ],
+  "producers": [
+    "Aniplex"
+  ],
   "source": "MANGA",
   "country": "JP",
-  "popularity": 1668,
-  "trending": 0,
+  "popularity": 1856,
+  "trending": 2,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b209669-bEc1RhQelnWT.jpg",
     "poster_color": "#f15d86",
@@ -53,13 +63,14 @@
   },
   "streaming": [],
   "themes": [],
-  "confidence": "MEDIUM",
-  "match_score": 80,
+  "confidence": "HIGH",
+  "match_score": 130,
   "match_signals": [
     "exact_title",
-    "format_match"
+    "year_match",
+    "format_match",
+    "studio_match"
   ],
-  "cached_at": "2026-05-19T03:36:20.081Z",
-  "cache_version": 1,
-  "next_airing": null
+  "cached_at": "2026-05-29T03:50:44.191Z",
+  "cache_version": 1
 }
