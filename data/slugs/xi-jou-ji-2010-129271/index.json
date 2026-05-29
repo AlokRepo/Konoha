@@ -1,0 +1,73 @@
+{
+  "ids": {
+    "anilist": 129271,
+    "tmdb": 195327,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Xi Jou Ji (2010)",
+    "english": null,
+    "native": "西游记",
+    "synonyms": [
+      "新西游记",
+      "Monkey, Monk and the Monsters Go west"
+    ],
+    "tmdb_title": "Monkey,Monk and the Monsters Go West"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "episodes": 52,
+  "duration": 24,
+  "start_date": {
+    "year": 2010,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": null,
+    "month": null,
+    "day": null
+  },
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [],
+  "source": "OTHER",
+  "country": "CN",
+  "popularity": 52,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b129271-EWQCatPwP8lT.jpg",
+    "poster_color": "#e4a143",
+    "banner": "https://image.tmdb.org/t/p/original/r4TBZZIzns30kvwuFa4PBNrhcpY.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/fJx4Erq7yNnO0lOHtFclWxFFsBC.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/r4TBZZIzns30kvwuFa4PBNrhcpY.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b129271-EWQCatPwP8lT.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/k/kbqel5p2x7nu0b3.html"
+    },
+    {
+      "site": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLipQYcGwGGrQGHTCz6UQjGzEHNjlAeEzw"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-29T05:39:28.095Z",
+  "cache_version": 1
+}

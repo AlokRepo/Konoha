@@ -1,0 +1,67 @@
+{
+  "ids": {
+    "anilist": 129654,
+    "tmdb": 117614,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Ba Xian Guo Hai",
+    "english": null,
+    "native": "八仙过海",
+    "synonyms": [],
+    "tmdb_title": "八仙过海"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "episodes": 10,
+  "duration": 18,
+  "start_date": {
+    "year": 2019,
+    "month": null,
+    "day": null
+  },
+  "end_date": {
+    "year": 2019,
+    "month": null,
+    "day": null
+  },
+  "genres": [
+    "Adventure",
+    "Fantasy"
+  ],
+  "tags": [],
+  "studios": [],
+  "producers": [
+    "Golden Eagle Cartoon"
+  ],
+  "source": "OTHER",
+  "country": "CN",
+  "popularity": 57,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129654-pyMPqpAk7sML.png",
+    "poster_color": "#5daee4",
+    "banner": "https://image.tmdb.org/t/p/original/XeNTwnBzI7FO7DEpUMyreQUKSB.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/6JTRQ8pQrRtbCwo7q9dwz35Cf6F.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/XeNTwnBzI7FO7DEpUMyreQUKSB.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129654-pyMPqpAk7sML.png"
+  },
+  "streaming": [
+    {
+      "site": "Tencent Video",
+      "url": "https://v.qq.com/detail/4/4ye0teozcs7fbm7.html"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-29T05:39:20.219Z",
+  "cache_version": 1
+}
