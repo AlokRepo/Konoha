@@ -51,13 +51,13 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 65,
-  "popularity": 6444,
+  "popularity": 6571,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx538-yPo9msL7L6sm.png",
     "poster_color": "#e4ae5d",
     "banner": "https://image.tmdb.org/t/p/original/5hWwHMCln3N7APZOajZ6cTe4llG.jpg",
-    "poster_tmdb": "https://image.tmdb.org/t/p/w780/4IrO5vNH7UVvMWVbJSe4L2Afhee.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/ondbDAONV4e4x6rcY88GeR5kLGK.jpg",
     "banner_tmdb": "https://image.tmdb.org/t/p/original/5hWwHMCln3N7APZOajZ6cTe4llG.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx538-yPo9msL7L6sm.png"
   },
@@ -65,6 +65,10 @@
     {
       "site": "Hulu",
       "url": "http://www.hulu.com/tenchi-in-tokyo"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-274313"
     }
   ],
   "themes": [],
@@ -76,6 +80,6 @@
     "episode_exact",
     "format_match"
   ],
-  "cached_at": "2026-05-04T01:55:45.745Z",
+  "cached_at": "2026-05-29T02:34:32.765Z",
   "cache_version": 1
 }
