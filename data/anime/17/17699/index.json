@@ -57,7 +57,7 @@
   "producers": [],
   "country": "JP",
   "score_anilist": 66,
-  "popularity": 1858,
+  "popularity": 1878,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/n17699-AemUkaxHWeiq.jpg",
@@ -82,14 +82,13 @@
     }
   ],
   "themes": [],
-  "confidence": "HIGH",
-  "match_score": 130,
+  "confidence": "MEDIUM",
+  "match_score": 105,
   "match_signals": [
     "exact_title",
     "year_match",
-    "format_match",
-    "studio_match"
+    "format_match"
   ],
-  "cached_at": "2026-05-04T07:41:49.615Z",
+  "cached_at": "2026-05-29T08:47:32.631Z",
   "cache_version": 1
 }

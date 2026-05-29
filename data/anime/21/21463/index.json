@@ -1,8 +1,8 @@
 {
   "ids": {
     "anilist": 21463,
-    "tmdb": 72838,
-    "tmdb_type": "tv",
+    "tmdb": 377885,
+    "tmdb_type": "movie",
     "tmdb_season": null
   },
   "titles": {
@@ -49,25 +49,26 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 59,
-  "popularity": 1794,
+  "popularity": 1803,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21463-JfkwWZ145By6.jpg",
     "poster_color": "#e4785d",
-    "banner": "https://image.tmdb.org/t/p/original/cl02js42cItpcdZ2KhErG4eefEd.jpg",
-    "poster_tmdb": "https://image.tmdb.org/t/p/w780/ytpIB5O3yYFJe1R6K3JCjq2Q074.jpg",
-    "banner_tmdb": "https://image.tmdb.org/t/p/original/cl02js42cItpcdZ2KhErG4eefEd.jpg",
+    "banner": "https://image.tmdb.org/t/p/original/3k7YKMr8uW8sQotF7fRmktFDizZ.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/jhpkz1XJVmoBMv6OGWli1EdhbpA.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/3k7YKMr8uW8sQotF7fRmktFDizZ.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21463-JfkwWZ145By6.jpg"
   },
   "streaming": [],
   "themes": [],
-  "confidence": "MEDIUM",
-  "match_score": 80,
+  "confidence": "HIGH",
+  "match_score": 130,
   "match_signals": [
     "exact_title",
     "year_match",
+    "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-04T07:44:27.866Z",
+  "cached_at": "2026-05-29T08:49:02.056Z",
   "cache_version": 1
 }
