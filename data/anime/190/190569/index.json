@@ -21,16 +21,20 @@
   "status": "NOT_YET_RELEASED",
   "season": "SUMMER",
   "season_year": 2026,
-  "episodes": 1,
+  "episodes": 2,
   "start_date": {
     "year": 2026,
     "month": 7,
-    "day": null
+    "day": 4
   },
   "end_date": {
     "year": null,
     "month": null,
     "day": null
+  },
+  "next_airing": {
+    "episode": 1,
+    "at": "2026-07-04T14:00:00.000Z"
   },
   "description": "Eight centuries ago, in the latter days of the Islamic golden age, a young girl arrived in the Khwarazmian city of Tus. She was a slave. But she learned. \n<BR><BR>\nEight centuries ago, the Mongols blazed across the map, swept Khwarazm into the ash heap of history, and took all they desired from the ruins. They took the girl who learned. \n<BR><BR>\nSo begins the true story of how a “witch,” wielding knowledge as her only weapon, came to hold the greatest empire the world has ever known in the palm of her hand…\n<BR><BR>\n(Source: Yen Press)",
   "genres": [
@@ -56,25 +60,26 @@
   ],
   "source": "MANGA",
   "country": "JP",
-  "popularity": 10106,
-  "trending": 1,
+  "popularity": 10398,
+  "trending": 2,
   "images": {
-    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190569-OUDdG2zckpML.png",
-    "poster_color": "#e4935d",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190569-xkFjq9u9IeSr.jpg",
+    "poster_color": "#50a1e4",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190569-fQrApHKs9PIz.jpg",
     "poster_tmdb": "https://image.tmdb.org/t/p/w780/qM2OERfAx06ptCUF8zSClQTwlJ7.jpg",
     "banner_tmdb": "https://image.tmdb.org/t/p/original/6AoGMlKo2DUsYWiF5zzjdRERCVi.jpg",
-    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190569-OUDdG2zckpML.png"
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190569-xkFjq9u9IeSr.jpg"
   },
   "streaming": [],
   "themes": [],
-  "confidence": "MEDIUM",
-  "match_score": 105,
+  "confidence": "HIGH",
+  "match_score": 130,
   "match_signals": [
     "exact_title",
+    "year_match",
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-24T09:40:36.848Z",
+  "cached_at": "2026-05-29T02:10:57.989Z",
   "cache_version": 1
 }
