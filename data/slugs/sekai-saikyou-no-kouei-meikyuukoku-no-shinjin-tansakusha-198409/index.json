@@ -20,16 +20,20 @@
   "status": "NOT_YET_RELEASED",
   "season": "SUMMER",
   "season_year": 2026,
-  "episodes": 12,
+  "episodes": 1,
   "start_date": {
     "year": 2026,
     "month": 7,
-    "day": null
+    "day": 5
   },
   "end_date": {
     "year": null,
     "month": null,
     "day": null
+  },
+  "next_airing": {
+    "episode": 1,
+    "at": "2026-07-05T13:00:00.000Z"
   },
   "description": "Corporate slave Arihito Atobe's death in a freak bus accident marks the beginning of his new life as a kind of adventurer called a Seeker. Reborn into a fantasy world, he settles into a previously unknown job class called \"rearguard,\" capable of providing his (all-female) party with critical attack, defense, and recovery support. And it comes with an added bonus: Simply being at the back of the party line increases his companions' fondness for him! Freed from the shackles of corporate life, Arihito is eager to start fresh as a newly minted Seeker!\n<br><br>\n(Source: Yen Press)",
   "genres": [
@@ -44,23 +48,24 @@
   "producers": [],
   "source": "LIGHT_NOVEL",
   "country": "JP",
-  "popularity": 2516,
-  "trending": 0,
+  "popularity": 3126,
+  "trending": 1,
   "images": {
-    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198409-ag25bTos7SO1.jpg",
-    "poster_color": "#f1f15d",
-    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198409-ag25bTos7SO1.jpg"
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198409-EiWJXfYnvfu4.png",
+    "poster_color": "#0dbbfe",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/oYVBc1fUzPNrBSrfOLSCSd9BYjL.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198409-EiWJXfYnvfu4.png"
   },
   "streaming": [],
   "themes": [],
-  "confidence": "MEDIUM",
-  "match_score": 105,
+  "confidence": "HIGH",
+  "match_score": 130,
   "match_signals": [
     "exact_title",
+    "year_match",
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-19T03:36:20.081Z",
-  "cache_version": 1,
-  "next_airing": null
+  "cached_at": "2026-05-29T03:09:27.424Z",
+  "cache_version": 1
 }
