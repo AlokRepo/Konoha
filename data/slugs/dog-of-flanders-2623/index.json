@@ -15,7 +15,8 @@
       "劇場版 フランダースの犬",
       "Dog of Flanders Movie",
       "Niklaas: Der Junge aus "
-    ]
+    ],
+    "tmdb_title": "The Dog of Flanders"
   },
   "format": "MOVIE",
   "status": "FINISHED",
@@ -60,7 +61,7 @@
   "source": "OTHER",
   "country": "JP",
   "score_anilist": 74,
-  "popularity": 6295,
+  "popularity": 6359,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2623-PQhbDjaUfnpd.jpg",
@@ -72,13 +73,14 @@
   },
   "streaming": [],
   "themes": [],
-  "confidence": "MEDIUM",
-  "match_score": 105,
+  "confidence": "HIGH",
+  "match_score": 130,
   "match_signals": [
     "exact_title",
     "year_match",
-    "format_match"
+    "format_match",
+    "studio_match"
   ],
-  "cached_at": "2026-05-04T18:16:17.856Z",
+  "cached_at": "2026-05-29T08:04:00.171Z",
   "cache_version": 1
 }
