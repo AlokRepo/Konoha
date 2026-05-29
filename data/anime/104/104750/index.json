@@ -52,7 +52,7 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 40,
-  "popularity": 3414,
+  "popularity": 3434,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104750-zI6jd72AGCCL.png",
@@ -62,7 +62,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/hmMPTi0lcE7DFeahK7j6UiECeQR.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104750-zI6jd72AGCCL.png"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/dimension-high-school"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 135,
@@ -72,6 +77,6 @@
     "episode_exact",
     "format_match"
   ],
-  "cached_at": "2026-05-04T02:37:34.525Z",
+  "cached_at": "2026-05-29T03:05:32.707Z",
   "cache_version": 1
 }
