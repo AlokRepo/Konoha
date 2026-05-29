@@ -2,7 +2,7 @@
   "ids": {
     "anilist": 148149,
     "mal": 51716,
-    "tmdb": 968868,
+    "tmdb": 968870,
     "tmdb_type": "movie",
     "tmdb_season": 1
   },
@@ -13,7 +13,7 @@
     "synonyms": [
       "Bishoujo Senshi Sailor Moon Cosmos Part 1"
     ],
-    "tmdb_title": "Pretty Guardian Sailor Moon Cosmos the Movie Part 1"
+    "tmdb_title": "Pretty Guardian Sailor Moon Cosmos the Movie Part 2"
   },
   "format": "MOVIE",
   "status": "FINISHED",
@@ -76,14 +76,14 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 76,
-  "popularity": 6322,
+  "popularity": 6455,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx148149-BevkRzKDtNIx.png",
     "poster_color": "#3578f1",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/148149-dVUcKlezzLG0.jpg",
-    "poster_tmdb": "https://image.tmdb.org/t/p/w780/7fwVpF5gXnFkfM5FyhFRMt199n2.jpg",
-    "banner_tmdb": "https://image.tmdb.org/t/p/original/so1c3Mz6UpPf6DtOakAPafnlatQ.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/2xo26JW8YOunPhWKPHwpLuW5HQz.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/fXuFJB4UJ2HmEi42aF23S7OvSoH.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx148149-BevkRzKDtNIx.png"
   },
   "streaming": [
@@ -93,14 +93,14 @@
     }
   ],
   "themes": [],
-  "confidence": "HIGH",
-  "match_score": 130,
+  "confidence": "MEDIUM",
+  "match_score": 85,
   "match_signals": [
-    "exact_title",
+    "synonyms_match",
     "year_match",
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-04T18:16:08.461Z",
+  "cached_at": "2026-05-29T08:03:44.934Z",
   "cache_version": 1
 }
