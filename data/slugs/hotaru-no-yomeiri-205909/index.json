@@ -45,15 +45,15 @@
     "Prostitution"
   ],
   "studios": [
-    "David Production"
+    "david production"
   ],
   "producers": [
     "Fuji TV"
   ],
   "source": "MANGA",
   "country": "JP",
-  "popularity": 6697,
-  "trending": 0,
+  "popularity": 7352,
+  "trending": 2,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205909-DM0fAzNQulod.jpg",
     "poster_color": "#aebb35",
@@ -66,10 +66,9 @@
   "match_score": 105,
   "match_signals": [
     "exact_title",
-    "year_match",
-    "format_match"
+    "format_match",
+    "studio_match"
   ],
-  "cached_at": "2026-05-19T03:36:20.081Z",
-  "cache_version": 1,
-  "next_airing": null
+  "cached_at": "2026-05-29T02:30:24.162Z",
+  "cache_version": 1
 }

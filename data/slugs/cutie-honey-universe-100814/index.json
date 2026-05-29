@@ -60,7 +60,7 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 51,
-  "popularity": 7106,
+  "popularity": 7204,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100814-Np7VQLyDRjor.jpg",
@@ -70,7 +70,16 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/3bwrHHyUg1PLxEaEQX1vz0S2IJL.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100814-Np7VQLyDRjor.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-283424"
+    },
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/cutie-honey-universe"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 135,
@@ -80,6 +89,6 @@
     "episode_exact",
     "format_match"
   ],
-  "cached_at": "2026-05-03T09:35:12.380Z",
+  "cached_at": "2026-05-29T02:31:22.882Z",
   "cache_version": 1
 }
