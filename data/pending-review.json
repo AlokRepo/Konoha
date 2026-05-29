@@ -2798,5 +2798,37 @@
     ],
     "added_at": "2026-05-29T10:58:37.515Z",
     "reason": "Score 59 is between 50–79 (below MEDIUM threshold of 80)"
+  },
+  {
+    "anilist_id": 106567,
+    "title": "The Fall",
+    "score": 55,
+    "confidence": "PENDING",
+    "candidates": [
+      {
+        "tmdb_id": 49010,
+        "title": "The Fall",
+        "score": 55,
+        "signals": []
+      }
+    ],
+    "added_at": "2026-05-29T11:03:42.238Z",
+    "reason": "Score 55 is between 50–79 (below MEDIUM threshold of 80)"
+  },
+  {
+    "anilist_id": 106551,
+    "title": "Ryou",
+    "score": 75,
+    "confidence": "PENDING",
+    "candidates": [
+      {
+        "tmdb_id": 113067,
+        "title": "Hey! Ryouma",
+        "score": 75,
+        "signals": []
+      }
+    ],
+    "added_at": "2026-05-29T11:05:11.475Z",
+    "reason": "Score 75 is between 50–79 (below MEDIUM threshold of 80)"
   }
 ]
