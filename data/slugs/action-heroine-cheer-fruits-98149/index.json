@@ -51,7 +51,7 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 61,
-  "popularity": 5063,
+  "popularity": 5097,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98149-ec0IsQtL4Yom.jpg",
@@ -61,7 +61,16 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/v7od0Tzsing9Dm1fD4giGVn9syK.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98149-ec0IsQtL4Yom.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-277140"
+    },
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/action-heroine-cheer-fruits"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 160,
@@ -72,6 +81,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-04T02:13:39.429Z",
+  "cached_at": "2026-05-29T02:48:05.518Z",
   "cache_version": 1
 }
