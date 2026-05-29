@@ -46,8 +46,8 @@
   "producers": [],
   "source": "ORIGINAL",
   "country": "JP",
-  "score_anilist": 55,
-  "popularity": 7340,
+  "score_anilist": 56,
+  "popularity": 7394,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21250-2xDUOlMSBAUJ.jpg",
@@ -57,7 +57,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/ytTgTcy42U4yZ7KcnKBVNJgGbRk.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21250-2xDUOlMSBAUJ.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/classicaloid"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 130,
@@ -67,6 +72,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-03T09:29:57.935Z",
+  "cached_at": "2026-05-29T02:29:54.064Z",
   "cache_version": 1
 }
