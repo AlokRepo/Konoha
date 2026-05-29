@@ -51,7 +51,7 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 56,
-  "popularity": 4337,
+  "popularity": 4368,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21440-CmsSHryWcxip.jpg",
@@ -61,7 +61,16 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/rOpszHrXW2rZESypWvcbOqKy42i.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/21440-CmsSHryWcxip.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-269065"
+    },
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/nurse-witch-komugi-chan-r"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 160,
@@ -72,6 +81,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-04T02:24:03.608Z",
+  "cached_at": "2026-05-29T02:55:11.633Z",
   "cache_version": 1
 }
