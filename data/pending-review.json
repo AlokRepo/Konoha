@@ -2030,5 +2030,37 @@
     ],
     "added_at": "2026-05-29T09:44:38.108Z",
     "reason": "Score 55 is between 50–79 (below MEDIUM threshold of 80)"
+  },
+  {
+    "anilist_id": 5299,
+    "title": "Coffee Tadaiku",
+    "score": 75,
+    "confidence": "PENDING",
+    "candidates": [
+      {
+        "tmdb_id": 1191948,
+        "title": "Coffee Break",
+        "score": 75,
+        "signals": []
+      }
+    ],
+    "added_at": "2026-05-29T09:48:22.962Z",
+    "reason": "Score 75 is between 50–79 (below MEDIUM threshold of 80)"
+  },
+  {
+    "anilist_id": 6830,
+    "title": "Hinomaru Hatanosuke: Inazuma-gumi Tobatsu no Maki",
+    "score": 61,
+    "confidence": "PENDING",
+    "candidates": [
+      {
+        "tmdb_id": 319177,
+        "title": "Hinomaru Hatanosuke Takes Down the Inazuma Gang",
+        "score": 61,
+        "signals": []
+      }
+    ],
+    "added_at": "2026-05-29T09:48:29.980Z",
+    "reason": "Score 61 is between 50–79 (below MEDIUM threshold of 80)"
   }
 ]
