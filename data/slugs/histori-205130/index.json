@@ -16,10 +16,12 @@
   },
   "format": "TV",
   "status": "NOT_YET_RELEASED",
+  "season": "WINTER",
+  "season_year": 2027,
   "episodes": 1,
   "start_date": {
-    "year": null,
-    "month": null,
+    "year": 2027,
+    "month": 1,
     "day": null
   },
   "end_date": {
@@ -44,14 +46,15 @@
   ],
   "source": "MANGA",
   "country": "JP",
-  "popularity": 2112,
-  "trending": 0,
+  "popularity": 2470,
+  "trending": 1,
   "images": {
-    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205130-0cH9SpPcEHSh.png",
-    "poster_color": "#1a5078",
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205130-dC5WuIvGMMgr.png",
+    "poster_color": "#e4ae5d",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/205130-BDtd2yGv1a7O.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/6Sm71Pp2LVLvQUKGtRPK3cFnSah.jpg",
     "banner_tmdb": "https://image.tmdb.org/t/p/original/4cc6S9jK5AoyXWFA3NBMvixuNIR.jpg",
-    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205130-0cH9SpPcEHSh.png"
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205130-dC5WuIvGMMgr.png"
   },
   "streaming": [],
   "themes": [],
@@ -62,7 +65,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-19T03:36:20.081Z",
-  "cache_version": 1,
-  "next_airing": null
+  "cached_at": "2026-05-29T03:20:32.349Z",
+  "cache_version": 1
 }
