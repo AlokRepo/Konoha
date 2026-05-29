@@ -52,8 +52,8 @@
   ],
   "source": "OTHER",
   "country": "JP",
-  "score_anilist": 60,
-  "popularity": 2466,
+  "score_anilist": 61,
+  "popularity": 2512,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1693-ezouSDDTFY2C.jpg",
@@ -62,7 +62,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/o0IPvXGFVBGldyT4vxfZ53TootN.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1693-ezouSDDTFY2C.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "HIDIVE",
+      "url": "https://www.hidive.com/tv/reideen"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 160,
@@ -73,6 +78,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-04T03:01:02.393Z",
+  "cached_at": "2026-05-29T03:19:41.378Z",
   "cache_version": 1
 }
