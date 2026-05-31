@@ -3,7 +3,7 @@
     "anilist": 10741,
     "mal": 10741,
     "anidb": 7694,
-    "tmdb": 278657,
+    "tmdb": 322120,
     "tmdb_type": "tv",
     "tmdb_season": null
   },
@@ -12,7 +12,7 @@
     "english": null,
     "native": "仁義",
     "synonyms": [],
-    "tmdb_title": "百日の薔薇 仁義なき肉球編"
+    "tmdb_title": "Jingi"
   },
   "format": "OVA",
   "status": "FINISHED",
@@ -42,26 +42,26 @@
   "producers": [],
   "source": "MANGA",
   "country": "JP",
-  "score_mal": 6.06,
-  "popularity": 326,
+  "score_mal": 6.13,
+  "popularity": 332,
   "trending": 0,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10741.jpg",
     "poster_color": "#e43550",
-    "banner": "https://image.tmdb.org/t/p/original/vbJXjLydYGLiyzalkQyBp1wBB0U.jpg",
-    "poster_tmdb": "https://image.tmdb.org/t/p/w780/moO3UBEr9Cera214tgP1CgZx3kE.jpg",
-    "banner_tmdb": "https://image.tmdb.org/t/p/original/vbJXjLydYGLiyzalkQyBp1wBB0U.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/1BK67o8WblYZIAUxUOfLVdiMdJX.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/10741.jpg"
   },
   "streaming": [],
   "themes": [],
-  "confidence": "MEDIUM",
-  "match_score": 105,
+  "confidence": "HIGH",
+  "match_score": 160,
   "match_signals": [
     "exact_title",
+    "year_match",
     "episode_exact",
-    "format_match"
+    "format_match",
+    "studio_match"
   ],
-  "cached_at": "2026-05-05T05:25:25.427Z",
+  "cached_at": "2026-05-29T20:54:46.125Z",
   "cache_version": 1
 }
