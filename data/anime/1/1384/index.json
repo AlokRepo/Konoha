@@ -69,8 +69,8 @@
   "source": "ORIGINAL",
   "country": "JP",
   "score_anilist": 65,
-  "popularity": 6586,
-  "trending": 0,
+  "popularity": 6683,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1384-BQKMLYCYwKjc.png",
     "poster_color": "#93431a",
@@ -94,14 +94,13 @@
     }
   ],
   "themes": [],
-  "confidence": "HIGH",
-  "match_score": 135,
+  "confidence": "MEDIUM",
+  "match_score": 105,
   "match_signals": [
     "exact_title",
     "year_match",
-    "episode_exact",
     "format_match"
   ],
-  "cached_at": "2026-05-05T03:09:19.016Z",
+  "cached_at": "2026-05-29T18:51:46.160Z",
   "cache_version": 1
 }
