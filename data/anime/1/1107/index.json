@@ -3,8 +3,8 @@
     "anilist": 1107,
     "mal": 1107,
     "anidb": 1040,
-    "tmdb": 21453,
-    "tmdb_type": "movie",
+    "tmdb": 214845,
+    "tmdb_type": "tv",
     "tmdb_season": null
   },
   "titles": {
@@ -19,7 +19,7 @@
       "La città delle bestie incantatrici",
       "요수도시"
     ],
-    "tmdb_title": "Wicked City"
+    "tmdb_title": "妖獣都市"
   },
   "format": "MOVIE",
   "status": "FINISHED",
@@ -73,13 +73,12 @@
   "country": "JP",
   "score_anilist": 61,
   "popularity": 19174,
-  "trending": 0,
+  "trending": 1,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx1107-YRi1VB2Y80g3.png",
     "poster_color": "#1a93d6",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n1107-UBCtRLTeFSdp.jpg",
-    "poster_tmdb": "https://image.tmdb.org/t/p/w780/aFtLwGv6pcqO72M1v5iQYZOCkZ5.jpg",
-    "banner_tmdb": "https://image.tmdb.org/t/p/original/rmhhTF2fr8w6iNh8KHNi6EqWLZv.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/pln4X2U0rx1RRiSBUYU1tNf006G.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx1107-YRi1VB2Y80g3.png"
   },
   "streaming": [
@@ -101,14 +100,13 @@
     }
   ],
   "themes": [],
-  "confidence": "HIGH",
-  "match_score": 130,
+  "confidence": "MEDIUM",
+  "match_score": 105,
   "match_signals": [
     "exact_title",
     "year_match",
-    "format_match",
-    "studio_match"
+    "episode_exact"
   ],
-  "cached_at": "2026-05-29T07:40:13.766Z",
+  "cached_at": "2026-05-29T12:40:50.409Z",
   "cache_version": 1
 }
