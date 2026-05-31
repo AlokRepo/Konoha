@@ -69,7 +69,12 @@
     "banner_tmdb": "https://image.tmdb.org/t/p/original/ysGlU8I7wkO7GSYtqVYDDfHGGeZ.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1681-G12LPkws93Ub.jpg"
   },
-  "streaming": [],
+  "streaming": [
+    {
+      "site": "Crunchyroll",
+      "url": "http://www.crunchyroll.com/series-282041"
+    }
+  ],
   "themes": [],
   "confidence": "HIGH",
   "match_score": 130,
@@ -79,6 +84,6 @@
     "format_match",
     "studio_match"
   ],
-  "cached_at": "2026-05-29T07:54:54.185Z",
+  "cached_at": "2026-05-29T12:54:37.158Z",
   "cache_version": 1
 }
