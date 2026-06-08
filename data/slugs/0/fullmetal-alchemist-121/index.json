@@ -1,0 +1,117 @@
+{
+  "ids": {
+    "anilist": 121,
+    "mal": 121,
+    "anidb": 979,
+    "tmdb": 37863,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Hagane no Renkinjutsushi",
+    "english": "Fullmetal Alchemist",
+    "native": "鋼の錬金術師",
+    "synonyms": [
+      "Full Metal Alchemist",
+      "FMA",
+      "אלכימאי המתכת",
+      "Stalowy alchemik",
+      "강철의 연금술사",
+      "แขนกล คนแปรธาตุ",
+      "鋼之鍊金術師",
+      "钢之炼金术师",
+      "Железният Алхимик",
+      "Сталевий алхімік",
+      "Стальной Алхимик"
+    ],
+    "tmdb_title": "Fullmetal Alchemist"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2003,
+  "episodes": 51,
+  "duration": 25,
+  "start_date": {
+    "year": 2003,
+    "month": 10,
+    "day": 4
+  },
+  "end_date": {
+    "year": 2004,
+    "month": 10,
+    "day": 2
+  },
+  "description": "The rules of alchemy state that to gain something, one must lose something of equal value. Alchemy is the process of taking apart and reconstructing an object into a different entity, with the rules of alchemy to govern this procedure. However, there exists an object that can bring any alchemist above these rules, the object known as the Philosopher's Stone. The young Edward Elric is a particularly talented alchemist who through an accident years back lost his younger brother Alphonse and one of his legs. Sacrificing one of his arms as well, he used alchemy to bind his brother's soul to a suit of armor. This lead to the beginning of their journey to restore their bodies, in search for the legendary Philosopher's Stone.\n<br><br>\n<i>Note: Episodes 11, 12 and 37 were adapted from the light novel \"Fullmetal Alchemist: The Land of Sand.\"</i>",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Fantasy"
+  ],
+  "tags": [
+    "Alchemy",
+    "Magic",
+    "Philosophy",
+    "Male Protagonist",
+    "Military",
+    "Shounen",
+    "Coming of Age",
+    "Travel",
+    "Disability",
+    "Steampunk",
+    "Body Horror",
+    "Slapstick"
+  ],
+  "studios": [
+    "bones"
+  ],
+  "producers": [
+    "Aniplex",
+    "Square Enix",
+    "Mainichi Broadcasting System"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 79,
+  "popularity": 250282,
+  "trending": 3,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121-zjmixZ428Mwv.png",
+    "poster_color": "#e4bb43",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/121-t5K7c8WRuPWl.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/hdTArWU0WEuaqXULBE4GzbhyqhI.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/p1z1B4bMf6tgUA4VLpI4smLxbCf.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx121-zjmixZ428Mwv.png"
+  },
+  "streaming": [
+    {
+      "site": "Netflix",
+      "url": "https://www.netflix.com/title/70204980"
+    },
+    {
+      "site": "iQ",
+      "url": "https://www.iq.com/album/2ai50biagbt"
+    },
+    {
+      "site": "Bilibili TV",
+      "url": "https://www.bilibili.tv/media/36444"
+    },
+    {
+      "site": "WeTV",
+      "url": "https://wetv.vip/play/r6yht13srzu48mc"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T03:26:43.657Z",
+  "cache_version": 1
+}
