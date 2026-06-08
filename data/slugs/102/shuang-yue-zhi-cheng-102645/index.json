@@ -1,0 +1,76 @@
+{
+  "ids": {
+    "anilist": 102645,
+    "mal": 33757,
+    "anidb": 13800,
+    "tmdb": 118980,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Shuang Yue Zhi Cheng",
+    "english": null,
+    "native": "双月之城",
+    "synonyms": [
+      "Twin Moons"
+    ],
+    "tmdb_title": "Twin Moons"
+  },
+  "format": "ONA",
+  "status": "FINISHED",
+  "episodes": 13,
+  "duration": 15,
+  "start_date": {
+    "year": 2016,
+    "month": 3,
+    "day": 30
+  },
+  "end_date": {
+    "year": 2016,
+    "month": 9,
+    "day": 8
+  },
+  "description": "In the year 2200, a new Cold War between two forces is set to end with a peace treaty. However, one side is hiding a dark secret, which results in numerous tragedies in the following months. In the wake of a crisis, a paramilitary team is founded to steal information at the center of the conflict.\n",
+  "genres": [
+    "Sci-Fi"
+  ],
+  "tags": [],
+  "studios": [
+    "Shanghai Longcang Cultural Creative Company"
+  ],
+  "producers": [],
+  "source": "ORIGINAL",
+  "country": "CN",
+  "score_mal": 5.95,
+  "popularity": 203,
+  "trending": 0,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102645-BsSVqKyOLXhp.png",
+    "poster_color": "#f1d6bb",
+    "banner": "https://image.tmdb.org/t/p/original/dyIbFYvlyvIHyvpna9NAtVpgsGH.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/j5oawTvAKmQ5OGfcOx153Mj1Hvv.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/dyIbFYvlyvIHyvpna9NAtVpgsGH.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx102645-BsSVqKyOLXhp.png"
+  },
+  "streaming": [
+    {
+      "site": "Bilibili",
+      "url": "https://www.bilibili.com/bangumi/media/md3588/"
+    },
+    {
+      "site": "Youku",
+      "url": "https://v.youku.com/v_show/id_XMTUxNjg2NTE1Mg"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 135,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match"
+  ],
+  "cached_at": "2026-05-05T08:20:18.494Z",
+  "cache_version": 1
+}
