@@ -1,0 +1,100 @@
+{
+  "ids": {
+    "anilist": 135,
+    "mal": 135,
+    "anidb": 84,
+    "tmdb": 30982,
+    "tmdb_type": "tv",
+    "tmdb_season": null
+  },
+  "titles": {
+    "romaji": "Hikaru no Go",
+    "english": "Hikaru no Go",
+    "native": "ヒカルの碁",
+    "synonyms": [
+      "히카루의 바둑",
+      "Хікару і Ґо",
+      "Хикару и го",
+      "Hikaru's Go",
+      "Хикару және го",
+      "Hikaru və go",
+      "היקארו נו גו"
+    ],
+    "tmdb_title": "Hikaru no Go"
+  },
+  "format": "TV",
+  "status": "FINISHED",
+  "season": "FALL",
+  "season_year": 2001,
+  "episodes": 75,
+  "duration": 23,
+  "start_date": {
+    "year": 2001,
+    "month": 10,
+    "day": 10
+  },
+  "end_date": {
+    "year": 2003,
+    "month": 3,
+    "day": 26
+  },
+  "description": "With a two-tone hairstyle and a streak of immaturity, Hikaru Shindou finds an old Go board with a hidden surprise - trapped within the Go Board is Fujiwara-no-Sai, the ghost of an ancient Go master! In the blink of an eye, Sai becomes part of Hikaru's consciousness and soon begins to learn the true essence behind this ancient game of skill and strategy.<br>\n<br>\n(Source: VIZ Media)",
+  "genres": [
+    "Comedy",
+    "Sports",
+    "Supernatural"
+  ],
+  "tags": [
+    "Go",
+    "Coming of Age",
+    "Primarily Male Cast",
+    "Shounen",
+    "Ghost",
+    "Board Game",
+    "Male Protagonist"
+  ],
+  "studios": [
+    "Studio Pierrot",
+    "Dream Force"
+  ],
+  "producers": [
+    "TV Tokyo",
+    "Dentsu",
+    "Viz Media"
+  ],
+  "source": "MANGA",
+  "country": "JP",
+  "score_anilist": 78,
+  "popularity": 26771,
+  "trending": 3,
+  "images": {
+    "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx135-egPcTb3lAnbu.jpg",
+    "poster_color": "#d6e45d",
+    "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/135-MabC9U5gTP8S.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/1NyB2oUDtXSv3AmxP705RuAv2ta.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/bu0qFo9cD6AQ69KtTZoCypPKTny.jpg",
+    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx135-egPcTb3lAnbu.jpg"
+  },
+  "streaming": [
+    {
+      "site": "Hulu",
+      "url": "http://www.hulu.com/hikaru-no-go"
+    },
+    {
+      "site": "Crunchyroll",
+      "url": "https://www.crunchyroll.com/hikaru-no-go"
+    }
+  ],
+  "themes": [],
+  "confidence": "HIGH",
+  "match_score": 160,
+  "match_signals": [
+    "exact_title",
+    "year_match",
+    "episode_exact",
+    "format_match",
+    "studio_match"
+  ],
+  "cached_at": "2026-05-03T06:30:58.857Z",
+  "cache_version": 1
+}
