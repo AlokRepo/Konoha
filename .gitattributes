@@ -1,0 +1,15 @@
+# Force LF line endings for all text/data files
+* text=auto eol=lf
+
+# JSON data files — always LF, never convert
+*.json text eol=lf
+
+# TypeScript/JavaScript source
+*.ts text eol=lf
+*.js text eol=lf
+*.mjs text eol=lf
+
+# Markdown / YAML
+*.md text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf

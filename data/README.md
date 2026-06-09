@@ -18,6 +18,10 @@ All data is served via the **jsDelivr CDN** for maximum performance:
 - **Pipeline Status**: `https://cdn.jsdelivr.net/gh/AlokRepo/Konoha@main/data/sync-status.json`
 - **Anime Details**: `https://cdn.jsdelivr.net/gh/AlokRepo/Konoha@main/data/anime/{shard}/{anilist_id}/index.json` (where `shard` is `Math.floor(anilist_id / 1000)`)
 - **Episode Lists**: `https://cdn.jsdelivr.net/gh/AlokRepo/Konoha@main/data/anime/{shard}/{anilist_id}/episodes.json` (where `shard` is `Math.floor(anilist_id / 1000)`)
+- **URL Slug Index**: `https://cdn.jsdelivr.net/gh/AlokRepo/Konoha@main/data/slugs/{shard}/{slug}/index.json` (where `shard` is `Math.floor(anilist_id / 1000)`)
+- **AniList Mapping**: `https://cdn.jsdelivr.net/gh/AlokRepo/Konoha@main/data/mappings/anilist/{shard}/{anilist_id}.json` (where `shard` is `Math.floor(anilist_id / 1000)`)
+- **MAL Mapping**: `https://cdn.jsdelivr.net/gh/AlokRepo/Konoha@main/data/mappings/mal/{shard}/{mal_id}.json` (where `shard` is `Math.floor(mal_id / 1000)`)
+- **TMDB Mapping**: `https://cdn.jsdelivr.net/gh/AlokRepo/Konoha@main/data/mappings/tmdb/{type}/{shard}/{tmdb_id}.json` (where `shard` is `Math.floor(tmdb_id / 1000)`, type is "tv" or "movie")
 
 ## How to Retrieve and Navigate the Data
 
