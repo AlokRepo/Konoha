@@ -3,8 +3,8 @@
     "anilist": 151384,
     "mal": 52198,
     "anidb": 17477,
-    "tmdb": 321667,
-    "tmdb_type": "tv",
+    "tmdb": 997317,
+    "tmdb_type": "movie",
     "tmdb_season": null
   },
   "titles": {
@@ -16,7 +16,7 @@
       "Kaguya-sama: Cuộc chiến tỏ tình - Nụ hôn đầu không hồi kết",
       "Госпожа Кагуя: в любви как на войне. Бесконечный первый поцелуй"
     ],
-    "tmdb_title": "かぐや様は告らせたい-ファーストキッスは終わらない-"
+    "tmdb_title": "Kaguya-sama: Love Is War -The First Kiss That Never Ends-"
   },
   "format": "TV",
   "status": "FINISHED",
@@ -65,14 +65,14 @@
   "source": "MANGA",
   "country": "JP",
   "score_anilist": 87,
-  "popularity": 138577,
-  "trending": 5,
+  "popularity": 142637,
+  "trending": 3,
   "images": {
     "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151384-gv0q8wOE6D58.jpg",
     "poster_color": "#e45d78",
     "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/151384-JybfIpHr2gx6.jpg",
-    "poster_tmdb": "https://image.tmdb.org/t/p/w780/5Css3ROuqpBwTm1I7LThIfUa8OY.jpg",
-    "banner_tmdb": "https://image.tmdb.org/t/p/original/jjDJAA7y0xEXsZ2ORJ6QAyIcUzB.jpg",
+    "poster_tmdb": "https://image.tmdb.org/t/p/w780/ffwTXgXeUCXfWF8xTmbk6yTLrLd.jpg",
+    "banner_tmdb": "https://image.tmdb.org/t/p/original/bCzkRouaqLUSpSP5KHuObo8Fam5.jpg",
     "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151384-gv0q8wOE6D58.jpg"
   },
   "streaming": [
@@ -87,12 +87,12 @@
   ],
   "themes": [],
   "confidence": "MEDIUM",
-  "match_score": 105,
+  "match_score": 90,
   "match_signals": [
     "exact_title",
     "year_match",
-    "format_match"
+    "studio_match"
   ],
-  "cached_at": "2026-05-28T14:34:20.674Z",
+  "cached_at": "2026-07-07T13:48:04.932Z",
   "cache_version": 1
 }
